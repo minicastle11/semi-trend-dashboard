@@ -40,7 +40,7 @@ else:
     with open(file_to_read, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # 🌟 3. 선택된 데이터로 메인 화면 그리기 (기존 다국어 UI 코드 재활용)
+    # 🌟 3. 선택된 데이터로 메인 화면 그리기
     st.sidebar.divider()
     lang = st.sidebar.radio("🌐 Language / 언어", ["한국어", "English"])
     
@@ -89,8 +89,3 @@ else:
                 st.write(f"- [{src['title']}]({src['link']})")
             for src in data.get('paper_sources', []):
                 st.write(f"- [{src['title']}]({src['link']})")
-
-# 🚨 주의: 아래 except 구문은 들여쓰기가 없습니다! (맨 왼쪽에 딱 붙여야 함)
-except FileNotFoundError:
-    st.title("데이터 대기 중 ⏳")
-    st.info("아직 수집된 데이터가 없습니다. 봇(GitHub Actions)이 실행되기를 기다려주세요.")
