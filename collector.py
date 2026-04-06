@@ -26,8 +26,22 @@ def collect_data():
     
     genai.configure(api_key=GEMINI_API_KEY)
     model = genai.GenerativeModel('gemini-2.5-flash')
-    prompt = f"다음 반도체 뉴스 5개를 바탕으로 시장 감정(긍정/부정/중립)과 3줄 요약을 마크다운으로 작성해 줘:\n{combined_news}"
-    
+    prompt = f"""
+당신은 세계 최고의 반도체 시장 분석가입니다. 다음 뉴스들을 정밀 분석해 주세요:
+{combined_news}
+
+[명령어]
+1. 위 뉴스들의 논조를 5번 반복 검토하여 '긍정/부정/중립'의 비율(%)을 산출하세요.
+2. 현재 반도체 가격(PPI)이 변동하는 근본적인 이유를 다음 3가지 관점에서 설명하세요:
+   - 수요 측면 (AI 서버, 모바일, PC 등)
+   - 공급 측면 (제조사 가동률, 재고, 기술 공정 등)
+   - 대외 변수 (금리, 지정학적 리스크 등)
+
+[출력 포맷]
+- 종합 시장 감정 점수: (긍정 OO%, 부정 OO%, 중립 OO%)
+- 핵심 요약: (1줄)
+- 상세 변동 요인 분석: (위 3가지 관점 포함)
+"""
     ai_response = model.generate_content(prompt).text
     
     # 3. 수집한 모든 데이터를 하나의 딕셔너리로 묶기

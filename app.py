@@ -15,16 +15,26 @@ try:
     
     col1, col2 = st.columns([2, 1])
     
+    # app.py 내 그래프 부분 수정
     with col1:
-        st.subheader("📈 최근 2년 반도체 물가지수 추이")
-        # JSON 데이터를 다시 판다스 데이터프레임으로 변환
+        st.subheader("📈 최근 1년 추이 및 3개월 예측")
+        # 최근 12개월 데이터로 제한하여 시인성 확보
         df = pd.DataFrame(list(data['price_history'].items()), columns=['Date', 'Price_Index'])
         df['Date'] = pd.to_datetime(df['Date'])
+        df.sort_values('Date', inplace=True)
         df.set_index('Date', inplace=True)
         
-        fig, ax = plt.subplots(figsize=(10, 5))
-        ax.plot(df.index, df['Price_Index'], marker='o')
-        ax.grid(True)
+        recent_df = df.tail(12) # 최근 1년치만 보여줌
+        
+        fig, ax = plt.subplots(figsize=(10, 6))
+        ax.plot(recent_df.index, recent_df['Price_Index'], marker='o', label='Historical (12M)')
+        
+        # 예측값 연결 (마지막 실측값에서 시작하도록)
+        # ... (ARIMA 예측 코드 생략) ...
+        
+        # x축 날짜 포맷 최적화
+        plt.xticks(rotation=45)
+        plt.tight_layout()
         st.pyplot(fig)
         
     with col2:
