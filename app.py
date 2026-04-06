@@ -89,6 +89,8 @@ else:
                 st.write(f"- [{src['title']}]({src['link']})")
             for src in data.get('paper_sources', []):
                 st.write(f"- [{src['title']}]({src['link']})")
-                
+
+# 🚨 주의: 아래 except 구문은 들여쓰기가 없습니다! (맨 왼쪽에 딱 붙여야 함)
 except FileNotFoundError:
-    st.warning("No data found. Please run the backend script first. / 수집된 데이터가 없습니다.")
+    st.title("데이터 대기 중 ⏳")
+    st.info("아직 수집된 데이터가 없습니다. 봇(GitHub Actions)이 실행되기를 기다려주세요.")
