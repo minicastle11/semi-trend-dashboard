@@ -1,79 +1,92 @@
 import streamlit as st
+import os
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="AI Semiconductor Dashboard", layout="wide")
+st.set_page_config(page_title="AI Data Archive Platform", layout="wide")
 
-try:
-    with open("result.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-        
-    # 🌟 사이드바: 언어 선택 메뉴 추가
-    st.sidebar.title("🌐 Language / 언어")
-    lang = st.sidebar.radio("Select your language:", ["English", "한국어"])
+# 🌟 1. 카테고리 확장 구조 (향후 배터리, 바이오 등 추가 가능)
+categories = {
+    "💾 반도체 (Semiconductor)": "semiconductor",
+    # "🔋 2차전지 (Battery)": "battery", # 나중에 추가할 때 주석만 해제하면 됩니다.
+}
+
+st.sidebar.title("📂 카테고리 선택")
+selected_cat_name = st.sidebar.radio("데이터 주제를 선택하세요:", list(categories.keys()))
+selected_folder = f"data/{categories[selected_cat_name]}"
+
+# 🌟 2. 해당 카테고리의 폴더에서 날짜별 리포트 목록 불러오기
+if os.path.exists(selected_folder):
+    files = [f for f in os.listdir(selected_folder) if f.endswith('.json')]
+    files.sort(reverse=True) # 최신 날짜가 맨 위에 오도록 내림차순 정렬
+else:
+    files = []
+
+if not files:
+    st.title("데이터 대기 중 ⏳")
+    st.info("아직 이 카테고리에 수집된 데이터가 없습니다. 봇이 실행되기를 기다려주세요.")
+else:
+    # 사이드바에 날짜 선택 메뉴 생성
+    st.sidebar.divider()
+    st.sidebar.title("📅 리포트 날짜 선택")
     
-    # 🌟 언어별 UI 텍스트 딕셔너리 설정
+    # 파일명(report_2026-04-06.json)에서 깔끔하게 날짜만 추출해서 딕셔너리로 만듦
+    date_options = {f.replace("report_", "").replace(".json", ""): f for f in files}
+    selected_date = st.sidebar.selectbox("열람할 날짜를 클릭하세요:", list(date_options.keys()))
+    
+    # 선택된 날짜의 JSON 파일 읽기
+    file_to_read = os.path.join(selected_folder, date_options[selected_date])
+    with open(file_to_read, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    # 🌟 3. 선택된 데이터로 메인 화면 그리기 (기존 다국어 UI 코드 재활용)
+    st.sidebar.divider()
+    lang = st.sidebar.radio("🌐 Language / 언어", ["한국어", "English"])
+    
     ui = {
-        "English": {
-            "title": "📊 AI-Driven Global Semiconductor Supply Chain Dashboard",
-            "update": f"🔄 Last Updated: {data['last_updated']}",
-            "chart_title": "📈 US Semiconductor PPI (Last 12 Months)",
-            "ai_title": "🧠 AI Ensemble Analysis Report",
-            "ai_report": data.get('ai_report_en', 'Data not available.'),
-            "source_title": "🔗 Data Sources (News & Papers)",
-            "news_subtitle": "**📰 Top News**",
-            "paper_subtitle": "**🔬 Latest arXiv Papers**"
-        },
         "한국어": {
-            "title": "📊 AI 기반 글로벌 반도체 공급망 대시보드",
-            "update": f"🔄 마지막 업데이트: {data['last_updated']}",
-            "chart_title": "📈 최근 1년 반도체 물가지수(PPI) 추이",
-            "ai_title": "🧠 앙상블 AI 심층 분석 리포트",
-            "ai_report": data.get('ai_report_ko', '데이터가 없습니다.'),
-            "source_title": "🔗 데이터 출처 확인 (원문 링크)",
-            "news_subtitle": "**📰 주요 뉴스 출처**",
-            "paper_subtitle": "**🔬 최신 학술 논문(arXiv)**"
+            "title": f"📊 {selected_cat_name} 분석 리포트",
+            "update": f"리포트 발행일: {selected_date} (데이터 수집: {data['last_updated']})",
+            "ai_report": data.get('ai_report_ko', '데이터 오류')
+        },
+        "English": {
+            "title": f"📊 {selected_cat_name} Analysis Report",
+            "update": f"Report Date: {selected_date} (Collected: {data['last_updated']})",
+            "ai_report": data.get('ai_report_en', 'Data Error')
         }
     }
     
-    # 선택된 언어의 텍스트 불러오기
     t = ui[lang]
 
-    # 화면 렌더링 시작
+    # --- 메인 화면 렌더링 ---
     st.title(t["title"])
     st.caption(t["update"])
     
     col1, col2 = st.columns([2, 1.5])
     
     with col1:
-        st.subheader(t["chart_title"])
+        st.subheader("📈 가격 지수 추이 (Price Index)")
         df = pd.DataFrame(list(data['price_history'].items()), columns=['Date', 'Price_Index'])
         df['Date'] = pd.to_datetime(df['Date'])
         df.sort_values('Date', inplace=True)
         df.set_index('Date', inplace=True)
         
         recent_df = df.tail(12)
-        
         fig, ax = plt.subplots(figsize=(10, 5))
-        ax.plot(recent_df.index, recent_df['Price_Index'], marker='o', color='royalblue', linewidth=2)
+        ax.plot(recent_df.index, recent_df['Price_Index'], marker='o', color='royalblue')
         ax.grid(True, linestyle='--', alpha=0.7)
         plt.xticks(rotation=45)
         plt.tight_layout()
         st.pyplot(fig)
         
     with col2:
-        st.subheader(t["ai_title"])
-        st.markdown(t["ai_report"]) # 선택한 언어의 AI 리포트 출력
+        st.subheader("🧠 AI Insight")
+        st.markdown(t["ai_report"])
         
-        st.divider()
-        
-        with st.expander(t["source_title"]):
-            st.markdown(t["news_subtitle"])
+        with st.expander("🔗 Reference (데이터 출처)"):
             for src in data.get('news_sources', []):
                 st.write(f"- [{src['title']}]({src['link']})")
-                
-            st.markdown(t["paper_subtitle"])
             for src in data.get('paper_sources', []):
                 st.write(f"- [{src['title']}]({src['link']})")
                 

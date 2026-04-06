@@ -94,14 +94,24 @@ def collect_data():
         "price_history": price_history,
         "news_sources": news_sources,
         "paper_sources": paper_sources,
-        "ai_report_ko": ai_reports.get("ko", ""), # 한국어 리포트 분리 저장
-        "ai_report_en": ai_reports.get("en", "")  # 영어 리포트 분리 저장
+        "ai_report_ko": ai_reports.get("ko", ""), 
+        "ai_report_en": ai_reports.get("en", "")  
     }
 
-    with open("result.json", "w", encoding="utf-8") as f:
+    # 🌟 변경점: 데이터를 폴더별/날짜별로 누적 저장합니다.
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    folder_path = "data/semiconductor" # 향후 'data/battery' 등으로 확장 가능
+    
+    # 폴더가 없으면 자동으로 생성
+    os.makedirs(folder_path, exist_ok=True)
+    
+    # 파일명 예시: data/semiconductor/report_2026-04-06.json
+    file_path = f"{folder_path}/report_{today_str}.json"
+
+    with open(file_path, "w", encoding="utf-8") as f:
         json.dump(result_data, f, ensure_ascii=False, indent=4)
         
-    print("✅ 모든 작업 완료! (result.json 생성됨)")
+    print(f"✅ 모든 작업 완료! ({file_path} 생성됨)")
 
 if __name__ == "__main__":
     collect_data()

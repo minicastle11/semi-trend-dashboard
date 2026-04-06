@@ -38,7 +38,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add result.json
-          git commit -m "Auto-update data: result.json" || echo "No changes to commit"
-          git pull --rebase origin main
+          git add data/  # <--- result.json 대신 data/ 폴더 전체를 추적하도록 변경
+          git commit -m "Auto-update data: add new daily report" || echo "No changes to commit"
+          git pull --rebase -X theirs origin main
           git push
