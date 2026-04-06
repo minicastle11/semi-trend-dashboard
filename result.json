@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-06 02:00:35.387930",
+    "last_updated": "2026-04-06 02:31:52.700189",
     "price_history": {
         "2024-03-01": 31.629,
         "2024-04-01": 31.803,
@@ -26,6 +26,41 @@
         "2026-01-01": 29.56,
         "2026-02-01": 30.228
     },
-    "ai_report": "**시장 감정:** 긍정 (Positive)\n\n**3줄 요약:**\n*   글로벌 반도체 매출이 2월에 크게 증가했으며, 특정 반도체 주식에 대한 투자 의견 상향 조정은 시장의 강세를 나타냅니다.\n*   TSMC는 대만 의존도를 줄이기 위해 미국 애리조나에 12개의 팹을 계획하며 공격적인 확장 전략을 펼치고 있습니다.\n*   이러한 움직임은 공급망 다변화와 함께 반도체 산업의 지속적인 성장과 미래에 대한 긍정적인 기대를 불러일으킵니다.",
-    "raw_news": "1. Global Semiconductor Sales Increase Substantially in February - Semiconductor Industry Association | SIA\n2. Chip Industry Week In Review - Semiconductor Engineering\n3. I'm Upgrading This Unstoppable Semiconductor Stock to a Buy - The Motley Fool\n4. TSMC’s US Expansion Plans Grow More Aggressive With Twelve Planned Arizona Fabs, as Sole Reliance on Taiwan Appears to Be a ‘Dead End’ - Wccftech\n5. How Taiwan came to dominate the global chip industry - theconversation.com"
+    "news_sources": [
+        {
+            "title": "Global Semiconductor Sales Increase Substantially in February - semiconductors.org",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1id1NUaTl0dnZ1RnBoTHE3alpKbGVpdFdQa09lMW5PR1pqcnhSSEhId1hYZV8zNkYyLWZzVXdmQ1lXOWptQk8yVy1oUjhYOEVh?oc=5"
+        },
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GX3c0dFZrYzZjazZ3dmZIb2MxSEhWXzRBN3F4LWN6cVhQTlVDcDFVdzNYdmliSF9oNmdFM3JBTHh2TFVERVRIZElGbmJPazU3NDd0dE5xMjRQU1labU9KM1VEc09DXzBwMnhkT2xB?oc=5"
+        },
+        {
+            "title": "I'm Upgrading This Unstoppable Semiconductor Stock to a Buy - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSTJTbWdKUkYtdEhVY2JYOGZjLURQYXc0RUh6U29fcVBNM3duVlA3bFgyaXFkNG8talRCeV9UQnJxUG0yMmppc1FockJnNFhpVVlKYy03OTBmVkliQkhjcTNnQURQTWF1T1R3TTBlM2dVYVpycnU1M2dqMm1ob0w3aUhoem05YnozZl9TcFQ3QmMzVUwtckVJ?oc=5"
+        },
+        {
+            "title": "TSMC’s US Expansion Plans Grow More Aggressive With Twelve Planned Arizona Fabs, as Sole Reliance on Taiwan Appears to Be a ‘Dead End’ - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmNjUHJSbllka0ZhQ1h3Vk5HNzhFMmhDTzRnVVFZc1RwWl85YkJRbVJMcmw1WVZSeHhsUXhoa1VYZDVLZWZJS2p0Um1XdlV3dEtVSDN0a3QxUkRwVXprT0ZBbl8xaXJuMkhvUko2QUQ5NVNWTjZnS0Q0d0tINk95bDhycWFGRl9yZlV6VDZiNC1nb1pWRDN5U3lsYXliN1RT0gGmAUFVX3lxTE9yY2E1S2ZQSzhRV1UwYktjdDZwR3owSC1ENlptU1hfVGhUZU9kdU5kYllERmx0VXJOSkJWRlR0SWx4Ym1SeEFPek5SLWltOWxSNzM3RHVRanoweXNKMEFLbmp2ZlF1MGhhNV95NmRfQm9mSkxUWnB2WDlrdjh0aGhoRzdoeGJ4Y3JuV3k2cnRnSGh0aWZNNXptQTRVa1hZUVUyNXdpYUE?oc=5"
+        },
+        {
+            "title": "How Taiwan came to dominate the global chip industry - The Conversation",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDlFOUJoeUFTTEVQMzBTS2EwbHY0NVNVQTVlMUJGTmJvbDFBT2VnNEluRkFjeDZ2RTZQSWdnRmtXeUNGbVRzbk9qbGYteUxoV0tLWmRTcTgxak4tbHNuek5odVF2bTNfelc5RWJfOEg3R3lleFF6SHhTRVZIQWRCUnBkVUdsWW9lYWNQWDhSUFQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Band Renormalization in Monolayer MoS2 Induced by Multipole Screening",
+            "link": "http://arxiv.org/abs/2604.02857v1"
+        },
+        {
+            "title": "Photonic convolutional neural network with pre-trained in-situ training",
+            "link": "http://arxiv.org/abs/2604.02429v1"
+        },
+        {
+            "title": "Compact system development of efficient quantum-entangled photon sources towards deployable and industrial devices",
+            "link": "http://arxiv.org/abs/2604.02024v1"
+        }
+    ],
+    "ai_report": "저는 세계 최고의 반도체 시장 분석가로서, 제공된 최신 뉴스 5건과 학술 논문 3건을 정밀 분석하여 현재 시장의 핵심 동향과 미래 전망을 제시합니다.\n\n---\n\n### 1. **시장 감정 종합 (앙상블)**\n\n수집된 정보의 논조를 5번 반복 시뮬레이션한 결과, 전반적인 시장 심리는 강력한 긍정 기조를 보였습니다. 판매 증가, 주식 상향 조정, 대규모 투자 계획은 시장의 활력을 반영하는 반면, 지정학적 위험에 대한 전략적 대응은 미래 성장을 위한 필수적인 조치로 해석됩니다.\n\n🟢 긍정 80%, 🟡 중립 20%, 🔴 부정 0%\n\n---\n\n### 2. **핵심 트렌드 요약**\n\n현재 반도체 산업은 지정학적 위험 분산을 위한 제조 기지 다변화 노력과 함께 강력한 시장 성장 및 투자 유입을 경험하고 있습니다. 동시에, 차세대 컴퓨팅 시대를 대비하여 첨단 소재 개발(MoS2), 광학 기반 AI 가속기(포토닉 CNN), 그리고 양자 기술의 상용화(양자 얽힘 광원) 등 미래 기술 혁신에 대한 연구 및 개발이 가속화되고 있습니다.\n\n---\n\n### 3. **가격 변동 메커니즘 분석**\n\n현재 반도체 지수(PPI)가 변동하는 이유는 다음 3가지 관점에서 설명될 수 있습니다.\n\n*   **수요 측면 (AI, 모바일, PC 등 주요 수요처 동향)**\n    전반적인 글로벌 반도체 판매량의 실질적인 증가는 AI, 고성능 컴퓨팅(HPC) 분야의 폭발적인 성장이 핵심 동력임을 시사합니다. 특히 AI 관련 하드웨어에 대한 수요는 ‘멈출 수 없는 반도체 주식’으로의 투자 상향과 포토닉 CNN 기술 개발에서 명확히 드러나며, 이는 고가치, 고성능 칩에 대한 수요를 견인하여 PPI 상승 압력을 가합니다. 모바일 및 PC 시장은 안정화 단계에 접어들며 전반적인 시장 회복에 기여하고 있습니다.\n\n*   **공급/기술 측면 (제조사 가동률, 재고, 신소재/공정 발전 등)**\n    TSMC의 미국 애리조나 12개 팹 확장 계획은 장기적인 수요에 대한 확신과 공급망 다변화의 필요성에서 비롯된 것입니다. 이러한 대규모 투자는 미래 공급량 증가를 의미하지만, 초기 건설 및 운영 비용 상승 요인이 존재합니다. 또한, MoS2와 같은 신소재 연구, 광학 컴퓨팅 및 양자 기술 개발은 차세대 반도체의 성능 향상과 새로운 시장 창출을 목표로 하며, 이는 연구 개발 비용과 첨단 공정 도입 비용 증가로 이어져 PPI에 상방 압력을 가할 수 있습니다. 현재의 판매 증가는 공장 가동률 상승 및 재고 건전화와 맞물려 생산자 가격 지지를 돕습니다.\n\n*   **매크로/대외 변수 (금리, 지정학적 리스크 등)**\n    \"대만에 대한 전적인 의존이 막다른 길로 보인다\"는 TSMC의 발언과 \"대만이 어떻게 글로벌 칩 산업을 지배하게 되었는지\"에 대한 논의는 반도체 공급망의 지정학적 리스크를 명확히 부각합니다. 중국-대만 관계의 불확실성은 주요 제조사들이 공급망 재편 및 다변화(예: 미국 내 팹 건설)에 막대한 투자를 하도록 강제하며, 이는 생산 단가 상승(현지 인건비, 인프라 비용 등)을 초래하여 PPI 상승 요인으로 작용합니다. 금리 인상 사이클의 종료 기대감은 전반적인 투자심리를 개선하고 있으나, 높은 자본 집약적 산업 특성상 대규모 투자에 대한 자금 조달 비용은 여전히 중요한 요소로 작용할 수 있습니다."
 }
