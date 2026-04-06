@@ -51,41 +51,51 @@ def collect_data():
         
     combined_papers = "\n".join([f"- {src['title']}" for src in paper_sources])
 
-    print("4. Gemini AI 앙상블 분석 시작...")
+    print("4. Gemini AI 다국어(Ko/En) 앙상블 분석 시작...")
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-2.5-flash')
     
+    # JSON 형태로 답변을 받기 위해 모델 설정 (안정성 강화)
+    model = genai.GenerativeModel('gemini-2.5-flash', generation_config={"response_mime_type": "application/json"})
     # 앙상블 분석 및 심층 원인 파악을 위한 고도화된 프롬프트
     prompt = f"""
-    당신은 세계 최고의 반도체 시장 분석가입니다. 다음 수집된 뉴스 5건과 최신 논문 3건을 정밀 분석해 주세요.
-    
-    [최신 뉴스 헤드라인]
-    {combined_news}
-    
-    [최신 학술 논문 동향]
-    {combined_papers}
+        당신은 세계 최고의 반도체 시장 분석가입니다. 다음 뉴스와 논문을 분석하세요.
+        
+        [뉴스]: {combined_news}
+        [논문]: {combined_papers}
 
-    [명령어 - 반드시 아래 양식에 맞춰 마크다운으로 작성할 것]
-    1. **시장 감정 종합 (앙상블)**: 위 정보들의 논조를 5번 반복 시뮬레이션하여 '긍정/부정/중립'의 확률(%)을 도출하세요. (예: 🟢 긍정 60%, 🔴 부정 20%, 🟡 중립 20%)
-    2. **핵심 트렌드 요약**: 뉴스 이슈와 논문 기술 동향을 결합하여 현재 가장 중요한 트렌드를 2~3줄로 요약하세요.
-    3. **가격 변동 메커니즘 분석**: 현재 반도체 지수(PPI)가 변동하는 이유를 다음 3가지 관점에서 설명하세요.
-       - 수요 측면 (AI, 모바일, PC 등 주요 수요처 동향)
-       - 공급/기술 측면 (제조사 가동률, 재고, 신소재/공정 발전 등)
-       - 매크로/대외 변수 (금리, 지정학적 리스크 등)
-    """
-    
+        [명령어]
+        반드시 아래의 JSON 스키마에 맞춰 답변을 생성하세요. 
+        'ko' 키에는 한국어 리포트를, 'en' 키에는 영어 리포트를 작성합니다.
+        
+        각 리포트는 반드시 다음 3가지 항목을 포함하는 마크다운 형식이어야 합니다:
+        1. 시장 감정 종합 (앙상블): 5번 반복 시뮬레이션한 긍정/부정/중립 확률(%) (예: 🟢 긍정 60%, 🔴 부정 20%, 🟡 중립 20%)
+        2. 핵심 트렌드 요약: 뉴스/논문을 결합한 2~3줄 요약
+        3. 가격 변동 메커니즘: 수요 측면, 공급/기술 측면, 매크로 변수 측면에서의 심층 분석
+
+        [⚠️ 매우 중요한 제약사항]
+        JSON의 value(값) 부분에 마크다운을 작성할 때, 실제 줄바꿈(Enter)을 사용하지 마세요.
+        반드시 줄바꿈 기호('\\n')와 탭 기호('\\t')를 사용하여 한 줄의 올바른 JSON 문자열 포맷으로 출력해야 합니다. 큰따옴표 안에는 큰따옴표를 직접 쓰지 말고 반드시 '\\"' 로 이스케이프 하세요.
+
+        {{
+            "ko": "### 🧠 AI 심층 분석 리포트\\n\\n#### 1. 시장 감정 종합\\n🟢 긍정 ...",
+            "en": "### 🧠 AI In-depth Analysis Report\\n\\n#### 1. Market Sentiment\\n🟢 Positive ..."
+        }}
+        """
     try:
-        ai_response = model.generate_content(prompt).text
+        ai_response_text = model.generate_content(prompt).text
+        ai_reports = json.loads(ai_response_text) # AI가 준 JSON 텍스트를 파이썬 딕셔너리로 변환
     except Exception as e:
-        ai_response = f"AI 분석 중 오류가 발생했습니다: {e}"
+        print(f"AI 분석 중 오류: {e}")
+        ai_reports = {"ko": "분석 오류", "en": "Analysis Error"}
 
     print("5. 결과물 결합 및 JSON 파일 저장 중...")
     result_data = {
         "last_updated": str(datetime.now()),
         "price_history": price_history,
-        "news_sources": news_sources,      # 출처 링크 포함
-        "paper_sources": paper_sources,    # 논문 링크 포함
-        "ai_report": ai_response
+        "news_sources": news_sources,
+        "paper_sources": paper_sources,
+        "ai_report_ko": ai_reports.get("ko", ""), # 한국어 리포트 분리 저장
+        "ai_report_en": ai_reports.get("en", "")  # 영어 리포트 분리 저장
     }
 
     with open("result.json", "w", encoding="utf-8") as f:
