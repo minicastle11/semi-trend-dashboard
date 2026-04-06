@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-06 02:57:55.468550",
+    "price_history": {
+        "2024-03-01": 31.629,
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.661,
+        "2026-01-01": 29.56,
+        "2026-02-01": 30.228
+    },
+    "news_sources": [
+        {
+            "title": "Global Semiconductor Sales Increase Substantially in February - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1id1NUaTl0dnZ1RnBoTHE3alpKbGVpdFdQa09lMW5PR1pqcnhSSEhId1hYZV8zNkYyLWZzVXdmQ1lXOWptQk8yVy1oUjhYOEVh?oc=5"
+        },
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GX3c0dFZrYzZjazZ3dmZIb2MxSEhWXzRBN3F4LWN6cVhQTlVDcDFVdzNYdmliSF9oNmdFM3JBTHh2TFVERVRIZElGbmJPazU3NDd0dE5xMjRQU1labU9KM1VEc09DXzBwMnhkT2xB?oc=5"
+        },
+        {
+            "title": "I'm Upgrading This Unstoppable Semiconductor Stock to a Buy - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSTJTbWdKUkYtdEhVY2JYOGZjLURQYXc0RUh6U29fcVBNM3duVlA3bFgyaXFkNG8talRCeV9UQnJxUG0yMmppc1FockJnNFhpVVlKYy03OTBmVkliQkhjcTNnQURQTWF1T1R3TTBlM2dVYVpycnU1M2dqMm1ob0w3aUhoem05YnozZl9TcFQ3QmMzVUwtckVJ?oc=5"
+        },
+        {
+            "title": "TSMC’s US Expansion Plans Grow More Aggressive With Twelve Planned Arizona Fabs, as Sole Reliance on Taiwan Appears to Be a ‘Dead End’ - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmNjUHJSbllka0ZhQ1h3Vk5HNzhFMmhDTzRnVVFZc1RwWl85YkJRbVJMcmw1WVZSeHhsUXhoa1VYZDVLZWZJS2p0Um1XdlV3dEtVSDN0a3QxUkRwVXprT0ZBbl8xaXJuMkhvUko2QUQ5NVNWTjZnS0Q0d0tINk95bDhycWFGRl9yZlV6VDZiNC1nb1pWRDN5U3lsYXliN1RT0gGmAUFVX3lxTE9yY2E1S2ZQSzhRV1UwYktjdDZwR3owSC1ENlptU1hfVGhUZU9kdU5kYllERmx0VXJOSkJWRlR0SWx4Ym1SeEFPek5SLWltOWxSNzM3RHVRanoweXNKMEFLbmp2ZlF1MGhhNV95NmRfQm9mSkxUWnB2WDlrdjh0aGhoRzdoeGJ4Y3JuV3k2cnRnSGh0aWZNNXptQTRVa1hZUVUyNXdpYUE?oc=5"
+        },
+        {
+            "title": "How Taiwan came to dominate the global chip industry - The Conversation",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDlFOUJoeUFTTEVQMzBTS2EwbHY0NVNVQTVlMUJGTmJvbDFBT2VnNEluRkFjeDZ2RTZQSWdnRmtXeUNGbVRzbk9qbGYteUxoV0tLWmRTcTgxak4tbHNuek5odVF2bTNfelc5RWJfOEg3R3lleFF6SHhTRVZIQWRCUnBkVUdsWW9lYWNQWDhSUFQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Band Renormalization in Monolayer MoS2 Induced by Multipole Screening",
+            "link": "http://arxiv.org/abs/2604.02857v1"
+        },
+        {
+            "title": "Photonic convolutional neural network with pre-trained in-situ training",
+            "link": "http://arxiv.org/abs/2604.02429v1"
+        },
+        {
+            "title": "Compact system development of efficient quantum-entangled photon sources towards deployable and industrial devices",
+            "link": "http://arxiv.org/abs/2604.02024v1"
+        }
+    ],
+    "ai_report_ko": "### 🧠 AI 심층 분석 리포트\n\n#### 1. 시장 감정 종합 (앙상블)\n🟢 긍정 70%, 🔴 부정 10%, 🟡 중립 20%\n\n#### 2. 핵심 트렌드 요약\n반도체 시장은 2월 판매 증가와 특정 주식 업그레이드에 힘입어 긍정적 모멘텀을 유지하고 있으며, TSMC의 미국 내 공격적인 팹 확장은 공급망 탄력성 강화 및 지정학적 리스크 분산을 목표로 합니다. 동시에 차세대 컴퓨팅(광자, 양자) 및 재료 과학(MoS2) 연구가 미래 성장 동력을 제시하고 있습니다.\n\n#### 3. 가격 변동 메커니즘\n- 수요 측면: 2월 글로벌 반도체 판매 증가는 최종 사용자 제품(스마트폰, PC, 데이터 센터, 자동차 등)에 대한 견고한 수요를 반영하며, 이는 단기적인 반도체 가격 상승 압력으로 작용합니다. AI 및 고성능 컴퓨팅(HPC)의 지속적인 성장은 광자/양자 컴퓨팅과 같은 혁신적인 솔루션에 대한 장기적인 수요를 견인하여, 고부가가치 칩의 가격 프리미엄을 유지할 것입니다.\n- 공급/기술 측면: TSMC의 미국 내 대규모 팹 확장은 중장기적으로 공급 안정성을 크게 높여 잠재적인 가격 급등 리스크를 완화할 수 있습니다. 그러나 초기 건설 비용 증가와 인력 확보 어려움은 단기적인 생산 비용 상승으로 이어져 일정 부분 가격 하방 경직성을 유발할 수 있습니다. MoS2 밴드 재규격화 및 광자/양자 컴퓨팅 기술 발전은 미래 칩의 성능을 혁신하고 생산 효율성을 높여 장기적인 가격 경쟁력을 제공할 잠재력이 있지만, 상용화까지는 상당한 시간과 투자가 필요합니다.\n- 매크로 변수 측면: 글로벌 인플레이션 압력과 금리 인상 기조는 반도체 제조사의 투자 비용을 증가시키고 최종 제품 가격에도 영향을 미칠 수 있습니다. 동시에 미국 정부의 공급망 자국화 및 동맹국과의 협력 강화 정책은 TSMC의 미국 투자 가속화와 같은 지정학적 고려 사항을 반영하며, 이는 특정 지역의 생산 비용 증가를 초래할 수 있으나 전체 공급망의 안정성 프리미엄을 부여할 수 있습니다.",
+    "ai_report_en": "### 🧠 AI In-depth Analysis Report\n\n#### 1. Market Sentiment (Ensemble)\n🟢 Positive 70%, 🔴 Negative 10%, 🟡 Neutral 20%\n\n#### 2. Key Trend Summary\nThe semiconductor market maintains positive momentum driven by February sales increases and stock upgrades, while TSMC's aggressive US fab expansion aims to strengthen supply chain resilience and de-risk geopolitical concentration. Concurrently, advanced research in next-generation computing (photonic, quantum) and material science (MoS2) points to future growth drivers.\n\n#### 3. Price Fluctuation Mechanism\n- Demand Side: The substantial increase in global semiconductor sales in February reflects robust end-user demand across various sectors (smartphones, PCs, data centers, automotive, etc.), creating upward pressure on chip prices in the short term. The sustained growth of AI and High-Performance Computing (HPC) will drive long-term demand for innovative solutions like photonic and quantum computing, maintaining price premiums for high-value chips.\n- Supply/Technology Side: TSMC's aggressive fab expansion in the US is poised to significantly enhance supply stability in the mid-to-long term, potentially mitigating risks of sharp price spikes. However, increased initial construction costs and challenges in securing skilled labor could lead to higher production costs in the short term, creating some price stickiness. Advances in MoS2 band renormalization and photonic/quantum computing technologies have the potential to revolutionize future chip performance and improve manufacturing efficiency, offering long-term price competitiveness, but require significant time and investment for commercialization.\n- Macro Variable Side: Global inflationary pressures and rising interest rates can increase investment costs for semiconductor manufacturers and impact end-product prices. Concurrently, government policies aimed at supply chain localization and strengthening alliances, exemplified by TSMC's accelerated US investment, reflect geopolitical considerations. While this may lead to increased production costs in specific regions, it also offers a premium for overall supply chain stability."
+}
