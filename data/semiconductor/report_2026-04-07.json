@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-07 23:42:14.628059",
+    "price_history": {
+        "2024-03-01": 31.629,
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.661,
+        "2026-01-01": 29.56,
+        "2026-02-01": 30.228
+    },
+    "news_sources": [
+        {
+            "title": "SEMI Reports Global Semiconductor Equipment Billings Reached $135 Billion in 2025, Up 15% Year-on-Year - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGp1QnIxTk56R2hodUQzdkNaTDNmai1kc19qOWtfTlI0X21CUlEyaTYzc2xZRXFoRlJLYjFFS21ZeFpBako3R05iX1FOUTlvVm1CMHJZNGFiaEJfZzNZMF9Tc1UtNEJTSy1CVWRjb0psdHdZQ3JFNjF0cjB5TVZLV1RoWFVCWkF6NmxROExhaHRaTVJHWWdN?oc=5"
+        },
+        {
+            "title": "Bureau Veritas Acquires Lotusworks, Reinforcing Its Position in Data Centers and Entering the Semiconductor Sector; This Establishes a New c.Eur 300 Million Growth Platform - Business Wire",
+            "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPSGpFQkxBcHV1ek5OOTZnZTNoZ2FwVDhUTFkyM2szbVVkLVZOR1pvU1V0Rlo1T3dLSVdwX2NYMlNBU0pZcmtlYVZaRWtqanprdWxWaFRpN0hLdy1NSnNaNEU0dU9NQXVNUzNiczBGYmppNC1lY3ZKVHV0TE91VnRGUGdZdGFLXzl5TTJfRlQxeUtYTVJ5dUY5Y3BmYjFhR0dGRFpBZE9hUVNYdWNwbWdZYnFDTFlsay13TkRUNXo2dkpfYzZjcnNpeFJVQnl4S2pwWkZxNHZRZ3p0blBPWDhDYXh1aENOSmE3WGV5bngtNUtSVnZnNnA5ZHVxZjdYZG1BcGU0dmg4S0JNaUdPTmlraUtkVGpOTlhGckV5SmM2cW45WWJqbTlxb0xWUHVmcTVNZmg3SDAyX2RxWm1kQXM3VElzR0MxVHNxUjNF?oc=5"
+        },
+        {
+            "title": "Best Semiconductor Stock to Buy: Micron Stock or ASML Stock? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUhxYnUzMWEzZ09aMnV4WWUxcFZNYUd3Ymo3aUdIam96c3F0cDZWZ2ZUaHZ2UG5maVExZW5uNG5MRnpWSmNOeEI0TG52Ty1rcXd0czJTQ2w4bHJFTUlPSkQ5dlZNeFBGYXU4Sk1WYnFhWlVkTERLOVdfZVJWVlJ3UXIweUpYYjR1U29ZelZXMUJXeFdjTXltOQ?oc=5"
+        },
+        {
+            "title": "TSMC Is Set to Talk About the Biggest Risk It Faces with Chip Production Right Now; One That Could Derail the AI Frenzy - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDJLb1B2QzI5d0NPNTZ4Y21pd0RtYlFjWk9tSTdqMFpjQWd1NlQ5MGJzTjhlQndIMnNBUnFTNkRJV3o2ZGx5M19qYWVIVXVrM3NGSXJrWnBwOWI5Qk9lMFFSMVBTTWRpT0ZsU2pJaEw5LUJXSWl5ZUtxdjJKSy1TUkJHcWRZY1dZN2syRV9Oa0hjdnozcDlCUHNn0gGfAUFVX3lxTE9pbTRFSW1wam5KUjA1UUIya2xHSzMtSndkUFpFNGFXT1FIaWJSTFlUcFFZckJvYUpuaWVUV2ZCLWo2aUVqVlB1Sm9rd0ZsU2c4QTdhQWlPLXVvdDAtY1A1T3F3dExUcEtDSWVLU1lDOXJKNkZ2a1pvQUp2eVMxOHgzMWhwNmZERGk1R3hITUhBVEZmS2otSHpreENTbDZkcw?oc=5"
+        },
+        {
+            "title": "Samsung Electronics Posts Record 57.2 Trillion Won Quarterly Profit - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2REUW5EbUEyNThyelBIMUpwSmJLLXF6amRVYkFnV3ZmQ3RScTRrNjJvdFpjbmFKT0diYUZ1UDBqWXdZOWE3bExNa0dUWlAwWE5MeElZemJaN0ZLZUNnNUxhYkt6cDZUNXJlOVR2NTY3S1E2V1lYWEh4eW1wcUhXc1VVVUhaR0hx?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Neuromorphic Computing for Low-Power Artificial Intelligence",
+            "link": "http://arxiv.org/abs/2604.04727v1"
+        },
+        {
+            "title": "Hardware-Level Governance of AI Compute: A Feasibility Taxonomy for Regulatory Compliance and Treaty Verification",
+            "link": "http://arxiv.org/abs/2604.04712v1"
+        },
+        {
+            "title": "Reduced Optical Gain Threshold by Carrier Multiplication in Semiconductor Perovskite Nanocrystals",
+            "link": "http://arxiv.org/abs/2604.04628v1"
+        }
+    ],
+    "ai_report_ko": "### 🧠 AI 심층 분석 리포트\n\n#### 1. 시장 감정 종합 (앙상블)\n🟢 긍정 55%, 🔴 부정 23%, 🟡 중립 22%\n\n#### 2. 핵심 트렌드 요약\n세계 반도체 시장은 장비 투자 확대, 주요 기업의 기록적 실적, 그리고 AI 기술 혁신(뉴로모픽 컴퓨팅, 신소재)에 힘입어 견조한 성장세를 보입니다. 그러나 TSMC가 경고한 생산 리스크와 AI 컴퓨팅 거버넌스 문제는 지속적인 모니터링이 필요하며 시장에 잠재적 불확실성을 더합니다.\n\n#### 3. 가격 변동 메커니즘\n*   **수요 측면:** AI 열풍은 고성능 AI 칩에 대한 전례 없는 수요를 촉발하며, 데이터센터 인프라 확장에 따른 반도체 관련 서비스 수요도 증가합니다. 뉴로모픽 컴퓨팅 연구는 저전력 AI 솔루션에 대한 장기적 수요 변화를 예고하며 특정 반도체 분야의 수요를 견인할 것입니다.\n*   **공급/기술 측면:** SEMI 보고서의 15%에 달하는 장비 투자 성장률은 글로벌 반도체 생산 능력 확대를 의미하며 장기적인 공급량 증대를 시사합니다. 하지만 TSMC가 직면한 \"가장 큰 리스크\"는 AI 칩 생산 병목 현상을 유발, 단기적으로 공급 부족과 가격 상승 압력을 초래할 수 있습니다. 뉴로모픽 컴퓨팅 및 페로브스카이트 나노결정 연구는 미래 기술 발전을 통해 효율성과 성능을 개선하고, 장기적으로 생산 비용을 절감하거나 새로운 시장을 창출할 잠재력을 가집니다.\n*   **매크로 변수 측면:** 글로벌 경제 성장은 반도체 수요의 주요 동인으로, 삼성전자의 기록적 이익은 전반적인 경제 회복과 기술 투자 증가를 반영합니다. TSMC의 생산 리스크는 지정학적 긴장, 공급망 교란 등 매크로 변수와 연관되어 전 세계 반도체 공급망에 불확실성을 가중시키고 가격 변동성을 높일 수 있습니다. 또한, AI 컴퓨팅 거버넌스에 대한 논의는 미래에 AI 반도체의 설계 및 유통에 대한 새로운 규제 표준을 도입하여 시장 접근성을 제한하거나 추가적인 컴플라이언스 비용을 발생시킬 수 있습니다.",
+    "ai_report_en": "### 🧠 AI In-depth Analysis Report\n\n#### 1. Market Sentiment (Ensemble)\n🟢 Positive 55%, 🔴 Negative 23%, 🟡 Neutral 22%\n\n#### 2. Key Trend Summary\nThe global semiconductor market exhibits robust growth, driven by expanding equipment investments, record-breaking corporate profits, and AI-driven technological innovations (neuromorphic computing, new materials). However, production risks highlighted by TSMC and AI computing governance issues necessitate continuous monitoring, adding potential uncertainty to the market.\n\n#### 3. Price Fluctuation Mechanism\n*   **Demand Side:** The \"AI frenzy\" is driving unprecedented demand for high-performance AI chips, coupled with increasing demand for semiconductor-related services due to data center infrastructure expansion. Neuromorphic computing research foreshadows long-term shifts in demand for low-power AI solutions, driving specific semiconductor sectors.\n*   **Supply/Technology Side:** The 15% growth in equipment investment reported by SEMI indicates expanding global semiconductor production capacity, signaling long-term supply increases. However, TSMC's identified \"biggest risk\" could lead to AI chip production bottlenecks, causing short-term supply shortages and upward price pressure. Research in neuromorphic computing and perovskite nanocrystals holds the potential for future technological advancements to improve efficiency and performance, potentially reducing production costs or creating new markets in the long run.\n*   **Macro Variables Side:** Global economic growth remains a primary driver for semiconductor demand, with Samsung Electronics' record profit reflecting overall economic recovery and increased tech investment. Geopolitical factors linked to TSMC's production risks, such as supply chain disruptions, could exacerbate global semiconductor supply chain uncertainties and increase price volatility. Furthermore, discussions on AI computing governance may introduce new regulatory standards for AI chip design and distribution in the future, potentially limiting market access or incurring additional compliance costs."
+}
