@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-08 23:42:40.644897",
+    "price_history": {
+        "2024-03-01": 31.629,
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.661,
+        "2026-01-01": 29.56,
+        "2026-02-01": 30.228
+    },
+    "news_sources": [
+        {
+            "title": "Semiconductor industry revenue to hit $1.3 trillion in 2026 as memory crunch hits consumers - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY1htNmhyRkRha0lTN1J2aE1qaWdsbGVnWDRfbVc0LV9qRjFMREhtOFFhazFWQmNPVUhTeFI5d0d4MzgtbmpJSTl0UmE3cFJPZVI4V3JOSkxkVXc0ZGlOMmY3eV9vQWtpS2s4OWs3UlNYVHFwOTYwdlN6TTlpRHpISmlLTWVTUmhHaEUwcFFUcDktUzZsUUlNZFl6dWp4bVBSS1JsQTI2YndGd3VfalJTaUpXLTZUb0p0ak1lS3RJN1BVczZQaWwzeDNqTDVESWpvemZkdkFNMHROeFJKOHlFY0NhMklMVFZMbm1uS3NB?oc=5"
+        },
+        {
+            "title": "Samsung, SK hynix Secure Long-Term U.S. Helium Supply Deals - thelec.net",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SVhXYWU3eUtBM1k4bkpHLTE3RWtnNVNzQ3dER2hxd1lUZUNTSmlJbHBKWEs2RTF3RWNrcndFTUF5QjRsSlpSVWplcDNOTkJkVktuWTdZV1g4V2RoczRuZ3R3VnA0UQ?oc=5"
+        },
+        {
+            "title": "China intensifies efforts to poach semiconductor talent from Taiwan, claims report — international restrictions motivate illicit efforts to obtain talent and equipment - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQamt2RHdoa2lTUjJJdTlRUW5RQk45QWVIMjd4UDctQUFrd2JZelZQMDVLUGpkQ1U0bU5lejF3QkJvakZSUEdTWmFXa2FUeWdSRENzeU9ZNFotMUcyRGRsZS1DaW54LV9Qb09MeVRjampaZXg4X3VtMWRjS1IxbkFKV3h2RlhyTERDZGt6V1FRTzk4RHBCd2g4WF9NZ192THgtRVMyQzdNeFpsYmFlNlhnQy1GTjV3WkUxTDNsekpWVlA1NGJaQUxuQ2Z3c2pkemFBeXlETmRERjFkX1dHd01iaFpJaDdPZzM2bTN4Vmx6ckJ1LXUxR2tiNzlaVWswb1AwMkJwZkpuZzF3eGpIZGdYQzd0RlEwM3ZBUmpZNHAyWGVBWHlsYVVvOGw1d1JxS1NUTEZfdlJkdnNvbW5NMndOLWVIMkU?oc=5"
+        },
+        {
+            "title": "Helium Crisis Tightens Grip On Global Chip Supply Chain - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXpBbXhETXZqWk5OYWw4RVJkZi1MYXBrWHVqWDFzNWZqQU00Q3B3VTBuVGlUcWM4SHp0ZG82VVNCc0UxemduaDYyZjR3S2E3NGFrb1BQbUstaFZ3OXJqek5TYXRLYkJEOGJ2Zm1MRUxpRUg1MHExdkN6MkVJbVFpajA1TG1RbXdRWGtDckVfX0NJajRPN2psekV5cWd1djNkOFdQUXNhN0prWXk5QktuQw?oc=5"
+        },
+        {
+            "title": "Bureau Veritas Acquires Lotusworks, Reinforcing Its Position in Data Centers and Entering the Semiconductor Sector; This Establishes a New c.Eur 300 Million Growth Platform - Business Wire",
+            "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPSGpFQkxBcHV1ek5OOTZnZTNoZ2FwVDhUTFkyM2szbVVkLVZOR1pvU1V0Rlo1T3dLSVdwX2NYMlNBU0pZcmtlYVZaRWtqanprdWxWaFRpN0hLdy1NSnNaNEU0dU9NQXVNUzNiczBGYmppNC1lY3ZKVHV0TE91VnRGUGdZdGFLXzl5TTJfRlQxeUtYTVJ5dUY5Y3BmYjFhR0dGRFpBZE9hUVNYdWNwbWdZYnFDTFlsay13TkRUNXo2dkpfYzZjcnNpeFJVQnl4S2pwWkZxNHZRZ3p0blBPWDhDYXh1aENOSmE3WGV5bngtNUtSVnZnNnA5ZHVxZjdYZG1BcGU0dmg4S0JNaUdPTmlraUtkVGpOTlhGckV5SmM2cW45WWJqbTlxb0xWUHVmcTVNZmg3SDAyX2RxWm1kQXM3VElzR0MxVHNxUjNF?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Key Role of Charge Disproportionation in Monoclinic Semiconducting Fe$_2$PO$_5$, a Room-Temperature d-Wave Altermagnet Candidate",
+            "link": "http://arxiv.org/abs/2604.06114v1"
+        },
+        {
+            "title": "Multistability of a chiral semiconductor microcavity: a self-consistent approach",
+            "link": "http://arxiv.org/abs/2604.05945v1"
+        },
+        {
+            "title": "A Data-Driven Fast Simulation Approach for MAPS-based Detectors and their Optimization",
+            "link": "http://arxiv.org/abs/2604.05893v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
