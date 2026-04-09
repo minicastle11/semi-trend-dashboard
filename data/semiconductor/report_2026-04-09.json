@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-09 23:44:16.798373",
+    "price_history": {
+        "2024-03-01": 31.629,
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.661,
+        "2026-01-01": 29.56,
+        "2026-02-01": 30.228
+    },
+    "news_sources": [
+        {
+            "title": "ASML shares fall after proposed U.S. export curbs target an already fragile China market - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWXgtX3g2Qjgzb3M2NlZ6NTRxTjlXXzVfSE1iS2YzWTFleW5zakgtZ0tMbmpuZVAydWMyYzZnS1JpWlZEa2RLeldvMVZaZU8yak1iZ2FTOUk2WEZvbndoc1pFZEdBOGthOVhpalBOUzFENmxQeXY3MUxob2tNOGlwVHU4VFlQVXU00gGOAUFVX3lxTE5CR25aOTYtQndhaFhwV0xUWXp4RjBnQlU2THFKc2RjbmNTS08zVzg0UzRsbFJXTVNkTlllcDR0cUZSM2lhZzZETVVzNW96VTVsNUxlSW5xR0VXcERTcEF5MXZzNlItYzE3aC1rZDRxazNoQ3ZuOXhaS05nZXFYUTJFdHRidzJzOTFSUWhWYUE?oc=5"
+        },
+        {
+            "title": "Semiconductor industry revenue to hit $1.3 trillion in 2026 as memory crunch hits consumers - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY1htNmhyRkRha0lTN1J2aE1qaWdsbGVnWDRfbVc0LV9qRjFMREhtOFFhazFWQmNPVUhTeFI5d0d4MzgtbmpJSTl0UmE3cFJPZVI4V3JOSkxkVXc0ZGlOMmY3eV9vQWtpS2s4OWs3UlNYVHFwOTYwdlN6TTlpRHpISmlLTWVTUmhHaEUwcFFUcDktUzZsUUlNZFl6dWp4bVBSS1JsQTI2YndGd3VfalJTaUpXLTZUb0p0ak1lS3RJN1BVczZQaWwzeDNqTDVESWpvemZkdkFNMHROeFJKOHlFY0NhMklMVFZMbm1uS3NB?oc=5"
+        },
+        {
+            "title": "Samsung, SK hynix Secure Long-Term U.S. Helium Supply Deals - thelec.net",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SVhXYWU3eUtBM1k4bkpHLTE3RWtnNVNzQ3dER2hxd1lUZUNTSmlJbHBKWEs2RTF3RWNrcndFTUF5QjRsSlpSVWplcDNOTkJkVktuWTdZV1g4V2RoczRuZ3R3VnA0UQ?oc=5"
+        },
+        {
+            "title": "Taiwan chip industry calls for helium, LNG reserves amid Iran war risks - Nikkei Asia",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzU2TDRiM2dQSUtxY1ZfZ29EWGFzQkFoUE9wUERNWVpMTG84cmZxUm8xcmgwbU11X25xbTU5TzB3bW9ZamlsT01lSDRKMk12bmFjNWhlZnB4RFJzNXhLWmNXY19McjJETU1XYk9xM3pRWTdXdlNsamNFWUFMdjBqdHBUekl2cVNabm45OGNUZExheHZGM1RVa0FWekhHMThyeWZmamxYZlc0UzJranpfRHFPX3BncGdpUW1nTTVUVFBhYkpXSDJB?oc=5"
+        },
+        {
+            "title": "Minnesota’s Solventum to pay $1.6M fine for selling equipment to Chinese firms - Star Tribune",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSEtmVWJBRjNWTzRCUURINmtmVkxfdERycGJ5RDNUeFlPb3JodHA4R281SVBsTXp2ZlJveUVkMm83MmlPYkJhMWY4TjBSZy1pSVhsYjZybXd1ZWhSMHJ3VGJMMHpYT2ZoaUg3TEtPTzFKQk1ucmV4VHFwQy1UWjQ0RkE2TzM3Q3FPYnBfbTdEb2tHOW5zOHphNXUzQW5tbUhXZXhF?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Spin-Valley Relaxation of Rydberg Excitons",
+            "link": "http://arxiv.org/abs/2604.07280v1"
+        },
+        {
+            "title": "Determining the Free-Carrier Fraction in 2D Perovskites using Power Dependent Photoluminescence",
+            "link": "http://arxiv.org/abs/2604.07262v1"
+        },
+        {
+            "title": "Programmable Photocatalysis via Symmetry-Defined Periodic Potentials",
+            "link": "http://arxiv.org/abs/2604.07260v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
