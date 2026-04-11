@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-11 23:40:40.174795",
+    "price_history": {
+        "2024-03-01": 31.629,
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.661,
+        "2026-01-01": 29.56,
+        "2026-02-01": 30.228
+    },
+    "news_sources": [
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KU3N2a0c0TElaZjRJYzE2b2NuLVR3bjEtaXhjbWR1MllKNm5hUmtudDBMNmZlcWYwYzNLOE8xNlowSVd5cGstUzdXUkFhRHZKX0UzZnhQa3MzalBqVFpMc0RfazdIdDdfRGlRbnhB?oc=5"
+        },
+        {
+            "title": "Semiconductor industry revenue to hit $1.3 trillion in 2026 as memory crunch hits consumers - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY1htNmhyRkRha0lTN1J2aE1qaWdsbGVnWDRfbVc0LV9qRjFMREhtOFFhazFWQmNPVUhTeFI5d0d4MzgtbmpJSTl0UmE3cFJPZVI4V3JOSkxkVXc0ZGlOMmY3eV9vQWtpS2s4OWs3UlNYVHFwOTYwdlN6TTlpRHpISmlLTWVTUmhHaEUwcFFUcDktUzZsUUlNZFl6dWp4bVBSS1JsQTI2YndGd3VfalJTaUpXLTZUb0p0ak1lS3RJN1BVczZQaWwzeDNqTDVESWpvemZkdkFNMHROeFJKOHlFY0NhMklMVFZMbm1uS3NB?oc=5"
+        },
+        {
+            "title": "TSMC’s Chipmaking Edge Is So Strong That Competitors Are Fighting to Work with Its Supply Chain Partners, Viewing Them as a Winning Bet - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzdzTmdSVldPaG5uVkp4bzZyWklpbUNNak1OeFQydmEtX3l4aGoyZmlxdjUtOE9kZXN3VEJWam5QN1UxWUxiWGQ3N2t6aDRWQWxmT3VNaFdnR0JOd2x0MFRKQXh6V0RoRE9KQkk2S1pfckwxTmp2VG9MbGx3bXNfdXRSZ2ltUjFnaHN1V0VCZzQwREZIQkhBTTZZWE1YTTNwQjF4U3A0ZFdVczh3Y2kxN9IBtgFBVV95cUxPbFpqYTBvNnhsVVhvb2hSb0RXOTF1dHIzSGdYN0E4eDJuSUMzYkJrMDNPWTdocU9wTTlVZDdGZFBicVJVSGZQM01iNDJPQmNMZnR3a25DLVE3U3BiSEtrRkJScmVETWFWTG5aWHVLSUNqRndJLXNod3p1S3h4d1doWGJNallkcWtpbzlWTkZZSmRqUFFtUV9SVEVBWkgyb0xjVUNqQnE1QlJxZTN5WGt2dHctZzFrdw?oc=5"
+        },
+        {
+            "title": "Reshore semiconductor manufacturing to UK and US to meet sustainability goals, study says - Tech Xplore",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFJNbmhaQ1pXY0p6ajVHanRtd0JiMUtHWnRsLVpRNDJYX08xRTdiNG5nbXItNWhuMms4Vlo4VjRoWmp6UHRidmFFRFdBN0ZzYU9ZSWFqYVJ5ZGo3WTNmRXJIcWhKcEhTamVhNmxHd2k0SG9XbkZuMHBPTXB4RTdkaEM5NkRubVdjMXJacEwzZw?oc=5"
+        },
+        {
+            "title": "AI Chip Demand Shows No Signs of Slowing. Can Chip Stocks Keep Up? - Investopedia",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUpwSS1IS1ZsbGIzV2dpaC13alpxeVA1WkpKWTF2YzZ2V1pwd1JRSm14Y2ZlRDFuWWt0akYzN2VwN3F3clpKU0hJZG54QUhsYjRmLTVHWVNuaEswUzEySkZVSXdTa2VBam9MYWRSUkZGVllBSTl5ekxOSks5T044QUFIdnJpMFE1Zk5MWlE1YWpZZ055LVNQVTVRbXhFNnIwdEdQdA?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Small-scale photonic Kolmogorov-Arnold networks using standard telecom nonlinear modules",
+            "link": "http://arxiv.org/abs/2604.08432v1"
+        },
+        {
+            "title": "Valley-controlled many-body exciton interactions in monolayer WSe$_2$ phototransistors",
+            "link": "http://arxiv.org/abs/2604.08382v1"
+        },
+        {
+            "title": "Navigating Turbulence: The Challenge of Inclusive Innovation in the U.S.-China AI Race",
+            "link": "http://arxiv.org/abs/2604.08353v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
