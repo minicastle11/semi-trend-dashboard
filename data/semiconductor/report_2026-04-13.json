@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-13 23:50:34.957859",
+    "price_history": {
+        "2024-03-01": 31.629,
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.661,
+        "2026-01-01": 29.56,
+        "2026-02-01": 30.228
+    },
+    "news_sources": [
+        {
+            "title": "3 Misconceptions About the $402B Semiconductor Foundry Sector - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWw5aWhNZ1BVWDU4bnBidXZhR293UHBGY3dGbnk4RnBwRG1qQl8wY0FnYnJ4bWVPeVhVUTZ0M0htM3FPX3g5LWZsN1E2eWlGbno2VENncVJWWFBQUmdsWmlMYnJtVlA0WjA3dGJGRVN6SDR0XzNxVHdBLTJCWUlOaFNHcWxCandhdllmWHJZYU51aGZEbWc?oc=5"
+        },
+        {
+            "title": "China’s Chip Industry Depends on One Key Piece of Equipment from ASML, and the U.S. Is Now Moving to Ban It - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXVjYnhuV0xHZEowd3JFZzMwQUk4aVNLNVF4dXAzQmhBaUVNaEFLdl9Gekx5ZVFXb2NLWEpNWVU2aG13TjVQWVB4ci15ZXFWeTIySjhmQllWTEJHenQydF9FeWlmazNiUUFVYmpwXzJtVjFnb2J0V1RVZFNKNTlSS24wWUhEQlhobzVmN2wtbzZxcnRnTmltUzB5aF96RXhiUG9Oc25vQ1dGQUlTbXBqWXozbDRQMkg0Vi1RT0ozZk1ZRUgz0gHKAUFVX3lxTE1pLWM4cy02UnFCTjVEU2dTSGNsRUtFMUxKUTVjX3FGUjhEY05MQjFOZWk2Vy0xck5RdVpWdEhFOVF0NE9kYUgxNFRPZm1jZ3pYczBnZGRJUE5VWHhpWHZOb09mbGMwZGEtUU5FdXBhaXBYZ0dGOWcwNHNTU2NhTlVMOTFkVXdIbHpnWDFYcnVwa3pGN1FGU2FfM0VablM2UXNGRWowS1VTV21LeXpNZ1RzaE14Q2VxNWktYmpWNXgwUDNMUFNEcnc3TGc?oc=5"
+        },
+        {
+            "title": "SIMO vs. MU: Which Semiconductor Stock is the Better Buy Now? - TradingView — Track All Markets",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUJnZ1JhVk9BbUx3QUxPZzhWQ3Rfa1JBaURnODhteG94VkhQUjgweWRWam9sUk42Z2FfR25rVUtyLU1saGY3eE5QLVJBM0oyY2RjMU9pSkhjVGNrM2k2TEswcjlOQWRKenoxTEpFcDlfZkszZnYyWEdhLTFXU09LMlBtXzljbndGVTVGT2Rqa1pwdWxaYThyQURkMHpwQm43QW03cXB5MDJXR3lqZGNHWFBzUFI?oc=5"
+        },
+        {
+            "title": "Huawei will soon export its AI chips globally, says US Advisor - Huawei Central",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFQyZGxSYWFqekl0TTk0N1U1X3lQZ2FnODJEWThqM2R6Y24yckViekxjZmMxSlV0V0RuaXRuTjktemNlS19JLXYyMGpPbXRpbTZwTF8zcmtXY2c1ZVNxbU9EVjJETHF3bVN6TkZESU00Qm8wQUlPcHFPa04yeWcxLXRVamg2UVRZTXN5aU5uZ0lDM215N1dV0gGcAUFVX3lxTE9Ma2IzNzN0SE5GMnNqamxocEhlUVFkNFM2VEw1QUN0alZKQTBnLWtPZU5wQUxFMHJOeFV2LTlwVlJBNVpmdXVnOTFETGl0WXJvbmR3VkQzcE4ya1JYT2pmRlVuU0VyV2dlM2RnUFhiSXVEb2tJRzI2d202aHp5LTlSb2xTWlZNaUR2Z0VfVXdiWW50WDFOYjN6VFoybw?oc=5"
+        },
+        {
+            "title": "AI Chip Demand Shows No Signs of Slowing. Can Chip Stocks Keep Up? - Investopedia",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUpwSS1IS1ZsbGIzV2dpaC13alpxeVA1WkpKWTF2YzZ2V1pwd1JRSm14Y2ZlRDFuWWt0akYzN2VwN3F3clpKU0hJZG54QUhsYjRmLTVHWVNuaEswUzEySkZVSXdTa2VBam9MYWRSUkZGVllBSTl5ekxOSks5T044QUFIdnJpMFE1Zk5MWlE1YWpZZ055LVNQVTVRbXhFNnIwdEdQdA?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Probing Electrostatic Disorder via g-Tensor Geometry",
+            "link": "http://arxiv.org/abs/2604.09475v1"
+        },
+        {
+            "title": "Spectra of laser diodes",
+            "link": "http://arxiv.org/abs/2604.09052v1"
+        },
+        {
+            "title": "Giant resonant nonlinear THz valley Hall effect in 2D Dirac semiconductors",
+            "link": "http://arxiv.org/abs/2604.08994v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
