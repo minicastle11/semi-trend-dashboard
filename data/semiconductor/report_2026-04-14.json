@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-14 23:48:13.442835",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "3 Misconceptions About the $402B Semiconductor Foundry Sector - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWw5aWhNZ1BVWDU4bnBidXZhR293UHBGY3dGbnk4RnBwRG1qQl8wY0FnYnJ4bWVPeVhVUTZ0M0htM3FPX3g5LWZsN1E2eWlGbno2VENncVJWWFBQUmdsWmlMYnJtVlA0WjA3dGJGRVN6SDR0XzNxVHdBLTJCWUlOaFNHcWxCandhdllmWHJZYU51aGZEbWc?oc=5"
+        },
+        {
+            "title": "Meet the Super Semiconductor Stock Crushing Nvidia, AMD, and Broadcom Right Now - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUncwWExZeHYwU0tyRXBtT0F0SzdPV1RfTUVqVWk0V1dSOEFsa1BkeEEyQWxxSXkxcVA1N0tHNV9KWGZRME83RnJuT2RLWGZTQV9WcG93SExXUkViOXlNendQaG4xODJqZC0yY1hlNVdtMUkxc1JLdHNjTkhCZ1FuYU9FbUVVOEwzOWpuUXV2Q1R3MHdxVkE?oc=5"
+        },
+        {
+            "title": "Here's How Much TSMC Stock Is Expected to Move After Earnings - Investopedia",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWZwZWtuN2xXUXBlaHJ1R1JZSDFoWGVVVzlYMHA3YkVGajVxdHZDUUJkbmxycnRSaFlSYjJFNEpva3Z2ZXc3M1ZZMnVNYm5WS1FjQWdvT05kclp1TjkweDlOVG5lWnVCWkRFc0FUcTF5SjRZMzRQYlZOTERDaFVjZXJ1VFlTVC03NUdHT0d0SlBzX0lQYlZYdWpnVFRlUTJ4LWc?oc=5"
+        },
+        {
+            "title": "China's premiere memory-maker YMTC plans two additional Wuhan fabs using homegrown chipmaking tools — Phase 3 crosses 50% domestic tooling threshold - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalRNXzVrVmRDUlAwQnlrMkNDWTE0NkNwX2hGWXlxeS0xQ2sydHkxWXNMZVhISnpoMjF4OTNjTlRCd1gwVVotcS16NHJ4aGVZR0hVNkZRTGF4ZnBxUDVITmxTYmdUSnFtTVR2bzNxVEJlRTlCWkItblVaUlRLSWU0X19qQWQxVl91U2NSZl91NkFDZDNXTGRKUE1nVQ?oc=5"
+        },
+        {
+            "title": "Got $5,000? This Is the No. 1 Semiconductor Stock to Buy Before Earnings Season Really Gets Going - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVp1UHdmVTdnSkNveHpzRnVveUZHN3JFdVBNN0NBeXdNX3hHVUt4N2xtT1NCWXNMeE5BQWk1V3dwTGxraXlwU29ScjUtVUFoUXdvRU0zakpRel9TMFFwN2JmWFI4ZUlWRmdZYmh0UHV3bjJ6QXBEVEx4S0Z3dG9TZEZMUkdEUQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Artificial-atom arrays in moire superlattices for quantum optics",
+            "link": "http://arxiv.org/abs/2604.11360v1"
+        },
+        {
+            "title": "From Topology to Trajectory: LLM-Driven World Models For Supply Chain Resilience",
+            "link": "http://arxiv.org/abs/2604.11041v1"
+        },
+        {
+            "title": "Probing lattice fluctuations using solid-state high-harmonic spectroscopy",
+            "link": "http://arxiv.org/abs/2604.10304v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
