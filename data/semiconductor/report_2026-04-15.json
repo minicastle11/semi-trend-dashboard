@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-15 23:49:50.829595",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "3 Misconceptions About the $402B Semiconductor Foundry Sector - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWw5aWhNZ1BVWDU4bnBidXZhR293UHBGY3dGbnk4RnBwRG1qQl8wY0FnYnJ4bWVPeVhVUTZ0M0htM3FPX3g5LWZsN1E2eWlGbno2VENncVJWWFBQUmdsWmlMYnJtVlA0WjA3dGJGRVN6SDR0XzNxVHdBLTJCWUlOaFNHcWxCandhdllmWHJZYU51aGZEbWc?oc=5"
+        },
+        {
+            "title": "Semiconductor Industry Veteran, Patrick Henry, Named CEO of Oculi - PRWeb",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkhxQVJxWGRaa25kWFZXRXplSDlzbUNuMm5iY1BmZG1yRWZlbGVwbF9OdzZkWGNhSFNzaDdUWU94N3pieXVqcFllSDl6SXZaUEZJbkFzRGwxbTUxcVk2NzRCYUFQQXpxSGZzM0tpbTc0cU02MmhMcEFaSlhVa2ZqT19kNG9WZkIxQkFrSFdCdllQdDI3d0p4bkEySXN2UUhodExLSTRXbG50dE5LU3c?oc=5"
+        },
+        {
+            "title": "Breakingviews - TSMC confronts new contenders for chipmaking crown - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0pmbXNvVzc2clRBTWlVNjI4Rzd5dG1fTk4wd1drcXRnUXhGS3A4ZExUSmdkQmZxZHpmR0JDM1JUSEVuNFprdmJuMGpfOEwtV1NkeHNrQW90ZFVIRFM1am9aUHM3ekJwaWZoSzY2eGtXMTdhdFpYVlJyOXZnSEhiTFlENnMtZ25STEdTczhkczZBb1U0OUdZX2VwUUhJekxsS2tyLVBxXzhhWkk?oc=5"
+        },
+        {
+            "title": "Intel poised to reemerge as world leader in computer chips - USA Today",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnlzdENLdmp1c0lnNUFXc3ExOUhwWl9zSHJxaE9zOUQ4dU5TekZoZFpIMFkxb0FUMFBfNGo2UDV0RGpPUk45eUh5MnB4ZC1YWjB4N1Mtek1qX0wyNFRUR1NDQkh0TDE5VzJqai1UcGdlWWt5YVg0dEp4dE5jc1dYQnppNjJrcXktX2pEWGxLWThWdEoyNmgwbHZIUmstSFdKb0w2azA3aUNlMUQyODlYSU9TejNSSkY4S2tTVg?oc=5"
+        },
+        {
+            "title": "Meet the Super Semiconductor Stock Crushing Nvidia, AMD, and Broadcom Right Now - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUncwWExZeHYwU0tyRXBtT0F0SzdPV1RfTUVqVWk0V1dSOEFsa1BkeEEyQWxxSXkxcVA1N0tHNV9KWGZRME83RnJuT2RLWGZTQV9WcG93SExXUkViOXlNendQaG4xODJqZC0yY1hlNVdtMUkxc1JLdHNjTkhCZ1FuYU9FbUVVOEwzOWpuUXV2Q1R3MHdxVkE?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Restoring polarization entanglement from solid-state photon sources by time-dependent photonic control",
+            "link": "http://arxiv.org/abs/2604.12661v1"
+        },
+        {
+            "title": "Symmetry breaking structural relaxation and optical transitions of native defects and carbon impurities in LiGa$_5$O$_8$",
+            "link": "http://arxiv.org/abs/2604.12609v1"
+        },
+        {
+            "title": "Thermal Characterization of Buried Interfaces in Multilayer Heterostructures via TDTR with Periodic Waveform Analysis",
+            "link": "http://arxiv.org/abs/2604.12539v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
