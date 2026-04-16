@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-16 23:46:23.219193",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "3 Semiconductor ETFs to Buy Before the AI Chip Market Hits $500 Billion - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTTVpelpIWWZLLUh5c2tOWWJvRWVSVnZ3T0hQR2JHZU5hSGZXeVNqZjJfZERQeW51eV9JdDl3WlliNzZIdzZxRFd6RTA5MkU2dkt0bnNNSkJaZGlCb29oMVdReVlFZjJzZmZkWUpmbldVakFRbU4yaldDd0VweFlGX3dlZnh2WElsVjhBd1dMSzgzZ21QUkZZSmhIMWh2X2dMaVJWR0lZWHQ4b0IzTkRVNnhrNEw?oc=5"
+        },
+        {
+            "title": "China has spent 3.6 times more than the US on chipmaking subsidies over the past decade — $142 billion and counting, easily outweighs CHIPS Act - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOFk4NVJ3TVlQbjhmcklvUlRzM3BTLXpDUXBPalJMQTBwcWFZcmxFeERsYVFGNllZSmN4Vk1LeFRjS0c2ZVU3TDEwVnhVb2R2QVJIMk8wVF9lVWhOYzhnYklxNDUwemJfX0x6amoyR0pib0FiMkNNdWZVR1ZSbmJCTXhqWFAxUGpIU3BaR216cW85all3S21VemNVUDZSWTFVY1NtcTNzRDF1bGhUblVFbDBTamNZSDBoUU10YTJESGs?oc=5"
+        },
+        {
+            "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWZwMDJTU0dzUHVkSDZWLXNRRnVSRXlkT2lHSDY3SWppdk44dWtuYVl0OTJFRGJSU2pFblNuNkVxei1fWWlZbkVJT21BRkNVVXhjdjg2MDJLVG9lc2RkR1o5Y080ZzdzWDV6TC0zV0dZdUk1SEx0SzBxWjQyb251UEVRZldfRV9DaXNOYdIBkgFBVV95cUxPSFNUTmRES3NvLWYyNTRJNzh2WDExblRPRVpwbzZiOHRIVzA5Mm1memlLOEFZS0FoelRWREdBUVpCVnEzS0dHWloteklmLUxuRXp5eHJZWl9RT3Z1U29TOGQ1ZUc0ajlVLS1qNHVDcFNnb1p2X2RieENtWkNvZXQ0d3FPVWEtZnotQXAwSUh5QWtSdw?oc=5"
+        },
+        {
+            "title": "Breakingviews - TSMC confronts new contenders for chipmaking crown - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0pmbXNvVzc2clRBTWlVNjI4Rzd5dG1fTk4wd1drcXRnUXhGS3A4ZExUSmdkQmZxZHpmR0JDM1JUSEVuNFprdmJuMGpfOEwtV1NkeHNrQW90ZFVIRFM1am9aUHM3ekJwaWZoSzY2eGtXMTdhdFpYVlJyOXZnSEhiTFlENnMtZ25STEdTczhkczZBb1U0OUdZX2VwUUhJekxsS2tyLVBxXzhhWkk?oc=5"
+        },
+        {
+            "title": "Taiwan Semiconductor Manufacturing Q1 Earnings Call Highlights - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdk5XcEZRbVdDNm9yVkRxaENpUjQ3anNHSXZwX1cyaVBNazFyVHZmOTR4QkR2eC1rSXpScG0wMmQxd3ZkN3dIY0EyV3lJZk03Um1JWGJNTVVsOHpYMDZrdlJJWGUwWlRnM25OQUtmWWFvMS1FS0gtTTkxQWU0SFJ1cHIzMmhRV1dHcndKXzdQRDBmdnlBRmZpNUowZl9QVXpXXzhCWDNiT1FCckZpc1ZhaUpFcEhnLW8?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Spin Qubit Leapfrogging: Dynamics of shuttling electrons on top of another",
+            "link": "http://arxiv.org/abs/2604.13760v1"
+        },
+        {
+            "title": "Nonlinear Circular Dichroism Reveals the Local Berry Curvature",
+            "link": "http://arxiv.org/abs/2604.13729v1"
+        },
+        {
+            "title": "Scalable framework for quantum transport across large physical networks",
+            "link": "http://arxiv.org/abs/2604.13704v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
