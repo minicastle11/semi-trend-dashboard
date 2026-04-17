@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-17 23:43:52.004051",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "3 Semiconductor ETFs to Buy Before the AI Chip Market Hits $500 Billion - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTTVpelpIWWZLLUh5c2tOWWJvRWVSVnZ3T0hQR2JHZU5hSGZXeVNqZjJfZERQeW51eV9JdDl3WlliNzZIdzZxRFd6RTA5MkU2dkt0bnNNSkJaZGlCb29oMVdReVlFZjJzZmZkWUpmbldVakFRbU4yaldDd0VweFlGX3dlZnh2WElsVjhBd1dMSzgzZ21QUkZZSmhIMWh2X2dMaVJWR0lZWHQ4b0IzTkRVNnhrNEw?oc=5"
+        },
+        {
+            "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWZwMDJTU0dzUHVkSDZWLXNRRnVSRXlkT2lHSDY3SWppdk44dWtuYVl0OTJFRGJSU2pFblNuNkVxei1fWWlZbkVJT21BRkNVVXhjdjg2MDJLVG9lc2RkR1o5Y080ZzdzWDV6TC0zV0dZdUk1SEx0SzBxWjQyb251UEVRZldfRV9DaXNOYdIBkgFBVV95cUxPSFNUTmRES3NvLWYyNTRJNzh2WDExblRPRVpwbzZiOHRIVzA5Mm1memlLOEFZS0FoelRWREdBUVpCVnEzS0dHWloteklmLUxuRXp5eHJZWl9RT3Z1U29TOGQ1ZUc0ajlVLS1qNHVDcFNnb1p2X2RieENtWkNvZXQ0d3FPVWEtZnotQXAwSUh5QWtSdw?oc=5"
+        },
+        {
+            "title": "Micron and Lattice Semiconductor Stocks Trade Down, What You Need To Know - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUdPdk41dnNmekQ1YXlRcXJoSDZNQWFCTmJvWmlEX0ZraWRCeXgxUTdqdlRWT0JmQWZlYWhUeFNvcEdfYmkxanlaNFM1SjZjaFJQZW1BRjJ3RnI2eUlwM0VNLXRrMkNhc3BZVldMUGlSVV8xSjZCd0dkV3BrOUM2SE1GTkNUMnV5NHJENVB2S1lPbGxSQ2NxYnBuM05mdzk0LVFtbDVyNVIwZw?oc=5"
+        },
+        {
+            "title": "Intel poaches Samsung manufacturing executive - OregonLive.com",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVFvU2tNaWhmNmVXelcxRHZhTWc5N1ktZXFVbjdmZ0psYXlFQ0NPZENqNm9LMV9sY2VHV3ROZ2RUcnJZR2VGRndNZXZfSmNJZmJMUHJyWDVMVWQxNjFuT2xyRldtekxkNTVqaXZtazc0VEZ0aFBtU0duNURVYW1maUs3ZnRST0I3RUVvSzJQZ2RSSVh6aHhKRGJDdHBNRFhteWc?oc=5"
+        },
+        {
+            "title": "Breakingviews - TSMC confronts new contenders for chipmaking crown - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0pmbXNvVzc2clRBTWlVNjI4Rzd5dG1fTk4wd1drcXRnUXhGS3A4ZExUSmdkQmZxZHpmR0JDM1JUSEVuNFprdmJuMGpfOEwtV1NkeHNrQW90ZFVIRFM1am9aUHM3ekJwaWZoSzY2eGtXMTdhdFpYVlJyOXZnSEhiTFlENnMtZ25STEdTczhkczZBb1U0OUdZX2VwUUhJekxsS2tyLVBxXzhhWkk?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Studies of the Modular COsmic Ray Detector (MCORD) using an automatic temperature control loop to maintain constant gain parameters of semiconductor SiPM photomultipliers",
+            "link": "http://arxiv.org/abs/2604.15250v1"
+        },
+        {
+            "title": "Emulation-based System-on-Chip Security Verification: Challenges and Opportunities",
+            "link": "http://arxiv.org/abs/2604.15073v1"
+        },
+        {
+            "title": "Layer-dependent quantum transport in KV2Se2O-based altermagnetic tunnel junctions",
+            "link": "http://arxiv.org/abs/2604.14817v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
