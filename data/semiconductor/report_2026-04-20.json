@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-20 23:50:08.092255",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "How China's chip expansion puts pressure on global rivals - DW.com",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLW5Pblk2YUVnUkllSUpvWWxnRm9ZR3RGM0tQVl81ZVp5MXdVMFZBbDFFN3paX2Q0ek9Sa21zNk9HYzBhZVdxN0RLcnVWa0pmVUN0b0ZraVJlbmJwLXpMeWhqU1IwT3FtUXlxUkxGb0ZqQnJSZThMX29ZckFtUktQdGt4WXlEbG5BWkZ3M0tabWFFZlZx0gGUAUFVX3lxTE9LTnFjWFQwcjFsYmVyVFZGc0NscDZua3VveTFxczdTMjZEdkU1WHJYNUZJUzI4b1VfOW83Q3J4WlVhY2RzRllGV2xva3UzbWY4bmV3LU5XdzdzOHVnLTRIZkpnOEtjcHBrNEtNTUtCQzJmeWVWYkZaQkR1MjF0eGotVFZjQm1LMlkzblNfaUtnS1owcU0?oc=5"
+        },
+        {
+            "title": "Mind the gap! The semiconductor industry is relying on the wrong materials - Phys.org",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wejd2LXRMc3hGWDFTZE1Tbk1ybzFGS3d3anJ2bFN6X2tzZTVNNXlwMGRnZV9Wcld0bDNESllLdzd2a2EzUDMyRWNvdWFITGpuQ2pPZUN5Z2NGNGE4dG1oSzFkT1pMTzVtUk84aGlFQkloenRSS0E0T0VXVmg?oc=5"
+        },
+        {
+            "title": "Starting New Position as Low-Priced Semiconductor Play Turns Heads - TheStreet Pro",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVQ4MnV5dVpPWmp6Rk1sQUxoYnl2TElGZHVQaWFlaHhCN05IZ0VkNHdIMjdwUDVRbFBSa1ZCMnFDekJ6bnNMVXdWN0hxS0w0RjIxUmo1MEdvTXFqd3dWREduNHBfZ0FEd1BiRS1xTjBocW9POFZPc0h4OHpHRi04OTY1N1FGb3BSbi1mUmQ2OXJ0S1A3Skd5eGV4MGRaSExkU1VmOFJodw?oc=5"
+        },
+        {
+            "title": "Debate grows over semiconductor bonuses - Korea JoongAng Daily",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3hBcGg1N1liRHgwLUNsLXhuUTE0NUN2UExmMjZ2VjBYY0VTRTRXQWl1NDU4eENJVmcyelJMUmhDLXZ6a1lwZmlVNENYVFk4WjNVcTZtaFdiTkxuLS1kMTNiUUt1QkFVM0ZTS3BSWWtyNHJ3SmZ4NDVsV1VMZGFkNHV0X1V2U2U2cENvSHdLUGtPc2g4YjRmdFZIY0tWVDhqNkUzM2lsemFTUmI4MlVqdlhBTGoxQkk?oc=5"
+        },
+        {
+            "title": "SEMI forum targets Europe’s semiconductor strategy ... - eeNews Europe",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdkRoa1cycGtBdHRLTFl2dXJYNFdoeEZDaXE5ZGtRYVZJYmN4cVZ4WVVFVnFvR0JHQ3RoR3ltRnZzOXBPZ0xzOWdTZTJUQldsX3RQS2oxMHFEZVlkVmlyZDBKeHo4eUNoRmNrdFBBalJXLTVJakVuTjJRb1AwUjM4eDY3ZVdlY1lmOVE?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "A digitally controlled silicon quantum processing unit",
+            "link": "http://arxiv.org/abs/2604.16216v1"
+        },
+        {
+            "title": "Strain-induced modification of spin-optical dynamics in silicon vacancy centers for integrated quantum technologies",
+            "link": "http://arxiv.org/abs/2604.16194v1"
+        },
+        {
+            "title": "Ultrafast Current Switching from Quantum Geometry in Semimetals",
+            "link": "http://arxiv.org/abs/2604.15924v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
