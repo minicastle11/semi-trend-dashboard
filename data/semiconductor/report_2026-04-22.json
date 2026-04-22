@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-22 23:50:35.469413",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "Mind the gap! The semiconductor industry is relying on the wrong materials - Phys.org",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wejd2LXRMc3hGWDFTZE1Tbk1ybzFGS3d3anJ2bFN6X2tzZTVNNXlwMGRnZV9Wcld0bDNESllLdzd2a2EzUDMyRWNvdWFITGpuQ2pPZUN5Z2NGNGE4dG1oSzFkT1pMTzVtUk84aGlFQkloenRSS0E0T0VXVmg?oc=5"
+        },
+        {
+            "title": "How China's chip expansion puts pressure on global rivals - dw.com",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLW5Pblk2YUVnUkllSUpvWWxnRm9ZR3RGM0tQVl81ZVp5MXdVMFZBbDFFN3paX2Q0ek9Sa21zNk9HYzBhZVdxN0RLcnVWa0pmVUN0b0ZraVJlbmJwLXpMeWhqU1IwT3FtUXlxUkxGb0ZqQnJSZThMX29ZckFtUktQdGt4WXlEbG5BWkZ3M0tabWFFZlZx0gGUAUFVX3lxTE9LTnFjWFQwcjFsYmVyVFZGc0NscDZua3VveTFxczdTMjZEdkU1WHJYNUZJUzI4b1VfOW83Q3J4WlVhY2RzRllGV2xva3UzbWY4bmV3LU5XdzdzOHVnLTRIZkpnOEtjcHBrNEtNTUtCQzJmeWVWYkZaQkR1MjF0eGotVFZjQm1LMlkzblNfaUtnS1owcU0?oc=5"
+        },
+        {
+            "title": "TSMC Says ASML’s Latest Chipmaking Gear Is Too Pricey to Use - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3J6a3p3TzlleVNybTBwZ2VEXzhYZ2FFOGFhbnZrMTNMWmNPd042TnNtUEZuUjhiSkF5ekRyVlJYYS1abWdiQnNsZVJTNFZfNFQ2RVRNek56Z0hYbU9SQXl3MEhWQzdLQk5FUjVhUlhxWXYtYjZoUGgzMjhyLTctYWxsdDBsWldoaHVVYjR0Wi1YbFZVa3FsSEl4V2lEVExyd3k4VVl3QXJEYVo1cjZVYQ?oc=5"
+        },
+        {
+            "title": "The chip industry's most important company is cutting managers. This doc shows how. - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVdTUXBOMHp1bXNSaEI1NWpSV082dU01MEtmTzdtS0lqcG52WUVYX3RjSWxoU2hSdkplQ2dxZWtuWTRUZ3liU3BrOTlRRHhTMnpkVWphNDFoeDdleHJCWDNadGVYLUNLOW8tSGVPamRLU1JsWWdwLXlWOU5DM3Zxc25qcGxKTDB0?oc=5"
+        },
+        {
+            "title": "TSMC plans to open chip packaging plant in Arizona by 2029, executive says - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWZmNjdtZFZyT3pxSld2bmNFZXFXYllDbVlQVFlYOTJJaGs4QXgxcERfc2JYdktkRFBCQW13WDV1bmJRanVGb2lfX05NWFlNN1kxMVdycmYzVWFVLVlGcVM0amUwdXZfbWpBaTROSEZRWTZxQVB6cFNaZ1d1enFjNmhHUkFhV1d1YWZxbXJLelNQWFA2VVVCSXlqQjdVYTBfaVhGbzBvUUZ4eHd4UTV0dnh6eEJ0bzlaelhxazRuNA?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Atomic-scale origin of charge density wave-driven metal-semiconductor transition in an incommensurately modulated metal-organic framework",
+            "link": "http://arxiv.org/abs/2604.19640v1"
+        },
+        {
+            "title": "Efficient optimisation of multi-parameter quantum control protocols for strongly-coupled systems",
+            "link": "http://arxiv.org/abs/2604.19621v1"
+        },
+        {
+            "title": "Josephson diode effect in multichannel Rashba nanowires: role of inter-subband coupling",
+            "link": "http://arxiv.org/abs/2604.19385v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
