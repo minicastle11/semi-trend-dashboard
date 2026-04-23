@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-23 23:52:41.106407",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "Elon Musk says he’ll use Intel’s 14A chip technology for his ‘Terafab’ - OregonLive.com",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXF2dzltWWxSODZPb0ExUzJCYnI5SVhVamVWdW5pWC1RWlhLNmNyeDNKVVZseDFZNkhZemoxOEUzOEpDUUhYSXpUcDk1cmtTOVk1enJoU285M1JJNjNMUDZlYk12bzJ0Q1ZzQnNNX3IzMHNwWHBESk1HYXBiM1JjYVVfdDUwcnFMMTdCdWZNaWxFM1FuLTM1VzFXY0FPSVI1NEw3MlNyMlgyZnRxMVk3WjhZSHRqSlE3dDJBaDhn?oc=5"
+        },
+        {
+            "title": "TSMC shows smaller, faster chips without a pricey new tool from ASML - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOHhjcFJhVHRUamt0dTVjakJBU3hLejlXcUZOTVEtQmpWVjJPbGo3NVh4ZmpLN0REcjdKa1BxQjQ5SloyejRWS3hILUxiTDhpTEh3b1gweE5hOXN3aHcxR1VBd0o2VDlramhtb1ljTkVPS3Y3VF9ycDRzbkhfeVh3cUYxTHJkV3hILXo0VGU3ekpuNEY4aUoxdlJpNHVfTHlDampZaV80VE1YVXlWMHZaWG9pam0ydw?oc=5"
+        },
+        {
+            "title": "The chip industry's most important company is cutting managers. This doc shows how. - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVdTUXBOMHp1bXNSaEI1NWpSV082dU01MEtmTzdtS0lqcG52WUVYX3RjSWxoU2hSdkplQ2dxZWtuWTRUZ3liU3BrOTlRRHhTMnpkVWphNDFoeDdleHJCWDNadGVYLUNLOW8tSGVPamRLU1JsWWdwLXlWOU5DM3Zxc25qcGxKTDB0?oc=5"
+        },
+        {
+            "title": "Intel climbs ahead of earnings as semiconductor and software stocks continue to diverge - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHIwWVB6TkxHLWNCUWdDeXFTUVExSTM4UkRpVmN3Q3dLbUU4VVFuSlgyMHh3Q2J6QVZFVlhZYWRuaE9QdGdkdTBwbFhzLWFvVmltT0U5ZlpzWTh0U3owQndiU2dseGUtOUNkWDJuVzBEdE5ZaUFvWnpOVVpzbzFUTWVvbHJSMTkwR0diSzlEN3lCV1BoMWw3WmQ0MUFfcEY3R25MUDZLTm9oNkw2OHhOaDRwbW5VbkFFMkNyNWxqQjVQcVE?oc=5"
+        },
+        {
+            "title": "China's chip ambitions shake up global tech industry - dw.com",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkF0OG9zQ0JaSjd3N0ZxczdiR1VKNkdTRzVHZmVzcHNldVJUdmFrMm1fakxySWZmYklrQS05dlQzTHQyZDlNRFZfTTVkZTdCNGxZYTc3SGYxcDV6cnctcE1wLVFRejB3d0NxNUZQS25NN29fNWM4dWlKd2xMTUJTQkEwX0FrUGlNaG9qWThWZXQxYjAtOFdjU2JPMTZTVXhuTm5tbFFPOUvSAagBQVVfeXFMTTQ5R0R3YXl3SGZzNDhMQVk5bDRIRXltazJ5Z3dRdDB0bEowcmNhYzdMemI4YmVlU2YwM3pIelZzVE1iUlhkRmwtOC1GUVo5aUN4VHpUa1NhcDJTcFJ4X2FjMGswRjAyMGVFZzZaQldPS001SU00Nll3NElPYTFCNTZpTlFwUDhDbkpvYzZEVWttR3pGM3dFLTRTdldMRzZQaHJ2ZHFucGZE?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Stabilization of a non-superconducting, orthorhombic phase by over-hydrogenating LaFeSiH",
+            "link": "http://arxiv.org/abs/2604.20716v1"
+        },
+        {
+            "title": "Evaluating Computing Platforms for Sustainability: A Comparative Analysis of FPGAs against ASICs, GPUs, and CPUs",
+            "link": "http://arxiv.org/abs/2604.20638v1"
+        },
+        {
+            "title": "Atomic-scale origin of charge density wave-driven metal-semiconductor transition in an incommensurately modulated metal-organic framework",
+            "link": "http://arxiv.org/abs/2604.19640v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
