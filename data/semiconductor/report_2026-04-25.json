@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-25 23:43:15.866987",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "TSMC shows smaller, faster chips without a pricey new tool from ASML - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOHhjcFJhVHRUamt0dTVjakJBU3hLejlXcUZOTVEtQmpWVjJPbGo3NVh4ZmpLN0REcjdKa1BxQjQ5SloyejRWS3hILUxiTDhpTEh3b1gweE5hOXN3aHcxR1VBd0o2VDlramhtb1ljTkVPS3Y3VF9ycDRzbkhfeVh3cUYxTHJkV3hILXo0VGU3ekpuNEY4aUoxdlJpNHVfTHlDampZaV80VE1YVXlWMHZaWG9pam0ydw?oc=5"
+        },
+        {
+            "title": "3 Stocks to Buy From the Prospering Semiconductor Industry - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDRPTTltVUw2NkZiMURSVUhxV0VZOVEtbEJDN25YQXgtRmlOZDYwck5BOFY1MktwMWNpZm9NMU0wbDlxemk3VVFSdjJFRFlqb291ZFhHVFlkbTg0Vy1NUlo1ZXpPTXEzdmtrekZ4M2FuSFM0T0c1QkJvV09sWFI0ZXhrc2thcURqbU1YMTF0X1BoVDE0VGtxaERxTXRvTDEwT1pVWg?oc=5"
+        },
+        {
+            "title": "AMD (AMD) Shares Skyrocket, What You Need To Know - StockStory",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDNqQmU2aU81VmFFXzhHNVNqeUJqTXhyMjVITmJDc0RENVVvUHBoTmd5eUxFQ2VzcFVhMHRNeDFJRXlPZllFZWhjeFZSazZoNlIzWHR3R0NySUxGdjB6ZkJ1eFdkcFg5RWdxWDRvRGVhbnNSUVo2WlVDTlpod25KWHVibnd1RGdZbDNrcnZMbWl2N01xS1ZDaFpLcm54X0VuMkpPUk5sdXZ4R2lDbkE?oc=5"
+        },
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSQmFrRDRNdUJjV2NGSmV4ZFFpTVlMNEhSRGxIN0ZLVmxsUmVHZUcxRzI5TFIxYVk3MmZCVnVVaXBGc2tNRjJ2ZFhuVldmLUlaT1BuUnRfV2NhY0k4Y3BnVVlaaldXLUNBcTk3Ym5B?oc=5"
+        },
+        {
+            "title": "U.S. Commerce Secretary says Nvidia still hasn't sold any H200 AI GPUs to China — Chinese government is blocking imports in an attempt to push domestic semiconductor industry - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZU9nTktDWFFPcGE4OEdnMFdGNWlhRTVzUUx4SFFrampxeGFFUy1makY1a3AtOW1pNVJSa2IydHU2QVVLbEZpOGN4OVhrdDRza203TnlJbk9TYVpjTklsc1NJN3dVMWFjdEEwVkdTSmtPZzUyVVcyNDJhZ0ctcHF0Z0hFcWZ4T3RHdEtPTy1vaVJ4MkFhRGFEVGp3REpxdGV1aGtlVzVYOS1XaXNnZnB2cW9MRW5BWUs1RFZfTFM4T09sRGU3RW9ldzk0RHItSXZERi1GTThiVUZUM01EeVFZSWFGU3c2cG1SYWt1Y01IUkhNb09rNUhnTFpaZW1Gc0FNbjl5cmRpYmFHcC1ZaW12RTR2ZHlZT3VHanNabDJZVVBBWGpSVGYxS1g2cVBWaFFac3Zuek50b3o?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Electronic and Vibrational Properties of On-Surface Synthesized Gulf-Edged Chiral Graphene Nanoribbons",
+            "link": "http://arxiv.org/abs/2604.21796v1"
+        },
+        {
+            "title": "Microwave noise downconversion in interband cascade laser frequency combs",
+            "link": "http://arxiv.org/abs/2604.21418v1"
+        },
+        {
+            "title": "Collective Excitations and Stability of Nonequilibrium Polariton Supersolids",
+            "link": "http://arxiv.org/abs/2604.21353v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
