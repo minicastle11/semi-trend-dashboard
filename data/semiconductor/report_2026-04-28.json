@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-28 23:58:38.790790",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "Intel Confirms Another Gold Mine Segment In Semiconductors - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnVCUXFnbUVtbHFiMVlsb29JT1k4ajFRUEFOTG9DYmF2S2pORXlBZWM0eTU0UVM2andxbm5SaXBLa0xsX19GY2RQNWEzOGZ6UExLTjZsY0NmNmtOVjhITmdoTFpxY1VpeHpuMTE5Szl1WU9aMjlJaDlaQnhyVTdlMEw2MW5TQ3E3RVpsOHhwTWdFWnhkVnhUcHl1c1ZsYmJh?oc=5"
+        },
+        {
+            "title": "Zacks Industry Outlook Highlights Broadcom, Applied Materials and Credo Technology - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWVyZi1tWHZkY3RtZnpNNDZuUExtZGZtRDdVNjM0c0NmZW1rbk4wdGxPR2J3b1hid1lUSjJBWlZJYUQ5b2piR3dKLS01MnMya0NyNllabUhmbEl2WU9MdTBrUVNMeEdtd1lWUUtMQkViYnVqS2hxRldLVlk3cGZ5TVNjc2FFQWt5QTV1OVJKdEN0eE5scUtEVTluaXRkVzJzeV9QZVZJRU5XMnc?oc=5"
+        },
+        {
+            "title": "Chip toolmaker Tokyo Electron cuts ties with executive linked to Chinese rivals - Financial Times",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUNYbzBwYXJkdlVwVDFQc1hFQjMtU18tMDk0a1I5dHcyVC13MWdGOEx4WC1yNndsUzQ2dnNQdl80dGNjSXFuQjRmNGpYcnFuWGVMRGw1OVpHbFREaV8xQnBGZDNlS1MydXpjdjNkM3puNUxWU281QzZNaUkxNUhQQlZYNTI?oc=5"
+        },
+        {
+            "title": "The Atomic Gap That Could Cost the Semiconductor Industry Billions - SciTechDaily",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT25OTjhWNkhCelVKOEJ4VVVESHNiTG42MDZ2N0VpYXBpTG16Rm1neERPQS1yOWVrWXpaSXh2LXA5Ql8zdFZEMUtWaEtMcTNIeDVqcjU1LTJDakdiZU5JVDE5N2RhbzB1di1SMWRydTN5NkE0TkZkUXVIbW1fSEwyQXJuMUN2SFFqVDF6MmVkaTNsOTB6WENz?oc=5"
+        },
+        {
+            "title": "This Semiconductor Stock Is Up 36% in 2026, and It's Not Too Late to Buy Right Now - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkZNdkUyUmNCOThrUGdFS1pkZm93VHFSOERISnNCNFhaZExieVhpaGt0TTRELWF0RUsyT1FCOHUwbnUxZUlQMjBpLUJnU0RCOXphOVBuZW5SVldlLVJCZkJQUTU1bWVwTHpmY1NOYXBKSHpJNXo4M0N1d3ZJWHdQWlIzNzhUYlh1QXpoNDkwSHhSVTBIWnFN?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling",
+            "link": "http://arxiv.org/abs/2604.24739v1"
+        },
+        {
+            "title": "Bottom-up realization of a type-II organic-TMD heterointerface: Pentacene on monolayer WS2",
+            "link": "http://arxiv.org/abs/2604.24671v1"
+        },
+        {
+            "title": "Physical Basis for Band Transport and Dimensionality in Amorphous Oxide Semiconductor Field-Effect Transistors",
+            "link": "http://arxiv.org/abs/2604.24641v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
