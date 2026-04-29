@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-29 23:58:49.104023",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "KLA Corporation and NXP Semiconductors Shares Are Falling, What You Need To Know - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEQ3ai15allrZ3EyMkZtY0szbXo2RVhwRUc0dlpCbGViaGZ4bzFxdWFoNUVFQXlxaEdnaW1UOGVIV1hrdWpFMFNqWkM4SzA0eXMwOWFseUZVWDgtRHV6WUI1OE5QaTRUUTZQRGg2ZUNBUTlMQmpKanVicEtZOTBqdE9SbGYzVF9OVXpWUTFFTlhQUFFLbXNLVW9ZdmxnTnhjOXRXV3ZMQWw5Zw?oc=5"
+        },
+        {
+            "title": "Where the U.S.’s Chip Strategy Is Still Falling Short - Harvard Business Review",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTdwcUMwemNzY3JTU0lkSWtSNzdzLUhObXA3ckZvVWhuN2lMUjNZc2JNNlpYdHFHWFBGRF80dnRJZlI5WDBQalJDMElJOHlNTGRVQkhNY2JoY0p4T2t6aWdTSE1oMmhMQUFMNnczZjU1d056QThoSTY2Q0V3Xy1WXzJR?oc=5"
+        },
+        {
+            "title": "Intel Confirms Another Gold Mine Segment In Semiconductors - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnVCUXFnbUVtbHFiMVlsb29JT1k4ajFRUEFOTG9DYmF2S2pORXlBZWM0eTU0UVM2andxbm5SaXBLa0xsX19GY2RQNWEzOGZ6UExLTjZsY0NmNmtOVjhITmdoTFpxY1VpeHpuMTE5Szl1WU9aMjlJaDlaQnhyVTdlMEw2MW5TQ3E3RVpsOHhwTWdFWnhkVnhUcHl1c1ZsYmJh?oc=5"
+        },
+        {
+            "title": "The Atomic Gap That Could Cost the Semiconductor Industry Billions - SciTechDaily",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT25OTjhWNkhCelVKOEJ4VVVESHNiTG42MDZ2N0VpYXBpTG16Rm1neERPQS1yOWVrWXpaSXh2LXA5Ql8zdFZEMUtWaEtMcTNIeDVqcjU1LTJDakdiZU5JVDE5N2RhbzB1di1SMWRydTN5NkE0TkZkUXVIbW1fSEwyQXJuMUN2SFFqVDF6MmVkaTNsOTB6WENz?oc=5"
+        },
+        {
+            "title": "War or Peace, the Artificial Intelligence (AI) Chip Industry Just Learned Depending on One Route for 30% of Its Helium Is Risky - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVXBybjRVc1pUWVNmMU5JSkVqLUQ4NXlqZThNVXM2ZlkwVklHOVg0V3Y2Mk56dnp6MUZYZlBIRjhvZGtoc3FfWVQtMElIc1dFdXp1dTZDWUFiZzZ1ZU9DbkIyZDJQRzFpTlN1Y2cxeDZoOXNELUx6VVpKZlBqMDZNelNlc2JYMUo2OXE2Smo0WWZ3UTctWFl6LQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Spin-Axis-Layer Locking for Intrinsic Bipolar Altermagnetic Semiconductors: Proof-of-Concept in Bilayer CuBr2",
+            "link": "http://arxiv.org/abs/2604.25658v1"
+        },
+        {
+            "title": "Near-identical photons from distant quantum dot-cavity devices",
+            "link": "http://arxiv.org/abs/2604.25615v1"
+        },
+        {
+            "title": "Benchmarking bandgap prediction in semiconductors under experimental and realistic evaluation settings",
+            "link": "http://arxiv.org/abs/2604.25568v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
