@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-04-30 23:56:10.921672",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "The Atomic Gap That Could Cost the Semiconductor Industry Billions - SciTechDaily",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT25OTjhWNkhCelVKOEJ4VVVESHNiTG42MDZ2N0VpYXBpTG16Rm1neERPQS1yOWVrWXpaSXh2LXA5Ql8zdFZEMUtWaEtMcTNIeDVqcjU1LTJDakdiZU5JVDE5N2RhbzB1di1SMWRydTN5NkE0TkZkUXVIbW1fSEwyQXJuMUN2SFFqVDF6MmVkaTNsOTB6WENz?oc=5"
+        },
+        {
+            "title": "Manufacturer for semiconductor industry announces layoffs in Lehigh County - WFMZ.com",
+            "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSVZDdmxhVXd3bnpESUFKNDB0UlMxaXBObFR5TXZVbHZ0M0lacDR0N1c3cVlwOEdDSUxVemxyRnZnUlZsMjJPTmZ2M0pfZlBrQm1RWGdXQVhEQ1JfMXNYTjF1RUNYZjNZQkc3d2ZfM2NETXRwMGluM29iY3R2QmsyMlF1SkpTUWg5d1JPZXhBQnBfRnZ4TTJfcGY3N2VwX3QtcUtUdTRPd0hweTVKcE1UbVEzdmJiQkZuQjR0eElwZG1aMFNLVlJfdi15VFFRaFp1MFlSZ09EUm50anhCTFdxN21leUxwdlNLZUh6THB2RkVqVkxTV3p0bVBCQVRsVHZVVDlLS2RqZFdtVjZORzdjcE5RS0p1bmpCYmFHanhmaUZacjg?oc=5"
+        },
+        {
+            "title": "Where the U.S.’s Chip Strategy Is Still Falling Short - Harvard Business Review",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTdwcUMwemNzY3JTU0lkSWtSNzdzLUhObXA3ckZvVWhuN2lMUjNZc2JNNlpYdHFHWFBGRF80dnRJZlI5WDBQalJDMElJOHlNTGRVQkhNY2JoY0p4T2t6aWdTSE1oMmhMQUFMNnczZjU1d056QThoSTY2Q0V3Xy1WXzJR?oc=5"
+        },
+        {
+            "title": "Intel Confirms Another Gold Mine Segment In Semiconductors - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnVCUXFnbUVtbHFiMVlsb29JT1k4ajFRUEFOTG9DYmF2S2pORXlBZWM0eTU0UVM2andxbm5SaXBLa0xsX19GY2RQNWEzOGZ6UExLTjZsY0NmNmtOVjhITmdoTFpxY1VpeHpuMTE5Szl1WU9aMjlJaDlaQnhyVTdlMEw2MW5TQ3E3RVpsOHhwTWdFWnhkVnhUcHl1c1ZsYmJh?oc=5"
+        },
+        {
+            "title": "Semiconductors: TSMC is Not Buying ASML’s New Machines - Manufacturing Digital",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZm9VeEJRTlVuNHA0dUFrQnZHM0R2UkFjTmt1VzhTNzBxWl9nWmVBMV83eFA4N3lpM05Oc3VMZGxtTTNLVVozdC1FODF6Nkk5UkExTmpQTVdvNUhFZXM3cTBjV0pZUHRVaHZab0VPNnNlZVR5WWQ2eV93SEpNSk5aMl9DMVRDYVQ3UWNQcDlBYzFFaG5LeHBxQTRn?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Recent Advances in mm-Wave and Sub-THz/THz Oscillators for FutureG Technologies",
+            "link": "http://arxiv.org/abs/2604.26903v1"
+        },
+        {
+            "title": "Fast, powerful, low-noise optical pumping of an atomic vapor with semiconductor optical amplifiers",
+            "link": "http://arxiv.org/abs/2604.26721v1"
+        },
+        {
+            "title": "Dynamic disentanglement of photoflexoelectricity and flexophotovoltage",
+            "link": "http://arxiv.org/abs/2604.26720v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
