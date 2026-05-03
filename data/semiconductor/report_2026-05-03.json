@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-05-03 23:53:51.722423",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "Analyst: Forget the Chip Cycle, Because AI Demand Has Permanently Rewired Semiconductor Pricing - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGR3WFRZNmxScVl1Sjd0U3d6TWRKandzV29WOGdNMmFVZ05qTGFtZkxfTjZMbVc2VXRBRkdfQnZhcjVlRkVqRC1zZ3A4eUlxV2pZcl9sMnk1NHFhakY3c200X3U0QXhsYlRMM28tS2RDMkI4c0J2aUpUdFMxeUZkY0tRZnd6VnkxcnhCTm5zRkZLMVpqQlU3djgwd1p2OWdDb0xBcA?oc=5"
+        },
+        {
+            "title": "Manufacturer for semiconductor industry announces layoffs in Lehigh County - WFMZ.com",
+            "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSVZDdmxhVXd3bnpESUFKNDB0UlMxaXBObFR5TXZVbHZ0M0lacDR0N1c3cVlwOEdDSUxVemxyRnZnUlZsMjJPTmZ2M0pfZlBrQm1RWGdXQVhEQ1JfMXNYTjF1RUNYZjNZQkc3d2ZfM2NETXRwMGluM29iY3R2QmsyMlF1SkpTUWg5d1JPZXhBQnBfRnZ4TTJfcGY3N2VwX3QtcUtUdTRPd0hweTVKcE1UbVEzdmJiQkZuQjR0eElwZG1aMFNLVlJfdi15VFFRaFp1MFlSZ09EUm50anhCTFdxN21leUxwdlNLZUh6THB2RkVqVkxTV3p0bVBCQVRsVHZVVDlLS2RqZFdtVjZORzdjcE5RS0p1bmpCYmFHanhmaUZacjg?oc=5"
+        },
+        {
+            "title": "ESMC confirmed to be on schedule — and sets its sights on AI - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVBZcHh4M29iMnlKNE5MZ2NCYkJMU0g0di1SOHVYdTBfZjkyZkZ1aHhQM05KUGxUNzcxMGxWSE5TNnljVHNleWhxV3E2QWhOU0xoNENqMGYyeVZCcU1mRmlsNnQ2VmpRY1dwSkdTT2NCcDBJNnoxQXhUdVZ5WFNhMF80NW1fMTN6ZTZ5WFZTLTIwTW9HMjE0?oc=5"
+        },
+        {
+            "title": "Chip Industry Week in Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GeE42aTYtaGxvc3RVWWVyRXdXOGRXX2JvRGpVaGxQV3A4TUxiQmxzMkdhNFdPX0R5MzhjOC1XUHZwSHIyWWxFWnowcWdEQ0FaSFRTcE9vbDdwd3pueEZHNFdsd1B1TVVOME5vNGhn?oc=5"
+        },
+        {
+            "title": "Huawei could seize China’s AI chip crown in 2026 as Nvidia's H200 shipments stall in regulatory limbo — Beijing pushes homegrown AI hardware dominance in a market projected to hit $67 billion by 2030 - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNRFJBVkJvNlFGbmR1T3RJdlVGYzNGZ0I5R2pqX3VYaHQ3SF9CVjZnbTZnR29sWGd3RE53SkhKTkxzVnJIZjJqdDlxQTlXZzQ2U0ZLLVVoOWdfaUJMcEx2Ym5pOVF2R2pZaEQ4cXRpS2NEdEk5UEhPUl9IQzFDeHg5REc1WDFUbUIyRlZyVGwwbkNtbkJScXk5RkdJYUJ6YXhjZDFzd05yQ18yTnVjMEZVVjdRdUZMMEJRWFlaRXBySFZ0U2VsQlJqZUctaFc1MVEwS1ZFWksyNi1KZzU0UEZKeDVsTldkcTlWb0paMktEV09qWUtyeE0xeE1ETmRHSEEyTDlWRTU1cDR0RzM5ZHVSTTlFalJ3TzhxUmFCWjlreEl3UlJ1eU5mTjk5eUNKdkxuT3EzaVpjcmFqN3V4eW5aX1RDMmVvRV9fVWl0dG5ueUt4bmU0VmdsYkNpYTRVZFIwYmxISGxUeWdweDk2Ym55MzBKZVlfTkpqSFV0MQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "From Narrow-gap Semiconductor to Metallic Altermagnet: Optical Fingerprints of Co-Doped FeSb$_2$",
+            "link": "http://arxiv.org/abs/2604.28105v1"
+        },
+        {
+            "title": "Quantifying Thermal, Photovoltage, and Defect Contributions to Transient Absorption of Ta$_{3}$N$_{5}$ Photoanodes",
+            "link": "http://arxiv.org/abs/2604.28094v1"
+        },
+        {
+            "title": "Analysis of Electromagnetic Scattering from Semiconductor Nanostructures by Solving Coupled Volume Integral and Two-fluid Hydrodynamic Equations",
+            "link": "http://arxiv.org/abs/2604.28083v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
