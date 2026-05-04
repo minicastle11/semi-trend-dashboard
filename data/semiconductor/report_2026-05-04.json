@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-05-04 23:58:24.671041",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "Navitas Semiconductor Appoints Davin Lee as Independent Director to its Board - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUm9yNV9MM1R0UHhaTmhhR2hTSWd4bVgwek5GYzktZ1dvM2RJNEI1MkJKRkVVdTBIUktSYlQtQnh3SUlzVGNKNGJEckd0TVI5c1M1NnRPX3JDd3A1NTgyQlRqVFU5anIxRFdVSUNVRG1qQzMtTlJDOUVsV01PSEVpOHltMy1qTzRiRGVGWmNvUVN6aTJRSWxlS2ZiaVktYTczVklobWpGNGdDVnBsSUE?oc=5"
+        },
+        {
+            "title": "Global Semiconductor Sales Increase 25% from Q4 2025 to Q1 2026 - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2F3VW9rMkxMY3lqcGdYT3F3ZDF0bUlZN2VhZmRONjRqbHJUWG5Vb2U2MVVSRml0UzdwaFI0Mk15Q3JVLW5Dc1MtX3ZKUkZnckdtT01lZEN4dVROTkpadVJ6NzJKWTJzT2xadlFMSW8wZTBpd1Z4VmpsNUVYdzhVcVYwYkJjdVZBMTc5dGNQVk1qb053QWdmNXFB?oc=5"
+        },
+        {
+            "title": "3 Semiconductor Stocks Poised to Gain as Google Eyes $190B AI Buildout - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWs0T1h3ZXlHOG9fMWxuZkVDN0UzUGd3ZmhUNE1IbDBPRkl6aVZJNkd0M1ZzaHBFWEk2LWhOcVV6TkJDano0RVdrRkZmQmlKcS1RQzhkMy1KWExRMzdJWlNSNkZfc1daQlJTUkN6bGRUaGY3cG4wNDRaTGQwOVpMTzdoY0Fta3RjcW9SWVFEN0UtbTdPX0lmdnRXTGxmVnQzMWdscWQxdXFJMm50Rm5lVkJLczBEa18wYUx2UGNacENUSHM?oc=5"
+        },
+        {
+            "title": "Analyst: Forget the Chip Cycle, Because AI Demand Has Permanently Rewired Semiconductor Pricing - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQU9XdU5pUmx0TllVckJtOVowUkcyNEN3OWlPeVBkR2w0TEVGZFY1MkduTDgtUlQ2V0hia04wV0dlTzltRkpMRGJmWHVEa21Vb2hDa1NiRkN5d0hoU3E5WGpxZ2VHbFdBZ0VXY3R1WklqSlE4MExFTG1UUS0yXy0xSU1mOVh1bmdoaFE3Q1oyWW81amtpeFB1cTJRV05SRUQ0cmtLMEF3U1d3d0pNU1E2V3p3d1dMWmVzcnY3ckJrMldzSTlNdGNwbkNyU1BlQ3pQcFVR?oc=5"
+        },
+        {
+            "title": "Exynos 2700 Can Turn Around Samsung’s Non-Memory & Semiconductor Business, But It All Depends On The SoC’s Adoption And Performance - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjdLcjh0TXJjbC1FTVA2YUlYSHJiSDlUckZuanRjeTN4RW5ZR0N2QjZUVGpTM3UwMExiQjVjQ04yd0h0bnNqcmVpdHgyZXBCZ1lSU1ZPdVdEUG8tTnF5eFdIaHRYS01EVWtwelctdTRjVGtmYnkyU3d6NExhUXhvZFJPR3Aydk9ienhyTWxHWTAzWk14X1JxTGR3RlhBQzlZ0gGmAUFVX3lxTE11TlhCOUZHdHoxWFMwTnE4OWQ0YjU5UE83S0pVdlRQUkI1TUFpWXA2VVZ1X0gtWjk1dGw0QUN3amxVU0FiYmFrV1F3WkVheF93WWdCZWJCSXJPUFNNWlZFOG1mNkstSTgzRzRqaU1mODhBODBQSHFCbTBqbmhDS21zUW9qRzdqbjdjU2xnWWZXbjdlRW1EcDNSSjN2anp0b0dud1Raa1E?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Experimental Evidence of Fractional Entropy in Critical Kondo Systems",
+            "link": "http://arxiv.org/abs/2605.00669v1"
+        },
+        {
+            "title": "Coordination-Induced Tuning of Ligand-Centered Red Emission in a cis-[Cd(Tz)2(py)2] Complex for Light-Emitting Diodes",
+            "link": "http://arxiv.org/abs/2605.00599v1"
+        },
+        {
+            "title": "An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Performance Prediction of Ferroelectric Hf0.5Zr0.5O2 Thin Film Capacitors",
+            "link": "http://arxiv.org/abs/2605.00544v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
