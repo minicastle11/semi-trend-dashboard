@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-05-10 23:56:48.052789",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "Is It Too Late To Consider Taiwan Semiconductor Manufacturing (NYSE:TSM) After 1-Year 139% Surge? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2tLeDBRRDFfUC1aY0ViRmVoRVNlQV9yVkZQUWktWVFEb0VSOEVnUGVpNGRkS1VXb3RobGhIRWh0eHM3eHlleThjVW1jWVFLcFFIMHR5NFNzR2Z5MlgzNWotY0k4aFZXelhINkp3cDlQWHBWODhoN21VQU1TZkozaFVpMkRqemJ1UkVGWEZES0VRaTgwakNGRjhvbmpOMWdVYlF2YXptXzBEYzVKS3NwcHh3?oc=5"
+        },
+        {
+            "title": "Brothers Become Billionaires From Supplying Chemicals To China’s Semiconductor Industry - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVk03VmtzaDlMSE03cFpXbHRmWWhnUVE0T2FsekVCeUE0SmZ2WGZaVUw1aEU2d3gwT1MyT0ZxMHVZeEloUjdnWkFPN3JlSWNQazQ2Vk5rQ1BLYThiSkp6d2tMV3JYa0NXcWs5YlctVW5jaWpWR2h5WUlPZWo5R3J1SE8xbjZRSzZEMXpNR1ZkU0xzUWxnMmhUQnNETTczS3pmdzhEX2d1RWVjczFzeWh1QW9Ob3lPWEhBdndzbnVwTDJKUGJkNVNuNTdidkVmQ1QwamRv?oc=5"
+        },
+        {
+            "title": "Semiconductor sector adds $3.8 trillion in market cap as AI demand broadens - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmZjcDQ0cjd3Y1MtOUxXNU0yMGxIUFpxeHpVX1J6SjJvXzdvb1hvSm43Qk42ZDBPekVkVTZNLTBxU3FJMVBPdG92R1pUYVdRaVBzakdCSlVMbmRnVld2WjFJRWJYSC1uLThqdGRjYzNORTZSQWlDWHI2Z1RobXdUdTJ3MUZjaUJrOWRFNnYyVHM0UXlJRDhBdkRpN1otSWRUbnRoZDl5dkRLanJ1TjlCeDZDR1pGa1VHYzJMYmFwQ0xCbGwwT01VN1Jn?oc=5"
+        },
+        {
+            "title": "Micron and CWI team up to educate workers for a trillion-dollar industry - BoiseDev",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXl1UDAwaklHV2hCS1ktR2ZEVW5NTkl3LWRBY1hmNlZlOUZpdFIyU3IwcWNmTDVJaHJkSXZWa2RoQmZObnE0SHFySktyclozX3ZRTWdFaWg4TnlaT3FMMTU3cTJlclRhZjBKSlFORWZ5M19ic2hnOW1TSDExdTE2LXliRmh0UGZFLTU3UUUxekFZNnRhUjZTakZGaEZrc3F0LXl5SjNIdFFEbzh1VjNN?oc=5"
+        },
+        {
+            "title": "Is Taiwan Semiconductor Manufacturing a Buy, Sell, or Hold in 2026? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXpoVnR6TUpWMWhUSkk2VDVOdG45SXhOUEJodWVsNWIydGZFdHhxNmRuUGpuM3pJc0xfYTZMUVlEb3l1YXhWRlhXX2dXNVBPSFZ2QnhyOUVrdnRwMWVKdkhkdktHaTJPWXZPS0tRcTRMNUhzSkVCNHZoLXpBTEVaUVZGZFVSYkpGZFFMT0tOOEJFZXBOcHE0cg?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown by molecular beam epitaxy",
+            "link": "http://arxiv.org/abs/2605.06603v1"
+        },
+        {
+            "title": "Quantum Electron Quasicrystal",
+            "link": "http://arxiv.org/abs/2605.06302v1"
+        },
+        {
+            "title": "Dominant Role of Sulphur divacancy in Charge Trapping Dynamics in MoS$_2$",
+            "link": "http://arxiv.org/abs/2605.06109v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
