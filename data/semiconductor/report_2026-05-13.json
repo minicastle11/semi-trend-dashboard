@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-05-13 00:04:10.966859",
+    "price_history": {
+        "2024-04-01": 31.803,
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.67,
+        "2026-01-01": 29.566,
+        "2026-02-01": 30.234,
+        "2026-03-01": 30.229
+    },
+    "news_sources": [
+        {
+            "title": "India's 3rd semiconductor plant to start in July, 4th facility to be up by Nov-Dec: Vaishnaw - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPekNZUk9DR2JmLXVrSEhBZjAwa1czbGlrNmctbzRYYUVHWGtxMW9hMlFHS2tyc0xWX3VBTEJUV2o2ZE9UNHNOZTFtakttbXNJSmxFQ01KX1FWVWg0cmZwVGdlQ3o3THpkMXFzUFROenkxNWtKajdPaG9BYXJyQ3g0cmFBVEs0d0twSGIzTll0d040TWc4Q3NBTzFFLW9xZS02ZUliN2NMVlpzZFp6bFVqTEhrZkpleVVtYlF1d2ZWcHNmX0ZSdVJVbk9pNkVULTFZWEk0YWtsRTlOTXRhNE5yV2Etc0I1NEhNQTZ6dmFENlJ2RHdvUFB0VnJFVTllZ21XN1pPdWQ5dEJyZ9IBjwJBVV95cUxQSXlsckxRcXp5eG9NamEwWTh4Z1llTmJBOHZYdHlsU1RHUGkxSXRpVkZnU1ItTW9UbnU3ZDhISDFyREExV2lRSndOSmV3YUhZWTRDS1J0a1RrMV9BUDBDU25GRG40eUZUT0daRUNwQXE2a1VKWlVSSGZ2RFN3azY5QkJidDRHdHp1cjJlOVJ6bGlDbl9nRUV5Yk1JTGdUQkdRbWZHa0g5cE1wN19scXZJb2dabE10SG1KTlZVNU5YdzNBUlEwWjdhdGJkSl82djJWc3RkQ2NCS01OekVTejZLTWw4eElZNzFLQVJEdnRQa3NBT1RUQkhfWFJsYW5IQ1B3WEpUYzE0UHBfMzB3TEFV?oc=5"
+        },
+        {
+            "title": "Semis Memo: Supply Chain Inheritance - Citrini Research",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00ZjdpWGVFblhmell2VkxrbnRrcWJoU1E1QVI3dWJpNHlmYVQ1N0VTbi1obzhMTENFVWVHbmRVLWJud3M2QUt0aTktNWFFZThUWHFKaXlyYUVaRVoxd25reml1X0ZXSlhoTmJCNHU1TE5BYTFyaWVEZA?oc=5"
+        },
+        {
+            "title": "The Next Phase of the AI Chip Supercycle Is Here. 1 Growth Stock Buy Before It Is Too Late (Hint: It Isn't Intel or Broadcom) - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGFKeTkzNk1LU0szODdjc01pbXY2ZXVJaXF2M0pTQS1GUS0wUnBHMlRXWW1ILU0xMTlJY2JWTXR6MF9GbmZyYU1fOUFPYXhvVnRkRTNqdGxuaHFRS2lTVV96YXpIbmcyRVNFamlhdW92MXhLOG5EM2toZ3V5NkRYb21VSExsUzl4OVBzVXIxcW9ic3hxanFGQg?oc=5"
+        },
+        {
+            "title": "Is It Too Late To Consider Taiwan Semiconductor Manufacturing (NYSE:TSM) After 1-Year 139% Surge? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2tLeDBRRDFfUC1aY0ViRmVoRVNlQV9yVkZQUWktWVFEb0VSOEVnUGVpNGRkS1VXb3RobGhIRWh0eHM3eHlleThjVW1jWVFLcFFIMHR5NFNzR2Z5MlgzNWotY0k4aFZXelhINkp3cDlQWHBWODhoN21VQU1TZkozaFVpMkRqemJ1UkVGWEZES0VRaTgwakNGRjhvbmpOMWdVYlF2YXptXzBEYzVKS3NwcHh3?oc=5"
+        },
+        {
+            "title": "The Semiconductor Market Could Double to More Than $1.5 Trillion by 2030. Here's the Best Chip Stock to Buy. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFhzcjFyV3RBY1dSM2JIQkw4NDlNS0VYVUVpQWsyUzczT29DTzhDRmhabFF2OHFLOXRmUzJacFdzcDZfbFpLU2dIN1NwNUlrVjJLMmJVTFlVMXQ0ZTVqNWIzblRwZjlKa3ZWQ05yV0xGZ0Fhck14eVI3WVhzNmdoNEFMZl9wdGNRQW1HMDVXY3BNOGFyRTBYWg?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
