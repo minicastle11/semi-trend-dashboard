@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-05-14 00:05:36.465553",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Interview: Cyient Semiconductors CEO on Kinetic acquisition — why power is the new compute bottleneck - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEtLblkxNmtKNEg5NEl1SDJlTlRPSE5TcXZSY1pZaGl0cHBCWWRybnd3YjZjMGVoRnhwYzVBZm8xeE10VGtmemhIbkExTXdwYkVSWm5MbTV6ZWxFQ1ZPblhiUTBramZiZUtTNlVPSVpiVF9ieWJvX1UzWWRqU2V4MGpMOFRNaGZjd3MwZTNOSXg5cjZaU1BXYTNyS1JIOGFBMGo5V2t2b1ZSR2dLc1Y1NQ?oc=5"
+        },
+        {
+            "title": "Better Buy: Taiwan Semiconductor vs. Micron Stock - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNemNtdHRkNk80ZFBxaXJKV25DaG43NjBnUXk3YzBrUkM0QzNFc2h6dHRoRTZOa3l3YU9zZnJxWEFiS3Q5ZnQtU3dzd0Y1bUFSbEhqWmV4aTdkdXhQSldyTkNyR3ktR1BVQS1NQUdia0lUWVBuc3U4dXlKMUdObi1BRGJnd19rRVR5el9mNEo0VUxfNUI2?oc=5"
+        },
+        {
+            "title": "Howard Lutnick Says US Is 'Bringing Back' Semiconductor Manufacturing: Here Are ETFs That Could Benefit - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWTdIZU9jbEQ3M2lRczM1ODhHbUI4WlhUOTdEYXFMT0QxY1Bhd2ZNRjgzb1J1dU5LUkd0YmRSQ1NMbkx6NDZZdEtUYU9vWVFBUGlyQ3Z5UXZxTDkwUHhaelNtZG5JVVZIWlFJUEc4ZklyZjBRYUt6dEpoZ01mRUtkSC1hMA?oc=5"
+        },
+        {
+            "title": "All-In On Semiconductors - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTUVNZVVJRjNYbjNvZUV5cHVjSUltVkNvU2tJZExlQXRUN3I1Qmg2ZXZQMHlzbTNmYVJCaV9IbEJ1VEQzSlMwTHVKeVhOcXlhcU1zNGxDZjdHaE5rdGNyNTRQTHl4NzkyeUtsRGFyb1RJelU?oc=5"
+        },
+        {
+            "title": "Chinese researchers achieve breakthroughs in photoresist development for semiconductors - Global Times",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FMVlXNDZ6NzI1b0cwc3dGR0ZJUEcyYWNnbENTZmpFVXpDaDF5QU40MF9oRG9Yb05QVDJqTFdVZDNLQmNjS2JJeG5GZVh6ZlNiaTFOVUV2cFgzS3dRQ1N2TVp3?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
