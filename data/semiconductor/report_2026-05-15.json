@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-05-15 23:57:46.830290",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Samsung Electronics Proactively Cuts Semiconductor Output Ahead of Strike - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3FQUDNkcW1DZk9jd3RmQUVSVVgza184T1haOGJFaXFiV3BXZFJoMHdPV3BvX2Znc25aRm14UXQ0RWZySmc5U1EtVmdIellSSU5Jdjd4WjlxRm1sX0NNTjgzaTJyWFdfYVpDekllckg0UEF6RkhGaE9KS1RyZG1hZkYxVVVCblZm?oc=5"
+        },
+        {
+            "title": "China's SMIC says foreign clients shifting orders back to China - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmhLQnUwLTNtTnBRNW1FWVdtYVpqZUFVaW40UThRMFY1NHNpRGZHdnpaNUh6N21VV3JfMHhoVkQ2dldDTUlIWTdnQmZ1TTU0UUF4OXhaOVYyaEhzZy1nejZ3Tm91bXNJN0tUbV9PUFc3YldrbERCa0tnVTdlc2d5NzZOZUtlTFpRVzZYbkhwMmp5SllKRnBja3psRmNRV2t6b1lFbU9Oa2ZFYms?oc=5"
+        },
+        {
+            "title": "Why Micron Stock Just Dropped - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VdnhJdml1OVdva1BMMXBkcmViby1ZTXBsaGZkSEpxRXNwYWpjUXppdC12TlNzbTFvNW1JMkhyUWp6emRFRHhWR2laR0R4enNtN0R3eUNjRjU2TzQ2b2dEU0JPSUhiYU1DTDVUWUt3WUtsTkpyV0FZNHAtT0k?oc=5"
+        },
+        {
+            "title": "Automakers Face Memory Shock as AI Uses Up Semiconductor Supply - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDBPY09WaThmYzlpR2cwbnBLbXU4QlFVQ0MxNHQxS0JFS01GSFRMTllvZkxRU1J5OURsXzNtakFkeDVueFRqZXRiNGlWZ0ptSFFXUDMydWtOVzlUNndhQlpNZ1BueG5iSEl6NzdRYi1XakxObFFKeDhWdTVkRGtmdS1oUmh4U0g1cXFqcmR2aV9Mdw?oc=5"
+        },
+        {
+            "title": "Best Of AI: Highest Quant-Rated Semiconductor Stocks - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTBUSTBfZjRwazh1MXVHWExOOWY1TjJESVhLelREbGF4YzBTVmR2U3RjZFVKVkg5aGF0NUdwOE0xTmcwZU1SRVhMWVVDZ3hCVnRFRy1aLUtWWnU1SmpVazdvNGoxTlFQaGw4NEtUeDVBVFdraTRwMVlxVHNPRmNfdWl5VUxTUTVmOTUtbF9tSmYzaEpnUW8w?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Mid-infrared Assisted THz Phonon Amplification in a 2D Semiconductor for Room Temperature Detection",
+            "link": "http://arxiv.org/abs/2605.15123v1"
+        },
+        {
+            "title": "Current induced magneto-optical Kerr effect as a probe of Dirac carriers in Bi$_{1-x}$Sb$_x$ alloy",
+            "link": "http://arxiv.org/abs/2605.14975v1"
+        },
+        {
+            "title": "Resonant optical cooling of nuclear spins in case of strong Knight field of photoexcited electrons",
+            "link": "http://arxiv.org/abs/2605.14934v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
