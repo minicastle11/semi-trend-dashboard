@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-05-16 23:57:43.196137",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Samsung Electronics Proactively Cuts Semiconductor Output Ahead of Strike - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3FQUDNkcW1DZk9jd3RmQUVSVVgza184T1haOGJFaXFiV3BXZFJoMHdPV3BvX2Znc25aRm14UXQ0RWZySmc5U1EtVmdIellSSU5Jdjd4WjlxRm1sX0NNTjgzaTJyWFdfYVpDekllckg0UEF6RkhGaE9KS1RyZG1hZkYxVVVCblZm?oc=5"
+        },
+        {
+            "title": "Tata Electronics and ASML Announce Strategic Partnership to Advance the Semiconductor Manufacturing Ecosystem in India - Tata Electronics",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbzlrMlNLVDZZakVQRHlrRG8xUDJBaEdPbmx6WEZ6RXV6WF9oeHZmOXRranhWVTJoQXUzSS1BWHRuTFRZZE0wakZjcWtQUkR4cnplcUVGM2QwTUVMQlE5TThuYWowbUM3LXhiX2pYTkNPZmNTVDhrVGQ0QWlwM2lpSU1YSVNkOU91YThiSU9OTnpsZVNQQWdLYUF3YXZ1dktaVkJrUXZGclR3dXR0cG8yQndzVjVhc3lYMlF2SGcxSHZpTV9qa2xXamdnYlJnMW9MeDVDeFRxRWtFOFhlTDdVLWxVSWJ3cnM?oc=5"
+        },
+        {
+            "title": "Tata Electronics and ASML partner on India's first semiconductor fab - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDhQbXFWbWV5WFRBX1FmOVRoT3NIeVVIR1FCVUdSTnE2QmVwWjRvRkZXUml6T1FtX0ZtU0lWN3I3cTQzVkJ5LWhZVGR3RjJpVmNUZ0pzaV9CLV9TOTJRQ3BDZm8yMXVWYUdkamFHY1FFWS03MGRQc3pYQTRoN2hibGdvSkpybGdCN0ZiQWpCeFNHVXRqMTVVNGRiRHZVTkNFY1hlQjhsa2VIQXo1?oc=5"
+        },
+        {
+            "title": "Modi oversees semiconductor deal on Dutch trip - Yahoo",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRllQMUxRZTBIa1RlQ1VOLV9tZ05kLURvbC1KYW9UekpGUlFLTWhfU3VGU2tXWEJmaTZocjdBb01vT3FQbGo0WEh0eTBqSDRwUTB1ZWw5N0x4RlFrTGYwNXpGcjFJNjdnUGVEN3dBQ0dGalhPX25SY3hGNGowdkZPTnU3czI1UkRwekx0eTZRdWVFcmM?oc=5"
+        },
+        {
+            "title": "China's memory push accelerates as YMTC and CXMT expand DRAM ambitions - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3NkT0dIbnFjek5zUjZFM3hBaXRwOGhFWUppX19kTzFmV3RlUHpnbE1Ua1FRU3dJdVZMUWdLMmVsRml5SFdVUzdyZ3JvMDF2MGFRU3lRVjJCaXduYk8tb3NmSWxhQmJfSnZheW5yREQ2M3FnN3RvdDFqNHBtUFlvNG9WdmxDNzJGclp5eWg4WENncVJUcUplYjhzY2hMNGts?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Mid-infrared Assisted THz Phonon Amplification in a 2D Semiconductor for Room Temperature Detection",
+            "link": "http://arxiv.org/abs/2605.15123v1"
+        },
+        {
+            "title": "Current induced magneto-optical Kerr effect as a probe of Dirac carriers in Bi$_{1-x}$Sb$_x$ alloy",
+            "link": "http://arxiv.org/abs/2605.14975v1"
+        },
+        {
+            "title": "Resonant optical cooling of nuclear spins in case of strong Knight field of photoexcited electrons",
+            "link": "http://arxiv.org/abs/2605.14934v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
