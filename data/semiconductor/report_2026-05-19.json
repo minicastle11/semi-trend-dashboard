@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-05-19 00:13:50.958755",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Tata-ASML deal: How significant is it for India’s semiconductor push? - Al Jazeera",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJDd3YzWjlWUkhKMVVFS2xWNnJueUZ1S0ZPYmJSb25GTnJZajlfUUZjd3NTcXhhdzBLdUZBMEUwS1UzS2x2blF1S3FlRmJud2thVEtHazBhS2theVA1ZGNmVzFGa01zWlRIWHowTENVelpXUlQ3T0NRYU10UWV2eUNWd3NzTlA0RTJmbVc0NVNsbnFHUWRCN0pnRW5kXzJNUFFQUDUybHN6RHPSAbABQVVfeXFMTnE2UnpQOWpnREVIMlF1S2Z1NXJ6dUJoeFFpRzc2dDUwaTR2Zkg4TVU5TVlSQ1A2d1I2Rk52cy1tRmpldGl4OVVmZmtFaEk0UC1tSW92RnZRRG9ZbFpUbkhXMFFSNHlVVmFCcVpMbkx4SElFcHRSSVNSQVpCaXIzQzZJVFZDOWl4eW5qbmVnMjdkYzFLZzNYc0ZMVW9DVzdGNVNzRU5Qc1ZLSTl4WTJURks?oc=5"
+        },
+        {
+            "title": "Tata Electronics and ASML partner on India's first semiconductor fab - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDhQbXFWbWV5WFRBX1FmOVRoT3NIeVVIR1FCVUdSTnE2QmVwWjRvRkZXUml6T1FtX0ZtU0lWN3I3cTQzVkJ5LWhZVGR3RjJpVmNUZ0pzaV9CLV9TOTJRQ3BDZm8yMXVWYUdkamFHY1FFWS03MGRQc3pYQTRoN2hibGdvSkpybGdCN0ZiQWpCeFNHVXRqMTVVNGRiRHZVTkNFY1hlQjhsa2VIQXo1?oc=5"
+        },
+        {
+            "title": "ASML, Tata Electronics Partner for India’s First 300-mm Semiconductor Fab - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUU5eHZ0c3ctUDlIaDRUbWp1bkNiZ180YVFyUHJaRnc0UlEwTklMTVV6Qkw4ZzlvODYzN2VmX2o1S3lyeFVqRGtYSFFTamxTVEpVVWVubUstUWdsS2NMejBQN1ZUQmNrWnhMQ2V6Z0VlMktPNXJtQ0c5VlFZWHVaRW11ZF9NNHdEZHR2a3NnMXdIcFZrSENJMkFyY2k?oc=5"
+        },
+        {
+            "title": "Tata Electronics and ASML Announce Strategic Partnership to Advance the Semiconductor Manufacturing Ecosystem in India - Tata Electronics",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbzlrMlNLVDZZakVQRHlrRG8xUDJBaEdPbmx6WEZ6RXV6WF9oeHZmOXRranhWVTJoQXUzSS1BWHRuTFRZZE0wakZjcWtQUkR4cnplcUVGM2QwTUVMQlE5TThuYWowbUM3LXhiX2pYTkNPZmNTVDhrVGQ0QWlwM2lpSU1YSVNkOU91YThiSU9OTnpsZVNQQWdLYUF3YXZ1dktaVkJrUXZGclR3dXR0cG8yQndzVjVhc3lYMlF2SGcxSHZpTV9qa2xXamdnYlJnMW9MeDVDeFRxRWtFOFhlTDdVLWxVSWJ3cnM?oc=5"
+        },
+        {
+            "title": "ASML-Tata sign semiconductor deal as Modi visits Netherlands | Daily Sabah - Daily Sabah",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1hXeVVwMmJUOEpyRFNURDNaTVRvLXNhc0hGdlpjX0lqVjBTOFI2V21hQmFXcDRvLTQ0Vk5RUVJJYWxpTjNkYnVxVWtCUlpvenY3VnJ1N1lvTm9mcEZlTk1jV3ZDUWJkQUNQZEFfRmY3bWhtQndaSWpGc0NYdDI4Y2hqbGNJQ0phek1iQlBfVnRuVGdDZmctZ1otLW5ENk5WaXNF0gGoAUFVX3lxTE9QdTZBMlozdTB6SWxWNU1ZN3BMVkp6VHZES3FoU3dqaWhxdC1UaHZBaDVTZXY5NHBHUDd0QVk0XzZVSUdIelhNT1liSF8zeVptbExoTmpBYkM0cUZhYlQ2cF9SRUV5VERyc0xYQnFTaVlVN0pfajlPS21xcllVYURoTU9ZZzhIY0VtTjR3TTNQelp3eVJZdkFwRlV0SWtxRHY5Nnd6NFpZeg?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
