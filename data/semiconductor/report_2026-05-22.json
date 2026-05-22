@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-05-22 00:07:38.100055",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "University of Minnesota launches new center to advance microelectronics and semiconductor industries - University of Minnesota Twin Cities",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3Jaa2RZXzhuOERDVUYwaWpNSF93dklnQ3hwcHY5ckNSRTBZWjBZS2EtZXBzVUJONmxLWWFsdVBaRlA1VVVyWElqcHpCUGYyb0N3N1psQktKd1FXQ2Uyb2FxTTJoZnFzaGV5RVFtVl81ZVVjQ2tyS3p6elpLd1FmTXBhWGJmZV9HZXBnekhYSkVZMUNJT3gtZThGVkl0RHp6Q1BBT1JCb3pIZjVrWjRzXzh4SXlIOEF0SV9UbFg4LVg?oc=5"
+        },
+        {
+            "title": "Trump says Taiwan 'stole our chip industry' — but TSMC was built by a US citizen and 25-year Texas Instruments veteran - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVlzZFdYTXExWk51YzBOY2ZZZGc2WUkxc1BBa1UzbGtEOE9HRzRKemlMVzRwa3ZleWkybnlhZ0hOOElBRzA0QVE4WEhtUm9rcVN5dTRpbFRURldKNnRVUGZMb2YxVS1jNGtSc04xVlFhdFk0V3ppY2o2SWFtOXNpRXdfRWxaS3ZlNE9KSUpIVi1lYVZZTHJfRGNvam5PZw?oc=5"
+        },
+        {
+            "title": "Meta, Broadcom and others to launch $125 million semiconductor research hub at UCLA - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHVtYmhRNC05dW51VGZRRHoxb2kxZDZKaTdfOFVnMzQ2cDZzWjJSOGNBalAxSmgzLUVKdWN0SlEtUW9ZVVpTZWdqQmVfRFpCUV91MTE0aUJRYlZSbnJfR09sR2RpWXBBYkN0NTh6cW5Pa3hGT01MYnpPWF9DNmxoZDk5N3B1dmlnRV9pWXFCR2ZDcHRPay1KRXI0U2lPMDFFSEs2dm1qTGI2UjFpVlBUWEt5ZVXSAboBQVVfeXFMUFdOOGtvMmlrUU9xdUhDZHNmcEd3RXRlMjgxV2E5OU5BZHpEejlPZEZJNGwzRmxTN0R1M09FY19tZlRmYjNPSUZRWl9hUU9udmN3bEFlS2E5Q0RzSm53TXhpYk5yWHJhNzdlWXppd2pSVW9ITS02T2tncjFDc0UyTXk1UV9mYndIZ2t3QlhVVzBMOWV0RHcxQ2Z0Zm5uWlBpRXJvdWNaVl9veUYyZXB4MkZYMXVnTXZ2Z2l3?oc=5"
+        },
+        {
+            "title": "Taiwan Strikes Deal to Reshore Chip Manufacturing to Arizona - The National Interest",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTnhjQXE3Tl9XWm5UY21Oekg4eGNwRGo2bU43OFkwTUU5eGZtQWljSW9FeVBVNzdHQ3loVE54OTBFelk2a1NpTmZVajVEUTdDdmQ5UGJvck5FV2VZV3BJVzNMaWd5dDZyRXc3bi1DZWMyei1na2pSb3U1Tm9BaFo0YTdxX1lXak9WODhieXNQYWNwYmpoYlBXbkUyWExoaWdUaHN0c0N3?oc=5"
+        },
+        {
+            "title": "Tata-ASML deal: How significant is it for India’s semiconductor push? - Al Jazeera",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJDd3YzWjlWUkhKMVVFS2xWNnJueUZ1S0ZPYmJSb25GTnJZajlfUUZjd3NTcXhhdzBLdUZBMEUwS1UzS2x2blF1S3FlRmJud2thVEtHazBhS2theVA1ZGNmVzFGa01zWlRIWHowTENVelpXUlQ3T0NRYU10UWV2eUNWd3NzTlA0RTJmbVc0NVNsbnFHUWRCN0pnRW5kXzJNUFFQUDUybHN6RHPSAbABQVVfeXFMTnE2UnpQOWpnREVIMlF1S2Z1NXJ6dUJoeFFpRzc2dDUwaTR2Zkg4TVU5TVlSQ1A2d1I2Rk52cy1tRmpldGl4OVVmZmtFaEk0UC1tSW92RnZRRG9ZbFpUbkhXMFFSNHlVVmFCcVpMbkx4SElFcHRSSVNSQVpCaXIzQzZJVFZDOWl4eW5qbmVnMjdkYzFLZzNYc0ZMVW9DVzdGNVNzRU5Qc1ZLSTl4WTJURks?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Phonon Interactions in Metal Halide Perovskites elucidated by Raman Scattering",
+            "link": "http://arxiv.org/abs/2605.21415v1"
+        },
+        {
+            "title": "Occupation Dynamics of Floquet-Volkov States and Spectral Sum Rule",
+            "link": "http://arxiv.org/abs/2605.21339v1"
+        },
+        {
+            "title": "Enhanced-BLE: A Hybrid BLE-ESB Framework for Dynamically Reconfigurable and Energy-Efficient 2.4 GHz IoT Communication",
+            "link": "http://arxiv.org/abs/2605.21270v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
