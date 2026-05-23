@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-05-23 00:11:19.486478",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Trump says Taiwan 'stole our chip industry' — but TSMC was built by a US citizen and 25-year Texas Instruments veteran - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVlzZFdYTXExWk51YzBOY2ZZZGc2WUkxc1BBa1UzbGtEOE9HRzRKemlMVzRwa3ZleWkybnlhZ0hOOElBRzA0QVE4WEhtUm9rcVN5dTRpbFRURldKNnRVUGZMb2YxVS1jNGtSc04xVlFhdFk0V3ppY2o2SWFtOXNpRXdfRWxaS3ZlNE9KSUpIVi1lYVZZTHJfRGNvam5PZw?oc=5"
+        },
+        {
+            "title": "University of Minnesota launches new center to advance microelectronics and semiconductor industries - University of Minnesota Twin Cities",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3Jaa2RZXzhuOERDVUYwaWpNSF93dklnQ3hwcHY5ckNSRTBZWjBZS2EtZXBzVUJONmxLWWFsdVBaRlA1VVVyWElqcHpCUGYyb0N3N1psQktKd1FXQ2Uyb2FxTTJoZnFzaGV5RVFtVl81ZVVjQ2tyS3p6elpLd1FmTXBhWGJmZV9HZXBnekhYSkVZMUNJT3gtZThGVkl0RHp6Q1BBT1JCb3pIZjVrWjRzXzh4SXlIOEF0SV9UbFg4LVg?oc=5"
+        },
+        {
+            "title": "UCLA Samueli School of Engineering launches $125 million semiconductor hub with top industry leaders - Newsroom | UCLA",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmNTR3VpaHFqdUE0QkVmZDV5QVdaNjltX09VMjZSSldfTHJ5ejdQRDN3VUp5ZExqVkNoVWRibHJuWERwYlBQdjRISlF6RlRYREpZMUJTWE9NbGhJdjA5YXdiUVJpNUE0QmdLMEVpZjdyYk5nd0RUemQtY29BSlpwTjVUaGRGQ1dTanFXU256c3NoenowN2JMVkFxSjA2VXZmZkkwQjlGTktoQXFkNE1fcQ?oc=5"
+        },
+        {
+            "title": "AMD to invest $10 billion in Taiwan's AI industry to advance top-end chips - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCNFRFZEVBWVBmUFl4TjE0RVN4dnVfSXVjanVyT0wtTVdCaFlva0tUeXZzcTAxSkVXOGpHRzRydEttZWF0ZTh6WElRNFU0eVRTYTdGSnBfYU1yME5reGQtZWZmTUJMTUwzWG45NDBINDhLX2I1Sk1JUlRQWlFpc3fSAYQBQVVfeXFMTm5OLXh6amdFaG1yX2pUekctUTV3Sk1ZcFlIZTF2Wnd2Zm0tQlJyMXJEWDdpVEZZb0JrMFFwMnUyLWJIRzMzMXdyTHNJeUltVy15VW1RaWQ5SWZuWWxUZHctQUdZNFFuWnZ5MHhUZDkwZFZraG5DaWpmWXVVZ0w1NUNnXzVZ?oc=5"
+        },
+        {
+            "title": "China’s biggest contract chipmaker clears final hurdle for US$6 billion takeover - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzhPRThUSVRLZnROZlFpcnQzb2htTHY0Y1hIRmdrZXc1dzJtUHZhaC1fdDMyekhiZlZjVlNCVy1wM19WeGotU2REd3paTThvaTdVOVFiSHp5QjlhY1ItNXQtR0pQWTJDbXpncDRYSW5ZZ1dyUDJWSk1HTUg0RUFvSUVOOHlqT1hsNjV5ZjZDTGxOeExqVzM1QVozdkxjNWhk0gGgAUFVX3lxTE1MT0hfOVhITzR4d3pickZzWURxM3pvdi1obFMwX0Vkb0pDUy14cml2cUZNZTJBMTE3UWxudVF0aXRQaFNoY1pOY3dEUGdURW8tSV9qSlkwQklmejZGeGNXOFR3N2hVeWZiNXlEU1NuUmR4eEFZZ0lmaDEzVlJHRDRKZVlFVWVKbDlkMWF0OHRFUkdyX01kMGZwLWdoMHBHQjc?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "New constraints on physics within and beyond the standard model from the latest CONUS datasets",
+            "link": "http://arxiv.org/abs/2605.22815v1"
+        },
+        {
+            "title": "All-band photonic integrated optical parametric amplification",
+            "link": "http://arxiv.org/abs/2605.22704v1"
+        },
+        {
+            "title": "Hyperdoped silicon photodetectors enable room-temperature computational SWIR imaging at 1550 nm",
+            "link": "http://arxiv.org/abs/2605.22470v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
