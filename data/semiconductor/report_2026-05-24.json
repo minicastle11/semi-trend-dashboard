@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-05-24 00:01:14.022105",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "University of Minnesota launches new center to advance microelectronics and semiconductor industries - University of Minnesota Twin Cities",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3Jaa2RZXzhuOERDVUYwaWpNSF93dklnQ3hwcHY5ckNSRTBZWjBZS2EtZXBzVUJONmxLWWFsdVBaRlA1VVVyWElqcHpCUGYyb0N3N1psQktKd1FXQ2Uyb2FxTTJoZnFzaGV5RVFtVl81ZVVjQ2tyS3p6elpLd1FmTXBhWGJmZV9HZXBnekhYSkVZMUNJT3gtZThGVkl0RHp6Q1BBT1JCb3pIZjVrWjRzXzh4SXlIOEF0SV9UbFg4LVg?oc=5"
+        },
+        {
+            "title": "China’s biggest contract chipmaker clears final hurdle for US$6 billion takeover - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzhPRThUSVRLZnROZlFpcnQzb2htTHY0Y1hIRmdrZXc1dzJtUHZhaC1fdDMyekhiZlZjVlNCVy1wM19WeGotU2REd3paTThvaTdVOVFiSHp5QjlhY1ItNXQtR0pQWTJDbXpncDRYSW5ZZ1dyUDJWSk1HTUg0RUFvSUVOOHlqT1hsNjV5ZjZDTGxOeExqVzM1QVozdkxjNWhk0gGgAUFVX3lxTE1MT0hfOVhITzR4d3pickZzWURxM3pvdi1obFMwX0Vkb0pDUy14cml2cUZNZTJBMTE3UWxudVF0aXRQaFNoY1pOY3dEUGdURW8tSV9qSlkwQklmejZGeGNXOFR3N2hVeWZiNXlEU1NuUmR4eEFZZ0lmaDEzVlJHRDRKZVlFVWVKbDlkMWF0OHRFUkdyX01kMGZwLWdoMHBHQjc?oc=5"
+        },
+        {
+            "title": "AMD to invest $10 billion in Taiwan's AI industry to advance top-end chips - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCNFRFZEVBWVBmUFl4TjE0RVN4dnVfSXVjanVyT0wtTVdCaFlva0tUeXZzcTAxSkVXOGpHRzRydEttZWF0ZTh6WElRNFU0eVRTYTdGSnBfYU1yME5reGQtZWZmTUJMTUwzWG45NDBINDhLX2I1Sk1JUlRQWlFpc3fSAYQBQVVfeXFMTm5OLXh6amdFaG1yX2pUekctUTV3Sk1ZcFlIZTF2Wnd2Zm0tQlJyMXJEWDdpVEZZb0JrMFFwMnUyLWJIRzMzMXdyTHNJeUltVy15VW1RaWQ5SWZuWWxUZHctQUdZNFFuWnZ5MHhUZDkwZFZraG5DaWpmWXVVZ0w1NUNnXzVZ?oc=5"
+        },
+        {
+            "title": "ASML CEO says Elon Musk is 'very serious' about TeraFab chipmaking megaproject, confirms direct talks — Musk targets $119 billion Texas semiconductor facility - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEduZk1aS1JiZXI2NkYxY0JmN3JGN3dIbGhYc3dHczJwV0JSR2E0TDdneEVXY3Azc0p3WXVaaVNvbVA4WnE0NXFZc1VCVjhzVG0zTnEyLV9FLWIyNkJqWW1pVVhNaGY1VDhmSkppakdpNHp5ckY0bXRxZmlkWk42RlN0NjRxZFZuYWR5MVdoX3FjQUlOamlxcFg0NTVSOUJfTlZqVw?oc=5"
+        },
+        {
+            "title": "Taiwan Strikes Deal to Reshore Chip Manufacturing to Arizona - The National Interest",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTnhjQXE3Tl9XWm5UY21Oekg4eGNwRGo2bU43OFkwTUU5eGZtQWljSW9FeVBVNzdHQ3loVE54OTBFelk2a1NpTmZVajVEUTdDdmQ5UGJvck5FV2VZV3BJVzNMaWd5dDZyRXc3bi1DZWMyei1na2pSb3U1Tm9BaFo0YTdxX1lXak9WODhieXNQYWNwYmpoYlBXbkUyWExoaWdUaHN0c0N3?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
