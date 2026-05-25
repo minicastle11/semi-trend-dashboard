@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-05-25 00:04:46.633855",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Breakingviews - Why it’s too late to jump on the chip bandwagon - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdy1ZN2pMcWVxeXdPenI2TTVWZkxrM0MtM3NjLThENzViOVVkOXc3c3RWOFo0d2xvZVA3NTJpbXlhcjM4dXhoamVSczh3Wm1qb3dNRHNKWmNjd291Y1FTVWFXNG1uNHhIb19kMnQtV21KWUJDQ1MxRlhTcUgwbnBTaldFclFNZ2JYX2FyN240UGJ3N205NzRqOFloX2JuQQ?oc=5"
+        },
+        {
+            "title": "China’s biggest contract chipmaker clears final hurdle for US$6 billion takeover - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzhPRThUSVRLZnROZlFpcnQzb2htTHY0Y1hIRmdrZXc1dzJtUHZhaC1fdDMyekhiZlZjVlNCVy1wM19WeGotU2REd3paTThvaTdVOVFiSHp5QjlhY1ItNXQtR0pQWTJDbXpncDRYSW5ZZ1dyUDJWSk1HTUg0RUFvSUVOOHlqT1hsNjV5ZjZDTGxOeExqVzM1QVozdkxjNWhk0gGgAUFVX3lxTE1MT0hfOVhITzR4d3pickZzWURxM3pvdi1obFMwX0Vkb0pDUy14cml2cUZNZTJBMTE3UWxudVF0aXRQaFNoY1pOY3dEUGdURW8tSV9qSlkwQklmejZGeGNXOFR3N2hVeWZiNXlEU1NuUmR4eEFZZ0lmaDEzVlJHRDRKZVlFVWVKbDlkMWF0OHRFUkdyX01kMGZwLWdoMHBHQjc?oc=5"
+        },
+        {
+            "title": "Meta, Broadcom and others to launch $125 million semiconductor research hub at UCLA - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHVtYmhRNC05dW51VGZRRHoxb2kxZDZKaTdfOFVnMzQ2cDZzWjJSOGNBalAxSmgzLUVKdWN0SlEtUW9ZVVpTZWdqQmVfRFpCUV91MTE0aUJRYlZSbnJfR09sR2RpWXBBYkN0NTh6cW5Pa3hGT01MYnpPWF9DNmxoZDk5N3B1dmlnRV9pWXFCR2ZDcHRPay1KRXI0U2lPMDFFSEs2dm1qTGI2UjFpVlBUWEt5ZVXSAboBQVVfeXFMUFdOOGtvMmlrUU9xdUhDZHNmcEd3RXRlMjgxV2E5OU5BZHpEejlPZEZJNGwzRmxTN0R1M09FY19tZlRmYjNPSUZRWl9hUU9udmN3bEFlS2E5Q0RzSm53TXhpYk5yWHJhNzdlWXppd2pSVW9ITS02T2tncjFDc0UyTXk1UV9mYndIZ2t3QlhVVzBMOWV0RHcxQ2Z0Zm5uWlBpRXJvdWNaVl9veUYyZXB4MkZYMXVnTXZ2Z2l3?oc=5"
+        },
+        {
+            "title": "TSMC Employees Threaten Strike Over Bonus Cuts, Mirroring Samsung - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUZaOE50OGc5SmVMcU5XTnVqOXJ0ZDh0OG01c0hlck5FWTlGY183bTdjRHZPWGs2M0Y0TXB6VkRIbjJ2Wk56UG1yUThaM3lRS2RhcU8tclpLWTdXenZNWVBNVVF0TC0yb0Mxc20xTk5mblNHYkVSNEI1LVp6Vy1XXzJFOHJQajBW?oc=5"
+        },
+        {
+            "title": "Geopolitics disrupts chips — can Taiwan and South Korea cooperate to hold the line? - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGtEb1RUaXJaS1VpS1ptdGtFUGhPTW5pODJ3a1VRazRhc3kzOVFhd0pzQkIwM0dnQ3N2TUpHN0FOdmlfSWU3UUdUeEZ6RHNSb0V1MndoTFRqNTVxWUNmQzZNdDljbnNpLVItaDB2SUZXSzVGelRCa0NBYklPeEtCeFdpUU9ZeGFYYVQwd0JOeFBlV3IwZ0E?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
