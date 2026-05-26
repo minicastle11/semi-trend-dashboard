@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-05-26 00:09:51.702407",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3p1b00zdmI2U21vTVVrOHlHMGxybGxFdzBvYjNGeUQ2YzJjMWU1azdjNVNGWDVCNmhhWUFBc3NWc01aRTZwS0xjY2FQWFo1R3c2dk5FWWkxVnd0My1YYV9hdkI0cW9lcGJWOU9oSXRGejBLMHpVRzRPUHRhWHFJeWZsYVdUSjFHcFVBQnhSOFVUUdIBlwFBVV95cUxOY3owNTdLU1UtaFRSRWdTQWRDODVTLU5vbjFHNTNQYVdYYl93MVhJWmtVVFJSeUdkUTE2Z0RaY1FIdlotQnFSWUtEQmh2anJCQmJoTUtoMndjdnlsWGx5aU9jcUpGcDhxUkpNVnk1Q3gxdDlwNjhyUUVVZXJSZkxhMWJwRFNmYnNFUTNrTGQwdlEyMEk2SEl3?oc=5"
+        },
+        {
+            "title": "Samsung chip workers to get average $340,000 bonus in AI boom - The Seattle Times",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXc1bzZ2WDlnb3NlSGdRV19aTDQ0dm4zQkhVQV9SYnVEVkc2UjVkbDJNeFl3dXVETzZ3Z1NQX2N4OFd5LVd4SE1IV3JMM1k2NDNhdjRTR3dCdDIzdkZFaGNwRm5Oc0tRLU0tQ09Rek1ULURRaGRIeF9yXzV4UlJmeVgxVGpidmtNVUhVaFdfcnZqeUFyYXlYZWFtaV9HeVE?oc=5"
+        },
+        {
+            "title": "Taiwan Semiconductor Manufacturing Co. | History, Leadership, Technologies, & Facts - Britannica",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5"
+        },
+        {
+            "title": "China’s Huawei unveils new sanctions-busting chip architecture that replaces Moore’s Law - SiliconANGLE",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmhBRjhuZHBGU05QNnR4cEY0UjhLbVUxdFFVdXRsbjB5dnN5YTlTT19heVdnemx3OGZ5QUJNZkFHa29KRmw2TzNqalBPalZNWGl0TDN4dUU1NTA5bUdqU3V6blhZaldvaXJfUDRlOWp6azk0SXNLMW5qX05Vc09QN1RGZXlURzNFcVg4SUNsWHMzTmRjTTVkd29GNHJVdkdkd1VLeEZXY3g2RWNfOFNQWkhjajVGbS16NUE?oc=5"
+        },
+        {
+            "title": "NXP Semiconductors’ SWOT analysis: stock navigates semiconductor upcycle - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOU41T3FnajlOUlpSTURRSlFGVVJpcFVfN0hISGJwSzRVYzlKOFlWamtRSFJxZm1kZW9MdHFwVmZkdzlibGVYRW4tcnJOMEJRX1R2aGVnV01LMlduZGc5dTdGU1V6em9telhLcElvZzRYTXVCbWQ1ZkVyTXp6NXhueXZfZkd0LUl1M0RpRjVyb0tkQ1lGaDdqUjFXdGh1VjB3YXJlZ0Fpd3Y1a0k2VHExZ0FrbHRtbGhNaTVaRjVJcFRJWVhOWVE4?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Programmable high-harmonic emission in solids through photon pathways",
+            "link": "http://arxiv.org/abs/2605.23534v1"
+        },
+        {
+            "title": "Strategic Stalemates: The Paradox of Export Controls in the U.S.-China AI Race",
+            "link": "http://arxiv.org/abs/2605.23475v1"
+        },
+        {
+            "title": "Localized Excitonic Emission in Wafer-Scale MOCVD-Grown GaSe 2D Nanosheets for Classical and Non-Classical Light Sources",
+            "link": "http://arxiv.org/abs/2605.23418v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
