@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-05-27 00:12:20.930437",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Huawei Touts Chip Breakthrough to Shorten Gap With TSMC - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSktIVTlnbzMta1pCZjNVQXcyNEludWlUeXlzMjFoTTQ2R1hVRklpN3JhLUhWWU5HMGNqXzNoNFNNQmVzNjlZakdoVW90dGJGXzZCM3J3RVBmVEE4a083a0NKQXFlOGRjemVzREJsNjY5OTRwbnJEbFlMQlgtak02TE5CY2F1WkVLdGwzSE04NERsRTNtM3dmWG1OQmJzZC0yaU1QY1VDVC1vUUhvRGF6bkRn?oc=5"
+        },
+        {
+            "title": "Samsung chip workers to get average $340,000 bonus in AI boom - The Seattle Times",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXc1bzZ2WDlnb3NlSGdRV19aTDQ0dm4zQkhVQV9SYnVEVkc2UjVkbDJNeFl3dXVETzZ3Z1NQX2N4OFd5LVd4SE1IV3JMM1k2NDNhdjRTR3dCdDIzdkZFaGNwRm5Oc0tRLU0tQ09Rek1ULURRaGRIeF9yXzV4UlJmeVgxVGpidmtNVUhVaFdfcnZqeUFyYXlYZWFtaV9HeVE?oc=5"
+        },
+        {
+            "title": "Sumitomo Heavy Industries launches California semiconductor R&D facility - gasworld",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcERjM3RWTGJxaHgwT19BbHRXZk5TeWUxUnBNbGc4Vnhubm9fMVdjVWpRQXNudFpBd19ueEl3TE9vYmpRa012ZnppazZWLXJ4dzI4eW0tWWhLS3p1M09fVXFUd0tydU1hdjBfZjVYTUc1Y2lJUm5JLWJ0LWk5QXk1a01sM3pWU3RUMnV6ZlJ1a2JGamNUdFhBdGZGTUlTczZxckpHcFR4dmQ0VmplN09ONXZKMXNnMWt6WXhv?oc=5"
+        },
+        {
+            "title": "Aguascalientes fosters talent in semiconductor industry - MEXICONOW",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDMyaG9tYTlvMU8xMU5jQ0V3VWVYYWs4MVhtZ0lSOEtKMm9EX2VENUtqNXVqeFNNRzBwbXhwQjhJNG5PQzVjQWpoNDFDOUsxa0MyWXgwTkg3ZmJUZXV2RC0wa0RGaG1DQ2RVZ1ZCdENtS2ZHUFc4NzRnbVRDNHNZODJ5eG9Fdw?oc=5"
+        },
+        {
+            "title": "Memory supply chain crisis averted at Samsung - Sourceability",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSDdwNEpNdjhubW5tVnVIekV3bXZmaGs0QkIycUk4dXpOcVJ4VXVrajR3QkFLYlNVT2d5d01HUW5Od1NtNG9NZTZBeTlVRXptV2J0ZWVLQjdpX0FOZ3A1QVlXcWJKbkVac0FQV0x0eXdvYjJrS3RDOExyNHpUSUZVZVNn?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
