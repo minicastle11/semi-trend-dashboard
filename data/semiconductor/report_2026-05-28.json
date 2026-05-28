@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-05-28 00:03:26.120620",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYjdrRTJiX0J4b25WNlNPN2pnNHpIaTQ4bnRoQlVzQXhzalhCTUdjMkhmVUFhamJCOXBvY2twWVRtTlhubnV4LU1MMVdud1Q1REdLdTFjSEswUDJUMHNsT2dpaHB0c2tSYkI2STZsMUtyWFcxWU5DZGhIMXFfQWNobEpfbGFZSHQ5TmfSAY8BQVVfeXFMTm14YnAzaDRaRFlHRmJvbk41elVwX3B1UGlMNFR6dE9jVC1OQzMtSFMwWExfcDlNMXFhbHFPd3kybXRtUkVtN1VObkhaT0dnY0hvbUowUU5jSlVReFl0cGdrakpHMHdSNTN1dHNzS3NBVWNUdUtEOVhVeVg1c3p1TjJEdnZ3Y0l6ckFDWTJZMzg?oc=5"
+        },
+        {
+            "title": "Huawei touts chip breakthrough to shorten gap with TSMC - Fortune",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzZfX2t2OVlNQjViS2Z2VDhJeGhxUmRfQ3JvTE5qM20zTHk4UVNheDFOYlRiVXd6VDNReEc3UUcwS2EwWVdLT3l3Snp2cDQyOWJfZ1JVYzYySkY1ekxuRU12V1lUT29tR0U2d3FTZnAwb1RIUWZyQmVIYVRUYi1CZ0xHTmFDTWRCZm90YnkwS1I?oc=5"
+        },
+        {
+            "title": "ASU teams up with TSMC Arizona for free semiconductor training program - KTAR News 92.3 FM",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05NERjcUlGcE53cWFhZWtTdlpSVXE4S0RXSXpneVAtVnRGOHRvaGVHTG9yLXhITlg0T2RGUmFWdkhITlJ2M09aR3dDZ1MyaUpkOXZ6cF8yZGdtdFNEMVRoUXBwcktFTnVuQzkyMU5fcmxPUzVJZmZ0MA?oc=5"
+        },
+        {
+            "title": "Samsung chip workers to get average $340,000 bonus in AI boom - The Seattle Times",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXc1bzZ2WDlnb3NlSGdRV19aTDQ0dm4zQkhVQV9SYnVEVkc2UjVkbDJNeFl3dXVETzZ3Z1NQX2N4OFd5LVd4SE1IV3JMM1k2NDNhdjRTR3dCdDIzdkZFaGNwRm5Oc0tRLU0tQ09Rek1ULURRaGRIeF9yXzV4UlJmeVgxVGpidmtNVUhVaFdfcnZqeUFyYXlYZWFtaV9HeVE?oc=5"
+        },
+        {
+            "title": "Ari Sulby Joins SIA Team - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51a2I2Vmd1OWdHZ01HR21vSktJdGVzSUlZZWxNWW5DUC1vcThMejRCLWRyQ3phM3FSYVcwR3FxX3NOUFBBUEU1M0haUC1MWE12NWMzNEJaMWhzcHRYVmNJT25uckhKU2c?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
