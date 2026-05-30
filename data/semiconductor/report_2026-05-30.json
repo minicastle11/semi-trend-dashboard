@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-05-30 00:12:34.153322",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "This is the greatest time ever for semiconductors, says CEO of key equipment supplier - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY25zN1MwUk01RjQ3dGdOT0pScV84UWlBQzNEX3RiOURyZjR1MjZqVHpMZlJ1Tkk1d1FmZDNWZDBWbUd0TXptc2s0RE10X0ZpMXlmM2NCWDdQZmJfZlFCTHRVLU5YMlV4eXNXTzVwcGs2Y2t6RENkV3dncE1yMENCblc5bHE4bi11VkxaQjdqM0cxNnd2TFFrVjY2UTZ2eWdRbVN5RlVDMFJFWWlibGdIUlN6T2lUaW92Z3RCWVJ30gHDAUFVX3lxTE8zRHRWUW1uZVRWUFp6dWhwWXk0aXk0Rk1GMHpFakE5Wlh0U0FJSU1DeVl4TlZva09zc2pwaklPaVdWanZwSlgyNmJ2TWNGdWpmRlFSb2kzTUk2S0ttMngzRUNyUFJhWHVMWld0VDVoOGtWcER5UHkyTDY3RkI5VTlyT2ZRSlVtVVVDTGlCMkFaVWdhRW1sUjgxWXFZLVd2Sjk4YnVQaXIxMjRWcVNrX0NqZmdnWU5QVWZKczQ4VjBxczlmQQ?oc=5"
+        },
+        {
+            "title": "Huawei bets on speed over shrinking transistors to sidestep US chip sanctions - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNTF0aFdWRThWajFHMkhDSk1na25UREdhcWc5WVZOSkFHNjJYa1kzVTVlVVotaTNkb0U4aGsyWFhmVy12RmdrY25GNkhsc0tEQkxEa1VQRy1lZk1pcUpjTzIzcUlhTzRJcEQ4Nk4xX25Nby1sVFpza3AzWUxndVRDXzNTZHZSQzhVSmVmY2xlNlc3WUdzZC1paHVVb01RS0hMWnJILUxKdkFQeGJTZ2JDMmhybFhESWFRdmJF?oc=5"
+        },
+        {
+            "title": "Huawei Aims to Narrow China’s Semiconductor Gap With the US - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWRkSkdxaUZSLVc0T2dwTnk4R0JSbmFjYmtLd1JFbGQ5R2JjQ2ZVdVNYTWFvSGNzNGJsb3NCcVdXUjFERkVOd2stZXUxNVVxY2RLa3VHYl96dE12NVlGWkl0UlBQY2Z0bHM0RFFwYnVsd1VHeVNHU0JqUGFkOWFRd08wRXZTdm9FNFdOTFJHOFhUQ1FJc1l0dzNfLW0wbzM0SEtnR0pnSUVkNnZWOHhySjdZOA?oc=5"
+        },
+        {
+            "title": "Nvidia ‘likely the most concerned’ as Huawei bets on new chip architecture law - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUzF6Mnl1M2RmMHdLVTRQSXRJa3RKeWdQbWRfcGQwWU1mUWI4WGlDSEJYMTY3LWVFOTZod3pHbjZpQTlRR2tpanNQMHFGbVpoVXlvd0dESEN1Z0pyQmhmaVFmT3BwYUs4bll5NlFtMENwbDh5WkYxcUlvUlhodUVRM2Z3am5FdHRNalpUbWs4Mmd1UlZqWjktbl9SWW55aEtaTkUtTUk0dHYxS3R5WFdvWDY3ZFlVSXBYN0lFUDJEN3R3R2dTekxxSHJhOFZFMlnSAc8BQVVfeXFMTzAxLVpTT0gwQVdrZXVCdnpFcmgybWVST1dMN0FDZnJvcXJEMVJIbmlRSGEyQ2dJZXpxY1FtWE1pbGFOSjhUQjYyVEF4VVVfMzlQUVlYVS1OcWZ6QXBRblN0NVdGWTdvV1h0dWJHRWgyRDRjdHNWYUlDWm1MZkJBdFlxcVJ5ZW1ra2lRZlFZbmtCRTh5LXlkU0gtSl83WmotS0ZoYkdyQng1dWZ1dl9Rd0RaUlNYZXlxTFFiRjhZc2xfdjNIRzRxTHJZZVg1MFhv?oc=5"
+        },
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CMF9hM0NQUExsT0taZGdfbGtDSnFQbXdZS0FRZ2FWdkJodWhrZXNPVVpFdFp2WEoyeUlzZWdDaFl4NThPaG1FMlNyUnJKZDVDRm9UT3I4M2tXaW1kdXFzM1ZVTmxkVUt0d0RmX1Fn?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
