@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-05-31 00:05:02.267284",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Huawei Aims to Narrow China’s Semiconductor Gap With the US - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWRkSkdxaUZSLVc0T2dwTnk4R0JSbmFjYmtLd1JFbGQ5R2JjQ2ZVdVNYTWFvSGNzNGJsb3NCcVdXUjFERkVOd2stZXUxNVVxY2RLa3VHYl96dE12NVlGWkl0UlBQY2Z0bHM0RFFwYnVsd1VHeVNHU0JqUGFkOWFRd08wRXZTdm9FNFdOTFJHOFhUQ1FJc1l0dzNfLW0wbzM0SEtnR0pnSUVkNnZWOHhySjdZOA?oc=5"
+        },
+        {
+            "title": "Is Huawei’s new chip scaling law a true breakthrough, or mere hype? - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdm5ya1RjaHJrT3FwdFRBYS1oUFlxMzJiMmcyU1RMLThnbGJRdE44aDNhNEZFZ2ZoNWRjN1lRelZFbUVWc2JLSU5EaVNGUVpQODVCZTN4eUdfUTZrY3ZPNGVLR2l6SVRyWlhoMl9HUjQwS0lwckVGMkNHSDR5TTNyRzF2d1JOc3IxRGFYbUtHbmx5LUV2dXB5amRqU2ZCUU9SdUNNZ3dmQnJ0cW5hRGU2NDMzVdIBswFBVV95cUxQUHV4emNUeHhoWFNWMkZ5OERqVXR5Q0wzelZKUHNGZTUtMGdxMEZTX1FmSWFwVXB4bkdQOTZraXA1aWxFLWkzYTBzbWpialFSOUpua2hhNFBrZWR1NjQ3RWFFQVE0dzVUdlpPcDFLalF5Qk4wdmJEbnIyX19qMzhPUjJoWldhLVJtMkw2MDQya2hKdFlxRjVTV3R4Q1l4LUwxeDc0U2tUSktrZDctTlozWl93VQ?oc=5"
+        },
+        {
+            "title": "Huawei chairman thanks the US for export restrictions on chips, says it supercharged China’s semiconductor industry — Washington’s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPSlAyRlFSMzhNZU01anhhYmdHMVVJeHpBZXRlelZkcUhMcU1MVHZuM2QzZEFxRV82U3NBbDRtUzhKajM1NDBWMEIzSUhBX2psLVFGZGo0U1pGS09uS090d0RzbW9vYVh2cjFKWDFndDh2YlBTSG9zazduZWZTOGZ6WWZlenJZTnBRSTYzSGZsd2w1SFJPczRKSnlwLWEwb0VtaDh4a0xSYlRuck8wd1RzNEdSV0NZM0s4ekFqb2ppS2gyMkdmNDFXLWFmZzQtQ29CRHltNFpROGdqdEswU1BqMTU5Y3BJaW9vMkd0cnJEMzVhcEM5SVZQVU9UZkRuX2pJZldlbnF0TGNfdERFX1M4dkdJUW5Ka3FMY0ZIaGF2X0UxdnozajIxSFFGcnlmU1pETl91b0djaUNxWFdMQXBQWnpzS0VMNUZ4MHVuSTR0azk2OEJxY0xOZ3pWOGdwY3ZsRFNmdWxpaGpNMG1sUldLR29KM2xadkNDVUE?oc=5"
+        },
+        {
+            "title": "India’s running the wrong semiconductor race, time to shift gears. NITI Aayog offers stark advice - ThePrint",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTF8zckJ0TjFTQ1kycXpoc0Z0U0FVMWtjOVl2aWQ0RnV1MGdkNHN6SGR3RzdHZXZuck5CWUExcnRmLTNYbEphNTBzcEpvZkpoeXdHNW9XbEZSaGFlNVR2ZkhpUzRJdFdkczh2aHFYS1R5TTVPeGNsdWFJQ01iYzRUVkp3dnhPT0RxbVZGR00xUW5feGdzeGxFMk11aUd4aU5LcThIQ2hJMGZoRVJYUEFLNjZLU3Zrbm5BVVNvVGZudy1uOHlaSGxJcdIBzgFBVV95cUxOOTlGd0J0N3gwMFYxX3l0WFhXbzVOMlVFRnRmSWVxY3lISjQ3dndBWC10bmE4Vll4dFdTWW4xSW5pTkt4ODZoYW5HbjIyR1owLVZ1ZElUeTdqUjVJLUQtR1llVWpVX1lRbjhtbDFWZnNUMDBCeVZVS1lBNTNyaDh2U1NzdzE4Qnd1WlRzLW1PNFFVSktUVXNLd29GR0FwOGowQ0pKYXRudHhieFU5VHQ4WmlycnNtQTJTbkhUNjE5UUw1VDVSNm1oYVZTZ3ZVUQ?oc=5"
+        },
+        {
+            "title": "This is the greatest time ever for semiconductors, says CEO of key equipment supplier - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY25zN1MwUk01RjQ3dGdOT0pScV84UWlBQzNEX3RiOURyZjR1MjZqVHpMZlJ1Tkk1d1FmZDNWZDBWbUd0TXptc2s0RE10X0ZpMXlmM2NCWDdQZmJfZlFCTHRVLU5YMlV4eXNXTzVwcGs2Y2t6RENkV3dncE1yMENCblc5bHE4bi11VkxaQjdqM0cxNnd2TFFrVjY2UTZ2eWdRbVN5RlVDMFJFWWlibGdIUlN6T2lUaW92Z3RCWVJ30gHDAUFVX3lxTE8zRHRWUW1uZVRWUFp6dWhwWXk0aXk0Rk1GMHpFakE5Wlh0U0FJSU1DeVl4TlZva09zc2pwaklPaVdWanZwSlgyNmJ2TWNGdWpmRlFSb2kzTUk2S0ttMngzRUNyUFJhWHVMWld0VDVoOGtWcER5UHkyTDY3RkI5VTlyT2ZRSlVtVVVDTGlCMkFaVWdhRW1sUjgxWXFZLVd2Sjk4YnVQaXIxMjRWcVNrX0NqZmdnWU5QVWZKczQ4VjBxczlmQQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
