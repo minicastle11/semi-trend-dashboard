@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-06-02 00:17:27.332021",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Huawei chairman thanks the US for export restrictions on chips, says it supercharged China’s semiconductor industry — Washington’s export controls encouraged Chinese firms to invest in R&D and build their own tech stack competing with American tech - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPSlAyRlFSMzhNZU01anhhYmdHMVVJeHpBZXRlelZkcUhMcU1MVHZuM2QzZEFxRV82U3NBbDRtUzhKajM1NDBWMEIzSUhBX2psLVFGZGo0U1pGS09uS090d0RzbW9vYVh2cjFKWDFndDh2YlBTSG9zazduZWZTOGZ6WWZlenJZTnBRSTYzSGZsd2w1SFJPczRKSnlwLWEwb0VtaDh4a0xSYlRuck8wd1RzNEdSV0NZM0s4ekFqb2ppS2gyMkdmNDFXLWFmZzQtQ29CRHltNFpROGdqdEswU1BqMTU5Y3BJaW9vMkd0cnJEMzVhcEM5SVZQVU9UZkRuX2pJZldlbnF0TGNfdERFX1M4dkdJUW5Ka3FMY0ZIaGF2X0UxdnozajIxSFFGcnlmU1pETl91b0djaUNxWFdMQXBQWnpzS0VMNUZ4MHVuSTR0azk2OEJxY0xOZ3pWOGdwY3ZsRFNmdWxpaGpNMG1sUldLR29KM2xadkNDVUE?oc=5"
+        },
+        {
+            "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5"
+        },
+        {
+            "title": "Powering AI: The Semiconductor Ecosystem at the Foundation of Data Centers - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOTVrNEhUU21qc25OZ0d4amVzQks2eDFjc19SYjliQkthMG1fNldaaWJNRDJpblZKa0xkOVJrWndCWThvVVN5cDl6S2VVVDdXR3NjRm5zbVZONk5YUEVsMzdFODZDVmJUcERLVDUzQmZ5Yk5SQUVJQ3REVGp6V2t5LVJKY09HS192Nm5QXzJvdFlaMWFyQVl6WW1aOWU1cjB1dVZzbEJLYWpfaS1pYUtDZU5Ba1BoMDFwVmd1VERkWjBFdw?oc=5"
+        },
+        {
+            "title": "How US export curbs are forcing China to redesign its AI chip industry - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGVMZklfbThua3lUeVJqUXdMbnA5OGRDaDFnV0VTOENvY1h5Wk9fZnpYMWRrMG1Ycmk2V3V6d25icWFZODhnRDJPdmR2RzRNUkFLUXIyU0pLeUN2V2JnbzM5cWNZcTJDWmxFNjhsLXg5a25GVWRlN0FfclR2bFdSRGNoWU5FbHQ0eURBelZLMHMwYk05a2ZXemFVRTM2YTVMV3hOYmFhQ1AydEZkQ3czQ0FCYk5lSjNHazZrN09XQUhqYzVHY18za25yNlY2MTgw0gHQAUFVX3lxTFB4eFd2TU8ySjdEVTVFbXduWWRWM2xDbGROZFZpUmZLWnZLa2M3OTktRFhnelhaRXpiUXpYaXdrRGZlUERMOVNhbmtmb1lWcU42bDRQdmlGNUotWFRvbjZleDlsaEhZSkJ4MkYyM0E1NC1zOG5zYnJuMmdtQ21EMmlQZ3lVdHlrN2Jvd2wxVlV5YWRKU19GZ0pRRGlOckVRVjBCeDB5RTFUVXZIS1Z4YkJiclNVWkNmZDZ4SE40UnEwR0o2UXFiWnBBcy1YdmtPUlE?oc=5"
+        },
+        {
+            "title": "The British chipmaker aiming to take on the world - The Times",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFVwbWtoSGg3Nk9MVTVyaW1TU0FjU3pacjBqZTRKdThwekt2MVl0Qm5jc0pmaW9idkdqNHU0ajBtUXJROE5hMUdHTC1aWWZ5YWRmaWNkWndpOUNsZHdDMFQ2eUV3T1ZkQWJ2X3FkY200NmwwU2JjYnNFRE5ReVh2NWNwWmNIY3B1RWdvUHZ3MHNuLXduaVozVVlfRlpIV3U1blhSelE5SXY3TEpZX01jaEdveVdRcEk?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
