@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-06-03 01:42:07.696941",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Powering AI: The Semiconductor Ecosystem at the Foundation of Data Centers - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNUtXQnZfaFRLaEVyRkctczRmWWFhQm5NM1RUczMwdlltNGFKWERQRXUtMU5jWWpKSW43RzlTc1N3OXVxV05DTV9vdU5oWlNDVjU5T1UtMWlrelI5UjVEei1HVWNpWEhyNS0wSEcxRXdibkpWYjRZdWsxMEVJSmxsMXBpbTl1SHBsNDVfTDZRSHFGSFhwUHNydlVrMDg0b3p3czBPaW1FNkE?oc=5"
+        },
+        {
+            "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5"
+        },
+        {
+            "title": "US firms still dominate chip subsidies - The Register",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHl4WmItMkpxb3BjaUR0WHNzZ19oQkl2ek16UGFnLXRfdVg1dHkxZFU0NnFkR3VxTW5wRVNaM3ZpRVhjQzZIWWptYTJtMkdtNEF3ZzAtSnhuT3RyYkxoTE45TUhWMTZQekRSVEpnRDhZLUJiYTVhUy1TOXBpcTF3VlVfbUhvbmY1cEFUcEgwNllkdUpjQzVVRA?oc=5"
+        },
+        {
+            "title": "Intel’s $9 Billion Regret: The Business Sale Haunting It Today - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTnkyQS1sbl9rcWtjZmZfZGlRV0dfemhBSENWd0ZKcDJZV3AxQjJ4WXd3ZHRiSEViVUxJMnJXMVU5QWU1c1lHV25sdHJRSzVISzZPdDVadzdjeFFnRkIzVncySktPeGg5dkdMWjhVNTVDd29idHdJSkFWa2tYTG4zM0xoNUlMTVZxU25zSlRiMmRQQWVNem00eTE5SmlfWDEwUTVOR1dR?oc=5"
+        },
+        {
+            "title": "The British chipmaker aiming to take on the world - The Times",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFVwbWtoSGg3Nk9MVTVyaW1TU0FjU3pacjBqZTRKdThwekt2MVl0Qm5jc0pmaW9idkdqNHU0ajBtUXJROE5hMUdHTC1aWWZ5YWRmaWNkWndpOUNsZHdDMFQ2eUV3T1ZkQWJ2X3FkY200NmwwU2JjYnNFRE5ReVh2NWNwWmNIY3B1RWdvUHZ3MHNuLXduaVozVVlfRlpIV3U1blhSelE5SXY3TEpZX01jaEdveVdRcEk?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
