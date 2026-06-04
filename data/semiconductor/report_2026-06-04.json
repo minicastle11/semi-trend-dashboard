@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-06-04 01:44:55.875653",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "A Look At Magnachip Semiconductor (MX) Valuation As AI Power Shift Draws Fresh Investor Attention - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnVTcVZHeGFnZDVIUlNPTFg1MHZENjk4VWlQcXp0VHlCczlmTHFROUNHb3dNZ0xxZWduTVJrR3o0UUJiTy1qSk5oSEJJTnJaaFRYeEZjTFg3SGk4ZlJVQ0U1UTdxcmRsMnR3emNoMzU1N0pyUGhnOS1Ea04yRmVKeW91RllqYV9UbmpSQXh4Zkx3ZVg5RWRPbzBuMU0zYW9Fa1p6bi0tOUhzdw?oc=5"
+        },
+        {
+            "title": "Huawei's Tau Law exposes China's EDA gap; Empyrean advances memory chip design tools - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUhRckd1cW9GeWtxc1dRZXNua1NzQXoxckxKYkdveWFSSnltejNjVjNEM3BOM3NVTXd1OHlrektYM3ZLMTFaV0d4aEh1OVVyZnZMQkwweTdKTlNaNXc2SkZOZjl4OTl1ZnpKb0QwNmxjc2RzTk9kU3JQOU9XaTk1OFRNYlJxYWVJTmM2cWFxTFJpdEU?oc=5"
+        },
+        {
+            "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing - NVIDIA Newsroom",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWhpUkRjY2Z5cE85UmpLWnpPMWVsS3Q3X3VXUE1EOEQ3aTROZkhMM3g5YV9ldWdhVGxiVjFYN0YxTWJxcGppdGpJaXVjeGhaMzg5aFlQWXB4azZGekltYnBvMkJPUXpzdWpES0dhYVBkaTkzVHA2c3lJODZNbHRtSEF1V09GWUtoaXhXT1drUlg4RnlGVzZnQ2FydzFUSzdVMlFYWDg2bGFEaXBMcG9LYndnMFBvTWliZW1R?oc=5"
+        },
+        {
+            "title": "Applied Materials looks to hire 25% more chip talent in Southeast Asia - Nikkei Asia",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGNKTDdjWGRQQkdSQ3BTV3Iwb2VVLUdkLWszMzNMaC1RMy1acVM1dlNyOW41M3VNUEF6YUx1eGx0Y0tXR1dHLWVseW83N2pIRmk2WWpWNUVxVC1nOWVEbTN3RGtkS3hDa3lzdUVJaHA1XzhkajdHdXhSR0J4aS1lSmMwQ1pUS2RtTG5UaGNWWHl3MlJWYUJZMm1BY1YxbFFkRld0YnZVTE4xME1SaXZOblNGVF9PUzdkLWc?oc=5"
+        },
+        {
+            "title": "The future of India’s chip industry - The Hindu",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUJhR25qZmM3dng5WjBCWVZNd21DaDBwcFlvZVhZUlZuNkV5OVZycW5yNDIwOUl4OXJBSnBrT3JMemdSSENKc0JwdVUtVEFZeEZRTmN6UHdNeTNVQzV5SWFObmtPblpXWGdxOG9Tb0VueUkyaWNlV1N5RUVDWGVldEdXa3dnbjR3Q0Y5ZXBfel8zR0ZJYVUzVGRQRGJXN2Ni0gGnAUFVX3lxTE45aXE3c21Rd1dUSUxWMzhRdDgyaFdsSEFtQkI0VURxeDg5QjlSc2RzV3NXZElTanBoeEZ6X2Y1djNVeC1oSUFUM0lGaWIxUzNIaHd1ZVRpRWQ2MGRYWTBZSGNSSzB5b0dlT04xSThkZEdwVEJ1VDJNUEtMMjJvUTBFYmYwQlpoLXdrRTFUUzRpWEhrRTdKWlNXR3JLWWM5akp5cTR1R3pZ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
