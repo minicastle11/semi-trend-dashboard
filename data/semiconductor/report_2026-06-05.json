@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-05 00:14:42.571675",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Applied Materials looks to hire 25% more chip talent in Southeast Asia - Nikkei Asia",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWGNKTDdjWGRQQkdSQ3BTV3Iwb2VVLUdkLWszMzNMaC1RMy1acVM1dlNyOW41M3VNUEF6YUx1eGx0Y0tXR1dHLWVseW83N2pIRmk2WWpWNUVxVC1nOWVEbTN3RGtkS3hDa3lzdUVJaHA1XzhkajdHdXhSR0J4aS1lSmMwQ1pUS2RtTG5UaGNWWHl3MlJWYUJZMm1BY1YxbFFkRld0YnZVTE4xME1SaXZOblNGVF9PUzdkLWc?oc=5"
+        },
+        {
+            "title": "Why Nvidia stock is outperforming AI peers today - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ0o1WkFSVDFZSGM1WVYzNGV1S21mVFRoNFRac0lzSUhtbnI3MEJ2VTFQZzlrZUlJSFg5WmRhN3kxNHptTlM1NktGZXlJcTc0TFNnNkI1NlFRU1k4MWZ0TmdNUklWTDdZYy1SY3E1N1FILWFXeXhaMmFsRGM3SkU3ZlFZU3lkM2l0ZldVcWZyRE02WkdPSFM3blNHNzBDeld1YVNIYUNWY3E?oc=5"
+        },
+        {
+            "title": "AI 2026: Cerebras and the Potential Cambrian Explosion in Semiconductors - Bismarck Brief",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oVTJSbFc1Q25GS3NsMXBWRGFWR3VvYTZYZGJiVWFlQ0dsRlBqYkhRUGR3cGVPYjdkaS1rbGFQM3dzN0FsOTdjQ3cxQlNuSFJFQUR2WjNKTXVQMDdXaEdCRWp4VU80U0s5RjV6dEZkaUh0WVZ1THlXOXNnVQ?oc=5"
+        },
+        {
+            "title": "Here's Why the VanEck Semiconductor ETF Soared in May And Is a Great Way to Play AI Spending - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGdYbjZzMzFua3FqSHZraXNWVUNha2drbVdyc3Ixd3lYanVQX3Y1YzRXS2dqSm9xbFV3LThmV0VCLTgtV3RKQks3eFZiVzdDY3dnNUZUb0YxbmVtbVVQS1UyQWlFbDdjaG5CMTY2LURrMXB3VFpkajJQNkM1QjZvTi1iYlA4dnlKblhqcDVQNU9qSjVMQjE4OA?oc=5"
+        },
+        {
+            "title": "Powering AI: The Semiconductor Ecosystem at the Foundation of Data Centers - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNUtXQnZfaFRLaEVyRkctczRmWWFhQm5NM1RUczMwdlltNGFKWERQRXUtMU5jWWpKSW43RzlTc1N3OXVxV05DTV9vdU5oWlNDVjU5T1UtMWlrelI5UjVEei1HVWNpWEhyNS0wSEcxRXdibkpWYjRZdWsxMEVJSmxsMXBpbTl1SHBsNDVfTDZRSHFGSFhwUHNydlVrMDg0b3p3czBPaW1FNkE?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Bulk and surface excitons in the van der Waals magnet CrSBr: Magneto-optical studies to 55 tesla",
+            "link": "http://arxiv.org/abs/2606.05057v1"
+        },
+        {
+            "title": "Quantum simulations of ultrafast optical spectroscopy of semiconductors on digital quantum computers in the semi-classical approximation",
+            "link": "http://arxiv.org/abs/2606.04295v1"
+        },
+        {
+            "title": "Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transistors",
+            "link": "http://arxiv.org/abs/2606.04219v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
