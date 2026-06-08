@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-08 00:13:32.106915",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Asia tech stocks drop after Broadcom rattles AI trade and drags Wall Street names lower - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnBRX3BLYW9qOURXY2pUZGszSnd5dFQtNWMtaEJVOU5qbmFFc1hkVW5fel9RcVo3RTV1Mmh0NUUxNE5fZG9WQlpPeTdDYXJMQnZkMWV3dGhlYXAwZzlMZ1NFTWtCeWk5QjZXalFkZjFHRU1zYWR3b3VmU0N6aDg5TFRRVldDYXplcTgyMXV3aFcyMkhqY1BZ0gGcAUFVX3lxTE5rVEFtSjRacDlFNFVKclY1N0p5dTNyWXlEZC1qOUZlcVJPU1FSUi1OVlc1UXh4azBNel9ZbXVaUjNaQVQ5MlpkV3RkNi1GREVZRXYtMEZYQTlhYndZVkhQbGROdGRxb2drUU5yNFp3dDhPeTBteE9IUzBVM1ptNTFCRU05RFRfMkdNcUhZQVh5M1FkWFQ4TkRuZWE2bw?oc=5"
+        },
+        {
+            "title": "ASML invites Elon Musk to internal tech event, prompting employee backlash - NL Times",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXdwdWZPM2dnTjdoQk9xTkx3WDlBVmZTQ3JtX1B2RlFtN3lrTkdyeDRRcEFkNmhzNHVZeXFOY29jbGZtVHNmYXJfTjJYTk5LSVF6WGlhc3hJdlF6RmVZMlhwV2ZlWGg5cHNmUHdhN1N2OEVDcUZIeVdwSExrOV9DcHFhNG11MVd2c2NwbGI2UE0tZ3kyam5GTGFKZUNPRGJINVE?oc=5"
+        },
+        {
+            "title": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmpRVU9nYm5VZ3ZyRVJGTVVXeC1rX3EzRk9vZDRRUDRBUENiODlaRjhYejdZQU5wU0JXelVld2pBMHAzcXFoTUE4clVHWWRDWmNVQTlUcFZBc0lGWlNQTFFTZHRGVGo4QmlyNktTTTJNTWlIRmRxWkFBUmhNN3pDNHBXOVBGU3VwbXlqLU5jOEZ3c25LMlBzNnRqalI3NmdYOE1vcHdhdXMwUG05RWZWVQ?oc=5"
+        },
+        {
+            "title": "Is ASML Stock an Undervalued Semiconductor Stock to Buy? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNODBrVE1Db2NtWWxNMXlMOWFkZHNIa1ptcGFWWGUyNmMtVlRsdDc1bUZMX2x6cGI2TnRKbllqcjdfMXBSSTZhRFBIWDVlYmV2ekdEaURGN0FmYllkQUpRTzFiZWVoUTlEU3paWC1rTlduS281VHEyRGFDaWxYSnl6dzQ1bVF5WV9yOF9hRTloTHVKZnNCcDFxMw?oc=5"
+        },
+        {
+            "title": "Global Semiconductor Sales Increase 11% Month-to-Month in April - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE0tSlBRRDRDbXZsUHF3MGtEUEppdW5qd1gwWk1ILU92YWRqU21VRnBZSDUtc2hEZGViVXFjZXlkVUswN1FGREVsa0gtNVVXSWVaZlJDcC05NGdkOFlfbS1qVmpGVXJuRFhKVTFldlFlV0tKTjY0OHk2WUNuQ3IwMTYyaTNuSWFiSERmMUVranZwaVNxcEh5eVZB?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Nanostructure modelling with early fault tolerant quantum computers",
+            "link": "http://arxiv.org/abs/2606.06442v1"
+        },
+        {
+            "title": "Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostructure",
+            "link": "http://arxiv.org/abs/2606.06128v1"
+        },
+        {
+            "title": "Optimization of EUV output by experimentally validated radiation-hydrodynamic simulations across a broad laser parameter space",
+            "link": "http://arxiv.org/abs/2606.05948v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
