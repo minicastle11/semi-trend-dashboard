@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-09 00:10:00.614454",
+    "price_history": {
+        "2024-05-01": 31.743,
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.134,
+        "2026-04-01": 30.631
+    },
+    "news_sources": [
+        {
+            "title": "Disturbance In Verification - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWm1RN2thQWdTMUdubGNkQjRQOTJLSXVySUIxUFlfT3YyN3pWdEE3S1Jsc19ETU9tOWdHa1VZVFUzUlpUWW1CUkZjWkIwOHhMRk9VNGNneVg0V1Y2bHFoN2hmTUxWODg?oc=5"
+        },
+        {
+            "title": "Chips Act 2.0: Inside Europe’s Semiconductor Rethink - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjRqTDQ0aVo0RkpFZDNjM0JscDBiUGNLeC1xektidE1KdVEyeXpSSzZ4Yzd2aXhiUWpZRzdUeUhLeFNLd2FtV19UR3k0Xy1RNFRqaW9xSzk3MW1JVU04UDlvOU9ZNzk5aEpieWhYR3d4V1Y0Q1hzWGNmdjFHZnZLeQ?oc=5"
+        },
+        {
+            "title": "Why Semiconductor Manufacturers are Rethinking MES - EE Times Asia",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3VCMDFRNUhTdlFiWm9BbXVoY2pONHJKOHlreUtwRmJsYmpwdjNVWlBvVGRzRlVwYmJRdUJZWmdYR0Y2YVhrS1k0VEF0WXZ6M0tCZzNEM2N5Zy16WUd0RjZuZXk3ck5hNHdCTm5hRkRvZkdlTmFTQjVyd1Bfd29XZw?oc=5"
+        },
+        {
+            "title": "ASML invites Elon Musk to internal tech event, prompting employee backlash - NL Times",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXdwdWZPM2dnTjdoQk9xTkx3WDlBVmZTQ3JtX1B2RlFtN3lrTkdyeDRRcEFkNmhzNHVZeXFOY29jbGZtVHNmYXJfTjJYTk5LSVF6WGlhc3hJdlF6RmVZMlhwV2ZlWGg5cHNmUHdhN1N2OEVDcUZIeVdwSExrOV9DcHFhNG11MVd2c2NwbGI2UE0tZ3kyam5GTGFKZUNPRGJINVE?oc=5"
+        },
+        {
+            "title": "Exclusive: The semiconductor battle behind AI data centers and EVs - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUpQZXVFQl96Rm9fR21nbXFGdjQtUEZ4WjN6di1wdDhmUjh5enYzMGhUS25ZWWJtcXZ6UVJYVUxGOFNNaWRXajFHbUE0dVlNcHJZRWpLN3dkUmI1MGtWR2xmeFBMZnBZVDlSMllneE5uNDdEOEdKTU9ab1RsMVNKcktGY1pjMksxdklnRlJpVElNd3hIX1lZMHF2bw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Characterization of Nonlinear Dynamics in Semiconductors in Frequency Domain using Modulated Photoexcitation",
+            "link": "http://arxiv.org/abs/2606.06952v1"
+        },
+        {
+            "title": "Matching Terahertz and Hall Mobilities as a Hallmark of Intrinsic Charge Transport in Metal-Halide Perovskites",
+            "link": "http://arxiv.org/abs/2606.06623v1"
+        },
+        {
+            "title": "Self-organized Floquet band geometry in cavity-driven quantum materials",
+            "link": "http://arxiv.org/abs/2606.06579v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
