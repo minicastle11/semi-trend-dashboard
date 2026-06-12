@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-12 00:21:28.348495",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "This sector has dominated ETF returns so far in 2026 - Fox Business",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjlXWUh1LTNvUkJhcTBpendyRWJ4RmFKbkpEdmY2bnpxME9WY2hQeTdlVEpBR2c1XzBNWG54QkVXNTUzdG12RFFtNUk0WWl3VWlXcnc3c29Ud3BlTnpXMl9IU0k2Si03UXRaTF9raUlROTM1TklUamxtQ3VsRUxRQXZuYnF2b2xYSFhoS3hlcjBUQdIBlwFBVV95cUxOZXl2ZjdVaXZIZUYxVUJiLUlTT1ZVSWVHYXBWR1dUVl9LSDViLXJPcHJ0TVI5bW1LRmVkeGtYWm4xSV8yMENKdTRVMmtmMzJNRjUtMVFWUVN1LVV1dmtnV21vSFB1Mk50dTl0bkhTcDRNN1VwQmJINDJDWXp0cndnWVI4bFZDVFJWUFU3NDBNWEpGZzcwT3pv?oc=5"
+        },
+        {
+            "title": "Semicon giant Applied Materials opens $600m Singapore plant, adds 1,000 jobs amid AI chip boom - The Straits Times",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmdDcndSS2VCQXRsclozUzg0RXRYamhaLTlHclBWcWdheGUwVFpZcG83RGJEUlgyT1RjQXlfTzRhSHVTeDVFT0swUUdpMXpfVndVNGdlRDZXaFVfd1NuU0NRdEZGYXkzT0pJYmo3ODJlaDRXN09NZ3RhaTNrSElqX2ZVQVdZYklwUGRkWFRCbm4yVENHa0dVc0xhUU5Wcl9KRjlLb193V0U0S2ZIS3Z3S1Q4MnVub3NCbEdsZTFBdWlwOS1PVGdCbw?oc=5"
+        },
+        {
+            "title": "‘This is frustrating for all of us’: Need for workers prompts semiconductor job training initiative - KXAN Austin",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOampsVm1mM1c5N2lUTXlCTjF5Q1JtR3MwdEJiRGtUWXpsYU5laHEtUEg0VVJnMHd1cEQ2dUlueVRFaUtsU0xJY2RQNmV6bmlGNU5pMjBXOUltYmwwSFdVRUNMSmRfNTMwQ1ZldTJvdnVQT1V2Z21ySTk3M0p1X05DXzFpOHNrelNsc19CQnVkUEMzbDR3THVlQ2ctbjJUVzNRd3VDOEo2cGU3NjR4U05oX0xYYVhCaERuNmpsZEpkUG5keUNWWXdKTNIBzgFBVV95cUxQamNNQXg0dll4OWZWeV9XVHg3RUlxMmItd0UyNGlDUXBROFVWQi1YSGFKVVY2MkczeFNtZWsycm51VEloTlhCWW91UGJQV2M1VWRLM25xY0VNNEZIZGp2SWVJNUxPc3N6eXJoQjlYOVQxd1RkZk5WcmZQMFVRY1hCa2ZTUDBMNHhHT25xUl9LMjJsejdjMXd0V2RWanhSeXl1eVJWNVJwMktDdi1hSFZ5V2JzMTVjeXJNMThfTkM1SmpYS0ZEVTd1NzNFQjlGZw?oc=5"
+        },
+        {
+            "title": "Semiconductor industry growth driving Phoenix economic boom | FOX 10 Talks - FOX 10 Phoenix",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xdGRZN0VRWllUMU9rYTA4TnluSWJmOGs1Q2ktWjE1TUNtLV9iN1g0ZFp1N09wUWVpRDh2TG9VelNvSXVtY1Zmb3RIOGt4RjFtMWN6ODdISkVSUFFfSWprajdpYnh6d9IBa0FVX3lxTE1jdzN0MUVKQ1k2eXp5OGhIR0JNdU9vemFqeVpCXzFOb0NYeFNJc19jeURlb1luVzMwWnBfc25iVkl1ZXFscGh6ZnlNSEFDaU5abUFpQWxaaDVIMnAwSjJBZmpwbzgtSjVtXzVz?oc=5"
+        },
+        {
+            "title": "As Chips Go Vertical, Metrology Struggles to Keep Up - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTVnQ19Kb3lUWHJXYmV2NWc4YS1Na1dUYXFnNWdnYXFyQXI0ejUxQmJtd1JjRXNZeGVOU21zdW9JQ1NBWVJBR082RVZRTzFndzFYUVFiZ0lZUk1OWVFxaktMZ1R3bndmTEhLc1dRSlpUTUJFaUltenBkZkhtVEJGRUx3?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Effect of polar distortions on the anomalous Hall conductivity of altermagnetic $α$-MnTe",
+            "link": "http://arxiv.org/abs/2606.12311v1"
+        },
+        {
+            "title": "A Cryogenic Uniaxial Strain Cell for Quantum Devices",
+            "link": "http://arxiv.org/abs/2606.11485v1"
+        },
+        {
+            "title": "Multi-Channel Soil Moisture Measurement: High Accuracy and Low Crosstalk Through Optical-Semiconductor Based Differential Sensing",
+            "link": "http://arxiv.org/abs/2606.11020v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
