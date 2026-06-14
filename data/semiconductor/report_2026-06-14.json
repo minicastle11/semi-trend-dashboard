@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-14 00:12:24.978306",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "A.I. and the Chip Boom: Take a Quiz on New Korean Slang and Memes - The New York Times",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jUXJSV0hDcGh0a0Q3VU5jb3FtY0RxX2p4Q01nS0F6OTZrWkZTRHFfVTB1MHpLdnVlRFRud3lTbFA5UF9mVGZ0VjBUMVlVUXNUeDVsUWxicE91SFMtZG5mcXZIS2ZsN2tJTWxwSDhfdkt6dmlVMkdwUWM4SQ?oc=5"
+        },
+        {
+            "title": "Can Huawei’s ‘chip queen’ help China beat the US tech blockade? - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2RlSXpaVktheWp2elg0SzdTRUJ0ZlpSbVNhdDY2SWlQNkQtUVNKMmJoQWhKWEE4T3l4cVNwWl9ueTFGakdDMzVpX2FkeVd0ajFVYkFuZHF5U241OVFIUHlYLWJiQm5Vc3haQUNLaEdIejNPZWthQTFiUjkxaVQ5cmIzeDljVXF6R2J2N0FXZ0V0ZldLTGtsUURycHBZejlvcVljNmp3d2JNcVh1Q0tPQXo3YWTSAbQBQVVfeXFMTUl3NVpyOUU3c3U3Z2N5OVNqdjExc1UyMFJJUVJfbzB2cllLTnJSalpCVHZPSzhDaGRLaE85S0JaVWlGbm5TanFDY1JsVDRmemUycmRadUJZemJ3dFF3LU05N0FYMmdRWWRyYklRWkI0a3NNSjJEYmVTYnREY0dRWmtrOXNZR0k3ZW42VElkYU1yZ2VyUzhicjJfU0FOYWxjcFNCcEwyeG1RNFpqQmRzYk50eGZ1?oc=5"
+        },
+        {
+            "title": "2 Semiconductor Stocks to Keep an Eye On and 1 We Turn Down - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQm8ycnkyQU02aEJPWXdOQmxaOGxOdHJGbEJzcHN3T2FxRlZHOUlXZHdVLWMxZ1U5R09ES0t6QndOZkhJSHdMVkt1TGtlaUNIYWY2TjVMSHFyajlqU2I0MzlmUG5MX3VNb1dqUWlMUXpMQnhVaWxPMnZ5dW4zOVFjS0szN3p1SUJFY3kyVnBSYW9pWXFDQnZZWjJjS2M?oc=5"
+        },
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nTWJwTVRIQlp3ekcteEF0c3VKVWFYbWV2TkFXZDN4M2s1OVhFUVdaMzdQeWw1U2FScFFVSjlQdzlOQks3c2VzVFVpcTY1RXl0NXhKVk5wd1dERmVoWWxkRTVqUE85alhCRFNNNkxn?oc=5"
+        },
+        {
+            "title": "ASML: A Strong Contender in the Semiconductor Industry - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlhSUmFSc2c2WFJMZ3JyNWpvY09SUEdZR1J4bzYxZXg2VXdDcXVmWEpKdzRKZlNrcDNMX04zOHpSdUJlSlU4dmRPVklvY1ltUUF0Qk9pazN0THlodEt3bXFabGFXNC1BWFROYzNESEFOeHhxaXhRejVab1JBck5tX1pZY04xUTJkd1RVbmZOSG9zdlRncGozcw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Dopant-induced modifications of the optical properties of GaSe",
+            "link": "http://arxiv.org/abs/2606.13424v1"
+        },
+        {
+            "title": "Physics-informed time-series forecasting of perovskite photoluminescence stability",
+            "link": "http://arxiv.org/abs/2606.13414v1"
+        },
+        {
+            "title": "To Share or Not to Share: Orchestrating Trustworthy Data in Global Value Chains",
+            "link": "http://arxiv.org/abs/2606.12788v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
