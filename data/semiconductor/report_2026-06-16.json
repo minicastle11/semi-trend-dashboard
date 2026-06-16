@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-16 01:43:10.375691",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "Rapidus Signs MoU with Fondazione Chips-IT in Italy for Future Semiconductor Manufacturing - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYW1JeWdDM0dSemFYZk9rMnNHRlh2MUdTVDREZVRoc01HR0xDdVl5WmtwdkVSc1pBc0ZWVmozOGpMWXpMZUhUWDFzYTVXcFdKbGJoRVVpcHo4ejVNU1Nnb0Y2cnVTbmkxdFhBb3dxNUNVS2xELXhxNDY3NXNXcV84Yl90UGIzS2JZc1J0UEk4TllpTHE2UDNrMzM4Zw?oc=5"
+        },
+        {
+            "title": "Atomic-level simulations predict transistor scaling limits - Phys.org",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkJpZW15Wk02ekhRN0E1OWR1Z2lESnRFcDhYQXNxY0ZsNkZwYzFLakNRWUZiNEJNOGFIS04yMkR6c0xwWERvcDVKWW1Ca1ZxQXA0bklPWmJuT2c5dDUzN24wZnVpZ1JmTEdwZThMY3ZNbEw1MGRiT3A4ZXhlbVpYWGtfcmlkdw?oc=5"
+        },
+        {
+            "title": "Imec Pushes Quantum Toward Manufacturable Silicon Systems - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTEl4NUhoMlNBYzJDTDM2MHRVVWZYMlJRaXFrWXVPWlNWOHB6WTJHb2ExamRRTGVVeGpreGVadGxvSEQ0SEo3Z2JoUldKaHlqcnRmMEx1WXZBQVdHSElKWGJvZmpXWFJaZGQ1T2NFNVRDT2ZYbVhZSEdpNGUxd1hiUVRLNE9OZ3Iwcnc?oc=5"
+        },
+        {
+            "title": "Semiconductor stocks surge as the AI tech rally resumes - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjZtOEVTS2R2eXhMbWlNUWJ3TnlyZTZCUzNWY2FXMTRNLUhLNGt6RzFsMHJTbmVnc0pzZEoyM281OUhqSm9Lak9IWWtXTTA5SjBuUW5IejVGT3NRQ1h2YlIwM05qOEUyczBBbWx1WUg1NHR0RVE0SGs4V1lhSFRDNXZaMnpEd2MzU3FFVEdFelN2b2d0UTdNQg?oc=5"
+        },
+        {
+            "title": "Chips Up 8.8% in One Week: 5 Semiconductor Names Breaking Into New Highs - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUZtNGppMWYza1A1Y2lYWi0tSWwyRS16NGNzSkVhY2hFb0RNalBYd1FtR2MwdTlrVXc4X0xRSE9TbWxsS1BiUU5yeTJfZFBhdTJRTVFGY3hRS1dhSUNUUFhLN094VjhwcVBJUkNXdk56NlVRX1VJM0RZbkpoYl9uLVNOR0hpMkNQcmpnajZhS1lEbVJYeU0wLVhPRFBxd1pGNjMyd2QyemdlNHJSX1R0cmppWW8?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Unveiling AlSb as a Promising Zincblende Semiconductor for Visible-Light Shift-Current Generation",
+            "link": "http://arxiv.org/abs/2606.15613v1"
+        },
+        {
+            "title": "On the flow of electrically charged particles in an elastic solid",
+            "link": "http://arxiv.org/abs/2606.15279v1"
+        },
+        {
+            "title": "Designing Strong and Broadband Nonreciprocal Thermal Radiation in Magnetic Topological Materials",
+            "link": "http://arxiv.org/abs/2606.14861v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
