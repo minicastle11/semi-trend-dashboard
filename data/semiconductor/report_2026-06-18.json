@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-18 00:18:41.326724",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "Semiconductor Manufacturing Stocks Q1 Results: Benchmarking Nova (NASDAQ:NVMI) - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclFTX1RvRzhwRXY4b1hmbVhfcTdWcVNPUWt4elhEem1LaTY1SUE5b1p3MXRILXU2NGRGdW5aTWMyckgyQ1FXYloweWVzYmtENTZXVTVpQzFXclZsQWxEd1N5TnZidTZhOW9hVm5ZaU9rNHRqLXV5eTRlZVJEajhWajctemhfdTlGeVhxaV9OazQ3QXc0Nm5xbUZnRTI0QTFyaTVySmx6NkFJaTkzM01J?oc=5"
+        },
+        {
+            "title": "Atomic-level simulations predict transistor scaling limits - Phys.org",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkJpZW15Wk02ekhRN0E1OWR1Z2lESnRFcDhYQXNxY0ZsNkZwYzFLakNRWUZiNEJNOGFIS04yMkR6c0xwWERvcDVKWW1Ca1ZxQXA0bklPWmJuT2c5dDUzN24wZnVpZ1JmTEdwZThMY3ZNbEw1MGRiT3A4ZXhlbVpYWGtfcmlkdw?oc=5"
+        },
+        {
+            "title": "Oregon chip stocks are roaring back. Will the jobs ever return? - OregonLive.com",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHhZRkJaRlZCM0F1NzJQeWM2TzVpRTZTME51SzlraTJVUXNyTlFPTExlbE1KLUVEbm1oSmp3NldYcExVTGZVY3ZlUzZUd20tTFllRG9SQXotTjlGeHBPSE5MRVhqeXpaWmZ1YnFoS3dPM2FpdE5uNWJhWnhRU3lhcFNqcThFcXZEZUVnaC1FZkQ1Nkt3R05uZWljZGQ5MUpBQjZmekZXeENLOWNtMVhaR3VKMUJ5S1E?oc=5"
+        },
+        {
+            "title": "Imec Pushes Quantum Toward Manufacturable Silicon Systems - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTEl4NUhoMlNBYzJDTDM2MHRVVWZYMlJRaXFrWXVPWlNWOHB6WTJHb2ExamRRTGVVeGpreGVadGxvSEQ0SEo3Z2JoUldKaHlqcnRmMEx1WXZBQVdHSElKWGJvZmpXWFJaZGQ1T2NFNVRDT2ZYbVhZSEdpNGUxd1hiUVRLNE9OZ3Iwcnc?oc=5"
+        },
+        {
+            "title": "Nvidia Leads A.I. Chip Rally as Semiconductor Sector Surges - cheddar.com",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbkV4VjROTlVFOFQ0TUItMmtDcjMtUms0X2tJcnM1U3gtbmdqSmZqcXZpeW1zN3FjX3V0alhyR2IwaEJCYzJmOFRyRGd1a3JJcEE4aFU0VlJUek9PaU5Qa0lmVzhrc252TUh3eDZnck5Vb2dDRHgyME9KUzNkdWdBYWV2Y00xejMwTmF2NF9mcEhPZw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Anisotropic Short-Range Order Modulates Ferroelectric Switching in Wurtzite ScAlN Alloys",
+            "link": "http://arxiv.org/abs/2606.18213v1"
+        },
+        {
+            "title": "Fabless Quantum Chip Design and Commercial Production",
+            "link": "http://arxiv.org/abs/2606.17956v1"
+        },
+        {
+            "title": "Torsion-controlled spin transport and tunable intersubband absorption in a screw-dislocated semiconductor nanowire",
+            "link": "http://arxiv.org/abs/2606.17943v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
