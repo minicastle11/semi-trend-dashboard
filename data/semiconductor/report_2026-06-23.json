@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-23 00:11:24.417327",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "Defense Sends Clear Signal to Canadian Semiconductor Industry - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXzNIVkt2QXpPWjVzNU9jWnJqa2J5X2NyVDZzNF9iTW1QWWNFRWdHd0xjbFM5ZjFfVk1QcGZYT2dzZjdWSzhsek1qQ1ZPWHlreE05SDQ3a1RCX0hMUG1KSVJDSzBHbXd2UjJEWnNpak1Od0swdHNoWGhJWWV5bGtCLXNFZzQwVkFEU1p5b2o4VQ?oc=5"
+        },
+        {
+            "title": "Japanese chip equipment sales to China fall 10%, as curbs ‘backfire’ - Global Times",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjTkh5NHZzTmpoZGRKc0NjN0twV1BYaXdHdWNfVEN0ejZjcllQRWJOQ1NVbnJ4eHJRbWtqR0ZOUFRSSnlfSnk5WndQV3J6bm52bDJzMHh1ckJJbXZTTVZSb3NB?oc=5"
+        },
+        {
+            "title": "Move Over Marvell, Here Are the Next 2 $1 Trillion Semiconductor Stocks - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2MxdGxSczUzWU1QSjZfRDM3dllFb3NaV01XOFdoTV9zWFJ1V291UGJxcnBWZzFEVGFHUmNScjFuQ21YajF6enBvMUpsRGNvWmx6ZDNTS0RDR2JIT0pvNGMxczhSUnhjZ0htQ2c4QktHTHBXbk9wbDhKNXhjaGJNRERWTEY4Y0IwOE4yZ1RxVXlwZ1df?oc=5"
+        },
+        {
+            "title": "Toto reportedly bets bigger on semiconductor materials as AI pushes industry toward 1nm era - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenpJT2VVZWNkMDkwOFU2RlFudzk1OEZQMTdta2hCYjJxQzl0M2d6aGZnZGs4MTR0UWJXdS1FTDdzeGZRUjBQaFBZUXRUMGZLcjNIZDlyT0NfbnVtdGpkUTFQWUl1X1M0TUtOT2RjV1hpdmk5SWtKVmg3aXdoZm03UHNGamhPdWk2WXFIbmQzRWl0TTdkX0N4Z3NXNTJyUXBhWk10cUxGSkNoaW9IVWp4bnFn?oc=5"
+        },
+        {
+            "title": "MKS Celebrates Opening of Supercenter Factory in Malaysia, Strengthening Semiconductor Manufacturing Capabilities - markets.businessinsider.com",
+            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNkNRUVBYRDU0VGd5aGpPZHVDU0twMTJrcDItb2pPSFNibUJiVXJ6MGwtSFlwQTVBYXVnSFItZmNLZEE2eEo4N3lVbzAweDVwRUgwSlo5UjVNRjRId19JLVBSU0F5ZmJZSGI0eDlzSTlSd3JkaEc5U1R5N1hkQjRITnJ4ZHdVM200X09wbmxJYTRXeEJHbGtVNi1KTFktS3VtTmVSck1fU1FSY20tYlpYc2lTVF9OWlpKZTdQUzNzS2JjZTZJXzR3aGxHVEM1WW8wYmJiQWJYMDFzbE9pdU9qbTRSMi1MUklIc2w3WDUxWmlYQ1dmUDNBWjF5RHJpRkZv?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Effective masses, Burstein-Moss shift, and bandgap renormalization in degenerate Al-doped ZnO from broadband ellipsometry and Hall measurements",
+            "link": "http://arxiv.org/abs/2606.20349v1"
+        },
+        {
+            "title": "All-In-All-Out Pyrochlore Iridates as Noncollinear Spin-Orbit Coupled Counterparts of Altermagnets",
+            "link": "http://arxiv.org/abs/2606.20296v1"
+        },
+        {
+            "title": "Hartree-Fock Limit for Energies in Solids",
+            "link": "http://arxiv.org/abs/2606.20116v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
