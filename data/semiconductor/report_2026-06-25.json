@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-25 00:17:10.432166",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "Welcome to the Luxury City Built by Taiwan’s A.I. Boom - The New York Times",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ScjNOQi12TEZxWVVWZFdsbm9PbS1tdjFtVG9rRkFjME9pTm80UzdXaDRBT3phcFRGWHQ5NF9WYURDTDhuczUwTTBXdzVCX1JiVFJXaVVxRVU1bVVDVU82T1NYRERJbmduaktUQlBhd2Z4OXI5?oc=5"
+        },
+        {
+            "title": "How the ASML China EUV saga points to tougher reality for country’s chip sector - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDBlcExLOGhWZ1cxOFBrNXVVZ3VJbnBJdnY4UGRyZ01DLTB4ZjFtd0dWNFdFdl9CQVFCOHdSMGlLeERJeGtTc3RWUk1tOFg0UENUQ19pZlk4UlJydU9FQXZSNUY4aWFjZDRLZXNQZ014Vzc5anBvMWVUZkVVbzlpTEpFak9XTmVwUENsS3Axd3QzV0FaR2ZMckdHd3pKN0t0T1FCVVNZdXhId3M2bnBVX3YwWXIwalHSAbcBQVVfeXFMTkhRdDU1QlYyZHpZREZCM2F5Tmo1bWV1SE8zbmVNMl84VmtNcmJ4NEJKcURPTTRVZnYwanJvMWNTN3NQRUNjcUdMVjBoZUpFVTk2d3ZzdHdDOTdXMFVnYUpTc2VWZEFMcU5YalB3Q01EY3lUdWh3Ny1LQnhaVU93WFJFRTA3bnAtamFobnRZbFowX0xaNXk0SlRvWXh5UzBJOXR0UzVkWnh3MVNVSnBEbXdBWk9DZy04?oc=5"
+        },
+        {
+            "title": "Micron's Earnings Surprise Lifts South Korean Semiconductor Stocks - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEJqZFE0SWVtX0NtT0tNODh6bmtNU2NSaGZmajJBUFlhZkRQdkFfWnd5ejhvak9fTXAtaTIyWFZVbnFkOVRTMmZJWVUwN2stVUs0NVRnT1lvaDlPRXhZQ0VfSUV3aGhPUmM1TFR5dWVWVDZaMVpRa2JJMkZSeE1aQmUxdzRVWHNxcTMxY3l3?oc=5"
+        },
+        {
+            "title": "Bridging potential: how AI training empowers international talents in Taiwan's semiconductor industry. - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmV2NXFaeHNmMm5pQ2VnVFI3eHpZZFRkb243cWhQX1F2SVh1VUhRY2p0RjhNbUdnSENGXzhWU2VOYjctUTlwV05VUmN1MF8wbWR6SmRPbmlQZENFb3J5dVJ1aGZ1NDU5aUhkTjZDbmdtV0VIMEQzWFB0M3ZfcHE1YjhSUVo4ZWZQd21DUnUzbWRXMmo2dl9HYm5EZ00?oc=5"
+        },
+        {
+            "title": "SPHERE AX Partners with U.S. AI Semiconductor Company Blaize at the National Assembly - Morningstar",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTzVIZnEyQVRJNlBfRS1Tb1pCWFg0VW1PeUtRaWhrWHV0MzkyYTE1NzNxR0VJck1kREt4d0tOVmtET2pXZFM5bDVsWnJ4X2lEeHN6T29MRzBRa2NOQUp2akREOGhELS0xSUt0R0ZnV09MLTRDUGs3R0FhRXJ5aVNyNWpiLWxiSVRBUHFLR0QtUFpoUXBkemJLVTlXZjhxaTdJQ2c5MzJkX1ozMFFXWGw5aVZ5ejJMNENYU3BGN3hGZTNWaF9oeDNXcURoUHY5eWlFbXFicDJwXzRQUXZO?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "High-Fidelity Synthetic Transmission Electron Microscopy Image Generation Using Diffusion Probabilistic Models for Data-Limited Semiconductor Metrology",
+            "link": "http://arxiv.org/abs/2606.24817v1"
+        },
+        {
+            "title": "Thermal stability of vapor-deposited stable glasses of an organic semiconductor",
+            "link": "http://arxiv.org/abs/2606.24674v1"
+        },
+        {
+            "title": "Dimensional Confinement Driven Scattering Inversion in NaCrTe$_2$",
+            "link": "http://arxiv.org/abs/2606.24478v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
