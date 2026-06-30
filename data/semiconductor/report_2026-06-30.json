@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-06-30 00:09:22.032568",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "Semiconductor stocks retreat over worries about memory costs - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1Izal8xR2dNaHBGZTVSMTNHSUN5RWd4QWtRVl9uRmxRU3BoMjl2SDJfbVlqdFBtOVFoUm5OZmduSVVkM0hnZ2tCbU0zQjRmb0JkWDBOMkxrTzFPemZLMUVSYlVET1o3MXFhU0tobFVoYmVKSXdxRmpxVHNvUG1ZY3ZBTWc1MlFvREZRaExjRy1vMi1scjNHTWpiV1JxXzllZm12UndkZ0oyNFZDUHpwLTdNV0Z0OTFG?oc=5"
+        },
+        {
+            "title": "Nvidia Stock Has Underperformed the Semiconductor Sector in 2026. Will It Skyrocket in the Second Half? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVdDb0lWejU2bkNfZDgwWUN6V1ItWF84aThiZi16aDNGYjdzM3ZhdlF5NFZlSEFhV2J4WlhnUFh3bVZuLWFFQldQSWgxQzFyNnJzOGFCQW1LQWVvT1FKbzE3U0dOc2hiRGJFX2VqUWNsRy14b0hwNDNWTnZmUGIzUHNvNjlKamhNXzNhTjlRNENZXzBfLXJJ?oc=5"
+        },
+        {
+            "title": "Samsung and SK Hynix are building $520 billion worth of new chip plants in South Korea - qz.com",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBT3Bha2dkWDlFZkFPaEMtdVVidndwd2F2bXd0Y1VFd0M4LXZpcHltR3lKU1YtbDFIMUNRYVhrZExvQkZocTlVZFZNb0VTT2dFRGdHbTFqOGRjcGNuYTM1T2ltSXdFQTZCa1M2T1lOUWhnM1VSbVd4Ul81OGFORUE?oc=5"
+        },
+        {
+            "title": "Two South Korean companies named Samsung Electronics and SK Hynix now manufacture roughly two-thirds of the memory chips inside almost every digital device on Earth — produced inside a country whose 1953 per-capita income was lower than Somali - Space Daily",
+            "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPT2dpN2FiaGlRRzdHNHlaR3BXWk5USjBVa281UUFGR3U1ZkI5TmNOY25qV3gwdG02dnZZVldQVzlpaUw4SzhrenZjMDFkQ3FaM2k0SDZBVnBpQzAwZnJNNkRzV3RrVkNYaEtZczhueC05RE83YTlnSktiSHVqMW9GYUROSWdxRkJCUkdwaWxaTzQyZWtvN0dMa1VaaEEtOEMzVnZXT0NJa3JuZXQ0bkJnWHh0eTRDV1pxb2MzVUZmUklDaHRJNExpR0prM0lYYXRrbHZwem9RelRDdFF3UV8tX2dNY2lFelR2Zy1lSDlnLUpnVFM2YVgzV0lpa2p2djd1dnlMX1ducklIVnY1MWd5ZjU5cTl2alZwZnFtUk95dXhvT0hfbEZ0djN0eGNidG9kZmllZzlxZjRLUmV3?oc=5"
+        },
+        {
+            "title": "Seoul pushes 800t won Honam chip plan, Samsung and SK hynix voice concerns - CHOSUNBIZ - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RQkZaR280RHY5TWJ0dlJqT0NJc09TWjdWT0RNTUFIMmpONUw2VDlYQ19KaEd3c2o0aDB0aFVYT1RmOVluSTZTazF1eTNsT0VRNnFYWkNwdFJyRW9yckUyTFNyTUZtNWYxWlh2eEJTV1Y2dE5mWGVKUk1R0gGOAUFVX3lxTE0zODh3VDAwOGJtcUlVZ3FrdzY1Sm55TmVEQ1ZYVDBoQzBGaWw0SHphdXhHT2E0UnQwNHZia0dma1lkZWdHemVNN1VSWlRITWpMNXZHeHEwR01kSzMyNEpPWlR3S0pUbm4wOU5hSmRJVEduRnJ0OUkxUGNWNlhCa2Zna3F1NHR3Qk5zU1N6cHc?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "In-flight calibration of the Wide-field X-ray Telescope on board the Einstein Probe",
+            "link": "http://arxiv.org/abs/2606.28101v1"
+        },
+        {
+            "title": "Population-Dominated Ergotropy in a Capacitively Coupled Double-Quantum-Dot Battery under 1/f Charge Noise",
+            "link": "http://arxiv.org/abs/2606.28082v1"
+        },
+        {
+            "title": "FMO-xTB: Fragment molecular orbital method with GFN1-xTB for large-scale quantum-mechanical simulations",
+            "link": "http://arxiv.org/abs/2606.28022v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
