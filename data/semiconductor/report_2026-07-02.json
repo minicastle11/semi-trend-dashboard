@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-07-02 00:13:05.179694",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "Tech sector gains: Consumer electronics and software shine amid semiconductor woes - investingLive",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUxfQ0RjdjBybEMwcFlTNkJhNHpUVHVtZEJCQXFBeUN2T0RFLXRzeDlWM0ZjR1FhNnpZVXVSSU9XanF6WDUxR1BhUVpOTGhpNXJjWFJUMi1hZ1BKZXNtMDRKc3E2SHBUVVR6YVhSOFBjRUtJUXRZWWJzSjZfeU9CMFp3STlxWHVVS1psV0FReFRBT3owajFGTkRQV01qQjBtZnY3cjBodVJlWmpzRDNYQ3pDWHBjeEZLN0QxY2luNXc5Wm1aZUt1bF9qVmloYXRJdEw4?oc=5"
+        },
+        {
+            "title": "Intel Drops 7%, AMD Slides 5%, Taiwan Semiconductor Falls 6% as BoA Flags “Bubble Risk” - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT1JFVzUxVDFibWNCX0FTZ2t0TnJucTdWZFlxUm9tNVRxLWpva1c1b044YXNERWI3SlRGNDFxVTk4eXZPWlJLNXI4cE0wOWdQMFh1UmZsRmJLMzY1OXMzTXJCVlZQUldhLUU5VHZiSDB3VlBUYno4cHJiX2ZEUWhGcFZOdWRIUFVEb242OGdHTEYzQmc?oc=5"
+        },
+        {
+            "title": "Semiconductor ETFs to Buy as Micron Leads $2T AI-Led Chip Market Rally - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW9UbHdiakdoUkJGblV3d0o2QVNRY09BQzUwa1FMMmFBM192blJwTF9LM0xpRlhwQXJRU3gzRGQ2a2o2VktHQ0JTYmFPb1RtcUFRNFB6clVYMTF1aUhjSVl0ZTNIekpueFV2MmpveFktMGdZVFZJOXY0NF80T2ZJRVVSdmNrNWo0eEdFLVNlWGp0NUdlUWlZc1BqbGJxQ2U3SkREbFFlbXVEdXNoOHpkbFh2MDFfSllWZUJQRHhwdENfNUU?oc=5"
+        },
+        {
+            "title": "Broadcom Is Quietly Dominating AI Chips. Here Are 5 Overlooked Stocks Powering the Same Boom - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTExOLUF3UTZjUFk2TXRoc3NGcjl3M3pLaVpIRjRRNWkycEpkMHdSRVNRN3V2cWotTzVpUG5BME44cXdONzlSVzFwZEJacm05V3BtZHdpQWlac1RwREoxOHB6bC1KVnl4TXFoR041bmdnMFcwQzZQaFczMnVKczdIVjRualR4aHlySHRHMjAzMW56bjhDUDIxS05oamUzX3MzV0FDelhhTnc1M0p2OHEyR0xnd3ZJNzRTa3JhUVQ2czRJem5rU3lZN1BHSTd3aDYy?oc=5"
+        },
+        {
+            "title": "South Korean stock market rattled by major volatility! A rumor targeting the semiconductor industry leader strikes suddenly, prompting an urgent statement from the South Korean government. - 富途牛牛",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVhfbTVPRW5zR3pZbndGazYxelZTSGc3c21LSHhNWE9fLWRXM1R1SXRDeU10THVUYWltc0pReVhNelExblluUXFfQXo5SjBlN24tc1plYU1jRFRmQnFBSXhNcnl0c01KNm9yRnpVd3JhOFZCNFNjZXJHTXdxNnlwODJXV0xkTl9YWVE0ZXpGaG9ySXJsQV84Z1JrYi0yMEVlaGhFcA?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
