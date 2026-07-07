@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-07-07 00:12:31.765325",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckNEWmxtYllweTVNVUIxd003WHRSQnAxaWlMcFNMSFp5WFV3MlR1aEhZNHphTXZ4eTF1dlVYcE9tejR6ME12X2loR1ZNSU14cjUyWjlEVmduTDNFUy1wT1NHQUNWdmZjSDJWcjhiSUJ5cHJrbjB3dU4xa1NHbk9oQzJmbEwtR3NublBNbVZfdXp6U1E2YlAzMnh6Q1VnU3dwZ0IweUYtRQ?oc=5"
+        },
+        {
+            "title": "Chinese AI chip start-up bets on 3D stacking to bypass US controls - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEN5WU9peU5PaHBFZ3VKWFFRZDNmUjBmQ01tSTNJdm52STMwVTBJNlJFeTkyRnVpU09SMjdSSW9MNlVTS2tiOEVEQUM4ZlpZcFJSdGdoOFZuT192aWtUam9NXzJoMGRSc3R5RnItUjAwUy1GaGJOMXlGZmVMZG5DY29VdzBzdE82Zmk0ajhpaGRfUmhVNld6cE1lTWVrN29KV1RKOUYxdHRhWkU3NW9hQmtNdndteXA0azhwWnZRX3N4UGNUMGk0WnZR0gHKAUFVX3lxTFB3dTFQaFo1NU1NcWhSVmF1bUpEaWpUbkZBU25wak1lREhyYm9idW5GLWx1MXc2djNld3pweW0wT1VVaGQzRXo5YVVpdkFIWGE3S0FaZkxuSkM4aWhmRE5EYkZTc21rTlNoV3RMbkoxZEUwck9nd3lvNUZfNkR1eVNaeHVjMzdScmhHeWc1eVNud3lOVENsdjktSDU3R0N6dmZpWjlZMjEwWE50ZV8zV1FGeTZwekx1R0d3QV9ZSUVtb1d6a0hCTWFla0E?oc=5"
+        },
+        {
+            "title": "Chinese semiconductor firm expands with $1.15 billion chip packaging plant - Interesting Engineering",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1JTeHdCMEVmQnExTVE1OEhMbFBvRDdmSHpNZkZydjR3VDl5a3dSZnZITEZTLU5UdV9QbG1QdUdNVG9tWS1BTklydVlSVF9raE9kU1YwWUZsd2VFUkFNTnRHQmYzbUU4QlJCQndDTjBabmhaZ3dOWl82c1lJdm1wdHh4c2JZRzJYVFdUMVNfRmduY0JqWlA5Xw?oc=5"
+        },
+        {
+            "title": "Global Semiconductor Sales Increase 9.2% Month-to-Month in May - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2dwTC14SzN4al9MdzhHX3hHUlVtaXo1eTZMVW1hTFNoVDRHMVRhV3ZKQWREbW9nUjNwazhlUkhUMDlRTDZiMUI0Q2hPNEdzbjBqMFQyMXc1bFEwX3hSaE13MmpINTN2bUdjOVBhSnZ3WTNUbUxFdE9vd0thT3BlLU54WU5OT3dNM3VFVXhLM3J2TWxnWHk0aw?oc=5"
+        },
+        {
+            "title": "SK hynix, Samsung, Micron among semiconductor industry group lobbying against government intervention on domestic memory chip supply — says move would worsen situation, suggests tax deductions on consumer electronics instead - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPQ0ROT2t5aEdySmVMeVZtQ0RtclFpUFNKLXdoNkVVdjFqUE1KNE1RSWVKWmFwZU9oMFJ3WGVvTVJBWWFNWmVxQ3RMVW5HT1Y1UkFQN3JyMUFHMER4b0xyeHBPWC0xRnlITWFVLWViYktBWWNqdzV6MGw2OUVhd0NMRjhEUFgtcWw4V2trN3k4U3JuaExTVGpzTHMzMDVZM0Fxd3JDMU9sb0NBcEUzWnlTcFRxMW1hcUdseFg0R3FlNF9YeEs3VFd1aUhUVmR4WVQ4SEg3alljbkQyNTZubDVlNFJsanJLTXlFb3dvN0FQa3ZhRm5hdjlBMGhXdl9sdVJxVU1ORW1NdXhUTHB3bWF1RmRqaS1kZnNLU0dwb1l6cjZIUV9ZYXM2OW5FR3FMM2NQNEUtZTJRTXJ2TXdhUU5PSHYyWXRXd2wwQVJWbFdySERLQV95Nm1pc0lJVlNMbmp2blVleFljSzdUSm5WOWhhMC1GZy1lYUdyNmc?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Intrinsically low thermal conductivity of stoichiometric lithium niobate:Experimental measurement and microscopic origin",
+            "link": "http://arxiv.org/abs/2607.01673v1"
+        },
+        {
+            "title": "LIB-TRAP: Standard Cell Library Hardware Trojan Risk Assessment and Prevention",
+            "link": "http://arxiv.org/abs/2607.01526v1"
+        },
+        {
+            "title": "Lamb Shift of a Static Atom Facing a Rotating Surface",
+            "link": "http://arxiv.org/abs/2607.01495v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
