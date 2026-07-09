@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-07-09 00:15:21.394309",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "Chip Worker Shortfall Endangers US Factory Revival - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcnB1M25yaGhQUTFnekZLYk5iUEtUaXoyZFFQUFJFODBLN0hoV3lYbzgxVnNPZ2pfcTloMVYxWDV5TG9OcDBMQnBvMFJucTJNRExLaklsOEN2WW90eERFM0RVWGFleTc2S19TbmRCTEhuNm1DanE1bDBkMmc2d2dPalp4TmRZY1oyT0hKb3hLSGZGc2pwZV9ja0g0b1psM0pRVnozcW5wX2NiamVtRlNGd1g4SVYyZw?oc=5"
+        },
+        {
+            "title": "Oregon’s chip industry risks becoming ‘insignificant’ globally, state report says - OregonLive.com",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUpuOTJYdm1GaVRKVENDb1R0Mkc4TElzYTFqOV9jdENJTXhpNy14QnhBZ0hIc2xoY0thUTF2M2lYWUJWdnh6TExpVkhhemhTckhMblRmX2oxZHQyQUE0VjRLZzhWcVc0czdyWnJqNnFxZHlrQnRmTjNTN2s1OWVJbkJaNHgyazB4MXl1SnRlWWdpSDdVLThnMUNoN3pzaDVOdjJjVi1Ld2pkanpHY1gtWGd6NHEwMzJHU1lpcFNmUHFPRkNPNEFzTXc1YW4?oc=5"
+        },
+        {
+            "title": "China’s semiconductor industry is racing to catch the West’s - The Economist",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlFMNlpVWWlLMGZHcGc4Z0s1WUJkbXhGN1VuSklRbEFrMjFZVTZ5QWJwZ1ROTjJWRnhwUGtadUUyZmdRUk4zZld6RGM5OXFrUkk2MEFKeXVOWXNBdFhieUc3WFA1NWVWSE1mSVZfSkhCR2E4N21FRWVLQ0Jpb2QtN1pvaUw1cVRoMXZhOXdmVHB1RDdEYjBsS3Qybl9PM0VjZ2xrQ29wSQ?oc=5"
+        },
+        {
+            "title": "The Chemistry of Chips - ChinaTalk | Jordan Schneider",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxQ3ROczhLaGlBVXg1SHlXTWVSakY5YXRQcGJzbjFnWF9nNlZSdzdUaTgxQWtjQUx2N09kSXJtaGpmbDE2UDRzYmg2VWIyaXY2aDdoT1FPdUVTZUc5QV9fSVpB?oc=5"
+        },
+        {
+            "title": "Chip worker shortage puts U.S. semiconductor boom on the brink - Los Angeles Times",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmY5aXltZHlhcGNYQWE3LXFidEMtVWZIaXp5QlZNNDFPclFTVFUwX1FTbUg4UDZHRHNQN1NwbnV4NGJMRk4xZVpoUHJyMEk4YnBic2Y0djZzS1Y2d0NyM2dnN1hVR3E0cWcxRDJmMnBzbmszeGJLbzMzSVhXemhnd0txdlUtSi1lMWxvR3RjdEZZNXV1OTZKRllRcmU2SVJxb3MxQjBTUWhaNU0?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "2D Transport in an in-plane magnetic field",
+            "link": "http://arxiv.org/abs/2607.06561v1"
+        },
+        {
+            "title": "Automation Without Understanding",
+            "link": "http://arxiv.org/abs/2607.06377v1"
+        },
+        {
+            "title": "Classical Reversible Computation by Quantum Coherence",
+            "link": "http://arxiv.org/abs/2607.06219v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
