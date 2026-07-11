@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-07-11 00:02:16.033261",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "China’s semiconductor industry is racing to catch the West’s - The Economist",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlFMNlpVWWlLMGZHcGc4Z0s1WUJkbXhGN1VuSklRbEFrMjFZVTZ5QWJwZ1ROTjJWRnhwUGtadUUyZmdRUk4zZld6RGM5OXFrUkk2MEFKeXVOWXNBdFhieUc3WFA1NWVWSE1mSVZfSkhCR2E4N21FRWVLQ0Jpb2QtN1pvaUw1cVRoMXZhOXdmVHB1RDdEYjBsS3Qybl9PM0VjZ2xrQ29wSQ?oc=5"
+        },
+        {
+            "title": "Chips Made In The USA Are Making A Comeback. What Investors Should Know. - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQelllV1pfV0ZwcUtmWlUzRnRqcU8tNGVPc1MtZGdIMWlRUTRHUEUweDdYVWFKTkdRcjFDMHE5QS1GSndhamQzV2FCMXlxNEljbDZRaXNsVnlPeWFZM1F0eEpfbnZyOUpVOWZ1emZaUjZ2cjhWdnNOWTJMY2hod3ZtQnExbndtUmYwSnRpYTZqVjAyMmoyMFE?oc=5"
+        },
+        {
+            "title": "Oregon’s semiconductor industry could become irrelevant, state report warns - KOIN.com",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMnFxVUxGaWwybXJ0d0lkNkFPY2taVDcxNzR1ZDJVOUJMelhwMm52bmhKS2djQzNpYlVLZHpsVndhMkZoZVlCd2tvRnk5V0J3Uks3TnJwNFJzMFN3bXJyNVItMXMxSlp4dnh5REtzZ2hsMFFUMXNSdDhfcFI1NW4zaUVSWVVZLW1zQ3JVZ1BoaEhLRFFlUEdORzV5Wjl6WHBVeXl0aHRmTlVnOFnSAbABQVVfeXFMTjlLRjIycFlqSFZ1T2liNmVEU0tsd3h6OTNSY1ljZW9WczhaZmo4UFZRdDdzcS1YSEd0VjlPX09UQU10eWN1ZlE3WU5BZWZaMGE4bm5IcGZIOTZpYVVMWUdkM2F0LXBaM1RRbUpNdWlsUmpLdHB0WDN6SGRLS0RiODlCYUFwVms0aXd1MFk5NEhONmtZNHVFMnU0VzI4T3hpdXlXSnA3OGRnaDRidUZuWFo?oc=5"
+        },
+        {
+            "title": "Intel CEO Lip-Bu Tan Warned Helium Could Choke AI Chips in June, and China’s Export Ban Might Prove Him Right - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNzFGRzhMTlNDYktmYTI3WGhqVnNucUpSdV9NdmJxNEtXaGlzSHRrWUlvc0l3VkxBQTFSN2dkSjRJNk1kQWc0UURoRWJ3YkJ0MHpVR2prLVd3djNpMWZUQU9NSnpnME45cV8tTUJnX3RETFpITU95QmluUmtwdVVwRVJJRkp3dm5scjBNU2NzMm8yRXA5Mmh3LW94bEFWbmxRaFlwWHpETzNnZklGR2tnNDlHdVlSdXlER1ZsRDJWUWVSSEFTZ2F0UtIBzgFBVV95cUxOMEd2bEpCZTNxSUFtQURkV2lmQVJEeVBtTjRYcEQ3NWtEazBqNWw5YVJKaWRfbXNyb2ZFNkppZ3F2VmZGbFFzYjJmMkhBT1MtR2pyQ3NWaWRrR0xrYmpXNlNrMEIzVkt1VU15QnhHaUZrS0ZiWG5HLU5YMFM1ZlVuQWNXLUN5QnJQV3E5U2lxazhHOGEzaVNreVNzdUZkb3BPRllLaEN2NE96X1QzMjk4Q3hDYlpiTmJLQWU0SHY0c3VYZ1RyVEo0MGhfYmFtdw?oc=5"
+        },
+        {
+            "title": "Micron semiconductor plant foundation poured in Clay, NY - WCAX",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlB6a3cxVS1UdlFaZkNsTndPRk90YUIwcnFpLVN1NXJmYW5kalZHV290cm9OQm9oOFNTaGR6QWhtNzFMVzhhVWJyd0h5R1lLM0x0V29yMDJUV1oxN2xMQms4MTRITDBaTzdGV05PNjVmQVA1QVIxUGQ2QzZvS1RheGtXLUUxTTdnRDEwbi130gGiAUFVX3lxTFBYOXN2M1E0S0VSWnVUWWg4VXhCa0QwZE5SOGhVOFZEZ3hMaWdaeEszb3J2cGJ1bnhGTENpakFQYmRwMURidXVXY3ZPbjF4YnRLUmw2QTVpRVJUT1lYX2NoUW1JWjNrUTVEaGE1d2diT2MzQ0NMRmNDMnczRzBUUzNKS1Yxcy1CYXR5UXdKMkZRdUZybVVOV2FnMHVDaDVLdDNEUQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Best Practices for First-Principles Modeling of Amorphous Oxide Semiconductors: A Statistical Framework and Application to Zn-Sn-O",
+            "link": "http://arxiv.org/abs/2607.08667v1"
+        },
+        {
+            "title": "Physical aging of glasses of an organic semiconductor",
+            "link": "http://arxiv.org/abs/2607.08653v1"
+        },
+        {
+            "title": "Large-scale first-principle simulations of amorphous indium oxide",
+            "link": "http://arxiv.org/abs/2607.08617v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
