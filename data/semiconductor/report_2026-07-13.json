@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-07-13 23:56:48.111202",
+    "price_history": {
+        "2024-06-01": 31.518,
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.62,
+        "2026-05-01": 30.104
+    },
+    "news_sources": [
+        {
+            "title": "Chips Made In The USA Are Making A Comeback. What Investors Should Know. - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQelllV1pfV0ZwcUtmWlUzRnRqcU8tNGVPc1MtZGdIMWlRUTRHUEUweDdYVWFKTkdRcjFDMHE5QS1GSndhamQzV2FCMXlxNEljbDZRaXNsVnlPeWFZM1F0eEpfbnZyOUpVOWZ1emZaUjZ2cjhWdnNOWTJMY2hod3ZtQnExbndtUmYwSnRpYTZqVjAyMmoyMFE?oc=5"
+        },
+        {
+            "title": "Micron Shares Slide as Semiconductor Selloff Weighs on Memory Stocks (MU) - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkFpbnFveDQ2R3lIdVJaWWctcDRVSk9FYUJ0VlpQYkhWdW5TN0lSUUd6LUU0aU41MEZFZEJBemF0RnlmcmtoSmFGVzhqcDJMWUFpeDZockNfSjlXWExFcVlLWEsxU3NOalU5SVIwVXlWdWpBVWhnNk9NblNUUjRFT2R3NkpMa2dteTNKQmIybWxaSXM5WGVVdkVvVGl6emxLSHhUQXA3UU9Gdw?oc=5"
+        },
+        {
+            "title": "U.S. semiconductor stocks started July on a negative note; analysts say some of the upside potential has already been priced in, and volatility may intensify further. - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnNXVHBiLVkwWkNpVjNteWFSTkMxYTdrSmVOR2Y3R1BsMVpSZzhXNklXMy1WSUR6T2RBbXYwOUg5S1BhVFp0X0VTZWFYZlB2U2wwRW02QWQ2bV9YOWVmQmZrUUswaXMtOGk2UFJIMEZqZjhyRjZxX0o5Y0N5Y2laSi13eG1ibHo4QVUxQUk0Sm1JOURKMUdFakExSkFaZV80T3dfZ3JycGpPQQ?oc=5"
+        },
+        {
+            "title": "Intel announces $5.7 billion AI-driven capital investment in Ireland - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpmMER1MXFvS29zY1R4cWY5N3pGQkR0bnFYeVFuY0NCWkFMWXBCQlBLWFh3Vk5VVDkwaTlwMWtxQm1jTG9MY0dRSVA4R2VmVmtxZ1o2eXlUVGl4Q1EwUjBwdjRlSWEtZW1TQVRUVkRYemJHWXYyamQwVmxHWUotVzhlRDltRXBLZURpdDhSYmM1ZmZYUVljcEtCSFo0c2szblRQQ0RDdThoT2NLZFdEREpjbVI?oc=5"
+        },
+        {
+            "title": "TSMC's June sales drive revenue surge of 68% ahead of earnings report - Euronews",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOanY4bi03LWlvMXhWN3ZpMTI0RC1uUEZFSjVJWnAtNS12UmEzMnI3eHVWSkNCd0lQeTI5dXdia0hjQ3BqRjlBWHRHZC02dDM2OVBYVTNRWmg4TWhibWNPRWxBSUlNZDJiRE9vQ0xQQ1pSWmRidGNCaXZnNkpaOENDczNvX0t1QUdyd2tiUHhsSDRmd1JrOElTeXRpbEdWdEl3djJkZGhocm4zdmdudHlwUV9R?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Electronic manipulation of polar order in electron crystal",
+            "link": "http://arxiv.org/abs/2607.09425v1"
+        },
+        {
+            "title": "Deterministic Generation of Linear Photonic Cluster States with Semiconductor Quantum Dots: A Detailed Comparison of Different Schemes",
+            "link": "http://arxiv.org/abs/2607.09373v1"
+        },
+        {
+            "title": "Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organic semiconductor glass mixtures",
+            "link": "http://arxiv.org/abs/2607.08889v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
