@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-07-16 00:02:14.649517",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Oregon State, partners receive up to $160 million federal grant to build semiconductor industry - Oregon Public Broadcasting - OPB",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFNLQVlob09CUlA2Zng1NjI0ejZVNTQtcGtYanRZS0JhOUlpVzhJZEhGWldodURNbnRidFFXc2ZKTDRvaHcyNWU1YzJsV25yN0pYUTNhVnBSdzY2ak9fc1pxTFphTFdxV2xxeVhsOU8xWHBqSlNhV1YwZS1qQjRJNDd0T2NtNmZuV2paQzdxdTAyWERucHBVVzJLUkkwQ0h0d0lUV1FrenVleV9rYkE3RVR2NHZ2UDU5SERLcC1VUFo4akJSSTllNnFGMWRSQQ?oc=5"
+        },
+        {
+            "title": "Oregon team of nearly 100 partners awarded NSF Regional Innovation Engine Award, set up to receive up to $160 million to grow state’s semiconductor industry - Oregon State University",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY2dVRnJRU1BWNXFWcFh5MmxOZUpUTnZudmhZZ0tjdG4tNTBYM3lzLVZVRmZocGZmODUybWF3ZGx6cDhoR3BjV0pvS2hHQzZMYVZxQ0hDZHBhbGVPZ1JyWl94SFlqcWFKbnVRYmxsN2FWYkxvLWxTU3lrZ1BMNTdLNFpMU3Q3SWE4SmM5Yzhib2x4dkdNMGJsczl1ZE15bHJTT1VIQ1lvVVJRYnlEck9BUUV6Y3g0ejlRUWl4WVlwdzQ2aUJx?oc=5"
+        },
+        {
+            "title": "Oregon secures $160M to cement its semiconductor future - KEZI",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcVd0dldBNDRzbEFRR0V6SkVkT2E2MmhoQUxmaDF6eDJ0ZXg1a3RFY1BEVFA3WnhSclozZWEtMFVPU21POTVxcEYwU3NaUVlWNnhPbS1PQ1kxMUxoMVN5MFdBRTZYQkhOWFpvb1llYU1WWDZqVHZrVzFxN0V1dGVUaWthTmJkS09YV1lPeUtTVkNrT3ZmSE9OWW9xQTlGWlc5NEF0NEVvRF95TVZJaTdmeVlJRkZiSWQya3ZPRDc1TFFBM0YwNEFOSG9yUDE4Q2sxbmc?oc=5"
+        },
+        {
+            "title": "Arizona semiconductor training: NAU and TSMC offer free chip-making course - FOX 10 Phoenix",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGpfRUFROUtuWGVZcXRkal9DTjlxaTZWUWRRWlBmV2x5ekM0TkxWUWFQbDQ4SG1yVks5UjA0UkthUFRmVFhXbnIxNTd1dzdRdktmQzU0bVNtWjJnUUt1TzdpQ25xRHNEeGN2SEZnQWFzNTIzTHNpaG9SY3VHa2RrcTdWTnRYcjlvUWNua2xzWjdJUC1EQWZVSVJfZjVKSVBRQkdEbGFWdGdYUFJJ0gGyAUFVX3lxTE5NQm53MFZkemxDZlhfNGJRbVhtS1FfalpVT2txc2M2SHZ1WE5McDRlcnBWc1RocXBqLUE3bE4xT1NTZ2IwLUNCcGlFak02dmF5TDJ1V2paelR2Y3lwWVRKVV8tN1haOXF1bjNjb1FtSlF3WkZKVUlFMTBMazNub291bmJtQ2FEUmVFaUk1aTQ1Y25WNmdjQllPM2tQVzVGSE81aGR4ZV8xOHFRal92UFFPdXc?oc=5"
+        },
+        {
+            "title": "Micron Drops 8% on China Competition Fears, Dragging Intel, AMD, and Marvell - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTZfLXdSMWlURUhiNXhVRXB3czIweWt2Z3Q3TXVLSXJVdWR2MmV4MW9IeWVGM1BDZ21nT1lzUXJLNExHM1owMmFZMzNzUHdiSk4zUktkSl9YMEw5eHJ3LWNxVjhPV291VnJINXhGYUhFMmtuUXA5QWxVVEtSODdhU1RSX3Bhb3BUOVlMamJoV055YlB2UVowNVB6bDFjeHFXQVBPQWdqQ3pKa2hUVERIbTFtQmZBT3c?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
