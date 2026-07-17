@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-07-17 00:02:03.438644",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Oregon team of nearly 100 partners awarded NSF Regional Innovation Engine Award, set up to receive up to $160 million to grow state’s semiconductor industry - Oregon State University",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY2dVRnJRU1BWNXFWcFh5MmxOZUpUTnZudmhZZ0tjdG4tNTBYM3lzLVZVRmZocGZmODUybWF3ZGx6cDhoR3BjV0pvS2hHQzZMYVZxQ0hDZHBhbGVPZ1JyWl94SFlqcWFKbnVRYmxsN2FWYkxvLWxTU3lrZ1BMNTdLNFpMU3Q3SWE4SmM5Yzhib2x4dkdNMGJsczl1ZE15bHJTT1VIQ1lvVVJRYnlEck9BUUV6Y3g0ejlRUWl4WVlwdzQ2aUJx?oc=5"
+        },
+        {
+            "title": "Oregon State, partners receive up to $160 million federal grant to build semiconductor industry - Oregon Public Broadcasting - OPB",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFNLQVlob09CUlA2Zng1NjI0ejZVNTQtcGtYanRZS0JhOUlpVzhJZEhGWldodURNbnRidFFXc2ZKTDRvaHcyNWU1YzJsV25yN0pYUTNhVnBSdzY2ak9fc1pxTFphTFdxV2xxeVhsOU8xWHBqSlNhV1YwZS1qQjRJNDd0T2NtNmZuV2paQzdxdTAyWERucHBVVzJLUkkwQ0h0d0lUV1FrenVleV9rYkE3RVR2NHZ2UDU5SERLcC1VUFo4akJSSTllNnFGMWRSQQ?oc=5"
+        },
+        {
+            "title": "Oregon lands $15M federal semiconductor grant - Axios",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmJmWFliV3BacGgwWTB6VHBEbk1Hd0p1b3JZeHpnMi11NzFjLWo1WVo4T2hzLTZQaWg1M0FRV3NLM2hhbnJmWlRkUl82aW9OUlZHdnA4QjlXdGlueUVBbThXcGRtcTZJZzhSNWoyZmpZR3JJUWtQQ1FwVFZzeEhaV3BGT1huRklGNUNIOUVSY25CM0U?oc=5"
+        },
+        {
+            "title": "Cabinet unveils ₹1.9 trillion semiconductor, smartphone manufacturing plans - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE5VLVM5c2FCTDRRNkVwVjJDYjQ5TV9RMDNTTTRMbzJ6U1NiU1I0bmxiZDB4SmFtdHNnT3lHNGxMWlc1RWVhNDl5OER4QklMbVNBT2p3LTF1UjZQTmVtOVFRR05zMDZHeDlUa0c4UmJLUkoxeklvdFYwa3pIeWNkQTV0U054d2E0WmVxZTROT0cwRjFBa20xbUQ5QlFJNEtIUHNiRkN6WmFGcFZENno2d3Y1MWNRVjRjYWUyUUZzYk1NYVpqc0x2d3pibm93UdIB0wFBVV95cUxOZU53bzRGR2o0Q0pxaXVFNzlsRTdXYXRYTlBTVVRFdkw2Q1BlMEZNMnlRa2R4cUZfVkh0ZkNjZjUzVm9MRWFreFN1MmZHR1lGTzNCN0lHZzBWRnQzSk5mMVB4VzRWeG1SZWdtREVSd2xORHdHalFpTXFLMlRFX2UzcTNDdFg0OUVwMzRwemlrUkc5RDdrMnBIc3labExZOHF4MjRleE9ady1XNXhxQlZMQVpZUjZwY1NOSGNxeUhIQy1jLXN1Q2tCRW1Xdm5jZkwxbS1J?oc=5"
+        },
+        {
+            "title": "The 10 Coolest Semiconductor Startups Of 2026 (So Far) - crn.com",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVpTX2hFYTVWdzhmNUNJVllNd2dWSFA0U3A4LWUtM1pkSTFERy1TTTZkaFItbmZtOEROV2pGc3Jhc2Y0ZF90SEJTX3dPaTl2dGJhd1N6Yzd1RS1ibFF4aHhCQ3RNeGEtQnBocWRMY2p1WFdYYzJKVnFhX2NKRDlqWFFra1I5QksyRTVVWnVjZlZRdlBfOEZV?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
