@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-20 00:01:29.737424",
+    "last_updated": "2026-07-20 23:59:28.719444",
     "price_history": {
         "2024-07-01": 30.602,
         "2024-08-01": 30.456,
@@ -28,30 +28,38 @@
     },
     "news_sources": [
         {
-            "title": "SK Group Chairman Considers U.S. Plant to Lower Semiconductor Prices - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeEExcWthUlRCXzEtOXZ0TWptbGhWVDR1M0VfM0cycnZGNHJKTzZ3WnNUTHpFWngxYnd5Mkdpb0JsbldaX1k1aVVabERyUlJIcEdfU0pxUEphWU1BdFBmVF9ZbHIxRU5xX05qZkZvZGpHMFA0ekJxcmV5djBtdUFwY21TeWxPSlFM?oc=5"
+            "title": "Texas’ microchip industry investment luring high-profile firms - The Texas Tribune",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnIzQ1kzdUJGMmwyVjdYeWJEdTg5ZnJwaUxVT01pdmxMN2hTN2pUVGNBUFlHU3h3ODlCaklYaUg0MUhQbzEyX2UzaTVsSjZFTTNCcUZyc2h6M0lHQ1huWGhvNjBpOWItOEZHVHhHMk1TTlFnYnVicjA3MWpOMHMxSjdMYnc5ZS1ycUd0WTEwdDlQRTA4RlNLY2ZvX1p2cGZ1WUdB?oc=5"
+        },
+        {
+            "title": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczVELUs4d0FZOUNORVJ0UmE5QmdTM09iTm1RU2tnSWt5OXhuOUMxX191ZTd2S2Q4Qmo3Z0w4WGpfZ0M0R0xyUXFqaFlCYjdPYmp0dGZ1bjVCaFNUa1hPczJXX3p3V2pBcnpIREhiNXl2MktOSUFYZ2F0NG02Z1hLYlhKT19HRXBkSDhrVGpRMUVGUWJvaFBzVlB2aWQzakZoZDd4dTU1SnFQcVgyeXBF?oc=5"
         },
         {
             "title": "Memory chip boss admits RAM prices are 'abnormally high' — SK Group chairman considering building a semiconductor plant in the US to expand supply, calm ‘chipflation’ - Tom's Hardware",
             "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNcUhwU1hzZWpTcktEYkcxTHRkaGZKYzJ3R3VsOEVsdUl5ZE5sUnAzcjdXT1ZDbHlqVlo2aHdReWlsZ2J2aC10NVNvMDJPS01MWDNOajN4N092YjFmbGZIRG5CRU03LU9QMWdPbUtpUEstQjFrOE8wTTVJY2xHdE0wUlRDcFZSTWdRMHVrcGFiU3JLLWdQRFNtT1VPSVdVZTByYnFCaEFBNzlNSVRyRG1rd3AyV2Z6V0QyWUJmUURTcllza1QweU1qY0ZWNlcyNWVEX0dMcFhROTRYN09PUmpPajhKZ1JjSUY5SkM0NDczVnRmTE1haFVRSk83UU4tQURkMUw3ZXNRRGVwd1JZQkwycGY5RFR3anRXUjNEbzltTFN0VHZVbXV4d052UFBRTmRFc2Vv?oc=5"
         },
         {
-            "title": "U.S. Stocks Move | Semiconductor Sector Continues Correction; Intel (INTC.US) Drops Over 3% - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWptd3FhbmZlMlJYMV9lTEZOMmlDUW5ha282aWlsTXJJZDV3MXB0bUd6OWF2S0h0WmdDbVp6S0VYd1Y4bEgwUnZTLVZfZ2JjZmtic2NPVlg3QjdXMXhQWkhmNXczeWtOdUtMSGlvTWZUVlN2cnkyMUs4bm8ta3lBLTlWZEVza0h6ZlNHcEd0RFNQT2JfeXRJazRlaW96TnlORVNBVXdpVjRHZGpjVHhndzdQb3o4Snpp?oc=5"
+            "title": "Jensen Huang Thinks Semiconductors Will Be the Largest Industry in the World “By Far\" — and This Might Be Key to Getting Nvidia Stock to $500 - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWVZMeHN3dTAtaVhTRTBxTDlpM2pnNllYVUk2YVZzUmVHZWhmWDlVWGRhUFlUZlNCR1duSzVqV1dUVlNNRUFjdlNuSjlkMmJjZjd2OENDMVJMb25STEtQb3JjLVBiRzlrU0o0el9pYWQ1cVAzcmtURFE4T01FdFZIR3lOSWNaZ0RIVFRtV0RKV01qbHh1TVZSYTB0bHNfazZ3aC03aGw3MDRpdXRyel92dFVNOW1LNjhVTnpFYXA3QzNRc0lyNW9sck1jVWc4Zms0UUpjVW5pZDdOc2hodGxGbFI2ZVpwc1lVZFRsVmhwUkRyWTcyUnhvbFIzdTBXRWMxcDVwcXNOY1JkTllq?oc=5"
         },
         {
-            "title": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUlwSldGUHFXUnRCRzVRMGdsNWlqUkQ0dmtZU1FhbTZVWkx3clhOQmpYT241d0JCZzNjV3hXT2FCTW5BTXZIVFcxbW80NFlKQVphRXROWHY0c2h4MV91anNiTktab2QyNld1Z0RfRWdCa2hHNmYxR0pOM2ZyQ2xsbFhUYzBEWkJSdWxIalc2cGZRZEZnV3FJZA?oc=5"
-        },
-        {
-            "title": "Semiconductor stocks enter bear market: Is bubble burst next? - Finbold",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0M2WDlLTkRlRWNMLThocWUzS3h5ZmY3MzBKeFNCVTRsd0JQWElFXzkxTjROZnRTUktFRlNDVnRMS3p4cHZkczBvYlFNSXRUMzg2NE1ERS1TYV9zQ3RSbWY2dkpyLUpVeUZ3bEFKem5uSE9lZkg5Yk1CQVp1d0ZQWVhuN2l6bmM?oc=5"
+            "title": "Q1 Earnings Roundup: Marvell Technology (NASDAQ:MRVL) And The Rest Of The Semiconductor Manufacturing Segment - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLVVMbzRkbjhDUzQ5ekdMM2ROcG9rMjdSamNDWGlfbnhtZTlaMVRXOEJaOUdkaGdzb1d1c25EaTFFNE1oLTJxZzVWX3hVNlBmdGo0clJxOWNLTmRmN2RQWjliNVFSV2Nvdlhvd2FsQTRiSVJJR3ZTT0FWN0R5R2tMMXF4MWVXX2dLYTAzYnpfOGJDSzA3MmFXTEFqaTBaZGptcWUwMkMyN2cyYi16M3NZVHkyNmJKSzVlWDVSVmJvNXlUdEdLbk9iVG11SHdDamlMZVVSVEhXVDU1RkRwLUw4aUJhRURKSmRaazR5UUVwY19hcWtKTFY4QzdvUQ?oc=5"
         }
     ],
     "paper_sources": [
         {
-            "title": "논문 수집 일시 오류",
-            "link": "#"
+            "title": "Radiopurity material assays and radiation exposure projections for superconducting qubit measurements at SNOLAB",
+            "link": "http://arxiv.org/abs/2607.16151v1"
+        },
+        {
+            "title": "Subgrain-resolved Analysis of Degradation in Cu Metallization via Scanning 3DXRD and Thermomechanical Modeling",
+            "link": "http://arxiv.org/abs/2607.16108v1"
+        },
+        {
+            "title": "Structural Relaxation Enables Millisecond Infrared Photodetection in Selenium Iodine Semiconductors",
+            "link": "http://arxiv.org/abs/2607.16054v1"
         }
     ],
     "ai_report_ko": "분석 오류",
