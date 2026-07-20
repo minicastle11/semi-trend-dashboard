@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-07-20 00:01:29.737424",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "SK Group Chairman Considers U.S. Plant to Lower Semiconductor Prices - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeEExcWthUlRCXzEtOXZ0TWptbGhWVDR1M0VfM0cycnZGNHJKTzZ3WnNUTHpFWngxYnd5Mkdpb0JsbldaX1k1aVVabERyUlJIcEdfU0pxUEphWU1BdFBmVF9ZbHIxRU5xX05qZkZvZGpHMFA0ekJxcmV5djBtdUFwY21TeWxPSlFM?oc=5"
+        },
+        {
+            "title": "Memory chip boss admits RAM prices are 'abnormally high' — SK Group chairman considering building a semiconductor plant in the US to expand supply, calm ‘chipflation’ - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNcUhwU1hzZWpTcktEYkcxTHRkaGZKYzJ3R3VsOEVsdUl5ZE5sUnAzcjdXT1ZDbHlqVlo2aHdReWlsZ2J2aC10NVNvMDJPS01MWDNOajN4N092YjFmbGZIRG5CRU03LU9QMWdPbUtpUEstQjFrOE8wTTVJY2xHdE0wUlRDcFZSTWdRMHVrcGFiU3JLLWdQRFNtT1VPSVdVZTByYnFCaEFBNzlNSVRyRG1rd3AyV2Z6V0QyWUJmUURTcllza1QweU1qY0ZWNlcyNWVEX0dMcFhROTRYN09PUmpPajhKZ1JjSUY5SkM0NDczVnRmTE1haFVRSk83UU4tQURkMUw3ZXNRRGVwd1JZQkwycGY5RFR3anRXUjNEbzltTFN0VHZVbXV4d052UFBRTmRFc2Vv?oc=5"
+        },
+        {
+            "title": "U.S. Stocks Move | Semiconductor Sector Continues Correction; Intel (INTC.US) Drops Over 3% - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWptd3FhbmZlMlJYMV9lTEZOMmlDUW5ha282aWlsTXJJZDV3MXB0bUd6OWF2S0h0WmdDbVp6S0VYd1Y4bEgwUnZTLVZfZ2JjZmtic2NPVlg3QjdXMXhQWkhmNXczeWtOdUtMSGlvTWZUVlN2cnkyMUs4bm8ta3lBLTlWZEVza0h6ZlNHcEd0RFNQT2JfeXRJazRlaW96TnlORVNBVXdpVjRHZGpjVHhndzdQb3o4Snpp?oc=5"
+        },
+        {
+            "title": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUlwSldGUHFXUnRCRzVRMGdsNWlqUkQ0dmtZU1FhbTZVWkx3clhOQmpYT241d0JCZzNjV3hXT2FCTW5BTXZIVFcxbW80NFlKQVphRXROWHY0c2h4MV91anNiTktab2QyNld1Z0RfRWdCa2hHNmYxR0pOM2ZyQ2xsbFhUYzBEWkJSdWxIalc2cGZRZEZnV3FJZA?oc=5"
+        },
+        {
+            "title": "Semiconductor stocks enter bear market: Is bubble burst next? - Finbold",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0M2WDlLTkRlRWNMLThocWUzS3h5ZmY3MzBKeFNCVTRsd0JQWElFXzkxTjROZnRTUktFRlNDVnRMS3p4cHZkczBvYlFNSXRUMzg2NE1ERS1TYV9zQ3RSbWY2dkpyLUpVeUZ3bEFKem5uSE9lZkg5Yk1CQVp1d0ZQWVhuN2l6bmM?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
