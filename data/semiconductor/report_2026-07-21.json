@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-07-21 23:57:45.946153",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Texas’ microchip industry investment luring high-profile firms - The Texas Tribune",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnIzQ1kzdUJGMmwyVjdYeWJEdTg5ZnJwaUxVT01pdmxMN2hTN2pUVGNBUFlHU3h3ODlCaklYaUg0MUhQbzEyX2UzaTVsSjZFTTNCcUZyc2h6M0lHQ1huWGhvNjBpOWItOEZHVHhHMk1TTlFnYnVicjA3MWpOMHMxSjdMYnc5ZS1ycUd0WTEwdDlQRTA4RlNLY2ZvX1p2cGZ1WUdB?oc=5"
+        },
+        {
+            "title": "3 Stocks to Buy From the Prospering Semiconductor Industry - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXk4YllPT2FzSDZOMkVyazNrVmxXQlUxa1dDZTJRNC1Zb3JYWFE1THRhM1JHdVZSb2ZtT3E1TlplanhoSzdjR1ljR0hHV0ZQVXFUa3R4UkN1VWsyMEE2LXBoaTJsY2VYbDNZV1dFRm5kck43T2F1Q3FudmM2Y1FLTXFEOV9KV0FQeG40MmFvdTYtRktMTVV5ZXZCTjJDeHFvaHliVw?oc=5"
+        },
+        {
+            "title": "Chip Industry Technical Paper Roundup: July 21 - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUlJjNDNwUkQ3ZVBUWnFpWnd6QWNhd3dLN09FMWxrZ2pBRUNLTGZJeWx5SVpiQXdRNEJKY1NBMzQ0TXNfeW9TRU9DVkFETW1SQzJjaURhVE14ZWctR0J4Y1hyUlMyMkhESkRCeEw3RlJEaWNGMWNHVjhoNHIyT1k?oc=5"
+        },
+        {
+            "title": "Jensen Huang Thinks Semiconductors Will Be the Largest Industry in the World “By Far” — and This Might Be Key to Getting Nvidia Stock to $500 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1ZsMWJXRUV6ODlOc0NjT2s4cTM3VDNBM2Y0TlpfWnlxR2lSUXRDQi1HSWJfenhiTTN4Q3FQTGdFOGdJYllySkRCMzVoY0QzUWNNcXJQLWc4b0d0UXRyS0tQcTNIYkhqVFUwYkUtb2wyWXBhOEptem1jS2h0clRsejBuWGt4d1R6bUN3TEtMbjgxT1JtSjRJYzVFdFp4emZsZ3NGQUhB?oc=5"
+        },
+        {
+            "title": "Sorting Out Semiconductor Valuations (NYSEARCA:SPY) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1hUdHgyOTQ5dEZIempzbEl5WnpyVU96NE5BTUd4dEE1WDA4ZWN5RXJNaFc0OWtfNF9pNmxHcXNiRF9sdzhlbHE4NVBUdXZXX0hvS29oRUJxd19HRjc0TzRVQWtITGcxbmc1bUdTb1RyaHF2a3BMYWZpRnhaRWpUZFZVQQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Excitonic effects in the photocarriers dynamics of two-dimensional materials",
+            "link": "http://arxiv.org/abs/2607.18183v1"
+        },
+        {
+            "title": "A Low-Storage Implicit Dual-Time Finite-Volume Framework for Radio-Frequency Capacitively Coupled Plasma Fluid Simulations",
+            "link": "http://arxiv.org/abs/2607.18123v1"
+        },
+        {
+            "title": "A Voltage-Controlled Josephson Frequency Comb",
+            "link": "http://arxiv.org/abs/2607.17992v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
