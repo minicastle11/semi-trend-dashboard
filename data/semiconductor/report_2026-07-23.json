@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-07-23 00:03:13.138153",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "5 Semiconductor Stocks To Buy And 1 To Ignore - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUxTRWN1SXVqNHFRTjRoOTlJcExTUWtMM3k4Rk9vbDlaUnNTWUwtSldVMGExcmktZWVNOG5HRk8xQWlkQXlQMUstNWlmbDBuRmVXWlczZWV5RTdOSHRmbHVvMVQtX3JkTHJCWGc5by1ZdkRLSnlONEhXMVByTmNVaFhrUmU2cmJtaXJlYUZKRlNlUjA?oc=5"
+        },
+        {
+            "title": "Trump restricted China’s access to AI chips. It’s racing to build its own. - NBC News",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3hHOU1vSUJZLXdQcll6Wkd4b1RWRi1BT2VySW1kc25wZXp2cWg0QW44d3ZlbFZRSHF2cUhDNU9BMkpTSTZRS3JUNGxSUUtKQm1Cb09xaFpQLVR3WnhKYlNUTnV2MU5XQ3h3NzJtdHBLR1h2MjFsRVJLTjl0ZkVaWWxVNU9wTHFUbEdEUlR4Y3FwYk5yQk84ZzVzd25SSWNoNjBmMm5qZUYwQ3lGTVBMVg?oc=5"
+        },
+        {
+            "title": "Texas’ microchip industry investment luring high-profile firms - The Texas Tribune",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUnIzQ1kzdUJGMmwyVjdYeWJEdTg5ZnJwaUxVT01pdmxMN2hTN2pUVGNBUFlHU3h3ODlCaklYaUg0MUhQbzEyX2UzaTVsSjZFTTNCcUZyc2h6M0lHQ1huWGhvNjBpOWItOEZHVHhHMk1TTlFnYnVicjA3MWpOMHMxSjdMYnc5ZS1ycUd0WTEwdDlQRTA4RlNLY2ZvX1p2cGZ1WUdB?oc=5"
+        },
+        {
+            "title": "3 Stocks to Buy From the Prospering Semiconductor Industry - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXk4YllPT2FzSDZOMkVyazNrVmxXQlUxa1dDZTJRNC1Zb3JYWFE1THRhM1JHdVZSb2ZtT3E1TlplanhoSzdjR1ljR0hHV0ZQVXFUa3R4UkN1VWsyMEE2LXBoaTJsY2VYbDNZV1dFRm5kck43T2F1Q3FudmM2Y1FLTXFEOV9KV0FQeG40MmFvdTYtRktMTVV5ZXZCTjJDeHFvaHliVw?oc=5"
+        },
+        {
+            "title": "Memory chip boss admits RAM prices are 'abnormally high' — SK Group chairman considering building a semiconductor plant in the US to expand supply, calm ‘chipflation’ - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNcUhwU1hzZWpTcktEYkcxTHRkaGZKYzJ3R3VsOEVsdUl5ZE5sUnAzcjdXT1ZDbHlqVlo2aHdReWlsZ2J2aC10NVNvMDJPS01MWDNOajN4N092YjFmbGZIRG5CRU03LU9QMWdPbUtpUEstQjFrOE8wTTVJY2xHdE0wUlRDcFZSTWdRMHVrcGFiU3JLLWdQRFNtT1VPSVdVZTByYnFCaEFBNzlNSVRyRG1rd3AyV2Z6V0QyWUJmUURTcllza1QweU1qY0ZWNlcyNWVEX0dMcFhROTRYN09PUmpPajhKZ1JjSUY5SkM0NDczVnRmTE1haFVRSk83UU4tQURkMUw3ZXNRRGVwd1JZQkwycGY5RFR3anRXUjNEbzltTFN0VHZVbXV4d052UFBRTmRFc2Vv?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
