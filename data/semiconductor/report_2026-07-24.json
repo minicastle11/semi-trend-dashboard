@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-07-24 00:04:36.334341",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "5 Semiconductor Stocks To Buy And 1 To Ignore - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUxTRWN1SXVqNHFRTjRoOTlJcExTUWtMM3k4Rk9vbDlaUnNTWUwtSldVMGExcmktZWVNOG5HRk8xQWlkQXlQMUstNWlmbDBuRmVXWlczZWV5RTdOSHRmbHVvMVQtX3JkTHJCWGc5by1ZdkRLSnlONEhXMVByTmNVaFhrUmU2cmJtaXJlYUZKRlNlUjA?oc=5"
+        },
+        {
+            "title": "Can India become the next semiconductor hub after Taiwan? - DW.com",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JqbXJoekk3eG1ueE4tY2p4NUVnM1lPVFRuWE5Fck04WVo4ZGlvMWJaOUY0NlNTaWk2ZlljYnp0eWw4VHFjVVhTdS03M2JEX01XUU5lM3M2dm4wNzUyVTJ0VnhuV3Q3REw5SUdaWjlRcDZPb0tHUFBhU1dubFJHcWhGT2RDQW1ydERyWEtGeVZHYkRwUTRKeDJpYUNIYW_SAZ8BQVVfeXFMUFNSRHg5TV9WdU9YNU9VMjZDcnB2TnBadlFoNmRVQm9HRHVIZmhpOWFkRWhScS1BRVZEc2NCdFJxczBFblhqN2tmc3RwbU1oNENQUTQyZ0dKTE1zeE5seHQzX2U1aDRnTWEtVC1adloweVh6RlZDbnI4Q0NWYUFfMUxSV09MQml4Vy03N2ZCa0RlWEhUdUwtMXBYYlJIdm9n?oc=5"
+        },
+        {
+            "title": "Trump restricted China’s access to AI chips. It’s racing to build its own. - NBC News",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3hHOU1vSUJZLXdQcll6Wkd4b1RWRi1BT2VySW1kc25wZXp2cWg0QW44d3ZlbFZRSHF2cUhDNU9BMkpTSTZRS3JUNGxSUUtKQm1Cb09xaFpQLVR3WnhKYlNUTnV2MU5XQ3h3NzJtdHBLR1h2MjFsRVJLTjl0ZkVaWWxVNU9wTHFUbEdEUlR4Y3FwYk5yQk84ZzVzd25SSWNoNjBmMm5qZUYwQ3lGTVBMVg?oc=5"
+        },
+        {
+            "title": "Texas Instruments Stock: Why Near-Perfect Earnings Are a Warning for Chip Sector - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNm1weHpBWi1VcWl6Y2VjODg5N0JMaDdJUWFVZzZwT1U3cnFVMVI2R1d1TWZlUnhJYlFMZzFIWkgtbi1nTmdwYjctRzR4R2NoYTQ4SERmd0VmX3FJVENvVkpqZnZjRjlYbG9lVWozRjd1WWN2MnFHTXZSdGxmcGE5YktLS2tfdFk?oc=5"
+        },
+        {
+            "title": "Jensen Huang Thinks Semiconductors Will Be the Largest Industry in the World “By Far” — and This Might Be Key to Getting Nvidia Stock to $500 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1ZsMWJXRUV6ODlOc0NjT2s4cTM3VDNBM2Y0TlpfWnlxR2lSUXRDQi1HSWJfenhiTTN4Q3FQTGdFOGdJYllySkRCMzVoY0QzUWNNcXJQLWc4b0d0UXRyS0tQcTNIYkhqVFUwYkUtb2wyWXBhOEptem1jS2h0clRsejBuWGt4d1R6bUN3TEtMbjgxT1JtSjRJYzVFdFp4emZsZ3NGQUhB?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Formal Foundations for Known Good Reliable Die Screening in Chiplet-Based AI Systems-on-Chip",
+            "link": "http://arxiv.org/abs/2607.20141v1"
+        },
+        {
+            "title": "THz-Driven Floquet Spin Valve-Modulator",
+            "link": "http://arxiv.org/abs/2607.19897v1"
+        },
+        {
+            "title": "Power of Axion Microwave Absorbed by Quantum Hall State in Haloscope",
+            "link": "http://arxiv.org/abs/2607.19888v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
