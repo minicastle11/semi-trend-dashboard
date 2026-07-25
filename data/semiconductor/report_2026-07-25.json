@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-07-25 00:07:55.918620",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "How the 'twin stars' of China, CXMT and YMTC, changed the chip game - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3FtZ0tuZjBLVXBGemNjdHZlRFVaMUhXSHNuaWpfZnUxSk9PVVQtVldLNjNXSENkREV4UUZYdmN3dXE0RGk2d3poSzduX3UzM09JUURZMG5SQjZxeExscERSZ21SS1ptQUpWR3ROaXFGVlNnR3dWeDROc2Z4emx0NlU3dE5uMVp0aXM1SzJEdWJudVZoMFB6YnMwU2czOVBfaVBJTGhNcDBzUERo?oc=5"
+        },
+        {
+            "title": "Can India become the next semiconductor hub after Taiwan? - DW.com",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JqbXJoekk3eG1ueE4tY2p4NUVnM1lPVFRuWE5Fck04WVo4ZGlvMWJaOUY0NlNTaWk2ZlljYnp0eWw4VHFjVVhTdS03M2JEX01XUU5lM3M2dm4wNzUyVTJ0VnhuV3Q3REw5SUdaWjlRcDZPb0tHUFBhU1dubFJHcWhGT2RDQW1ydERyWEtGeVZHYkRwUTRKeDJpYUNIYW_SAZ8BQVVfeXFMUFNSRHg5TV9WdU9YNU9VMjZDcnB2TnBadlFoNmRVQm9HRHVIZmhpOWFkRWhScS1BRVZEc2NCdFJxczBFblhqN2tmc3RwbU1oNENQUTQyZ0dKTE1zeE5seHQzX2U1aDRnTWEtVC1adloweVh6RlZDbnI4Q0NWYUFfMUxSV09MQml4Vy03N2ZCa0RlWEhUdUwtMXBYYlJIdm9n?oc=5"
+        },
+        {
+            "title": "Nvidia's Huang says no chip bust \"for a while\" - Axios",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BbkxleUFYaWV0enQwZmxaMm01Sk9KZjhSdS00eS02el96aVNDSjc0a1NvcDE1T01OcVJucGM2dDV1WlR4Y2dIWXFzZG5kZ0VSeUdwWk9KaVc1VjU0bklZWk9HRQ?oc=5"
+        },
+        {
+            "title": "Why Texas Instruments’ Near-Perfect Earnings Is a Warning for the Chip Sector - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNm1weHpBWi1VcWl6Y2VjODg5N0JMaDdJUWFVZzZwT1U3cnFVMVI2R1d1TWZlUnhJYlFMZzFIWkgtbi1nTmdwYjctRzR4R2NoYTQ4SERmd0VmX3FJVENvVkpqZnZjRjlYbG9lVWozRjd1WWN2MnFHTXZSdGxmcGE5YktLS2tfdFk?oc=5"
+        },
+        {
+            "title": "Buy These 5 Semiconductor Stocks Charged Up by AI Enthusiasm - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObzJOUm9tNzVDd29zX2JNanZFNkEyOExKamdndE9iR3luSy1mOHhZTTctXy1XUjVvZTQ1ZEc5MlRBcEFuMXR3QlIyMldSOS0wY2ZDWkJDVXliNmpTaGVrQ2hCZ25xb3RSVDJuRUduUHZoX09fcU1zM0h6bzA1dGRfUm8wNVJtNlRsTTlUbWE0ZmZIU0ZEcWFzV2lJZ1lOTUU?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Rack-integrated quantum dot-based source of single and entangled photons at telecom C-band",
+            "link": "http://arxiv.org/abs/2607.21454v1"
+        },
+        {
+            "title": "Visualization of Defect Electronic States in Layered Semiconductor CrSBr",
+            "link": "http://arxiv.org/abs/2607.21301v1"
+        },
+        {
+            "title": "Structured Cavity Quantum Electrodynamics",
+            "link": "http://arxiv.org/abs/2607.21012v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
