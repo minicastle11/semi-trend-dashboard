@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-07-26 00:03:51.728771",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Korea-US Tech Giants Ink $950B Semiconductor-AI Pact - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmViVGNvOU1rTV85QkhmdFNoT202eTBzaDRGSjVhcDMwZGdNcXIzU0tCdzdLZFNKXzZFYkRFLThPYzdrZjdXNjA3WVh1WlVXY1d3ZDJfYXVvU0hMR0pTSkhWUnh5cVNwMUJYdG5OLXhmcDBhRmVPTjJnZHZpNmVFaEJVSk81NjY4?oc=5"
+        },
+        {
+            "title": "Can India become the next semiconductor hub after Taiwan? - dw.com",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JqbXJoekk3eG1ueE4tY2p4NUVnM1lPVFRuWE5Fck04WVo4ZGlvMWJaOUY0NlNTaWk2ZlljYnp0eWw4VHFjVVhTdS03M2JEX01XUU5lM3M2dm4wNzUyVTJ0VnhuV3Q3REw5SUdaWjlRcDZPb0tHUFBhU1dubFJHcWhGT2RDQW1ydERyWEtGeVZHYkRwUTRKeDJpYUNIYW_SAZ8BQVVfeXFMUFNSRHg5TV9WdU9YNU9VMjZDcnB2TnBadlFoNmRVQm9HRHVIZmhpOWFkRWhScS1BRVZEc2NCdFJxczBFblhqN2tmc3RwbU1oNENQUTQyZ0dKTE1zeE5seHQzX2U1aDRnTWEtVC1adloweVh6RlZDbnI4Q0NWYUFfMUxSV09MQml4Vy03N2ZCa0RlWEhUdUwtMXBYYlJIdm9n?oc=5"
+        },
+        {
+            "title": "Nvidia's Huang says no chip bust \"for a while\" - Axios",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BbkxleUFYaWV0enQwZmxaMm01Sk9KZjhSdS00eS02el96aVNDSjc0a1NvcDE1T01OcVJucGM2dDV1WlR4Y2dIWXFzZG5kZ0VSeUdwWk9KaVc1VjU0bklZWk9HRQ?oc=5"
+        },
+        {
+            "title": "Watch Huang Says AI Reshapes Chip Industry - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWJQZlN1WHRzWElLY09nU0JqNlhOelkteGZESmtqUC1odDNWVkxkb0kwcm9pTGZwZktoMjFpN3F4TVBjNk9ucUFRc0Q2MDdHdURfOFJXVXdkY1FySmlrazRPZGh5c0pZdlYwSE1VM3MydEpmVEYwSWJxd3BOSF85RGlnSmhYT3dGZGdZYWNROXZPdGFuMnc?oc=5"
+        },
+        {
+            "title": "Apple’s Fight With Micron Just Took a Wild Turn — And It Could Reshape the Memory Market - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWm95Z1ZJamdDeDRRNTJxTnFsZEJjYU5FRjJhaEdTbGFMeUpfU0UzNnN5YXN1dnBXVmhyZFkyWjA5WU43NGhFaHd4T094Z21iRGxYYkJnNnhkM0V5TWRnZDFqTS1KYTJnOGVWR245cFAxMTh0NGhObHNTcFlfdnBRMXdXbUN3a0hGYWV5Z2I4WkhLSkI0Zk9xc0d3MUdUVjUyQ1VmVnludlc2ME01X0xmckFHb0tMdzBjcW9ENUFNSzdLX29qS250Tw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
