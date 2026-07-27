@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-07-27 00:03:56.233861",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Bangladesh's $1b semiconductor ambition now faces critical execution phase - The Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWnJuaDI2enJGVmxHVHdCSE14S25zUExpMnQyZzQ4NDI3bDExQ1BHSHhWLUwxTi1HRU1YSXJ3Z1NxT3dQUC1kYm1mRGs4UWFwLTdzemgzNWtlc0w1V25kT3d1RHJaMU1OejUwRzZhRVp3ck40d05MRFBDRVhiQ0dXSmlmMTRUbUlnY0o5UlR3N0Fnb2VJbUFOczRXc0h6SVlRNnFCYUQ5OVJGbllMUXF4SVpaa2tJcmpHaTVjcFdB0gHDAUFVX3lxTE1kS3pqVW96SFJSRXNwZGl2bXNQLXNuNGFiYjFjWmFjSlZzekxIN0pLZzFVbkVWXy1VVldENWxWSGZlRGtTQ0lNanlfUnlwRzI3ZlpFdkhaMDc5OGhzY1JPMkd3NTQ1ZVZBb09jWFpjUGxRSjdUbXJDakdTLVpRN2RnYmJpQ2VwOWkzN0VkQnp0Wjh6enJhaGY0OS1qVUdvYXVHYU9nSVFuZDI3d01URWtvQ21IaVFnUnliSjhVODhuc1BvMA?oc=5"
+        },
+        {
+            "title": "Nvidia's Huang says no chip bust \"for a while\" - Axios",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BbkxleUFYaWV0enQwZmxaMm01Sk9KZjhSdS00eS02el96aVNDSjc0a1NvcDE1T01OcVJucGM2dDV1WlR4Y2dIWXFzZG5kZ0VSeUdwWk9KaVc1VjU0bklZWk9HRQ?oc=5"
+        },
+        {
+            "title": "Intel and Lens Technology Collaborate to Enable Advanced Semiconductor Packaging for the AI Era - Intel Newsroom",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMUVjVFJXZ0ZnNm1ndlp1aTJKUzN5Nk1WRU9ENnJmMTFiSnFfalRybmluWF9EM3lPUHgyVnhzcDlRRDVIcXByVzlONUo4dWdibkxoMkE1Ykx2akVPS21YUEp5M21FQy1FbzlxRWhRZEZyNnpiTjctSUtsY2luQ3k4ckRBZndDc25SSVNyOXZOeVB2NGNzZzRMYnNETjRyWDZtZVQ0NmxqbXlUbWxNNjNHRVFTR0lsdVhmT0c4TDdraG9aLXRwNFpqYTU4LVllOGVxQVg0VmVn?oc=5"
+        },
+        {
+            "title": "Apple’s Fight With Micron Just Took a Wild Turn — And It Could Reshape the Memory Market - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWm95Z1ZJamdDeDRRNTJxTnFsZEJjYU5FRjJhaEdTbGFMeUpfU0UzNnN5YXN1dnBXVmhyZFkyWjA5WU43NGhFaHd4T094Z21iRGxYYkJnNnhkM0V5TWRnZDFqTS1KYTJnOGVWR245cFAxMTh0NGhObHNTcFlfdnBRMXdXbUN3a0hGYWV5Z2I4WkhLSkI0Zk9xc0d3MUdUVjUyQ1VmVnludlc2ME01X0xmckFHb0tMdzBjcW9ENUFNSzdLX29qS250Tw?oc=5"
+        },
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YNE1GNUlUa1IyM3EzdUJQRG9wR1lPU1NQS0tmaGpCeVZqM3JiamZjRW5OX0R2WmI2TmNMbFF4THRGdzRJVnNXclNuZzRCR29ySkpJSy1FN0swZGtVeFJPS0o2eU5nbjNFcWlFSzdn?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
