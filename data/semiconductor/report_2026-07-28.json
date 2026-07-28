@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-07-28 00:04:54.321118",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "China Begins Mass Production of Homegrown DUV Chip Tools - The Information",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaExGTFVaMWVWamhnQTRVTWhpZlhjOTBRWUFKNjBSb2RLa3A2TldMR2dOSEl4YlRucWU3elQ0X2Q5YkFzcThLNWRzeklSd3JJckUyS09PVzZsT1luUWtQU3hGRjQzWXhjRzZNU0xadTN4ZmYxcnVMZ3hlWnR3QTlBZHBMcVY4RnNodkpxUmcwYUxpbURfMjh4T2dUN2loUGdpdXJuVzlqcFM3RHR1V1hCR3JYNXBENVpoSERLeGdmTDFSQ3BE?oc=5"
+        },
+        {
+            "title": "Chinese chipmaker CXMT soars 500% on debut as AI fuels shortages - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjRVZVh1WmNIM0x5TWx4dDFkVGtaeE9TaGdBZUdLWFRNdVc1X09UYUFGZnVQc3hXa1hGQWpRNUw1UHJpVHpweHVyOVp0RHNrajVoNU9hQ1kteFEwT0dpQVl5bXpweHNTYzYzaDI2ZTBoQjlBbGFpbUVUVTluLTBiNWE4cGYwdURCd1NSN1I1dEUxeWsyYlNkYUFR?oc=5"
+        },
+        {
+            "title": "2026 State of the U.S. Semiconductor Industry - Semiconductor Industry Association",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1hPZzFScERDM0hfcVFzcjBCeHlhUTBvWHk5LTcyVnZvQnpscjdSQ3hlNHkyYjBfQ0x6aEFpMXN6TGJuTXA5RW9XQzBYMU56RlIwVWZCWDgyOGZwWlFnSktlRm91V214VGFrWkJSa2pDTWl0eEdJcEY3UG1oczBVTXd3?oc=5"
+        },
+        {
+            "title": "Intel debuts new chip for space computing - SpaceNews",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CQmlvWmtDT2pjYnNPVF9uZjNmR0Q5eGlZZFhDYTlYb3oyaVhVQ3FEVnJsQ3RWQ2Rpb1JNMWRUNnRuM3luX1BVNThKVEk5TnRMVFlacWZGbDJlcW0zcTYzajluSHZaa2FTcEw5MmlUNmZZQQ?oc=5"
+        },
+        {
+            "title": "Intel’s revival begins with a problem most companies want - calcalistech.com",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wLXZ6R2xzVlVvXzU2SjU3Mi1sS2x5YzFIcnVfa2V4amU3WkFmc0UzWjd1RU5aWEFSVVBPUnF2bUdtOE5aaEdMeThnTFNBUDh5elU1dW4xeEd3UnBjVjk0c0p0Mm04Nk0?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
