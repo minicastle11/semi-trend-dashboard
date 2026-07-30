@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-07-30 00:04:15.344215",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing - NVIDIA Developer",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUNid2ppcWdfWnozTXFNR0I3VXVtb0NxRGxhTk96aGNCZXFEa1RQYVdHUDFYLWluNGx4VlRIRWJTaU8zS05RaHB0d2w1V2dzaGNiQkRac3R2bEh6NExIX3JVX3RfalhpMEhzMzlWV2R1ZUgzZ04zOEZTdXVQWHZJbWNJNmdsSnNra0p3YXVOdk9WQUJLT0dtYjczdlJRbXQwMHhwYUNaN1M4OTlTUjZTNzY2UlhfRWc?oc=5"
+        },
+        {
+            "title": "A machine made by China sends shockwaves in the chip industry - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTzlFNG1yTjBvT25BVnlSYXh1Vm9aTnJseUpQR2hwUVBBdHplZ1hGQzlJUjVld3RmclJ1VmpSM0VyT2hHVjhpd0tIdDRRbXNvWXJPUlJoXzVMUGZsbERqOWdtbGFzOWtRNWViNW45dFB0bmpJcU5vUjBqTVVqbzE2aWIwTkJHVkZvcGZZMzFVSURZakNGSDFYaG1NVDBIb3VxM3pzT2NBRmxhdDJTS0tmWHNLbGxuaDZSd2JROEZEWDdqbFA1bzc4Q2xJd0lyQTBDeVpEdU5GM1UyWEszcmtGbk5R0gHnAUFVX3lxTE9yVEd1OVhtVy0tR0F3NFVjRVFzcHZ3Nk0xakpvRXNOVUZtb1RsWDFyWW1KOG1mYlFBcEk1MUpNLTJ1eHlOQ0xDancyd2hDUHlNY3ZISFlEcnRORm9VckY1RGV6aGxmMmtpNzM1M0VIdFlCZ2NnRGFHdHlTaE5HN3YzUVpJeW1oSzV4d1VqTzRTalQyOXVteEUzM19tb3ZPZGhJMjZ4S0FrelR6SVBkN0lhMUxzcnBCaFdZTUdGVFVCSDM4c2ZRQTdwbHZLU1JkbHdHUUZUSkF4RDI1Vnl3ZHdmU1N3WUVWRQ?oc=5"
+        },
+        {
+            "title": "China’s reported chip breakthrough comes with some big caveats - cnbc.com",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd29CTXRwY0RhQVpUSkFudVNZTlk1UzFyZDlSYmNLcHBGNEV6TnowaWZDN1hPUUlmRU8tdGdPUWdfUTNlOTAtLV9LbjFQbjJ1dXIxYWxwTEpQQmQzVWd1SlRHOElFQWUzd0R6Sk9xRWpVVENYSzVJNWtUS3plNWcyUklxNNIBiAFBVV95cUxNLVU1ZjUyeW5VeWR0cGNocDd5aGVrVGZmNktzTDh3bWZOU1JRQUQtOVhPUm10ZEs2VzdFWmx2QkFEUW5fSUxGb1BDMndKQWF5NGJUdUJWYTZNS1hOdndvalJiblY4d1FfR2hJVDZsSk5paXY0cUhzRXd0a3NBWGtLRHdxNVBQX1Z0?oc=5"
+        },
+        {
+            "title": "Why KOSPI And The Semiconductor Sector Is Crashing (NASDAQ:SOXX) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQk43S1lrd1dlWHBrREE3NVZVTEpfWDgxQy1GNzBGeG9xV1BuNTAweGhLal8wZlVabXdLNjlyd09QdTVZM2tyRWREYlNRSkdYaXFNUUxDUmxPVS02RXJNLTdLcjZJNXhFU09NT3FiN09idlVnTjNFUFVjcEsxbmdINzZfdkJQeDIydm1BQ08zQl8zS0dkN2c?oc=5"
+        },
+        {
+            "title": "Microsoft’s Earnings Could Decide the Fate of a $700 Billion AI Spending Boom - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFV4MlhzTWlvZjd2bjhHUG1nRVVXSkw5djA2WjJkc1ZadnhsODZoeENQdTMteklMSjhpQWpXb1ZHSDdjaHBQSnVFT2o4ZkxVZzM0eEZrLUpTSEU0OUdkUDZIUU1tVmQ0MXZxWjRnMHZxTUtHandwczl1aF9vS0RJVHpGUVkyc0ZCMENIMm90aXk1MVpfY2wtLXQtTXJjRWpPdnc?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
