@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-08-03 00:02:01.050484",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants - cnbc.com",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeExRemlHZEF4UnJ6elhWNXRLRmpVb01oanczX0phOFFoUWRxLVBOcjJ0MVVIY0xMMmNEQUpSY0pqSkdJeDhwSnNkZk1sYUozRGNHNzZRTndTX0lwV2xPd2hyRU5wQzdhUHhUOXk4MkdEaVhFV1B4VnI1VXF5M0tSTVRqZEvSAYoBQVVfeXFMT0VLeEdLR2lxckc5QXVNWVRVVXg4d3UwVDdOSFVXMmwtMzE2aGJpUENEZk54Ump3RlFJR0U1dEgxcWt4a0VCWnA3NmRhYVpySGY4NVdJdlphR3g1OEttQ1V5VEc5UmRCeFEyZHE0QUNmM1dNVW1iZ1pXUW5WcDl4N1Y5ZmlseGdoenZ3?oc=5"
+        },
+        {
+            "title": "Semiconductor Sell-Off: 1 Chip Stock to Buy, 1 to Hold, and 1 to Sell - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkZSXy1wdzdub2xOcGZJVmhmLTBpRlR1QzFjdHl0ZXdZRmYzcjdLWTJoMlBHc3puMTlxSzJxN2oyamluc3paaTRoaTNHTE40UlZGVVFOdWNfcHZOUTlKTktob19qTy1QTDBTZTZ6WFhxTUlkb1c0alMyZk8wU0FEVjFhSFRTX1l1N1czaU1TRQ?oc=5"
+        },
+        {
+            "title": "NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars - Financial Times",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEpmYTdqUGtSOG1pQ0pHc3Jnd01QX2hnU1gydEIzQUxlVUJoS3BOQmloRTQ2LW4tVnZOeC1ab2poVUJwX2V5MUpiSExZTmZMOFVPemRTbmFIVW9YdGVIRVhtcjlaTkVmamtEbHd6aHZKdVBBUl90TVo1bVRqeHc4TzlrM08?oc=5"
+        },
+        {
+            "title": "SEMICON West to make Phoenix its permanent home starting in 2027 - The Business Journals",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWoxeWFHU1J5bTRmMGlMaVRVbVNiVzcxTVpvanVHSTk5Q0dEc1hscEd4NmhsaXRhY3JzNDJ4aGZQOENWSU9jYlQ2QkV4NmIyWF84NEZObi1JRkgzYlItR19Xd2xfNnAzWWJpMVBfeG1oQmRRRFdidGVTVVA5cUoxUXpVUWljZVFIUHZ3UmVLRy1NWXVEWjE4?oc=5"
+        },
+        {
+            "title": "India enters the story as China begins to rewrite the chips playbook - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPNm9CM2VnRFhRVE9aNURxdUp1dDhUQ0I3S1RPSG5aT3NzakVWbHBac0lfakFjazBkNlRqeHo2WkJUeERWeWRYRUVhREZXdFdyelB2QzF2cVA4eFk1MTRnak1zNmxyWmo3ZEZzXzI0em81M3ByZjNCN1VkR29BS0xvd3JvRVhRSkROYmljdG8xU2Z5a2UtYXc4eDFER2ttLUJjV2FYMldBUXMtRnUxVmRKS3pOVVZPS1YzYU1iTzV0Y3JYM0hvMXlKV0JRU2RaSXZjNDV1RXpLTXVINkxhOTBQcGtqLW5WUzlQMWs5RnRKbjJ1Yi1JclE0ckpBUFZfbnhtc3R4MV9UdDlpcVlsOWtQVHhnNFpaTnF2OWN5YUkyaFJDSTla0gGqAkFVX3lxTE94akJsenJPNWVZdlFQTi00NGNWb01yUnJzeEJER0lMbGNyTTBFMnpfX21Fa3hxU2tzMVNMbXlPVGpnd3BSaXBOcTk0NWxFSHpsRWZwLWtQMXVFa29WN1FVcFBUMFd1ZWlDVlRBLUJhLVdBcEVYRXlhckNCeDNSRTdOaC1ydy1JbXVadUFpM1dvMnI4aEhBb0Y4X09tSmxoRkJ4WVpxZXdacFV1ZXV1WDJCM19FdHFINDVFbENpLVB0VVBPeER6U2xrZFBrbGhGd3V5OEVFQU5zV1hhMnRnMjcyNlAwblFjYVYzODB0enVJY2xDWUVvNjMyanNteVR1dW1zdFZaeElaNF84Nl82eThMSEFpc1lmRWduV3MtZmFaZERUVTgxZVpNMHc?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
