@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-08-04 00:12:22.544925",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Semiconductor Outlook Bodes Well for This ETF - ETF Trends",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQemMyV3RZSGVwNzJKVnFWYTFLNnJObnFlbG1OdUhsajVneTkwX2d2bmhQRFdqYlFHRTV1UmFkMXV1R1JPYVhzMVFrWjZkTDBoRnI4dEU2bDRLZUd2enA1SUltU2NycWdDdUloRmVvUU5uU2ltTFQyRHE3ZGVmd3UtZllScGRST251QUFwSHZiT0VFWHVuVU1YYUtaT3NraEhjT3ZaZA?oc=5"
+        },
+        {
+            "title": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now. - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3NOMGNEMi1HeTViXy1RRGR5VkQwNXBwUk5jZ1NzOU1oUzA4SjdrRWRzbHBOc3lwV1RldFpfVDFGMTltQzZvaHVvYUIzTzVWVTlnMTV2ektCUVp5aUV6YXBmWmVaUDRKa2FwdnJxeWpjYTZLTmRTNXJaM3dqVDdFdloxY1ZOQ2NraVJITEdCZ1dDMUlBaGtJQWh6QTJtX3dK?oc=5"
+        },
+        {
+            "title": "TSMC Kumamoto Factory Resumes Six Days Post-Earthquake - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVYtRWJEdUE1dXNzdjNrYm1nS3pOWW1nVWRGVmc3M2Z4M2ZGWUN6SFdUbFZUdXh1SWs3ZTFtZGx6am94Rm1PWi1aNTQ4NmhweGpvZ3p2MTJTdGhGTzlXdlVZNXIyeUhVU0dLbUsyVUhYbVZSWEt2MzNvanUxcEt4RTI0VG8?oc=5"
+        },
+        {
+            "title": "NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars - Financial Times",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEpmYTdqUGtSOG1pQ0pHc3Jnd01QX2hnU1gydEIzQUxlVUJoS3BOQmloRTQ2LW4tVnZOeC1ab2poVUJwX2V5MUpiSExZTmZMOFVPemRTbmFIVW9YdGVIRVhtcjlaTkVmamtEbHd6aHZKdVBBUl90TVo1bVRqeHc4TzlrM08?oc=5"
+        },
+        {
+            "title": "Jensen Huang Says the Chip Industry's Usual Boom-Bust Cycle Won't Hit for a While, a Bullish Signal for AI Stocks - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3JVMHNDczAxWGs0bUk0SGdURWltVmVBdE1uM1VMaGVwTkpGMFZGTlVjdHlLLUxaSFFkaWZITmJhLTNVaFRURFJjRUtWc1RkeWVaWXlZdzB3RkRuXy1KNUFRQUJPREZuNnh3eXlvclVMWldjWVNsT2taRUgzaDVBZTNRQWZKZ2dDT0YyVVE5ZUptdw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
