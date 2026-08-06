@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-08-06 00:03:02.118616",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Nvidia CEO Jensen Huang Said the Semiconductor Industry Could Grow to $7.9 Trillion to Support the Agentic AI Boom. Here Are 2 Stocks That Could Benefit - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3dfMEpzRGpHZk5xYmpUZzgzNTV3VE1fcXpkQk5oUzctOV9YN3htSDFtM1UwTl9qU3pDSWdoaWRkdFI1LVRJM212bEowUk1nUE10MldxTGRZcHVUVHdoN2VmWFVkcXV4UFNXbHlfeW02SmNyTDJVZENFZGtWQkF1QTBLazU0TVZuNGJ4eDhPR0g2NzVTUDVpbw?oc=5"
+        },
+        {
+            "title": "Semiconductor Outlook Bodes Well for This ETF - ETF Trends",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQemMyV3RZSGVwNzJKVnFWYTFLNnJObnFlbG1OdUhsajVneTkwX2d2bmhQRFdqYlFHRTV1UmFkMXV1R1JPYVhzMVFrWjZkTDBoRnI4dEU2bDRLZUd2enA1SUltU2NycWdDdUloRmVvUU5uU2ltTFQyRHE3ZGVmd3UtZllScGRST251QUFwSHZiT0VFWHVuVU1YYUtaT3NraEhjT3ZaZA?oc=5"
+        },
+        {
+            "title": "From Radar To AI Data Centers: Why MACOM's Dual Semiconductor Play Is Just Getting Started - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDl4QkdEbzlvZXQwM2pyV3VBckVNNHJrTFJmc0lhcnpfdnVTOXN0V1Yxa3pZbENfa3NXRU11R3RlMUdXN1oxWHI3R3hSRXhfQ2QyVXFDa0dPSkNEY1VvdkdoSlhDNDl5eFBHUnp0bGZBY2loUC1jWGJlajVRaHE3VF90NXNIUFBDTnZjMzcyWUtHWWowVHNUdk5mU2JFT2NTNDFnQnFYZzc4ZUNaRVlFZmZLZFI5ZFp4SFFjelNkMDBTNkhCTkgtNQ?oc=5"
+        },
+        {
+            "title": "China cracks down on copycat chip designs with new regulations and penalties — new guidelines enforce originality and independent development - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNb05rWkdrUTlMeHNkZXpzd1hjNlp1dGd1Nk1MbFJnTmNUYkRScVoxcTNXcDd1ejNnNWdOMGNOazV6eFhCc19MUFFxTFN4VlFRUm1vOTJ2SXpLNWhuREl2eXBzVzktV1JiM2ZGQk80N1J2MlNlOFVjU3ozZ3hvSlM2X0c3cG8yNVFSSGhnRXJiaUg0NEgzbjBaaE5YMmFQY2RNZTR1U3ktMFNRdHpMbnJtRXlGeVpwdkJSS1lXSURwVDN3RUV0TGRRbHZHcVFJN2F0YTdQUjFHa0JwemJUd1I5cU1iaTFoR2h1XzBIZUc2SmQ3Q0paOHZhamRkZHZsdVl6cUdQUkJsYVQ4TFlfUXY1RzUxQmtjbkNJRnRPMkVCeUFTTlE?oc=5"
+        },
+        {
+            "title": "Hillsboro semiconductor-sector company acquired - The Business Journals",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjZUd01SM0dTTFRWb0RPeFJpc0o4VjVITko5eDJSWjFydHFrOHBCckRvbkowbl9jTU85eUQ1YW9rd0l5cmVvSm9RZUJHempkcTlwYm1KUXZTUy1LV19YRU9XRE50OHpYUV9oTmVjUWdGcjYtX1J0bnlfbmZRVHlCbHRhMDFkSTlKYjAxMkhQZkdhZ3RkVWJkNXZBOU5ld3l6NzVCVg?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
