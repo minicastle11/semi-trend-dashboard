@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-08-07 01:42:36.226759",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Nvidia CEO Jensen Huang Said the Semiconductor Industry Could Grow to $7.9 Trillion to Support the Agentic AI Boom. Here Are 2 Stocks That Could Benefit - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3dfMEpzRGpHZk5xYmpUZzgzNTV3VE1fcXpkQk5oUzctOV9YN3htSDFtM1UwTl9qU3pDSWdoaWRkdFI1LVRJM212bEowUk1nUE10MldxTGRZcHVUVHdoN2VmWFVkcXV4UFNXbHlfeW02SmNyTDJVZENFZGtWQkF1QTBLazU0TVZuNGJ4eDhPR0g2NzVTUDVpbw?oc=5"
+        },
+        {
+            "title": "Beyond the Fab: Building Europe’s Next Generation of Semiconductor Champions - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjNsQ1hHa2JCQmNWYTFPQVZxOExBZnYwekZmREV6Qi0xa1ZhaGVHTVRwdE1EX29NWHF4Z0ozZGY5Tl9tUTAyUkh1Um1vMUpjQWhyQ2pYa2FXM2hJdklHenMzNFo0RTFGMzVXcFVTRFFDanpUaHN1T1Q1TzhwV09nS2hKVGZ3TUNNbEc2Z0dhYnNfZ0ZtMG5sSWlxTThWTUE?oc=5"
+        },
+        {
+            "title": "The researcher behind an early LLM for chip design says buying AI alone may not determine semiconductor leadership - Venturebeat",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWTE2VmF4U3dYVVlKanR3RGlUVWVmQ2YybUY5bWJtMWd1SHJrOXNCbktpQWFqV3YtR0Y4c3cwcUpTNW9qbTRxQXB2YVR3cTFfODRJM0c2SEJxbkpRYXdYcm9SbUJMVE5STGs3V3RrbHB4MFdWYnpFeWJkRzFQV2RJQ3JuNnFwTGhGTFlaWnU0bzRxZlFvR0IwcjhHa1pUUDE4a3htZmowLU1ZcDNGNkNFdmpPbXZWN1N6TjI0YXFrbmlKck1xeFItcE5jTFdFUXdvd0FJYTByV3lqMGtsdGo4WA?oc=5"
+        },
+        {
+            "title": "Global Semiconductor Sales Increase 35.1% from Q1 2026 to Q2 2026 - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFgzVUdiQ3hxemR5TDZoUTBOOWxqLV9OSlU0SWhkdnNxZ1VodFkycG03ZlVqMUVJZFlNMFZYZlVWT09iNlI2ZjFuaDAwTFVYWTVDQnRmZUFIUWVJZFJiMlVvLVFDbU1uMHoxZE5sajNlY050ajJUTEd3QTlpYjRCMTBMV20tNTI3aTZTckdtYTQ1QWE2aHphREVTUlg?oc=5"
+        },
+        {
+            "title": "China’s homegrown DUV jolts chip industry, but yield test looms - The Korea Herald",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tZTdrLVBWUW4xdFFZZktrQjFDMW03NWlNNUlTVS1DdFRqWUlnNVU1cUFwMlVQSUg3WFh3cl9lNjU0VXJJQTVMa2F6WFdnOFVramtVbVZDZw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "One-dimensional Dirac modes in the core of a pentagonal topological crystalline insulator nanowire",
+            "link": "http://arxiv.org/abs/2608.05908v1"
+        },
+        {
+            "title": "Tuning the Optoelectronics of Mixed-Semiconductors through the interplay of Quantum confinement and Stoichiometry Engineering",
+            "link": "http://arxiv.org/abs/2608.05890v1"
+        },
+        {
+            "title": "An Open-Source Power Measurement Platform for System-Level Semiconductor Testing",
+            "link": "http://arxiv.org/abs/2608.05888v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
