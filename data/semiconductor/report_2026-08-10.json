@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-08-10 23:38:37.147566",
+    "price_history": {
+        "2024-07-01": 30.602,
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.162,
+        "2026-06-01": 29.695
+    },
+    "news_sources": [
+        {
+            "title": "Chip equipment stocks rise after Taiwan Semiconductor revenue surges 45% - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU25YbGE2enJNT3BELUFia1VqSVlYaldDR0cyaUdQS1lGYTlTSTMyMTdYV0tNMEVNNWY4QlQxTUNOR01hM3VFRVYwTjZ3OV9YSTB4V1ZGX0NGcHZCUXB0SmJ4MmxSMHFvYlZxNXMwMVI1OWhxWnZzNDNiM2QzRUFhd1JpaTJiVDFidkJ4U3JvTUZJVFlyR01zNUF5dE1BNFUydDJyR3JwVEhtaC0xUUt6SnluMUh1MElsSERuN1RhbHZjUDFXM2Mw?oc=5"
+        },
+        {
+            "title": "South Korea to launch $3.5 billion chip fund, speed development of semiconductor hubs - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnZjclJ4ZTNzOU1TQllqMUJkMTRUWDVXakRfV21XQWpXWGg1OVlzYUhDV2RPSTlwQnhrVVhCZm5ZMWVVZmNPMUlPN2FVZ0RtOVBOTHNWRzZmRXRJYUh5bU00UW0yYjY2SC1jcEE2ekIxbHpyNTM1YzQ3TTdOaExTN3o0cnM2WTRsNExXVFVSN0wtclpxVDctZWl6Uk9FM2RMREIwbGV0Z3NhRW9Xa0VENUhFdGo4SV9sdHV2QXctSTJnVERCM2I1LQ?oc=5"
+        },
+        {
+            "title": "Pax Silica to boost semiconductor industry - Inquirer.net",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcThGY0xyY2E5OVM3UG01TDYxTHZqdU9uQlcxaFk5MTl5UjNsU1VxSDBDYjU3LTh2ZE94V3hFMmdUeXBvS2Jnb3lqQWQ3dnRaR3J2RXVfcV9qbm4zcUJOcTI0RllGZ2ZYTjZfRW9TdmRPNXoxekMyMk1ZRnZWR1g0MDJEYjFUUdIBiwFBVV95cUxOT2tfQnJPVXo5OERCeXVUT002cE0yc2JEZVFSRE1yX1NOTVF2UzF6MGN4RDJJand4ckJya3hpUkptZ21wUUR2SGdtNHk2WVRuTmg3SWpDZDVhTUU4T0R2Y3Qxdnd1dDRvM0NkY3FqOFpwZVhiWEhWXzZkM0dXN2Z3U2ZmdW9ta21WNmZV?oc=5"
+        },
+        {
+            "title": "I worked at Amazon on an F-1 visa as layoffs mounted. Here's why I left for a semiconductor company. - businessinsider.com",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1JhZzVDM1h3SmhYbEJ0VVo0bHNLbkhVTzVJSVpsamluMkN3bUREdkV3Y0Y5MWYtRzlia2VjTFMtZ3FtMk1ra2xoZF9kM21hR3NRbHRrNkZDRl9VUExYbjk5ZEtqdmd5am12cE9HSWNrdGpxYUUtc3lNdmQ1a2NUMTBqN2N0M0ZPM3Y3YTZ3R3lfOHdZem5vUWJQU0o5N2UxeW0yYVAySld2WXlDTEE?oc=5"
+        },
+        {
+            "title": "Africa's global semiconductor supply chain opportunities - The World Economic Forum",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3B3QUI2NkVweFZSSy1SUThxZlFqLWN1cDNYckhwbmdsLXhUOXdaQ2JuVDFiYjFxSmV3NVVLbTNwcHJmazFhNTdyTlFlS244YTEzMVN6NXZZQmpyR0xkcE1CQW1HbjViYXlGTVY5OUtIVjJaQ0ZQbkpCZ2pxdkVIZmRMV3FfXzREaWI0eV9uZ2xxZ29heU1yNXdHRGlKSndXYjc1dWlCY0ZUVGZLLWJlR0F6dTc3V2haclpUSA?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Surface Equilibration Mechanism Controls the Stability of a Model Co-deposited Glass Mixture of Organic Semiconductors",
+            "link": "http://arxiv.org/abs/2608.07320v1"
+        },
+        {
+            "title": "Dynamically reconfigurable THz quantum walk comb laser through subharmonic excitation",
+            "link": "http://arxiv.org/abs/2608.07308v1"
+        },
+        {
+            "title": "Flip-chip integrated superconducting qubits using electroplated bump bonds",
+            "link": "http://arxiv.org/abs/2608.07306v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
