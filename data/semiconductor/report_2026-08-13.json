@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-08-13 23:45:17.933397",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors - pr.tsmc.com",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvajd3THJ2elh1VDBrNDNGd2VLbzFVNlJEZDJsa0Q1enVtMmFTYi1ZMk1icWMzUFcwclNqOTFvank4VlFrRFAyWXI4S0ltQQ?oc=5"
+        },
+        {
+            "title": "SMIC profit more than triples on AI-driven chip demand - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaW5SbklFWFdseXViUWtFTU5ybS1EX1NDUzRHM3lIaGZJcUFVMC1TLXQtbXRBem02TlRoX1U5QnRjTUwxMXRuZWxMS1NNVUUwREVXbXdLRlZFVF94eHF1dWxoWThRWWV2WG9RMHYxQWZwbElNeWtMM0k5bnV5a3loV1lBd3p5UDFtZ0xRbmcxcFpDWHhUbmhCWklGRWcxNG82?oc=5"
+        },
+        {
+            "title": "Semiconductor giant Qualcomm expanding in North Austin - bizjournals.com",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjc4VUtRQ1JsVTBiMExpYmcxUVJIcHlJNlE2Q2stSkYxTlh4RW1GRmUtSVRodmkwbEFBNHl2WVp1RzRQa3lldkZnZng4T2V2cHYxcG9JUS02azlVLXJkUDRWVFF2ekZGMVFLbld4dGxfcWNsRVh6SzhyQk9kYkN0MmV1X1FRUlNFVUpXY0xMWHE4OHNXc3c?oc=5"
+        },
+        {
+            "title": "TSMC ecosystem fuels industrial buildout at Halo Vista - azcentral.com and The Arizona Republic",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb2dWTnVjY3g5SFN1U3VJNnBvbldELXdSRUk1TnN6OWoydWd6OVNHTkQ3VmhKNU14RFZ5NVNSU3FpMFBzcEJCS0RIM0Q4ODhnNk1KWnF4bUJwdGR0bmppMlk2QU9EYnU3M1REQ21JMmVnZDUySlhlbTR4bUxtSlo4di1IZlFGLWVQM1lLQ3RTMmxCckdPNVZ3UzNFQmNUaTd1c3h2X0RXZmVwTXJWcU1xRTd6Unk1NUI5TDBwcWdVVk1OLTNf?oc=5"
+        },
+        {
+            "title": "VanEck Semiconductor ETF: Cheap On Peak Earnings Is Not Cheap (NASDAQ:SMH) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTlaWXNJVFVwVldzSnBZWkhpYkFkcE9OMjM4NnNwU3lSTWpaMjZGd29xWDlRckpPY29rWlc3X2FncHU3M3VpMGYxc3o3a3MzeDk3NUJkbjI0cWRXR2hGeWlTaXhEZjN3d245MHVTVmxPUzhYYUJpcW02dGl2X0kyT0tWaVhvTm1CQ1JtN3J1czFTdlU3RnZpYl9NMHM3bWVlWjRV?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Goos-Hanchen-Shift Photonic Sensor for Nanometer-Scale Delayering and Tamper Detection in Semiconductor Packages",
+            "link": "http://arxiv.org/abs/2608.12243v1"
+        },
+        {
+            "title": "Beam Routing through Excitons in Transition Metal Dichalcogenide Monolayers",
+            "link": "http://arxiv.org/abs/2608.12105v1"
+        },
+        {
+            "title": "Energy-Dependent Dechanneling in Cu: Insights from Monte Carlo Channeling Simulations",
+            "link": "http://arxiv.org/abs/2608.12017v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
