@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-08-19 23:25:51.460039",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "China’s Chip Industry Is Having a Breakout Moment - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0FYcjcxSXdLdkpnRHBjSFZfUGROYjRlWndzX0RwWXV2Sndha1RzQ29KUTlLellvdGExTURiM1NHN1pFOE9qbHFTZFBvOXQtbnhybU1DX1ZuVlZWZy0zci13ZVp5amZsMmt0ZDM4TFVKd2IydkoyM0FKMDgxRmkxUkI5aGhOMVZmUkVzbUYtUE9oWVRPQTZtbWhrNHRQMXdCclhYdnpFa2JpVTVSRW4ydk93ak5HVUhIb20zWkpCdVVKemxp?oc=5"
+        },
+        {
+            "title": "Opinion | The government’s Intel bet was even worse than expected - The Washington Post",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEJqcGZpblc3ODk4Q2ZJR0EtZEtXb0d0NXVpT0ZTLURFLWlJajNvdDQ2Z0NyMEhpWnNzZ1pWWk96eG91WU4zcTFQbDJBYmN1SE1PUldpMmNyZVNCMk9TVG5leDFqamxaUjJMYW8tOWR5QzFZSDVSNWRGa1dGenVHNWFUV2VlMzUzWGlyOEZZcWlnTjRzUHFDWDM1cmhNdnBkTXA2eHE2RUhWd192TUxjZFpB?oc=5"
+        },
+        {
+            "title": "Michael Robbins Named President and CEO of Semiconductor Industry Association - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ19FcVh0SGtpNFNiY2M5Q0h4ZmhqQVR4bjE1NGdiaWN0S1lrUkVnQjEwWnBHdFVWaHZYaTF5VFJYVmxxdVNXTjU3MGlIN0E4SElsZlZGUjRCaExkay1VZGFzdlBzaGluZWhjX2hnQ1JDYUZhWWZ2OTRfb0ZLelBKZ1FtT095SmpWYUdvTVIzYnRzRXR5ZTh0SGUtRTRYOXBkQVlBd25ZbkFYVXliRHc?oc=5"
+        },
+        {
+            "title": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVVm0wU1NoZC0tQ1BZaVQwSUtpaDJOVlYwUlRkNUM2bnJhLW5EelEwWk51Uk1JOFVVNThONVBURHByY1lmYjg0Rlh0TFBRcjVhYV9HbW1xdklZTTZrekw5bW5DSTlLRGRrREtB?oc=5"
+        },
+        {
+            "title": "India's chip story enters next phase: 5-6 semiconductor projects may go commercial by end of 2026 - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSHlVQURTeEZtODdLSlVYWFV4R0VwaDJ3d1pLem84RG9fdUM3NlpQcTZnQmZtdmc1cGhBOUYzNmlyRWI0dl9zdXpleGkyZ2dRMzQ0QTVNWXlVX3VtclVwenIxRkY4c1poSy1nQm05eTZsZXV4Q3ZpQzVocV8wV09GSE5QQTQ1MFRqMlZnS1hPZDdEQnEycURkRFRMX3pIQU42NFRMUndEelJ1RmdkeEpsUTVadmoxdEM3R05GZlhReXEyb2kwZUZFeElMbng3UVBRenRFdEdMN09jMDRlRUExSHVvVG5yNTBlcjRxME5IRlBjdTFhclFDWVc5dHZNcm53TWI1NzFfRHFqMlJIM3fSAZMCQVVfeXFMTXRJRXR0dkhtbjZaQ3pocEhCeGxRMllEVkxUeU1feHlxOEVxNzFWdjFDNVk0YVZiOERBTUZzY1drZ1piUkEyV1A1YVVWWDJoYW9LRWstS194Tm9fQWsyWHFZMzR5ODMwTzY0N1ZpX3cxVUhINk9UYmcxTzY1aFpiUW5EcFB5Z280aHBzTVNMRW5HODV3TllKZ2dFMklib1NfUTdrSmxxRDcyRTNkTXJhRmNXOWlBWXBUbU9ZOUVadnBrMXNoVVRZT0owUGpHRUVFd3dVc0c3MjhENkxtcWI2dEdNVGhObzRSbFg3RjZJWmQ2YUJVd1BCekVRZXg0Vy1hOEtWVzNtcklkenNNa1FQbG9Uc2s?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Electron transport in amorphous materials: from localization to predictive transport modeling",
+            "link": "http://arxiv.org/abs/2608.17814v1"
+        },
+        {
+            "title": "Observation of magnetic quantum phase crossovers in a semiconductor spin ladder",
+            "link": "http://arxiv.org/abs/2608.17789v1"
+        },
+        {
+            "title": "Polarization-Dependent Raman Selection Rules in Sb$_2$S$_3$ from First Principles and Experiment",
+            "link": "http://arxiv.org/abs/2608.17786v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
