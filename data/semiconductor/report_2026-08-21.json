@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-08-21 23:27:46.933236",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Michael Robbins Named President and CEO of Semiconductor Industry Association - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ19FcVh0SGtpNFNiY2M5Q0h4ZmhqQVR4bjE1NGdiaWN0S1lrUkVnQjEwWnBHdFVWaHZYaTF5VFJYVmxxdVNXTjU3MGlIN0E4SElsZlZGUjRCaExkay1VZGFzdlBzaGluZWhjX2hnQ1JDYUZhWWZ2OTRfb0ZLelBKZ1FtT095SmpWYUdvTVIzYnRzRXR5ZTh0SGUtRTRYOXBkQVlBd25ZbkFYVXliRHc?oc=5"
+        },
+        {
+            "title": "LG enters chip packaging arena with Laser Direct Imaging machine, as TSMC's CoWoS remains constrained — maskless machine is designed to pattern fine interconnects, trading resolution for higher throughput - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQdm1HblVYLWlieUxtOWgxRXpIYnB3bGtuZnY1Rk5CQzdIM3pXSDV0VU5Kd3BZN1FHSGNIX25Mam96NDFiVFZBR194M0FMM2RfUFBuTDF2cWhzajlCbThDVkpWQjdJbXg5a0FlejdEeTlwbzRNU0cwaGJ5WEpDSVFPS2ZUVkx4SWZHazZCS096M1dVM3dHMnlUNXYwWGdUS2E5cHlxTk1wSTBFTnd5aHFjcmRVbmhJSmF3NDVsZW1vUC1ES0lXbHBpS2ZkdXVsM0hTb0hNUjlRaEo4dmE0a201c3JmV0thYWZybXlqRC04cU9LdUh1MUdPNi14NjNPeVVZT3lGNExDc29SVW8yZGFrYVZVOXNCbWk5dC1udHpCU3pLUGVCX2dKZGpqYmp3c0hqZTM0VGdqOTNFa3RRak5VelJpbVhZUjBKTkUtNjNma1VYQ0QwUWVHaHgxVFNpNWdCbi1OdHl6Nzk1WXZ4RHRLYThaSQ?oc=5"
+        },
+        {
+            "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMjBiUG9MSVgzV1h1UTA2VldqQkJKVm40TGwzY21NM1JNakdscm1jRU5kU2J6U3pmVzJDYU9ZM3Y2bG0xdXJyNHB5TEJsSkRDaDdESkd5bk1XR0VGZHl1S1BlQUNWNU93bkpyZHhBYXV5NXZ2ZVlVaVdvTTNlVkhoQS1KREVqWWl5cFdhTkhqM21SNHh2Y3Y4Vg?oc=5"
+        },
+        {
+            "title": "Taiwan Semiconductor vs. ASML: Which Semiconductor Titan Is the Better Buy Today? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNEp5RmZ2aDZ2OEl6MjY4bkR6RWRqeU1mV0sxZTFjYlUtYVN3UUlCVW5fV3VlVF91TFprRjdqSHBXNVFCQTdsX3FacFB6aUhxNUhhMjZ1dzJFdHdodXRyeURqZTZ0UnFwUElqR3RndGd2ZUlZeVh2X0FBYlgxODFrTDhfQXYtOWJaS0ZvT3U5RDd6bW8yZU0zNF9abFFyQ0ZPUE90a25keS1fbkk?oc=5"
+        },
+        {
+            "title": "Micron bets $10B on US lab to develop memory beyond today’s computing chips - Interesting Engineering",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTZrY1VYVmp4ZWlRSVZDOWp0aTVseC1lZzdPbFFkdnBzQXBsQVRwTERNQVNtUTJVbjdXalNtWTIyUlN5VDhTYmdzTUZxaTM0ZGNCalpxSE1KejhfVzBqSWVaNmxWMExJV1NVaDRPQzNVNkRxTHhiVzJUNHZ3RmItdHBqNHdhQQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Computational Methods of Wave Propagation for Semiclassical Models of High Harmonic Generation in Bulk Solids",
+            "link": "http://arxiv.org/abs/2608.20306v1"
+        },
+        {
+            "title": "Mid-infrared distributed-feedback lasing from black phosphorus under nanosecond excitation",
+            "link": "http://arxiv.org/abs/2608.20096v1"
+        },
+        {
+            "title": "Search for Majorana Bound States in Short Chains of Proxmitised Quantum Dots",
+            "link": "http://arxiv.org/abs/2608.19911v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
