@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-08-22 23:24:26.327098",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWZmc5UW5OX180VEpTbmFHMVhkS1JReHBCX3g0VU8wTXpaUFZmMHBzYmpfZzVxMXZIVnBOQnROWUZyME5IQm5OUU9iLWlyal9ZekhxQlFZdnQ1WG5WdDNIakZSUktmOWtpa05pSS1n?oc=5"
+        },
+        {
+            "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEFNSkxyQ1FRR0VVQ1JEbWdqb2NGR09pYjFPN2c0b3NfN0lLcmlNa3pXU2tjdVJsaHF1bmdEVnRZZm1hSTBkZWo5VW9ZVHBKVTRfZWR2a2ZpME1oalluM1NHLTB5TngyeGZuRlNTZWxRLUxzY2NOUjBfQXMxVUNJQUdZVTJtUWJLaTlUaWZEQ05PNnN5ZDhyakxZeEdMMHM?oc=5"
+        },
+        {
+            "title": "Sangdong mine eyes role in securing tungsten for chip industry - The Korea Times",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGJKeUhtM1pKSmZ0Q2QybEpGcERfNG1Jd1JnTUpyeHpQX2lDRjMyVHFoT1hkcmFaZWlwTUR6ZVRGeFRCSzFvbFJ6cW5mdGZTX0ltNG1hSi0zbEMxQXJWR3c3S1F1YUhQbWRfRmo2enJBN0JQX2FwZDY0TnhkMFdHOFJITDlIb0t6RG83dzNraEFTeUFOV05NbzFXVmlLdFNpTGJRbTkwOGc5LUdSMDg3cjdjNnR6aUQ0ckVn0gHAAUFVX3lxTFBTcWtwU2lkV0txQTQ4czJmQVRSX0ZZcTZzS3IzYmZYYXNHcEozSi1Uczh5Mzk0TU5VVEg5QXBpX29Jb3FrcFBoR014YkN1TDFyN1ZVZHA1OEJRNXlWQU5sZWF6c1J6SXFabFVSR0JXaHRhamV4c05wMEFTaTRHNzhjYi1iVXE5Vnk2aFdOZDFEUThsOGwtQ1dWb3dROTlMY2JOVmlzSER1VU9qVUhMMGJZYV9JMGdsX3RfS0lra2hLZw?oc=5"
+        },
+        {
+            "title": "SMIC posts record $3B quarter and hikes wafer prices — US sanctions hand Chinese foundry a captive AI market - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSDhqenV6RGIyRXMwcXppeHlneFpIRG8tTS1kVlJicXpmTWt3Q0hWRVhaOFZURUIwRU1lSDJMVll1bVhOSWRPcDR0OHlsdnY5b0VwNE15dGRnYVpIZlJ6M0JKNmc3cFBwd3hfSlFWX2FETTBJSURCZ0NyMjlaMVBFN1p0cmlnbkc1LUFzeW8zQTRqbUdRVXFnUEN6Sk5VbXpncGx0YjVSeC1Gc3AxZE9WOUs3UTc2Tk1yNUhLQWNrd0NGS1BwaTNCZG5NNnVpaTZ2TzFtMVZNZUs?oc=5"
+        },
+        {
+            "title": "Inquiry Into Broadcom's Competitor Dynamics In Semiconductors & Semiconductor Equipment Industry - Br - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPekxCWlFWM3pvbkZyME1SWUxRWmVvM3hIZTBlLU14dllZUl9LNUZKOWg4WVhpakhmTFVvNUk2Y19GQXRHc21EbE00VzJEaXlZS0VITTJUelpMV0dZSkVScWlKTDJBdzNBd2Z0Y0Q3TFZKeHgyRkFyRXp2TDVCdXNpSUpNLTNmcVBPdkVHQVlwbUhROHBRNlAtalM2ejJGSzF4anhkdUU1NGtfX2xQT0c2a0locmI4dDkyTlNsUVJ1LXFxWTdDZng5X25oWjdrc2E1?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Computational Methods of Wave Propagation for Semiclassical Models of High Harmonic Generation in Bulk Solids",
+            "link": "http://arxiv.org/abs/2608.20306v1"
+        },
+        {
+            "title": "Mid-infrared distributed-feedback lasing from black phosphorus under nanosecond excitation",
+            "link": "http://arxiv.org/abs/2608.20096v1"
+        },
+        {
+            "title": "Search for Majorana Bound States in Short Chains of Proxmitised Quantum Dots",
+            "link": "http://arxiv.org/abs/2608.19911v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
