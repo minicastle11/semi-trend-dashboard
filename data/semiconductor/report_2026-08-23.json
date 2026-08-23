@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-08-23 23:24:40.121712",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Sangdong mine eyes role in securing tungsten for chip industry - The Korea Times",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGJKeUhtM1pKSmZ0Q2QybEpGcERfNG1Jd1JnTUpyeHpQX2lDRjMyVHFoT1hkcmFaZWlwTUR6ZVRGeFRCSzFvbFJ6cW5mdGZTX0ltNG1hSi0zbEMxQXJWR3c3S1F1YUhQbWRfRmo2enJBN0JQX2FwZDY0TnhkMFdHOFJITDlIb0t6RG83dzNraEFTeUFOV05NbzFXVmlLdFNpTGJRbTkwOGc5LUdSMDg3cjdjNnR6aUQ0ckVn0gHAAUFVX3lxTFBTcWtwU2lkV0txQTQ4czJmQVRSX0ZZcTZzS3IzYmZYYXNHcEozSi1Uczh5Mzk0TU5VVEg5QXBpX29Jb3FrcFBoR014YkN1TDFyN1ZVZHA1OEJRNXlWQU5sZWF6c1J6SXFabFVSR0JXaHRhamV4c05wMEFTaTRHNzhjYi1iVXE5Vnk2aFdOZDFEUThsOGwtQ1dWb3dROTlMY2JOVmlzSER1VU9qVUhMMGJZYV9JMGdsX3RfS0lra2hLZw?oc=5"
+        },
+        {
+            "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEFNSkxyQ1FRR0VVQ1JEbWdqb2NGR09pYjFPN2c0b3NfN0lLcmlNa3pXU2tjdVJsaHF1bmdEVnRZZm1hSTBkZWo5VW9ZVHBKVTRfZWR2a2ZpME1oalluM1NHLTB5TngyeGZuRlNTZWxRLUxzY2NOUjBfQXMxVUNJQUdZVTJtUWJLaTlUaWZEQ05PNnN5ZDhyakxZeEdMMHM?oc=5"
+        },
+        {
+            "title": "Tech leaders react to Micron's expansion in Boise - KBOI",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2xaeXFROE45b3VvcnZlN1lXZmpjZjJMdEdpd19vV2FHWXVvdnYyU2F3UWRvXzFiWUpOc0pGdGhDQ2pNMmhnMlQtVk05YWFwN0JZTDJZVmU1QTBaNzNlUVV4ZE1VU2YzNDlOTXpDVXcySGpyZjZDY0FBdngtUWJpQnEzWXZzTG5w?oc=5"
+        },
+        {
+            "title": "3 Best Semiconductor ETFs With 35%+ Upside Potential, According to Analysts - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjJLM2lrMWt6WDV4NlctQXdIckdsSGM0d3hWLWZQcnR5OXZjY0M4RXB3ZTF3VjJHOGhMai1IYzNGbnByaXI4Vy1WNFJBdVZUSXR1cjcza05yYTZfSG9OQTR1THdtQWlsNE1ZVU40OUR6bm5BZWNhR0l0Q1p6VU1wZkRNbnpOWWFLOF9ORV9HTTRiRDNWTUlyZG04eW5HRDhfNFY5cg?oc=5"
+        },
+        {
+            "title": "Modutek Corporation to Showcase Cutting-Edge Semiconductor Equipment at Semicon Taiwan 2026 - The National Law Review",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTU1WV1E3SGwxWGxfMjJWV1BHbmNfRTZBbkRqenZkMDJTNFR1X2swdEcyUEx4OVNHb3M3czdvanBmMnFMWFo1Yk9GM3A3T195STJnSjl2NmowUFczaVYxYmM2WFhTWmlVZVc0d09yVWh2MHVwNGFyTGVieEFlbzVtTGhPQUd5OWlxNFJqbkhPUW5sU01oRDFXRm9ZUFBZYTlPcEpERmhjcFVwNEdZYXMzY05aYw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Computational Methods of Wave Propagation for Semiclassical Models of High Harmonic Generation in Bulk Solids",
+            "link": "http://arxiv.org/abs/2608.20306v1"
+        },
+        {
+            "title": "Mid-infrared distributed-feedback lasing from black phosphorus under nanosecond excitation",
+            "link": "http://arxiv.org/abs/2608.20096v1"
+        },
+        {
+            "title": "Search for Majorana Bound States in Short Chains of Proxmitised Quantum Dots",
+            "link": "http://arxiv.org/abs/2608.19911v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
