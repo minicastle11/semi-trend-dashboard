@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-08-24 23:25:27.438556",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTN5dFRkcE5fS0dLczFpOVFtb3kySDRLYmFvNGdFeHFhT1B6bUl0dUZ5WUZKOHU2bUQ1N3FuSXdhNjNnbTFOT2tjLTVHUVIwYW80QVJ0cVBnMnRyTGthbmN0RWx2ckpuQUZSZGtUR1REQ1BoV3JtSndLN0xOS0VBNjRiNkFCUGZ0d2p4WENXempCWTRia3N5aFNB?oc=5"
+        },
+        {
+            "title": "Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026 - Gartner",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRWlpWG85TTI3MEo5QjkweWtGRFF3b3NyN0U1UVlJWkd5VlBpTVRJMjBadWZHU3dLVEJfWWxGZ1BpUW95dWd2d3IwWGNqTHlOTjFVd3VHc3pfTGE3dmZ6QzFMRzJTUzVuUzJ3YmlnVEZNR0dtbmY4YWFVZlJ5TnFod1pnUWRmcDc5LUpJREVETXk5X2VScEJFWHFHbXZDcHZlbGdBMXB6LTdWcDFBVmE0WUlzSjR1eURRcEJXOGFPUUZTQ3FMNFgxSXIwTTdOTlE3ZmFoTW1YOWV1bEc5em85Tg?oc=5"
+        },
+        {
+            "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs - The Register",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXBpMFAzdnpCRWFZN3dkMy1XUkZyUFoweGRnSzF0TzQ1YVVtQWl1QVdSc2xndjBoYVE4emtyWnptekNnS2VKTjhybUtLVkFSY0ppbW1XWFZSbGhab3k0NEpGdGJSUjZfdWxIWGlXLW1tY3RNWkh2VkNBWGNzVDJEdjk2R2M3NFhoNkNZY0VsUjZPS3pVYWdhbjJNSVlNNjlmXzJWdnZDemUtV1ljSUd2V1gxRkxMQ1U5dUlWUg?oc=5"
+        },
+        {
+            "title": "Phoenix defense tech firm pivots training methods to semiconductor sector - The Business Journals",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2pmR2ZBOTZVV1p6SXpTWU53NEFuSzNRVGJtcXFMRW1GRG9CcUR3UzJJYnphbjkwRmZMa3VfejRnd0NlOVN5NzJIczFxRnNTei05LVpMQ1RCVGhnN2xnSjhQcWlaQVpMSnJTb1VPT2NIZHlxTVpwQ0s5MG9ySnVxZDAxSllOSnRoTWVtMGhLNndQdkNvdDRQUkhqal9KaXJCOVduUDRB?oc=5"
+        },
+        {
+            "title": "The 2026 Semiconductor Selloff Creates an Opportunity - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzd6X0lNbmczSUdrZDhweVVlZlpsZlBKWkdUREh3dGZGVlJOMWZYR0JTckw4UUV6YkZZbW04bnpiNFRYZDVPVnhZdUtObHE4MndsUkFXeW96c3Zua3kyT3NmSzVDU2RJbkpKT0VwUXNYdExhR19EZGpDdWw5Y2I4cUpPOEtsRVAtR1RCb3k2T09EMjY0TUFiQ2ZwWnVNdk1CTVY2LWNlQklqbGg3M2duWEVmZTNka0k1dENn?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs",
+            "link": "http://arxiv.org/abs/2608.21333v1"
+        },
+        {
+            "title": "Chemical Control of Electronic Structure and Topology in Tellurium-Encapsulated Silicene",
+            "link": "http://arxiv.org/abs/2608.21295v1"
+        },
+        {
+            "title": "First-principles design of main-group dimer defects in ZnO as candidate quantum defects",
+            "link": "http://arxiv.org/abs/2608.20837v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
