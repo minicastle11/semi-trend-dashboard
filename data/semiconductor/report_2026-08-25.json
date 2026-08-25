@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-08-25 23:27:49.037321",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3% - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDBmM0FRUG1yQU9HbC1CQmkycUNUTkp2XzVpY0F6ZW01c2F2RTdxOC1LSHNsMW9weUtDLU9jZVY0aFlBMi1MLXBUV2p3TmFMa2JjMzYtUXhZVHFYVGFDUC1CSVRmRkRBeHRpc0p3ZnowV0xOU1Bqak1kNXdjZm5EZHNBSU90ekdadElkMEprbEJyTVJFVE94N2pMWXpGZ3N0QWNwM1lzVQ?oc=5"
+        },
+        {
+            "title": "The Jobs Semiconductor Plants Need Most — And How to Get One - KBTX News 3",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGhPbmFDcDA2b29Felk0VHIwczNRdGlNUFBEMHVVSWpxdmZCSHA3YmJzbm0xWkZFNXQwbmk0ZTZDQWdEczVNaUVnLWtlTjRfbmFIblI1Y3BLRTZ3b1ZhTXVTZE5UdC0zby1zRTdsWWlZYXR6Ny1JUHM0ZlJNMEE5NTF4eXVkM3M?oc=5"
+        },
+        {
+            "title": "TSMC: The Semiconductor Giant Is Still Sprinting (NYSE:TSM) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSF9qZmtyLTk4WUJ4YVZ3LXJoLWhjcFF0dURfRVJrSWpSa2F5bU9VVGxVODFjNkxBRXdOb1pvNnVqNzF5YXNlQW1SZGt1WXAxaEJoOVY1X08ybUpORkdqTFkwaWI2MXZ0OUJ5UndzZjZEU25Sd1ZyODNsWjhDR1JPUVljVG9YeVZhTldZbTNxWFhxdw?oc=5"
+        },
+        {
+            "title": "Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026 - Gartner",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRWlpWG85TTI3MEo5QjkweWtGRFF3b3NyN0U1UVlJWkd5VlBpTVRJMjBadWZHU3dLVEJfWWxGZ1BpUW95dWd2d3IwWGNqTHlOTjFVd3VHc3pfTGE3dmZ6QzFMRzJTUzVuUzJ3YmlnVEZNR0dtbmY4YWFVZlJ5TnFod1pnUWRmcDc5LUpJREVETXk5X2VScEJFWHFHbXZDcHZlbGdBMXB6LTdWcDFBVmE0WUlzSjR1eURRcEJXOGFPUUZTQ3FMNFgxSXIwTTdOTlE3ZmFoTW1YOWV1bEc5em85Tg?oc=5"
+        },
+        {
+            "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs - The Register",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXBpMFAzdnpCRWFZN3dkMy1XUkZyUFoweGRnSzF0TzQ1YVVtQWl1QVdSc2xndjBoYVE4emtyWnptekNnS2VKTjhybUtLVkFSY0ppbW1XWFZSbGhab3k0NEpGdGJSUjZfdWxIWGlXLW1tY3RNWkh2VkNBWGNzVDJEdjk2R2M3NFhoNkNZY0VsUjZPS3pVYWdhbjJNSVlNNjlmXzJWdnZDemUtV1ljSUd2V1gxRkxMQ1U5dUlWUg?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Defect-Mediated Nucleation and Dynamics across the Phase Transition in the Excitonic Insulator Candidate Ta2NiSe5",
+            "link": "http://arxiv.org/abs/2608.23438v1"
+        },
+        {
+            "title": "Systematic Bias in Green Patent Classification: Silent Green and False Green",
+            "link": "http://arxiv.org/abs/2608.23420v1"
+        },
+        {
+            "title": "Giant Surface-driven Nonlinear Hall Effect in BiTeCl at Room Temperature",
+            "link": "http://arxiv.org/abs/2608.23368v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
