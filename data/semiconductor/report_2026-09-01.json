@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-09-01 01:44:00.029252",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race. - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWJ4dGZtY3JEb2tVVU00Z0pqNFdIaHprUmQzal9rdUJnOUdFTDMtRTN3a3FRX2ctdjJEbmEwMnRMblBrTXYwS1ByaUR0NXBCaXgwd3RSOWRlb1hwa0VmWkFQaXV0SGJYWjhuSjRhX3NSNm1MR3ZKdmExVzhxd3pfeUt0MjA3REcyWXpXZnVZODJGVzgwOHJjaVlCMTQ?oc=5"
+        },
+        {
+            "title": "Tamil Nadu CM Vijay announces Semiconductor Park at Kancheepuram - The Hindu",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNenFyY2UzeFVqQXBGQWxra1J3LTFqc29rS3haZUlOY2N3SzBTNldwSGVYekVTVjdIQjRDeFpDNm5pd3lWaWFMZkFSLU1XU0RwVmZubjhWeVloUkxBd3ZqU0pBZGNQdjZ3OVRsVS1NSWh4aWlxSmxfdnBIM0gwYmVBWG52YzU2OHZKZkZsdlBON0RfdzJLcFVGaWwtWGc4ZWI0YnhoaDFpOG51OGEtczBJa2VvRGowODYtMk9OTWNURDloZUt0eVRfcHdxZGlkT1XSAdYBQVVfeXFMTWphUDBsSHY5ak9zZ2s1Rm5XM0ZNVkwxQ3hCeHRleW52RkFuWnV0eHQ1RXRkNVhMcVlfcjBkT19kLUUyOE5jYVh2NmdGOFB0T2xYZGZFRzhqc3d0a1Y5RHk0VS1PRExYcmxHRUp5anZFd19oV1NadXFfRU9hUW4xQ1BzTUx2V21sZEpKM2x4ZmNnZDZMUTdfRG1LZHVPWmxWUy1RaFA1T01adTNiZGVYdDJuXzFaQVFJc1REN0JHN3ZLUk9FRG5UVXFnVnJUWjNiZXVsRkpZdw?oc=5"
+        },
+        {
+            "title": "BE Semiconductor: Hybrid Bonding Is Becoming AI's Next Bottleneck (OTCMKTS:BESIY) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWg3SmR0ZzVORUpoelVqUWdEVWZ4VmtNTFRGVTRTMFlJWDRUdFR6eUpCcWVlRWh2cGFsa0VEaHFBRDc4TDE1cTRvX0dBcExOd2NhNnliT2d0c3dYazZPU3VfX0lYbndoUG5hX3U2TmwtU0c5bTNramJvZ3FvMV9DMUlyMC16UlYzekJpakJrU3ZtNTdSWldEN3FheFFHWEVPVng5dEkxVQ?oc=5"
+        },
+        {
+            "title": "Memory Now Accounts for 50% of Global Semiconductor Revenue — But There’s a Catch - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3BRRzVaX0NOZTVKTlZCbzJpbnI4R05xNXFmcEZtalhxVzRGVkVEYTd5R2ZDYUF3ZFd6WVZFYWUtRlgwVU9xdGtHdTQ1eHZSV2ZUcUJ0V0dsX1J3eWU3bVVDUzM1NUZtODd0a2VmNy01bXc4LVl6SXBBNWJCT2djSXVXcXFMSkdPTWcyMXNucktrQ0RvVU94MWJ2STJ4QkFUa1M3am55emx5Yml5cUNWYlFIOC1YYVlhT3U1YUtR?oc=5"
+        },
+        {
+            "title": "COTC prepares for central Ohio’s next big industries after Intel delay - Knox Pages",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM01VbHhlNVBudUxlZUF0TGdBWWxGWW9CZzVHdlQzOE0zZldCUTZGRFpUck9DSVVhb2pjakxUTHNpTGVWNE4xLXhGbU1BcFRZQm5YZ1plOWppNmJnX1NXaFJKZ0J2a3puaUtFYUpBSVo4bm5CVldUZGNMc0FuZDJDNG9MVjRKZ1JTY05RbVhKUjJsU0cyV1A4OUtGRDh5NXlTdFpLeG16b0czcDg?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Hardware-Efficient Exchange-Only QML: Singlet-Triplet Spin Chains via Inter-pair Coupling without Magnetic Gradients",
+            "link": "http://arxiv.org/abs/2608.29017v1"
+        },
+        {
+            "title": "Coherent phononic frequency combs in ferroelectric CMOS oxides",
+            "link": "http://arxiv.org/abs/2608.28956v1"
+        },
+        {
+            "title": "Fractal Confinement and Magnetic Self-sabotage of Current Flow: Electrons Near the Metal-insulator Crossover in a 2D $δ$-layer",
+            "link": "http://arxiv.org/abs/2608.28739v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
