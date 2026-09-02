@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-09-02 00:54:34.328761",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race. - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWJ4dGZtY3JEb2tVVU00Z0pqNFdIaHprUmQzal9rdUJnOUdFTDMtRTN3a3FRX2ctdjJEbmEwMnRMblBrTXYwS1ByaUR0NXBCaXgwd3RSOWRlb1hwa0VmWkFQaXV0SGJYWjhuSjRhX3NSNm1MR3ZKdmExVzhxd3pfeUt0MjA3REcyWXpXZnVZODJGVzgwOHJjaVlCMTQ?oc=5"
+        },
+        {
+            "title": "Global Semiconductor Revenue to Reach $1.6T in 2026 - EE Times Asia",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT3A3Wms1SUp6X3p1OWI3U3pwNXRNVmdPZjhEYkZtSFhMcDNydGdqQXYzS0k3UXNsM29jWXpPOVFnU045RGc2aWJsTTVXd1plVjFxTFJFamZJb1E5QTVVd2ZlLUw2U1BHaVZPazBPNDlfb1dtWmtGVVdUbkNIei14bA?oc=5"
+        },
+        {
+            "title": "The semiconductor singularity: Accelerating IC innovation with AI - Electronic Design",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMUtWYXE1dTllNGg0TDFwTHhhSDQ3VDdSSHlsTm1QT1ZTcE5rZndHQnhDMThIVU8xU1Y3VjRVcmlGaUItOWpGVVNMaU1FUzJ3SjJzMVItenpIblFYUWUxWk1FTl90ZUttcUtYcVNLN0hPQ3pVd2dqcDhWZWRva2xWbFN6QmVhd2lTSXYzMWp3S21tdVVTVmcta3pVQVJPVWZCT1NFd2Y3WXdmLVVqdUpUYXVUaHA4RmdtZTRlYVlNRVhrQQ?oc=5"
+        },
+        {
+            "title": "BE Semiconductor: Hybrid Bonding Is Becoming AI's Next Bottleneck (OTCMKTS:BESIY) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWg3SmR0ZzVORUpoelVqUWdEVWZ4VmtNTFRGVTRTMFlJWDRUdFR6eUpCcWVlRWh2cGFsa0VEaHFBRDc4TDE1cTRvX0dBcExOd2NhNnliT2d0c3dYazZPU3VfX0lYbndoUG5hX3U2TmwtU0c5bTNramJvZ3FvMV9DMUlyMC16UlYzekJpakJrU3ZtNTdSWldEN3FheFFHWEVPVng5dEkxVQ?oc=5"
+        },
+        {
+            "title": "How AI Is Reshaping the Global Semiconductor Patent Landscape - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTE5TcnBEcEx2LXhCSFNYZDg5bzcxM0hEVGgtSGt0LVBoWThrdF9tLTlnS2M5NGhOTlZTLTdlSUpKVE80WDBqckxKSS02WTZSdHg3dEQ5Qm9fVnA0MmZ5VlloV3NSRUR0ZXAzeWNYMVFIUFR2X2E4SFN1RzZuNFJjcWJKZENMOTFsWE9pNWNXNA?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Strain-Tunable Spin Relaxation in Germanium from First Principles",
+            "link": "http://arxiv.org/abs/2608.31169v1"
+        },
+        {
+            "title": "Device characterization of Si$/$SiGe double quantum dots using exchange oscillations in Earth's magnetic field",
+            "link": "http://arxiv.org/abs/2608.31093v1"
+        },
+        {
+            "title": "Temperature Dependence of the Refractive Index for AlAsGaSb",
+            "link": "http://arxiv.org/abs/2608.30547v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
