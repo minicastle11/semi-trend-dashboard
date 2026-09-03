@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-03 01:01:05.109900",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Strengthening the U.S. Semiconductor Manufacturing Workforce - cset.georgetown.edu",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHc3S2RERDdDTlZiR2wyQl9UZDNzNFJOVGRCU2Jra3U5aHJzZy1FVGZkaFVOV1hQNThxYmowbTlXWEVXMHBaVmxTd01tNUdFNW5FS1BCR2NONVIwdWxMdm81UHFPcU5GWkFxZkFMOGxRVFFHaUhOdklTRnhuaUhRVDV5ZS1aNmFBcHlBd1pLNTZYV0dDaDd1NlNNUGZjOXdsdmc?oc=5"
+        },
+        {
+            "title": "New global hub advances Arizona’s semiconductor industry - The University of Arizona",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUpEN0diX052Wmw3T1JKc3NnU3VCVHA1Q01jdUJrMXM2OERsRUt1eFRVMmNTLWp0dnpGUTlRUU9wZlZjWDVVRnZrWXQ1Nl9jdWp6cVAxdHNYY3J2OUZ6VER4Mm5ydk1iZDl4U0pyeWtyQjJhUUVDUVFVR29BYURPWWNiOXRBRFFOLXQ5SUFYWXZ6LWM?oc=5"
+        },
+        {
+            "title": "Free program prepares Austin students for booming semiconductor industry - KVUE",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGk4Q0dDN0JzU3Y5OXkwMVZ1am5Ldy1KUTBpTmJmTDVPTjROVVhDOTZ5UHVXeUJfNjk3cTM4VFZlNFR3QzBidjNPWXlTSi1sX2ZzVWtmM1E5TEowWnRfYzhlSmx3ZXMwRWFBYlZoa3plQ2tJcUU3b3AxRlNpSUJOSF9KZ3VNZGkyWVEwQVNHTExqd0hoRV9SZGJuU3BIVXNVTkUzZ3BpcXppMmRyaUNNMjRPLS1iZnB6UzZnRkFCTkxWemdpZjZad00tWVBuOHdhX3otV05YN3gzbmdI?oc=5"
+        },
+        {
+            "title": "The Designless Semiconductor Industry - Electronics Weekly",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcF80eXdsM3VHRG5nMTJoMWtKOUFtamEyeEhqZWtwdG9zTlB0VFMyZlhHQk1wME1FdFBCcVZhOFVpSzJxbk5ScVZyY1VzVXVjSEc4UTRaN3RkMGo4bUJuc2N6UmVjUjRyWGZ5WExnVC1DblRhN1VjdzRGcGNoX3lESndkbmdaeUpXZHlsY1BkaHdsYnQwZHhYSF93?oc=5"
+        },
+        {
+            "title": "SEMI and Silicon Catalyst Aim to Accelerate Global Semiconductor Innovation with Strategic Partnership - PR Newswire",
+            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUktLdkg4UlItOVlSa0M3WWxCQzFoZnpVSkhDWnhRNEE4UDhlbG0xSi1Ud1JpWlZITi0xc25PQ3hDaERMVUFhZG12bkpfVzVnamxaX0xEM3RiTDZoMUZ2NEF4N0xWbVhvNjB5U3I4ZUZFdWVmeTBDaW14MnQzdmtidVl2TF9wMjF6QTliTTEwanRhd09VSGZzMmtIMTBBdm1DcWwwQzA5R0ZVT01rYThmXy11Mi1Mak9WV3FtWFVIZ3huSmN0bE1ESjJxYXh1VGJLWEZsRGdkRjh4LUhFOWVnbm5vWThsU1BZWFQwYjVRQQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
