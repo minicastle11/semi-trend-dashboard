@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-09-07 00:47:42.635180",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "The Chip Insider®–Cyclical History of the Semiconductor Industry - TechInsights",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUTFoNjh6MmRndVV1UEhiQkRydFpodGlSbFpObHpvQVZ5NWpqUzgxblpxY1VtZ2gwM1p1SEEzNE1IdWlnT19SWWdSc3JHMERCTEczbmVUT2dfUWwtaUt5dFZRX296YzlZbjQydk1EZVlMUDFFd3UzUGk3WDh2UFVzNHpLVE1tbEJkNE1UUzJEaGM?oc=5"
+        },
+        {
+            "title": "Strengthening the U.S. Semiconductor Manufacturing Workforce - CSET | Center for Security and Emerging Technology",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHc3S2RERDdDTlZiR2wyQl9UZDNzNFJOVGRCU2Jra3U5aHJzZy1FVGZkaFVOV1hQNThxYmowbTlXWEVXMHBaVmxTd01tNUdFNW5FS1BCR2NONVIwdWxMdm81UHFPcU5GWkFxZkFMOGxRVFFHaUhOdklTRnhuaUhRVDV5ZS1aNmFBcHlBd1pLNTZYV0dDaDd1NlNNUGZjOXdsdmc?oc=5"
+        },
+        {
+            "title": "New global hub advances Arizona’s semiconductor industry - The University of Arizona",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUpEN0diX052Wmw3T1JKc3NnU3VCVHA1Q01jdUJrMXM2OERsRUt1eFRVMmNTLWp0dnpGUTlRUU9wZlZjWDVVRnZrWXQ1Nl9jdWp6cVAxdHNYY3J2OUZ6VER4Mm5ydk1iZDl4U0pyeWtyQjJhUUVDUVFVR29BYURPWWNiOXRBRFFOLXQ5SUFYWXZ6LWM?oc=5"
+        },
+        {
+            "title": "U.S. and Taiwan must stop telling China’s chips story - Washington Times",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNlRma01hVU5TYkFPZ18zZzA0SnJQNGtOVmlKV1Y5dEpiYlozWWJDTnVwZTl6ODN3OFo1akl1dm9oNHlCdjlteVNnY3pnU2ZueHFTUF9Qci1hSTJxSXFfVkJGQkxYYUpsZktiRU1kNEkydDBmeWd5VW5adDdWak1XRXVwN2hFa3J3VnZ3YjRRd0trRUdkNUtrM1Z3MA?oc=5"
+        },
+        {
+            "title": "Live-Loaded Packing Rings Market Growth by 2035 Driven by Semiconductor Wafer-Fab Buildout - News and Statistics - IndexBox",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWc1ck9vMHNpYU1SbTItV25CZTVMbEFKakZJME5rQ1o4Ry1WSUN3MkZMTTJnYVJtdVVWa05jaGlMd3lSWjFBaV9pTnNaRzJ0OXpTQTN3N3U3bXJaOHhwSXpLdnBZX1FPbXVRWFk0bUtkWDR6TDROUFpVV1RzQ0xRTW5LZlMzU2hPM2dMa09ud2F4dzBzdGpLN0tvX005ZUFhNXR3UVRENll3MVJtb3FUc2ZUMWVkNnBhTWJ2TzVuRQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite",
+            "link": "http://arxiv.org/abs/2609.03757v1"
+        },
+        {
+            "title": "Generalized s-d model for Wannier-Mott excitons in layered magnetic semiconductors",
+            "link": "http://arxiv.org/abs/2609.03744v1"
+        },
+        {
+            "title": "Low-Frequency Charge Noise in Bilayer Graphene Quantum Dots",
+            "link": "http://arxiv.org/abs/2609.03650v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
