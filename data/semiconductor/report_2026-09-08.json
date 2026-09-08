@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-09-08 01:01:57.123864",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "IQE CEO Warns of Emerging China Supply Risk for Chip Industry - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0ttYnp2RDJZcFlCODR4dmdiT0FTR2JDZllVcXNacmhwTnlrV3BpenNIZi1Jclh1RkNTVDl3ZGJfQ2EtS2Z4NDdKLW1Rak16blFqVmZiNllCWENHNVlMcUJySlpJc0h1VmFKOWhxU3d5bkZrdTFaamVmbnc0akJJM1NXZ3dnV252WXZ2X0lEUHprYXVBQ1NNRVpoQWlyVlQ1YzJTRlpRVzBjOVhyYWx0T2hR?oc=5"
+        },
+        {
+            "title": "Why Taiwan’s Silicon Shield Is Failing - The National Interest",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDNVX3c3N1drMXdYLWNOS0pmX3lVZ0paR1Jia2VHU1RsV2xJWUg5X0JHaWRCSjdWdUt3V2RJeFhzZm5STlhjVHZwM3pqOEVYR3JBazBENE1RcXRxRUVyendOcmdWa2xteFRyZkI2TVBWWjNUbE03aTdtRWNiQmhPZkRRRGQ4NlE?oc=5"
+        },
+        {
+            "title": "Buy These 5 Semiconductor Stocks as Sales Skyrocket on Solid AI Demand - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQmVkYXYtQl90UHVpV3lkTjJKOERfbGp1REprVmo1MVV4WW1OV0padkNELWlVV2pmbTRqZTJGZ0ZMY3IxaHZEaUtaR1l3Q3ZFZTV2Y1NSbXFyYzNtbzBJSGp3VnRIN0k1bm9aYUJfak5qTFFVT0c3ZEt4aTdOb1FrME1DaTRSbkZxLTBETC15ZU9Ca0pDa1dmcQ?oc=5"
+        },
+        {
+            "title": "Semiconductor Stocks Surge Ahead of Oracle Earnings Announcement - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTZfSWk5YXhFanNVblRERFJFcmRvYXo4Z1JxVm9DS2hVSVFVM3RGMlc2MmFBYzJCQ1AybVZmRjdWOVJYNmVTNmlDMFVXamxtYmxnLThETzhySkthMW1sbmJUVWwxTW5XNzRJOGY2aDRUTFZUR3h2ZVIwWTBaWUdDaHVjZURUQnpuMUJMSFJB?oc=5"
+        },
+        {
+            "title": "Why Pakistan belongs in the semiconductor conversation - news.cgtn.com",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjhBMVVfM3N6cms1Rllud2NOZklHaTl6ZkhiWXJvVnZETVJNbXhILUhQZExFZGdNR2RKVzd6b1FEOEtESUNVdWxYOGhSSk8yZHRLd1ZKbk9ZMWlBR0k1VHlqaHVCS19PdXR4c0ZFdC1OMldGZ21hQnlfQlRTbWl5ZmhRSjZ4TElQakJVREhpdHlrZTROOWZqenFTMmwzTk1QWW9iQnV4QkdTUGFMYzhxYQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Remote epitaxy beyond polarity",
+            "link": "http://arxiv.org/abs/2609.05365v1"
+        },
+        {
+            "title": "Thermoelectric properties of metal-semiconductor percolation composites",
+            "link": "http://arxiv.org/abs/2609.05273v1"
+        },
+        {
+            "title": "Nonreciprocal plasmonic response of drift-biased two-dimensional metals",
+            "link": "http://arxiv.org/abs/2609.04954v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
