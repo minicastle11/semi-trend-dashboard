@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-09 01:07:39.031445",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV - pr.tsmc.com",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSmxRNFVNTTQ1WUhsaGQ2NWx5OXE4eXlFRGVsMHFnNFk3c0c1b3JYVzlfeEtkQ01PX2tkTE4tbHo2RFIwcGYyTWl0NVUxQQ?oc=5"
+        },
+        {
+            "title": "Samsung, ASML deepen partnership on next-generation EUV - upi.com",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGQtLXVXR0JpRjNNdFVveFZ0MGNZdmtrb1ZZcUZSU3JHYVQxNm5JNkVCRTBGa09vNzROYU1KLVdKM1p3V2MtRllDQkFaYXlzTXFueFdWMmhhd1JUa3RLMXZQbXA4LVZneFBkSlR6R1pDT1dHdERQUkVfQ3A0XzhZbVhPZkQ2MWhidDI3N2o5dTZYSTZJcnfSAZsBQVVfeXFMT21SSUhrUFV2Ml9ZZUVrbWd2ZW5yU2JHeWZ6d2dMU0dzQ0lSQ1RBYmptczhhMldoTjZCSEpnaXF3REhoRmlyMXFwSGRmZFV6MlRrcXlDWUdsZjI2TlZuQXloNVlQQ1cxYlhPVDdxa3JtendObDJTWnVBcy15bU15bUhCdHh2ZUhSNHIwSk5uTEZTRE5icGdCTzQtdlE?oc=5"
+        },
+        {
+            "title": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing - Samsung Global Newsroom",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYkNpckVWbTZoSnY4R3d4bWdKTnR1LWZiQXE1ZGtQRVQxX0NEWnhmY1VkOEw1SWhSclZsRklyazhFVkFfOTJSd0VWWURBeGN6M2tSek1PZFA5MjJOU1d2V0NCYU5fT3RYSWF4YnhFODFSeFJBU2JfcGg3clE2Smswa0YzdkZEclloYUMtWUhYbzBIbHo3NVZmMlg5MHZZaGlOa2NfN3BXMjlabXh3ai03Tk9XWnRRdzRoM3dEeER0cTBEMVNTcUV1Q2xSLWgtV2JPOTcteGp3?oc=5"
+        },
+        {
+            "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay. - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZnZLWWhBU3lEQUhmdW10aXE0Nm5xN19UdFNxTHBrckRsdkMtWC00U0hTSWRFMVB4eDJtNnM2ZjVWUEhOazB4NDRCOW5ueTFqTTlRZHppTUFjR1FMc2hJV3hadmQ3WmxxMFgtc2JBOG1IYkxsMkY3aXlJVGtQZENFWjBGY1ZvcHBMa2dfckxLY0NoUHRsZUQtTjJvRUYyaVZnZnpzLWFVZHlCMVk2Z2ptellLLXNaRnVCYm1hNHc2bWV4bkE?oc=5"
+        },
+        {
+            "title": "IQE CEO Warns of Emerging China Supply Risk for Chip Industry - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd0ttYnp2RDJZcFlCODR4dmdiT0FTR2JDZllVcXNacmhwTnlrV3BpenNIZi1Jclh1RkNTVDl3ZGJfQ2EtS2Z4NDdKLW1Rak16blFqVmZiNllCWENHNVlMcUJySlpJc0h1VmFKOWhxU3d5bkZrdTFaamVmbnc0akJJM1NXZ3dnV252WXZ2X0lEUHprYXVBQ1NNRVpoQWlyVlQ1YzJTRlpRVzBjOVhyYWx0T2hR?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
