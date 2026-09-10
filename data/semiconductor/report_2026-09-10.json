@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-09-10 00:55:23.836924",
+    "price_history": {
+        "2024-08-01": 30.456,
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.187,
+        "2026-06-01": 29.747,
+        "2026-07-01": 28.987
+    },
+    "news_sources": [
+        {
+            "title": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing - Samsung Global Newsroom",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYkNpckVWbTZoSnY4R3d4bWdKTnR1LWZiQXE1ZGtQRVQxX0NEWnhmY1VkOEw1SWhSclZsRklyazhFVkFfOTJSd0VWWURBeGN6M2tSek1PZFA5MjJOU1d2V0NCYU5fT3RYSWF4YnhFODFSeFJBU2JfcGg3clE2Smswa0YzdkZEclloYUMtWUhYbzBIbHo3NVZmMlg5MHZZaGlOa2NfN3BXMjlabXh3ai03Tk9XWnRRdzRoM3dEeER0cTBEMVNTcUV1Q2xSLWgtV2JPOTcteGp3?oc=5"
+        },
+        {
+            "title": "Nvidia, Broadcom have 'broadest' ownership among chips; Micron, AMD surge: BofA (NVDA:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZU4xMlQ2Z3FhWmczZ0dVdEVWTTlvTkQ3d2JpeDJKOTY5blFfWmt6VzgwLW9HbFJ0OWRpTFY4bUNZdTRoX0VDcUNPb0xaYTlGbFJqVzRzVE1WajVTUTBFbWV0Z2djYU92MmNmTHU1a1FaT1hHWnVJQ0wwWXJDajBpdElsZWlWZnkyc3lMVkJvYW9TUDVRRmd2RHg0SERudzNtM2pzRGE2T21DUlNPNVJ4Vg?oc=5"
+        },
+        {
+            "title": "Memory chips have come to rule the AI boom. Why Micron’s reign could be here to stay. - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZnZLWWhBU3lEQUhmdW10aXE0Nm5xN19UdFNxTHBrckRsdkMtWC00U0hTSWRFMVB4eDJtNnM2ZjVWUEhOazB4NDRCOW5ueTFqTTlRZHppTUFjR1FMc2hJV3hadmQ3WmxxMFgtc2JBOG1IYkxsMkY3aXlJVGtQZENFWjBGY1ZvcHBMa2dfckxLY0NoUHRsZUQtTjJvRUYyaVZnZnpzLWFVZHlCMVk2Z2ptellLLXNaRnVCYm1hNHc2bWV4bkE?oc=5"
+        },
+        {
+            "title": "ASML breaks ground on new manufacturing facilities in major expansion - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmlOMHBaYXhRS1psR1RiZlJqUTY5VzV4MjlFcnhDOTUzdWRxcjRYQWdzckNiODNSak1HRW1SZTV3a1B1SVZ5N0VDMWVwWTJ6Y2lIMWtRSFFlOFRYbFNBRjQ2YXRqem5BMTdCbFFRUkJsWmdhc18tT0t6RnpTLXJzSldFb0RvOEpNZVpIQk1KdHZIcGkyU2NuNERUclp2YUZXaThKb1JyZVFKSkdr?oc=5"
+        },
+        {
+            "title": "IDA Partners with Taiwan's Semiconductor Industry to Advance Global Talent Strategy - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOSGFKbHVaWTFKMHEzaklLZzNXMGpPMnFCd1ZJYmE3YkNhNDVZSmFZWGlud2VTWnlJU2pwbWkxbnh5eUZyQThWMU5vOGMya1ZscEMxcUhRdWhQQzdYeDhxN2xNS1NBWGlocDE3eXdkc3luUQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Stimulated Brillouin Scattering in InGaP-on-Insulator Waveguides",
+            "link": "http://arxiv.org/abs/2609.09006v1"
+        },
+        {
+            "title": "Study on Thickness and Temperature Dependence of Thermoelectric Properties in SnS Nanofilms",
+            "link": "http://arxiv.org/abs/2609.08734v1"
+        },
+        {
+            "title": "Polymorph Engineering of the Layered Rare-Earth Magnet GdAlGe",
+            "link": "http://arxiv.org/abs/2609.08601v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
