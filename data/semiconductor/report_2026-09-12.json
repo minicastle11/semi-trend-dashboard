@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-12 00:58:23.044344",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "3 Top-Ranked AI Semiconductor Equipment Stocks Amid Huge Price Upside - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXpURlBjLUZjMFZyaHY4QVhPYngtcGdMemFFQ2tqYzlENl9nNzV5alJwM2twUHdwcGltVEItX1lKMkFjM3VVdWR6N3d1TmRmdnhuempEZ3FRME51Z29yckwwSWl1MktmMkRSeUNCOFZadW9OOFZpR25VT3hiRDF3QTRZaG9PUEUzclRPM2NaZm5HdzdHTzlOeQ?oc=5"
+        },
+        {
+            "title": "Arizona’s lifeline for chip manufacturing is drying up - The Verge",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjlDTm5oYzFzaXdERXBrdU9sNVFwbkpvR3l1b0FkTnpTeXZqdmNRLWZidll6VjFsU085cmIyQU9pNi1QY29kQjk3ZHNFUVZyRUFwOFA3b1RtMnRHWjR2Zk55Z0F1NEpSMU1TNHR2SU1TeGVjSkxVSVoyQ1JRbkh1aDVsRExBTzgzOWlkaldsRkxicE9vQ0llcw?oc=5"
+        },
+        {
+            "title": "What is Intel? The semiconductor company explained - qz.com",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VbmhEekE3WDRyWlF1R3pwR1JONVJDUi1UM0R4dVlORkF3SlB0Y3RFVi1aMHVuWXNsbTBnWXFpY2NCZw?oc=5"
+        },
+        {
+            "title": "Chinese quartz approved for semiconductor equipment and DRAM manufacturing, but it still can't break America's monopoly — China secures domestic supply for chipmaking components, but Spruce Pine still holds the crucible monopoly - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOQ3dpdGxiTXVfMjJxV3R5WGZhOExLYWdtamVvZ21TNzE1MmNxSUJHdmoxeVFHNmZLSktUVTFoSW4xVDh0SVhqZkJBUWd5YmpkN09zanNIakRYNTNhQXozbEtsLUpYMnIxNHA0Q2J1U1djMnhfOUZZMzRnNlVYSzlFUlJ0VllfZno2MmhRZmZjVVh1ZGJ1cUNjWUZPNEV5a09IU20tSXp6TUFYeUdKZXl0YzB2aWxQaHR4QUpQcXpjQ3RZS0xrTUsyNHRORVlYQnFJM1JHcUNkdEhDT3hvandHR0FMODdMMVdfY25WblVBRTlYR0h0aW5paVF6TlFwSEs4Q0dLM21YWm1zNFoyZ292N1l6UEo2bUZDUWpRR0dtdUpvZ0JmV1F3TmFOallNRmxSR09WMHFtT01PX29ldWQwZmVPYlF5d29pbFNmeHNsNWU2S0NGclBaTHk5R3F5LXdiY2tudG0yVXZHZ0xCLVVIT0oyZ0xTZXEzdi1wS215dHhLSi1kZk5JNHVMZjRMc2FzM2c?oc=5"
+        },
+        {
+            "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change - Ars Technica",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ01qUjVub0JINTlZRVVqUWFKRHQ2LWZwZS1zSURPamwxaElheDhVY2xsNkNwS20xVjRRRDctN0JoSmtOeVdWTW4wS1cwSjRGNFJLRnRjSFpVZzc4NFRUd2dOZFFRRnhBdFJCV0R4eHBwUHZVQW1pb3VRLVdfMEptS0ZHOW50MEV2YXdENkRkMXdkVjhSNGNrWFh0akpZSTBMc002UjdIZW5sQWcwZDRRUklqa2t1RzJlQlE?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
