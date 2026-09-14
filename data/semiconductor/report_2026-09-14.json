@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-14 00:50:19.948625",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Prediction: 2 AI Semiconductor Stocks That Will Join Micron and Broadcom in the $1 Trillion Club by 2028 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkliNC1ReUVTbncwRGpuYjJPRnFHU3lReVp6bXdKVTgtYTdydGEyZVBSaURsakg1TXZoaUNxeHBjakVWek1xWVN3eTZ5NFlzQ0NoVVd4RHU1dzI4UVlMVlByYVMwMV9kNVFsUUJFTTljUWQwbEhFVDYzWmM3YlAwN3U4YUVHckhsLUJRZGhYcEVwUDVMUTMzREVSWTl2U1dmUXc?oc=5"
+        },
+        {
+            "title": "Making chips takes water. Arizona wants to reuse it - azcentral.com and The Arizona Republic",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMlVEMHI3VTltNllhZEFUQW5yczNDS0NxeWJhMVRfaVdtejluR1JYYlYzbjlJajNwVWc4dEhQaEwwX21rQlpmd01QQUZXU0szcEdOaHI2ejJ4RFZBXzlkT3I2WjFfeGRWdGdOOHVkZjNIWFRHN2cyeFRHakNXNzBHdVdYYlpBV1hyLXZZM3Nzd1ZWazd1T0otbTZyandjLUpZQjIwRi0zR3hBRVRVR1U3N2xFbnU4cERkZ0dDaEcySQ?oc=5"
+        },
+        {
+            "title": "Arizona’s lifeline for chip manufacturing is drying up - The Verge",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjlDTm5oYzFzaXdERXBrdU9sNVFwbkpvR3l1b0FkTnpTeXZqdmNRLWZidll6VjFsU085cmIyQU9pNi1QY29kQjk3ZHNFUVZyRUFwOFA3b1RtMnRHWjR2Zk55Z0F1NEpSMU1TNHR2SU1TeGVjSkxVSVoyQ1JRbkh1aDVsRExBTzgzOWlkaldsRkxicE9vQ0llcw?oc=5"
+        },
+        {
+            "title": "India’s semiconductor sector attracts $1.4 billion in funding across 281 companies - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYWF4ODVXbmJMNDdCWWFFWE9aMV9WeTNmZVg2dkFGaFFOcElHdzhiSE9INE9rTGR1TE5udkFIXzNpaER5N0kwMVFGTVRGS1VzZFZiRDJoTWRMdnpuUUJVSW5NZUNqXzg4ZW5jMTRKVkVkaGNwcl96WG55Y0dhalo1cFJpS1U4eG1XSGxmczFfTXBXYWtPU2JtMVprQ0VvN2VLYmZMLVVfLUo1blQzZEk5aU1YMDFJWnBKNEZTdU5jcWJJX2pNeEJnMzhMZ19TRGZGU001NVk5WXQ0R2d0ZmdPMjB2cTJCWjNobllGUnVpTTBNaklIakcyZGt30gH_AUFVX3lxTFBkOUZtM1pudWhLN1pocVI1eHduYWZtRklBbjlUdXFybG9VZlI1YmFtX05FYy1tRFpzQ0o3cjFJSGJDUFI0dFJ3Zm1ZQU1DX05yUXBhUE05M1J3SGpYNTlvVXBvby05Uk1rR3FCZDZtWnptUEpnNkFPZWI3b3RlQnRQTW9SdHJaUktIT0MzZ2dsdTA1N0laYkhSa1N1QnM2Zld2UGUtNGhsSmhiem9NdU8tUnlQQjN0a1pibHp2S0V0RmVMaWJsYXVHSV9EVENnb3lnOElyeFB0LVJmLWE2cF9BbTlIRy15NnBFOEEzbmpHVS1qdW5PWWRZOVJfbUlwbw?oc=5"
+        },
+        {
+            "title": "Samsung boosts pay, stock awards to retain chip talent - upi.com",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTJhckUyRWhrb2xQcEpUUDMzajlkWi1TZkh6OHo0RTl2NGJQR0hpTTVXY2M0eExDMEl1NlBHOGVhMjZhTlVmYXd6d0JNRWpIT1N6b2FLYkFyeXJnSVV5RDRmM2NEMG02WE5zOUwxWnBxV0IxaGxPR3I2azc5RmxaaXlXT1JxLW8tdmxTM3lqWVdZY0lZLXlhUGdvZXR4VG9OY1FuRnEzalNDR3fSAbABQVVfeXFMTzlJQ2ppTjJsdktwQ2EyOUJiXzVIRmZqUDJYM0FtaFZDNEo4QWhjeHJORnkzWkdwNURBcDc0VkcwYW40UzhMUXFNWnJDUndUaElHWkZLU2JQZnkxVDdRWE9IQkR2REpfU181dnJyMG5xZ0lvdzBSaUd3bUJOQmZ1WW40bGJ3d0JNR1BtRUc2NFpIdk5DQlVyYTJtOWhRYU8xYlgtY3BBcmlfbmxBeG1DU1g?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
