@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-17 01:12:07.944228",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODRKNnhlZU8xMzVhZnlOMElieUg2Rm9lQ2wwc2ZjRGp2d09HNVRDV0hMaThGU0diRGZjQTNyM1pMTFpwNk1peWdSZDZCUGxjbEM2LVh1Mm5xTzFkdWpNaWxNSmN4RU51WFdxVTlNbk5HbUhBNEVwUFpXU0c4clZGVW51amxyNDFxRUNweWZsUlR0THdGN2dKeERrbm9vbUw5ZXExZVl1Y0Zqa0ZmWDFqZ0F3TTJKYVRNNElaZENUN1liRXc?oc=5"
+        },
+        {
+            "title": "Semiconductor TAM set to double by 2030 to $3.2T on memory and data center demand: BofA - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdU04T2NFclNXRFB6UkRISHFsWkt0Z2hmNXJSdm81Vk1kQ0k0YWE3Q3Fmc2xZX1VBTnpLSl9ZX1hFbjRmQXJSYy1jcVl4aG5HSks0SUxmRVZETjNSRnN3Z211SmNnZ2t6ZlV0QzJSNmN0djROdU5uN2swWFJDcy1HQ3hpZkpfUHN1MHVXazR2Rm8wSTVsejZzR3g1Yi12V21IeU1iZ1U3anF2YmN4Mi1Ea3lhNFhUNUhXSUJnT3EtTGE?oc=5"
+        },
+        {
+            "title": "China’s YMTC Is Just 1 Year Behind The West On NAND, While CXMT Trails By Just 2 Years On DRAM And 3 Years On HBM, According To Korea Semiconductor Industry Association - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQjRqN0d2d0dZUndtT29vcDBRM0FqS3pzWDZrVmg0YmpheFlqbjh6aEFBVlhoWE9JOEdJem9mUkdyR2VCU1VyM1JFWEFiZ1R6bDZHYjBpSm5Tb2hXczNDdGlFQ0h5Q0ZydjQzUU5sWlRUc1hSZWMwelR3ci1KbVhxdEJlSTJ3c3RxOE85V0lZLWxsYl9mOUo2YTZDZEJTWEJPNnZYNWRwR0Z2VGo1QjZPQXZ1dFU2UVp2UTdwYjV3TzE2aDVPbHVTdG1vVm5ybGZ2UnpSb19KOTBETW9fMmxKMUNoUVFLY1A0WGt2clVJN2pvZTlkblRCUDVPc2dRYUtYTUdnNUU0Z2VncGpqT2d2QjNESFBTd9IBmwJBVV95cUxNRS1MTlNwazVPWXNNV2xlT1pxR2pPeWNJdWlmbWJtenJkY2JWSnNZc294NFEzejFXb2w1cjhyU21WVmh5SGR1Y2llTXp2VHg4aW12RkYtY1NNOXhKMjRYbU8zNWRLbGV0NmNoSHlSRE51ZU1XSExoX19GdDl4RmtRNXppTzRWTU1xUFJYOVFBZW9MZlBiSlFaLTcxUzNyOHBDQ1RkQ1AzWG5xQlphN1BVM0tjblZXMEVNcmxJX1FmWGw4ZmJvVmExMGpHVDFJdVdCTDQ4MlNVZ2JaRXVjVXMwaVZrbVJxVUFVeWsza2lSS2kxRmkxZThYLThzN2Q4bVhzNlBhOTZxZ3ltX0ZtMzZjMWRZRXA1YTg2U0g0?oc=5"
+        },
+        {
+            "title": "Ceva Appoints Semiconductor Industry Veteran Ziv Hammer as Executive Vice President to Lead Connectivity & Sensing - Morningstar",
+            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPenZWUlJ5dzVfSURYei1zRkM5UzRqeVRhTDcxcVZvYmloRWU2bUk2X3ZYMnh4RzlYNGEtaHdqMkg3TFFENC1RYnAySGdLNjdpOFlWZ3FlMFhwSkQwSFotYy1Tbm1DUlc5Mlo4bDc1bVR4dGpRdC14WURROE1KUzdENTlPd3U1Zy1NY2RMWll5SGZubnJSMkJnRmk4b2YxS0VuWEdxYTA4Rk9VNlFKeHNnU0otdWFxdHhZamVRZ2JzWHh0dGdzaXhlZUZVSmpHYU5uSExtYTF4NFBBVmlrNVVwNFpFWUJDeTJJcE5aVVVqdDdvazhvYVhCdnFrOUhtTkJseldJ?oc=5"
+        },
+        {
+            "title": "TSMC’s Germany venture hits milestone - Taipei Times",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Mb2NQQUJUckVLeTNDVGtvdzRwUWN3WFRScjZKTmZfcVhlcklPb3I2TFgyZ2RSdWs1ekhvUlAwdHUzR1RxUUlMX3VzcklxRzdqU0xPcWh5dXJsZy1GV0t6bXhNVFNuY2tmdWhrMGd5cHl5QnB1S1E?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
