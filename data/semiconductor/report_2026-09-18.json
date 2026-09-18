@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-18 01:07:46.829262",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "China’s YMTC Is Just 1 Year Behind The West On NAND, While CXMT Trails By Just 2 Years On DRAM And 3 Years On HBM, According To Korea Semiconductor Industry Association - Wccftech",
+            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQjRqN0d2d0dZUndtT29vcDBRM0FqS3pzWDZrVmg0YmpheFlqbjh6aEFBVlhoWE9JOEdJem9mUkdyR2VCU1VyM1JFWEFiZ1R6bDZHYjBpSm5Tb2hXczNDdGlFQ0h5Q0ZydjQzUU5sWlRUc1hSZWMwelR3ci1KbVhxdEJlSTJ3c3RxOE85V0lZLWxsYl9mOUo2YTZDZEJTWEJPNnZYNWRwR0Z2VGo1QjZPQXZ1dFU2UVp2UTdwYjV3TzE2aDVPbHVTdG1vVm5ybGZ2UnpSb19KOTBETW9fMmxKMUNoUVFLY1A0WGt2clVJN2pvZTlkblRCUDVPc2dRYUtYTUdnNUU0Z2VncGpqT2d2QjNESFBTd9IBmwJBVV95cUxNRS1MTlNwazVPWXNNV2xlT1pxR2pPeWNJdWlmbWJtenJkY2JWSnNZc294NFEzejFXb2w1cjhyU21WVmh5SGR1Y2llTXp2VHg4aW12RkYtY1NNOXhKMjRYbU8zNWRLbGV0NmNoSHlSRE51ZU1XSExoX19GdDl4RmtRNXppTzRWTU1xUFJYOVFBZW9MZlBiSlFaLTcxUzNyOHBDQ1RkQ1AzWG5xQlphN1BVM0tjblZXMEVNcmxJX1FmWGw4ZmJvVmExMGpHVDFJdVdCTDQ4MlNVZ2JaRXVjVXMwaVZrbVJxVUFVeWsza2lSS2kxRmkxZThYLThzN2Q4bVhzNlBhOTZxZ3ltX0ZtMzZjMWRZRXA1YTg2U0g0?oc=5"
+        },
+        {
+            "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVBQLXlUR2FOTGFFTG9YQm5HVkZtaFB0cDA4Z25CVzlOdFVFYk15VThfaDhsMFJUOUl1ekpuaTdIdXk1QjVqd1FYVFVCeWw0WXo1a2FEeGw4X29zMmFuMlhGdmZ1LVhXNS04YVl1RW41bUlMSGoxTFhoSTkzbWw2QTFjVF9wTmQ3dVM3MVBYRkFzb2ZsLXRFZ3JBNVBQMVZVSzNSYtIBqgFBVV95cUxNZS1kaEZwbC1GajVObno5S1lXSjVQNGxRM1cyX2I5V0h2YjNCdjUwOEdFOE04MW85b0h5dVhMZGpMVFp4WE4yeUdPazNxMklZS1I5VWJIU05iZ1g0RmQ2bnVtX1dVekxnR2dHMnBiSjVVM2kwZ0pfM1pocEtGOFRYcVdzN0VqYmdDNF9GTTlsYUt3Yzl4ZzNOWjNpa2R3ZE9RSXVaUS1OUk94UQ?oc=5"
+        },
+        {
+            "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODRKNnhlZU8xMzVhZnlOMElieUg2Rm9lQ2wwc2ZjRGp2d09HNVRDV0hMaThGU0diRGZjQTNyM1pMTFpwNk1peWdSZDZCUGxjbEM2LVh1Mm5xTzFkdWpNaWxNSmN4RU51WFdxVTlNbk5HbUhBNEVwUFpXU0c4clZGVW51amxyNDFxRUNweWZsUlR0THdGN2dKeERrbm9vbUw5ZXExZVl1Y0Zqa0ZmWDFqZ0F3TTJKYVRNNElaZENUN1liRXc?oc=5"
+        },
+        {
+            "title": "Zacks Industry Outlook NVIDIA, Texas, STMicroelectronics and Intel - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHczeHpLVF82X2RrbUN2RDhNWEhnY1NTbThPNXZqR2tXTmZBSzNmdHJqSC03djBmdld5eFFSNVdzSEpWN3FiYjJSc01uS0t6d1B6b3djc2hVVXlMd0NaTTF1RzRmYm5fcTNPWTdOUlZIa3ViMm9RWmRfMElPdFlGWXZ4dHh5ZXVCNDVlOGc1bkF4MzBjNHYwZ0JsTWQ?oc=5"
+        },
+        {
+            "title": "Beyond Scaling: The Growing Role Of Materials Innovation In Semiconductor Manufacturing - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVDhtOGsya3pNMXJQUDM5ZExjMnB2aV9hT1NKY001Y2N3TnZveUlKNkw3Ti14b21zUzZUa2l4RWtVV1NrOVA4ajE5R3c2U1dwT3NNcW1WaGYyWlNJaW1WRHp5Y19ncXZpdmxpYXN4NC0wYm5ENGhiQ3MwdVRUQ3NBZ19qZEtLNHJpVzFIOFpQSXBDNFdKbmhoR1ZmemtkQmZDSTRWZUNDbVpPUE9uRjRBYU4tTG8tdw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
