@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-19 01:02:36.731135",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity - marketwatch.com",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODRKNnhlZU8xMzVhZnlOMElieUg2Rm9lQ2wwc2ZjRGp2d09HNVRDV0hMaThGU0diRGZjQTNyM1pMTFpwNk1peWdSZDZCUGxjbEM2LVh1Mm5xTzFkdWpNaWxNSmN4RU51WFdxVTlNbk5HbUhBNEVwUFpXU0c4clZGVW51amxyNDFxRUNweWZsUlR0THdGN2dKeERrbm9vbUw5ZXExZVl1Y0Zqa0ZmWDFqZ0F3TTJKYVRNNElaZENUN1liRXc?oc=5"
+        },
+        {
+            "title": "From phones to fabs: India is building its semiconductor muscle - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTGtXWVYwUHZHVDBLenlPS0h6UjVaMEtpMHRYLVU3dURGRXJGd3pKMmlMMTBEVWxTUWR3UXNBUXV4WTI0OUJDakVoUEFRT2daZHc1QVU5U2pLUFNSSnZQMnp3Mk5PRkxHR0c1eHRoTk5xQ05zalZBS0kwRGVUWFQ3OVlndmJvV1JPVzFlSUZDelhyV3JXSUtMMFZqLW5iYVZadXpWREFZbzEteElDU21WcWVqNm5ycHl0SV9iYl8yQzA4ekdLbDFqajJ2dmRvMEZyTmlMUnlOYTdlWGhRZ3ZUWHdNSEk1WkZTUUMxblZBU1dWOGNPOEVsVFJLQ2fSAYICQVVfeXFMUHRpWWJyNlVGcXc4NWlqV0dvT0dLdExfM0xjMHpWeThYQmp2UEpKdGZ4ay15UmRfbHp5M0g3dnAyTzlRcGxzZzI3c3d5anZoLTJzZWhkOUZPNkZBaklIcDd2cUdwQWJxbXlQanRtOUN4TUNqSmN4SXhwNjhjLU1HRHA4SktweFZOMFlORG9hWFhVcUZrbUYtazBYT2cyNjJNWXhVemkyaTdDRzJrcWg3SWYtS1pXRVEwX3ZvUzIxV3ZXVjhVOXNDM19GdGJKODRsWmFFVmJMVjVKdFpIVUlhMkRma0tPcmlJZ1hDLXNHM2pINWlNUUVpZVNZdnllTmVISVZn?oc=5"
+        },
+        {
+            "title": "On India's Semiconductor Aspirations, Ashwini Vaishnaw's Progress Report - NDTV",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY25GSjRnWm5ZVHBfeURJRDgxYkFWRFlGcU5YbFJTZDRzT3J1MlAweGZlVVFsa3dieU5FdXNhM0hZU3VIaDRpUFJtR2FkSC1lWG1uLU5SZUJ4NFE4Rm1tN2dwRHhOUVo1aFd4Zm1RdmhQWjZKVmtfSFJaX3JEc1pzeFZ2RDFPczI2Sm5sZGJtWHN4QjBHaDJ5ZEZod1RkRG54RE5RR3AwMVZzRWF4bVVB0gG3AUFVX3lxTE44X1lIUE1hMFo5TC1XdlJDdy1nVmlCT2YtRjQtSE9DWDZsaHd2RWhwX3dyQkR6anNkNlQtdXJPV0FqLW1uMy1WVndseVNjaHJHbHRBdWxkUE8tWGN3aUpEaDlCXzVuQ1NxbkItNGt3X2QyOU0zQTRlWDFmZy1xMUhLVnk4SUgwSmtpYktBT1B3NjRFWVZyUE55Q3JBQlBiZjlJLVRDbWxndVdUV3RhM2JieTBHcW1rNA?oc=5"
+        },
+        {
+            "title": "What does SEMICON’s global appeal mean for India’s semiconductor ecosystem? - Global Times",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IbVVHb0hzaXN0YkE2U3lzek1USDNPdGFXa21oRXY3UmxBeFNQdG9vLWlrblozcXViUXh2RjdPSjBLQXdhNDNqMUhtVzhDOWUyVjVoV2libjBqSDY1UW9La0pB?oc=5"
+        },
+        {
+            "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVBQLXlUR2FOTGFFTG9YQm5HVkZtaFB0cDA4Z25CVzlOdFVFYk15VThfaDhsMFJUOUl1ekpuaTdIdXk1QjVqd1FYVFVCeWw0WXo1a2FEeGw4X29zMmFuMlhGdmZ1LVhXNS04YVl1RW41bUlMSGoxTFhoSTkzbWw2QTFjVF9wTmQ3dVM3MVBYRkFzb2ZsLXRFZ3JBNVBQMVZVSzNSYtIBqgFBVV95cUxNZS1kaEZwbC1GajVObno5S1lXSjVQNGxRM1cyX2I5V0h2YjNCdjUwOEdFOE04MW85b0h5dVhMZGpMVFp4WE4yeUdPazNxMklZS1I5VWJIU05iZ1g0RmQ2bnVtX1dVekxnR2dHMnBiSjVVM2kwZ0pfM1pocEtGOFRYcVdzN0VqYmdDNF9GTTlsYUt3Yzl4ZzNOWjNpa2R3ZE9RSXVaUS1OUk94UQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
