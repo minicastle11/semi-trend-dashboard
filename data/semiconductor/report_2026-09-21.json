@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-21 00:55:58.824704",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking — despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNb3hEa2dNNGFiNnotZ0R5bk40TEd3czJMNjBSaFhLLWl5QXVDdGRWcXpZMEN6UnlMWDFWUl9FSi0wTWRxWnF5b1gxeHQ5NHB1SmVyWU54SDZsUTUtd2VHZURyRUpnVHYxdE1DMGk2Y0l4bWdpWkRoRFFfQm1WX19SSTBaeS1kTjc3UHdCcXVGOEI4NGNHOVkxX195R0NwMDFaTlhySm0wRjJRSzVsTjFtRDhhMmhvRW5pb0hJR2VvUzZCemQ3Nnp3c2dMY2lISHloVjZ4cGNCX08xamhqdmtBZm1lRDl3djJIWnNNVjhSUlZjRC1BRE9RbW01OE9ZRmhYbmVXYVl6bHdMaGw2eVhnVjdLNGN6WUg3cm0ySF90b1FDR2djR1E?oc=5"
+        },
+        {
+            "title": "Sabotage Attempts On India's Semiconductor Push? What Ashwini Vaishnaw Said - ndtv.com",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDlpUFBfQ0FMVnZGaE4yV2N5WFFCM0JvYklUcDExak1HaUZ2YkJjZU52VERvSWUwM3U5VF91NVd2eGRxSXF4a0pBZ3h3anZHVklnNUZ6N3A3d0trWGE4VHpnNjY0N19HRTNUak5zeWd2cUlHb3ZWc2YzX2RpbnMtSm5qemMwTlhWUzMxc1FsaEJlZzhOQ0Q0SUZyeTBGbm1CaE1UNGd6WnZNcXJuX3ZsX2djeGHSAbwBQVVfeXFMTTd0cTFDV0w1ZUVhU3ZmZDJubERmc3hpSFRVT3JLdHRwNnE3Z3RncC1KREw1Ukx1ZExnRUNTVUpYYzBYbktiWHJ5Q0xnRlQwLThQSFBjRFp3YUd1M0xKNEFyZUhueWFsTkpxN2RRNE5ibzZ2V29OUHg3cXpkVmVGZ0pfT2J5Q0h3Y1R2Qm5VU3FPSnh0MFYxWG83Zm8xdmRKZDlLenB1Tzh0NlZ5eFFueTRKalZ5YVJQMllveTg?oc=5"
+        },
+        {
+            "title": "Uneven gains ahead for semiconductors - thestar.com.my",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjJmOG95bTVodWpjU3pZZHZSaUM3N2VuOGp6NlhBc3NURDhMSGNZLTFienpzNXY3NTk5MzBLZlNuN3RXeFhyWVdFc1dCUkVPdDNVSTBWRUNpRGxUblpFRWJlWUFkTEROOUV1bjN3bUx1N0RyWjlHbEtHbm9oWXRSMmFNYVZfYV9UTXhpMV9vckI2cUJFTzlrdE94SUpXNDA?oc=5"
+        },
+        {
+            "title": "Broadcom: A New Buying Opportunity Emerged (NASDAQ:AVGO) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVEtVHhjMXh4a2lBSjZ2Wm9MeU5XdF9aRDk3V0JwTEFNVDBnU2ZrTkZGTFBhRGxOZGQ5M3FDeTZjdVNfVl9rLUJoWmI3TUpZb1JoZ0NjUzBXdGxyaE8xMWhOTm13Q2hTMmZodVpnM2JFeG5rek95OW9jQVFPR3p2czg2ZDNyREQyNFE?oc=5"
+        },
+        {
+            "title": "Who helped Samsung become chip giant - koreatimes.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjh5aGFQYWZjVVVjQ3ZZdUlsRVRqU2JLZk9TVlR1dHJocTlYT3d4NzFMaHNJcXNZd3NLVF9PVjhHam9rTXF2OUdUV3B2ZHRoTHI4eHBwWUI0cUJvaDY5YVR2MkxfN011dk9oaWRQb1N1cVAxd0JGc002b3A2QlNNYUNzbWpsLWJNVGVfb2oyUTFyMU9UbmRsTdIBngFBVV95cUxQaVVWb0pOWmN6eGlHRkl1VHZZVG1nR3pLVTVBWVN3NllzX2szUEJEN0JYS1VWdEJuWF9URnRrMzFsQkxPd3BqclJKLThQZ0dGSXZYb2NWQXZpWU1LblpnR19WdThoa0tjTU1MeFV0RmgzRnVLR0M2UU5UTnZqb2hrU1VMX0k5dGhaRkJ1VlowaVhScmI0cUY3LVR0c0Q5dw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
