@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-22 01:30:27.221803",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Sabotage Attempts On India's Semiconductor Push? What Ashwini Vaishnaw Said - NDTV",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDlpUFBfQ0FMVnZGaE4yV2N5WFFCM0JvYklUcDExak1HaUZ2YkJjZU52VERvSWUwM3U5VF91NVd2eGRxSXF4a0pBZ3h3anZHVklnNUZ6N3A3d0trWGE4VHpnNjY0N19HRTNUak5zeWd2cUlHb3ZWc2YzX2RpbnMtSm5qemMwTlhWUzMxc1FsaEJlZzhOQ0Q0SUZyeTBGbm1CaE1UNGd6WnZNcXJuX3ZsX2djeGHSAbwBQVVfeXFMTTd0cTFDV0w1ZUVhU3ZmZDJubERmc3hpSFRVT3JLdHRwNnE3Z3RncC1KREw1Ukx1ZExnRUNTVUpYYzBYbktiWHJ5Q0xnRlQwLThQSFBjRFp3YUd1M0xKNEFyZUhueWFsTkpxN2RRNE5ibzZ2V29OUHg3cXpkVmVGZ0pfT2J5Q0h3Y1R2Qm5VU3FPSnh0MFYxWG83Zm8xdmRKZDlLenB1Tzh0NlZ5eFFueTRKalZ5YVJQMllveTg?oc=5"
+        },
+        {
+            "title": "AMD stock soars to new record as semiconductors bounce: Chart of the Day - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUJJNHBURTVmX3A4WmRCcEkxMjg2Sks4ZEhKRXFDT0lOeGp5NDlhU19MaWpkb1hCdGYxWU5TVGktRFdPOXRGYnctOVJZNTBhczEwUkd6a0k2MnVEYTdhS1NMSWFRbmNlaGdfSDRtR3h4Vjh1Q0Q1Q0F0UlEzV2RiYlNHMW5qenZVMUJ0dmJ5TXVvNmxJQUlnM2tMd3FMQThDSWZ4ekt4UmltUDVOZUs3d282QzFQYXlNOEN3eGU3UzBCOWhqdG1j?oc=5"
+        },
+        {
+            "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know - StockStory",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0M5NWo4cmZ4NWhqaFRYT05FWFVJTDVPcDZpT0wtaWZUbDNpVFVoVVlYUzJLUjN2TUU2YmtzVy1yenE3M3V6TXk1eEpxY29JR2xLSDktSURrSjBHMEFtZ2c0NlBMcXRHVXVDRHlyeU9MaFJVc1hMcG5VbzJQLVNfeXRZeUxBdk40S3lYa0NURi00Ni1DY3N2ejVsd3V3Q2YxQS12djZ5VEt4NXYyRWhvU1NXX2RKTGRVSUswQjQ3dw?oc=5"
+        },
+        {
+            "title": "Broadcom vs. Intel: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmNnMmRMTXIxTkJhY2NoYWZiTURJNnhOcEhYWUV1ak41QTB1MVkzdkhucnltclVFQWtwYzVKVkN4aGtWdUJNQWRiaGw3SEpzZkRlMFZpbVZ0bzdacDkyQk5Ga0JfbkF3UGdGNDdvUXJFN25UaC1pcHRmcFVfb0VYaGU4LW16S0dNX0pSb0xhclVCcDdoMlpnWk8yU041ZEg0dkVnZU5lLUZpcDJ3WWRLVm5BdzZhYXV3REdxdA?oc=5"
+        },
+        {
+            "title": "Magnachip Announces Strategic Investment by Navitas Semiconductor - Business Wire",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXU1RU9IQk0tY3otVlNORnJCanNlaEViMkQ0LUptcHlhTmQzemc4WFNjcHhHWmFhYW5HNEVvOXphVjVmcVFvbENjaWlfcTZwcGlQQlNqVkkzeHJPdEdmM0Q2bU5XaS1pb3FZeEw5clhIWUhfcFBzME5MMTd6SmpzM3VhWl9EcENqTVZEaUNUcGtNUUVtYjA4RTNoeFFxZlRmbldRZUhVY1M3c044MmFvNjByWm9qd3FYSlM4dWUzaw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
