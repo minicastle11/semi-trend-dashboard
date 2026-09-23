@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-23 01:20:20.031836",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "AMD stock soars to new record as semiconductors bounce: Chart of the Day - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUJJNHBURTVmX3A4WmRCcEkxMjg2Sks4ZEhKRXFDT0lOeGp5NDlhU19MaWpkb1hCdGYxWU5TVGktRFdPOXRGYnctOVJZNTBhczEwUkd6a0k2MnVEYTdhS1NMSWFRbmNlaGdfSDRtR3h4Vjh1Q0Q1Q0F0UlEzV2RiYlNHMW5qenZVMUJ0dmJ5TXVvNmxJQUlnM2tMd3FMQThDSWZ4ekt4UmltUDVOZUs3d282QzFQYXlNOEN3eGU3UzBCOWhqdG1j?oc=5"
+        },
+        {
+            "title": "How agentic AI impacts the semiconductor industry (AVGO:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNUM0l2M19iYVRBVkJhRlRLMGJqeWJ1dVZfaTFDMDdNcUZrUzRWT3JFZGpZeFlaNHJGRHl1ZjdNQ3dKLW9pUUh1Nm82NUhYQzdHb29IcnRjRi1kT3hOSUtvQ3pBMWRsdDVLUXhiUDhJSUgxWHMyRzJyQ0syNll1REU5ZmtSUTNhYWZPOFU0Yi0?oc=5"
+        },
+        {
+            "title": "Artificial intelligence 'creating, not cutting' jobs in Newport - bbc.com",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MTg3M0oyQ2pGdFUyWmRKVjB5eHdSV3IwY05TaGI3UW1oZmNoMFk5anJ0em5tNmx6enJuT09Oblo4MjVGTTFWRGJxdm91QlhRaGZaUlVUSW5SVGs?oc=5"
+        },
+        {
+            "title": "Apple Executive Chair Tim Cook to Receive Semiconductor Industry’s Top Honor - semiconductors.org",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYURUS0hUa3ZIMnNxQmV3YjhUaUNoa0FVSlg5a1NGXy1fdlZXS01tcHhxUGNtc25Ic0tDbjJGV2JoS1g4cUYxVDBpMVFfd0dsV2tkTW16SUVITXJDaE9lMVA4VU9DR1JNUFd5T2hzNHVMTE8zcExnQ1V2WmVPT0QyS2x2ZVc5VUJHYjkwV29COUkxRDVqcU4tQWZTUkx3SHpvdGUzM183M1V1Ymc?oc=5"
+        },
+        {
+            "title": "Magnachip Announces Strategic Investment by Navitas Semiconductor - Business Wire",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXU1RU9IQk0tY3otVlNORnJCanNlaEViMkQ0LUptcHlhTmQzemc4WFNjcHhHWmFhYW5HNEVvOXphVjVmcVFvbENjaWlfcTZwcGlQQlNqVkkzeHJPdEdmM0Q2bU5XaS1pb3FZeEw5clhIWUhfcFBzME5MMTd6SmpzM3VhWl9EcENqTVZEaUNUcGtNUUVtYjA4RTNoeFFxZlRmbldRZUhVY1M3c044MmFvNjByWm9qd3FYSlM4dWUzaw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
