@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-09-25 01:16:10.828747",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "5 AI Semiconductor Stocks to Buy and Hold Through 2031 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3JhdHBmSUZycVRqV3hYTDlac2Jyd29yR21Kb3pqWThVWTRvSmxtby1wQXE5enBTY1BLeHJqOGhJSlVZbnI3WWd4c3JFTlhBalBxRTZIcDQ3OFpnYmMyU1pPNDBBR1plS2tSUGtNd2RPSnVQOUJHSER0M2NlQlZXT0JRMTZmVWw2MzE0WEItUnotSUNaZllwbw?oc=5"
+        },
+        {
+            "title": "CXMT, SMIC power 620% surge in profits in China's chip industry - Nikkei Asia",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVdJdlRmSDBLWGk5NDROajdtRF9mSWF5S2lfRGYxU0ZVa2NtcGNGS0pETlI3WEpmU2ZxcEJHYmxySjZGbTdIaHhseFU2NHNXd2thenlxMVN1T19VY21ScmtZNy1KUGY4MUhkMDVYNmo2Z0NoUVNtTV9SbkRWOVU2bG9aN1pqUWVETzdaQ1l6MGNHd1czVnViUzdxRDRQM2tjdy1sUWdLTDZQQmc1VkNkUFFWM1g?oc=5"
+        },
+        {
+            "title": "Free program helps Arizona women break into semiconductor industry - abc15.com",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1NwTGlWX1Vfc3lvb0tCckE3TGtTSGVrbHBpVW54YnRzclRIeHFFT1YtajFEU05tS0ExNTRCUEZ4dEpaMmlQVTRCeGdkMm9mdkM5WlBndjNMTF9nSjhPWThMTXgwb2w3aVpOdUhaU3BRZ1MwVnNkZDd1ZFVnajBWc3o0MkFZYWN6ZHdqWFJmcUp3YjZZWldTLTdwNXlHbmdIeXBFanFiNA?oc=5"
+        },
+        {
+            "title": "ASML says it sold 'absolutely nothing' in Europe in 2026 — lithography giant calls on EU to help create demand - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVXNTOGdaT1dackdKN0RxQjZPek8yamd0RFdnU3BlMlBTSmFqWFBfUFYtbXp1blNTcWFGak4zTTRhQlZ4TU5MLVZZZjRuVFU0VDJFYVo4S0lmalVWVkZzbXhaTEpRZWhpcU1mRkJGSFh0Q2k5TG5JVEhhUHZFY2wzOFdQR0cwN0dPNFB1OGUxbWFaTG1kU1JMTkNka1FiX1NuQ013am1FbE9iVS0zOXdVcW91YzBqV05RMUpMdGhHSFg3ZDBwSkR0QmM2ZU1DUHVoNUkxZkstaw?oc=5"
+        },
+        {
+            "title": "Artificial intelligence 'creating, not cutting' jobs in Newport - BBC",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MTg3M0oyQ2pGdFUyWmRKVjB5eHdSV3IwY05TaGI3UW1oZmNoMFk5anJ0em5tNmx6enJuT09Oblo4MjVGTTFWRGJxdm91QlhRaGZaUlVUSW5SVGs?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
