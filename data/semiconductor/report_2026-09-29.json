@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-09-29 02:31:30.230768",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "California Will Continue to Be Leader in Semiconductor Manufacturing As Senator Cortese’s SB 1306 is Signed into Law - sd15.senate.ca.gov",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbk9HSUg3dU1SUG8zQldKOUNmZDBBTC12YllWemlCREY0N3NCSThCVFRXUnduV0NfeGxJX2Z2NnEtY1VaYVE4d25reVRwNGhlV0FmVXZjZW1paGJPdkd3STFvNlZ0ek80MW1odExpakIwLWdYbE9mN2VBNGNuVzl1ZWU1VDBxbmZBcVJRWUphRXBJenVOWHR3ZGVFMW9aWFBGTUhFVVU5Vkw4WjBpNk5mRTVJMVd1RHZKVUFpb3FtcEwtZ2ZQ?oc=5"
+        },
+        {
+            "title": "New Purdue-Illinois initiative targets AI-era chip workforce - Journal & Courier",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdFpsd0pPWkVnQU10OEtGQ2xhd2xZWUlTN28xTkZiWUVkTm9McXBNdnZ2aUl3cXFoTWc3cXZfQlItajNuTVJmQ3Bhb1BScHZJTGhaTnZQQ2JyTHY5bmZLakgtRUhLNVd0UGdLWXBIV0FIOFc2VjFYb18xMDdDZ3BwRGtwQ084YWxWd2F0OUZCeTZuak1sT3NqYzZQUXExN0dfUGpPV1JuZjdSUmR2MV80dUtORTducFNLcWlsSm9RbDBkTVc1UXBTUDdsUzVoTHhyVHhwcFJ4czB1X2lmdUNuQVVuRmpCWmhMRFFFS3MyZXE?oc=5"
+        },
+        {
+            "title": "VSMC: Singapore’s New 300mm Fab Is a Bet on the Chips AI Cannot Ignore - tspasemiconductor.substack.com",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0Z5Ry1wejV1SlZkUEpxOG5MeVpPdExuQVdlWEJ3YUpDOVhYb0trTXRBWDN0VkVKZF93Y1FoOHdGTUJtZkF3dmVjZmtBSEo2Q1A5YlBVZUd5V3lxckR6YVAwX1NFY1RSMEt4Z2ZFdWZMYzBfZFo4TjNMTzVpRjNBaGgyeE54ckRLWTF2WTIyQzVkZTFZeW8xcHBQTnd3VTJXYUF2dEZlR3F1aFJzNWdRcGRWVkxjOVJKaVZZVEFsQW54U0Z0OU50dVJXc0prYk1BUmE5OFJQVVE?oc=5"
+        },
+        {
+            "title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX05mUmRBc3I1VFlkTnBlUlQzYmtFNmVTV2ZHdE53d0gtZnJoeWg1TFBYM095ejNVcFd2T21WQTQyaC1tWlFmU3RXM255bTlsMjdnVnRUZkZWS2lUSUhLY1ZPeEJBU0FIeFd3MGNyRlRmVVBIVWg4RzhLREI2TUduejk0UExtRklxTkFjSTJMODVPN3N1aEhEMEpubmRGa0VwMW9KMk1reURxSzVmYXQ2MEJNLTQzemNSNHRsNGpCdUNIdnZYQjhheHpaTWltWW1MSHhpQW54aEx1NkkyU3lXOTBQTmcyUHNWSl8zRGVSWmlydTZMdi13eg?oc=5"
+        },
+        {
+            "title": "Taiwan Semiconductor Manufacturing Co. | History, Leadership, Technologies, & Facts - Britannica",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcmkzWDFJem9aNjFJODBRVml5UUxNcWk5eXQ1bU41bUFiUG9LMFVHYWpnVi00Q0ZHSUZnTlpSTUdSVTMxUXpQcFUyMHVmLVVCMG96NldrdkU0bExZMW1RWlpyVU80Y2R0N29KejlpNWIweUVVRUxGUUtR?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Hall conductance of dilute electrolytes from odd stochastic density functional theory",
+            "link": "http://arxiv.org/abs/2609.33797v1"
+        },
+        {
+            "title": "Engineering Defect-Phonon Interactions Through Heterophase-Interfaces in Silicon Carbide Membranes",
+            "link": "http://arxiv.org/abs/2609.33545v1"
+        },
+        {
+            "title": "Bare-Die Antiferromagnetic Computing",
+            "link": "http://arxiv.org/abs/2609.33460v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
