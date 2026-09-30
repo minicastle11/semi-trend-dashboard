@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-09-30 01:54:12.146243",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Better Semiconductor Equipment Stock: Applied Materials vs. Lam Research - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0E0Z1BiR2czMFZuZUx3MmhfSzRhWk11WXVhNzZ4Z1oza0sxMUFFSWZGM3BZc044RE00MVhDRWtxVW1ucEc5bU1ubnJYNVV1a1pfNXBma2F6dVdhRTJTMFc0ZE5oWWRpZXNFVDQ0aDNJRHY2UjV5QXNzc0g3N3h1SGxzaTRTVFlWTHlFZFVEY3B0TGg2RWhKUzhfQ1MtaDRKTHBRNmZRM0ZHMlBDVXc?oc=5"
+        },
+        {
+            "title": "Phoenix puts nearly $1 billion more into Israel's chip industry in 10 weeks - calcalistech.com",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1WU5jaDl6SjU5bFQ3ekM3a0ttX1dXejFKeERCVDk3SlgyaTNKSEhtQnJnSkpSS3JHTEdkSDR4M08tSFF1NnFhUkMtTlpCenBCV1lnUmFoZzY3NWlFSnVPSDBZQzMxZ3c?oc=5"
+        },
+        {
+            "title": "TSMC OIP: Chip Industry Growth Blows Past Forecast - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3hQYmxTZ1E0OTZzVUllanJZdzBLbkRoSHRRSHU3NGp4MDdOVGVpYmJCb001djljQTVONnUxeTZIbG9iZmJ3Y3poeGl4eGUtRk9BYUctSmpfZGViQi1xNVZPN2FUYkdxVXVYVnQwNWdxOUw4dy1xdlFiZ0pFWUFGbTY5WTM?oc=5"
+        },
+        {
+            "title": "TSMC Plans Second Texas Semiconductor Plant - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0tCd1J2LWViRjhUQUxUN2NXeERjNkRTM0QzNDVSTTlaQm4xMl9oX1JoX2JrMm9Uc3F4REp3MXEzcVA4ckZzMEMwUm1lTkRkbFZJZmFSOXRvSmJvMFRKaG5Pem1FalpEWnJiZDd4LUV4U3pRRU5PcXFIWTUzNldEMTVEOEdnYVc3?oc=5"
+        },
+        {
+            "title": "U.S. Government Selects Navitas to Develop Next-Generation 10 kV SiC Power Semiconductors - GlobeNewswire",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRG5tN0pOQm1RaGg5WVdxZXhmZG9VN1lhMW5fZ21XY3VqWm9RZFpqUWtSQXp4ek9uMTRCb1F0MWhVRVo0UWFXcE1sNlJfLUxZMk16M2hpWkpacVFKYnNMWi1YbVJLSkV3amFHaXBwTXFheHU0R29IVTB5dHQxTUtoWXF4RV9LeXJQU3NiMXhQQ1U4NmpxRDRpUnNXN3U4ZVFiQmVHUW9DdGI4eTlZbTJqZ3VhVzdtZGxRSGw4a2xEYS1fVnhhVGdOczZyT3o3UTh3MGpRNHcwbi1EWnZQUXc1TURMSTZCaGY0OExsTmdtVktyZw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "A Robust Hertz-Linewidth Quantum-Dot Coherent Swept Source with Adaptive Self-Linearization",
+            "link": "http://arxiv.org/abs/2609.36666v1"
+        },
+        {
+            "title": "Acoustoelectrically enhanced acousto-optic modulation in an integrated silicon nitride and thin film lithium niobate platform",
+            "link": "http://arxiv.org/abs/2609.36439v1"
+        },
+        {
+            "title": "Artificial versus Natural Atoms: The uncanny capability of the many-body Schrödinger equation to produce emergent behavior",
+            "link": "http://arxiv.org/abs/2609.36356v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
