@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-02 02:04:09.129182",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Infineon opens $1.4 billion Thailand plant as country ramps up semiconductor push - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnA3NHdrUFByMm9wS09DSzd3NmxTbWlNVjFaOVJoUGRmeXZaMlNzV2FWV2RINVN1RDNCYVdDWTRfX3Y1cjg5WTdYakl1clIwWDU0N2lNRno4V0lMY21OcmFIOGRTNWk2Nk1KNXdJVUJhY2pHTFkzQXVGSkRtOEN2M2hDU1kzYTlkeW56bEpWUm5ieDRzUTBIdEs4MVF6Z00wQmJUYUMwQ19nUDdqQ2pjUGNrdlotVU9PSUJFcg?oc=5"
+        },
+        {
+            "title": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Which Tech Stock Is a Better Buy in 2026? - Currently.com",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTI0cWdTR0VFUUFINjg2bU8zc212QnhMdlR6b0RuTzlMNjZ4emFwTzFSR3BrcWE5Vk5kYnN5WVp6b204aUFtT1FuX1FQUndmdGdOM0U0TjJQOFpRRDM5akZ3UFptTEw5SHAzbHZnS0pvV0lPNzUyTmltTHBCS2Roc3l1T1JWaHp2bjNZd0NpcVNBb2tjSFow?oc=5"
+        },
+        {
+            "title": "Not Intel. Not Nvidia. These 2 Chip Stocks Maintain an Unbreachable Moat in Advanced Chip Tech. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQalhNSE41Zk9oM0NXQUgydEFzZ3V3NnpQd2dJQjhfSjJfbjFnTHEzdWc0amt0Tm9ESy14UWpIQUhxM3dLQklDVkR2ZlV1VUNJWmpKYTI4SnMxX0xvQWw0WG40QXJTTWhNZzhJQzYyWTZXT2o3dXI4b0pVS2FCbnVNVXBLZEl5cWlCTjdJN2ItbGxrNFU4aDd6ZQ?oc=5"
+        },
+        {
+            "title": "Zephyr Project Expands Semiconductor Industry Support as Texas Instruments and Infineon Technologies Upgrade to Platinum Membership - Morningstar",
+            "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQYnYteG1HdHlVT01KSUxiZEJSaTBBbUViN29acGk0VnFzVW90dTNxaVFMM3BLMmJkajlHNV9ORENEYVRSeDBXXzU1YW9pNld3emh0TkVCaXN4V0tzZUNxWi1xTGJHYjE5UmZZTmVHSVBmcEk2SVVPZnNoYkVuYU1ybjF6MHJ6ZUhfY2Zfbl9rM2ZldHlwYnpxN1M5RldLVDlKTlA2THlTY05QeXR1VF9fUjlKUlQycTJBWGJ3WWxiTFF1UXlPNVBIeU8tMW16YWRyb3h6dms5WVl5UXlYQkJ5VkVBckdEeHp2SDB2cGhNUkdPbHJYa1JseTgxTFQ2VFBEeExydndjeXRlcWVlUWd2OVE1V1VTd2JrR21LQw?oc=5"
+        },
+        {
+            "title": "TSMC makes the world’s most advanced computer chips. Why invest in Arizona? - KJZZ",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjdJTE40cERpNjdka0syRDktQVdoZDBRSVZUb2VWT0F0Szh6QkljVFJITWI0cHh5YXB2OEJWOTNKYVEwaEZWck0zLW1IVlhYZVpzTUd3eHEzWHJFYjlkQ3VCbC1jMmt3X0J2TGhreW1mY285LTg0Z0lOSFQxMjBXeERkQ0p4aEh5LXdQaGNrU0dETUFKbUxQYVAyajNKZnVuYVN0WDhGMXd4RkUxRXJSRHM2VQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Decoding Thermal Stability: In situ Insights into Phase Controlled Phosphine-free Colloidal Bi-Te Nanosheets",
+            "link": "http://arxiv.org/abs/2610.01722v1"
+        },
+        {
+            "title": "Why polar excitons stay sharp: parity protection of the center-of-mass recoil channel in exciton-phonon scattering",
+            "link": "http://arxiv.org/abs/2610.01600v1"
+        },
+        {
+            "title": "Mass-asymmetry-controlled exciton dressing and dissociation in a quantum lattice model",
+            "link": "http://arxiv.org/abs/2610.01594v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
