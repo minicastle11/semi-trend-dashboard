@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-03 01:48:14.825545",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Infineon opens $1.4 billion Thailand plant as country ramps up semiconductor push - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnA3NHdrUFByMm9wS09DSzd3NmxTbWlNVjFaOVJoUGRmeXZaMlNzV2FWV2RINVN1RDNCYVdDWTRfX3Y1cjg5WTdYakl1clIwWDU0N2lNRno4V0lMY21OcmFIOGRTNWk2Nk1KNXdJVUJhY2pHTFkzQXVGSkRtOEN2M2hDU1kzYTlkeW56bEpWUm5ieDRzUTBIdEs4MVF6Z00wQmJUYUMwQ19nUDdqQ2pjUGNrdlotVU9PSUJFcg?oc=5"
+        },
+        {
+            "title": "China’s Semiconductor Bottlenecks Are Disappearing - RealClearDefense",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3hscmRKM01kYVVMSzNSREFHTEJFZ3hDalZJa2tGM1ZTMnBHbDRNOG9USHBwS0ctVDJQMWJMQkd5YmlzSk5JLXdjLUVUY2hPOXN4c2J6WXR0RHJ3NTZ4Z1lhbEdDZldBS1NwUDYzWkRvNFpqQnZDSENNQTRFMFcyTFNGcDhWeW5CNjZ5bEt3NHYwd0tvdENtS1NITHpVSzZoYngwblRBMFlSRGlOajI0V0NXMDN1Zw?oc=5"
+        },
+        {
+            "title": "Broadcom vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNk9qekhnYWU0Uk1uNnZmSkpwRGwwWHI3Z3NjMlN2b1lqc2c5Qnl2RWNUeDNJeGplWkRxbjVzeDNOYTJKcXVSNkZ3WUdGZXRMbjU0RVR5NmtzNHE0T0RnWnVyR1JKSWZvcGo4enVqRzFFYWd0bDg1N19zNTdLMUlTbWhKemhjQ2xVVmxydW54QVI0bGo5azRQYllxcEw3MWNDaHBMa0ZFcUE4MFBHWmg2QnVwUkJKdlBCMWxzUWpFSGRiaU9HTXV0ZlBpQTE4cEpfSTNkWTI2RQ?oc=5"
+        },
+        {
+            "title": "Applied Materials vs. Broadcom: Which Semiconductor Stock Is a Better Buy in 2026? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNDdYRGk3WmJNNEwxcFkyNXJFbUlOa256bUI5Zkd0MnFaekJyR0VCclZXMEtNM0RlOHJWd3YyVmV0dkRlY0xiYmtnVG9SVFdWbXMwVGxremNYNEFyd04tZk5OWTM3UVFrbUNjQWhnSmJqcUcydzBzVHJsVTVzYnNHTFA3R1FsdDBUN3dzR1RCenJZdGlDM0hCOW5jczNReVZrbUV0SDdpN3lac0Mz?oc=5"
+        },
+        {
+            "title": "Inside Soitec, the French tech company powering the global semiconductor industry - Euronews.com",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFgzNjBfRFBmMnd5SWNaODVBUlF5Z3RrbHNDZmtSa0lHUWxLOHZfWHhvWktIRnpRaXY1MVlQTVhTcGkwNTJyYmdsMzY4V0VFcl9kME9EM3lXcWpsUkVDYTVkcE9VY1JLclQ4U09jRml2RHFzelJxcUItMGhzZmd6SjI3Wmw5RkYxMndBS0M5QXJVeGNDOVRYWGcwSlp1MXJWNGU2bDBWdDZyX0t4ODNna0Z2enlXc3c?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Decoding Thermal Stability: In situ Insights into Phase Controlled Phosphine-free Colloidal Bi-Te Nanosheets",
+            "link": "http://arxiv.org/abs/2610.01722v1"
+        },
+        {
+            "title": "Why polar excitons stay sharp: parity protection of the center-of-mass recoil channel in exciton-phonon scattering",
+            "link": "http://arxiv.org/abs/2610.01600v1"
+        },
+        {
+            "title": "Mass-asymmetry-controlled exciton dressing and dissociation in a quantum lattice model",
+            "link": "http://arxiv.org/abs/2610.01594v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
