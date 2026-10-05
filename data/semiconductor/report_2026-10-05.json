@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-05 01:45:34.950255",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Infineon Leads the Quiet Migration of Power Semiconductors - semivision",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVNDdXNQbVZ5emlOQzZkV3dDSkw1WWN6Vkw5YWU0Q1FLc2pwcUotbURRMnpTYnh1ZHlSTWJ2MmZFaDY2S204MDlkWFFBdXkyYktYRnY5YWdtazlFa0cyVGN4RC1IYUFWRE9MNzFYa3Z3VVJjeTROSXU2Z1NCTFY5Sw?oc=5"
+        },
+        {
+            "title": "Magnetic Sector Mass Spectrometers Market To 2035: Semiconductor and Isotope Demand Fuels Expansion - News and Statistics - IndexBox",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNemFFQ0VMSjg4V0xBT0xmcHpzb1N0WDgyZGx3TkFLc3BINWF5NDNVWElOWHA4QWFocllha2tqYjZlS2otZW1ZWk00ei1USjNDaWRoWHdwcVJwQTVUME1GOGI1bk15X1NXZDg3ZGdnQUcyQnUwQWJUVEFoQ2xRV3lGNUcwVGoyRGlPNnQ3c0twSjNUOTBPS1ZSZ0VZdUFvbkE2RzFfbGZPSXNUVjM2SUJHV2NZU2F2Y0FUcFdLclhsT1JuT0xXMFd6a2VsaEFiVUw2VFBPN2ZFaE9LczdVeHJ3QkVUYUhrSkNzV0xNdg?oc=5"
+        },
+        {
+            "title": "Inside Soitec, the French tech company powering the global semiconductor industry - Euronews",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFgzNjBfRFBmMnd5SWNaODVBUlF5Z3RrbHNDZmtSa0lHUWxLOHZfWHhvWktIRnpRaXY1MVlQTVhTcGkwNTJyYmdsMzY4V0VFcl9kME9EM3lXcWpsUkVDYTVkcE9VY1JLclQ4U09jRml2RHFzelJxcUItMGhzZmd6SjI3Wmw5RkYxMndBS0M5QXJVeGNDOVRYWGcwSlp1MXJWNGU2bDBWdDZyX0t4ODNna0Z2enlXc3c?oc=5"
+        },
+        {
+            "title": "The Semiconductor Industry Is Scaling Fast. Can Its Supply Chain Keep Up? - Manufacturing.net",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWJnaG5VdTUtRHczZm8wMEJYOTkxQjBjRHVITU5SSGM3RmlxajFweV8tdW1HejNpNzd6YWRIZ1l3N21MWkliN1l4eTBTVm9Yam5TRUdrN3p0QU5wYWp1U2laRWJYY0Q4WFhNMDFlbXAzdWpUNlhGamVPVDUtbDFNUnlsbVVNV3N5dTh1RGVyU0Y4dnpHbkUxUmRvTWZKVVhXeEpvM0ZUdmEwdnBzRUpIUTFsYU44Z3dHeUxfd3E3N2dpb1pScE5N?oc=5"
+        },
+        {
+            "title": "Zephyr Project Expands Semiconductor Industry Support as Texas Instruments and Infineon Technologies Upgrade to Platinum Membership - PR Newswire",
+            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU1dVYkxsTmtSdWVRS2tDcVhCRXR4X2YySmlURHJmZ0lhZWxSaUlMOWl5OTk5dTNrekZTWXdyQVRwSlpDUUlWV2NMLVdMRnlSdTV0ZUlCMjV0VGdoYlNUQ201S2N2eXBSazhDN0hfaHZhZG9fa3dEV3dPX013LU55X0JWTmJJbXgtWGZ1Z0g0MkRwTXc5NDZJQ3lTN0xiUXhhZXp0UVpKcnZFcWwxS29meVI4Rl9HRko0Q1lMSHk3dG1pNXFVWWdMZVRpSExsbndOMXhIdWVaZkZNR0JvR09Yc0xJcGhPeEFhU09TcjJsUU02bU03WTdaRzViOTNLVU9oR1FhaWlxYmNPOE9CSUxjMHdrYWc3dw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Quasiparticle quantum simulation of materials with the Bethe-Salpeter equation",
+            "link": "http://arxiv.org/abs/2610.02916v1"
+        },
+        {
+            "title": "Robust constrained optimization of nonequilibrium Casimir repulsion in a biased-semiconductor cavity",
+            "link": "http://arxiv.org/abs/2610.02471v1"
+        },
+        {
+            "title": "Decoding Thermal Stability: In situ Insights into Phase Controlled Phosphine-free Colloidal Bi-Te Nanosheets",
+            "link": "http://arxiv.org/abs/2610.01722v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
