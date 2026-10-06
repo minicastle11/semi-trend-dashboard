@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-06 02:46:27.934220",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Year-to-Date Global Semiconductor Sales Top $1 Trillion Through August - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFNrVUdsNGV5T3ZDa3B6TWMzRlRsVFZEV2lxeWtRNVBKWUVYNEJyd1FRbmtOLTNmSTVYM00wTFk5SzRsMmVZR3JFOGVlQmNFVGRmRHJCNjBsRWlsNHRDSHQ1anB1bmY0VnMyWU8yVGNpdEp1NDU0S2ZPanBSRmcydUFGX1FCQVZ2U003aVpzbXhCRHJBanFNWDZtc05odU5Qckk0?oc=5"
+        },
+        {
+            "title": "Space industry co-op helped Northeastern student build confidence - Northeastern Global News",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORU9tS00xalJpc2diUlI2OEpPQnBiSkNJSUFxSzV2S3J1RnpFckVTZnY5WG9lSng2UW5Wc29jamxGX0FXWGZfMDhlOG5hM0x3dC05NUVzeG8yeG44c3NGcnk5VTVHaUcyVEdxVmgwd1pUdkFGRmxsWUUzUUlsNE5xQQ?oc=5"
+        },
+        {
+            "title": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXN3dlhwR1daNC13OHNZNFV2ZjhLdG1ZUmFPMDAzRVQ1MlU4WGVfcDQ5MHl6MkQ3cnZLS1hBeTc2QU5aUjBBd0NwV2s2TXdVM2pHclNiY0xtdUJzZjNKSHBMSmxzS1g1RS1fQnlGblhlMTl5ZG5EV1RkQ0M5dWtCd0FyTkhRY3FZSnhidmgySmRaQ1dHN3B0dTljMVhnYU9PUFF2bkxnS2pvRjlXU01QRGZiM1dfNHdvYzY2NElEcmxYdUwydGVPZlRST3pPMl9WLWhCTHp1WHJrTEta?oc=5"
+        },
+        {
+            "title": "Sheboygan Falls Now Home of Additional Semiconductor Industry Expansion - Seehafer News",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVhLYTczMlV5cVIwSGUwVk5heVR3ZHBQUlFaWEc2WFZCMHF3bmJhNVhGVHB0YmFuYVByLUJDdnczcVVTRUE1b1VrSGo3WHJLWHMzdVFNX2Q0VGdwNEQyUG5hdUo4MVp0NzJYQmYxMnoxNldkT2FhV0RVNlFFdXNQNkJGSTRMMW01SzNSYVNDdWllT1JoZ203VEVLYVM1WVNfTTRMOXZBVDNRUVBrb0Qtc2tHYmk?oc=5"
+        },
+        {
+            "title": "Japan's chip industry capitalizes on growth in India semiconductor industry - english.kyodonews.net",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QYkhhejNBdHdsUDNRVjlHZE1KLTdESkJySEgwcFpuTFAzSTlwNWdiS3JDZjZvaVNUU2F0WmdrVlU0MWJIdHFiSnA3S3VOZWdGbWF2dEo3THJSQQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Feature identification for parameter extraction and defect detection using machine learning",
+            "link": "http://arxiv.org/abs/2610.05812v1"
+        },
+        {
+            "title": "Image resolution enhancement for advanced semiconductor nodes",
+            "link": "http://arxiv.org/abs/2610.05809v1"
+        },
+        {
+            "title": "Field-free dual superconducting diode via photon-assisted interference",
+            "link": "http://arxiv.org/abs/2610.05536v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
