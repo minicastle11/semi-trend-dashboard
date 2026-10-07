@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-07 02:10:38.527129",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Year-to-Date Global Semiconductor Sales Top $1 Trillion Through August - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFNrVUdsNGV5T3ZDa3B6TWMzRlRsVFZEV2lxeWtRNVBKWUVYNEJyd1FRbmtOLTNmSTVYM00wTFk5SzRsMmVZR3JFOGVlQmNFVGRmRHJCNjBsRWlsNHRDSHQ1anB1bmY0VnMyWU8yVGNpdEp1NDU0S2ZPanBSRmcydUFGX1FCQVZ2U003aVpzbXhCRHJBanFNWDZtc05odU5Qckk0?oc=5"
+        },
+        {
+            "title": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) Hits Fresh High: Is There Still Room to Run? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2RrM1prTy0wRUR1QlluWC1feTNXZWladnBxN1FJa3JIRnRUM1h2dmZ3YlVNamJVMW05V2w2UTE5NzBfcTBGYUV1UXZrMXJNU1BaQjdtM2RSSTZ5dXN1c1NNUjFVN2YxU2JhVHN2X2NxcW1nS3VROGp5UUtXQi1tdWhGR3RUaXBNeXpWTGxFSHVIVG1Wd2s5OXVjb2xUNkU2dEZVYzFhSm9ZYjNvZm9VTw?oc=5"
+        },
+        {
+            "title": "AI Semiconductor & Quant Portfolio Analysis - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRF8zZlVPNi0tLU4zeUJ6X3kxZGgzbEUyTlNKWmdTOTl5T1FZUHJHMC1VMTVFaVdoQi1oR1JmVlppamo4a0JHa2xwSk9QZXU2c0hYRHFicWpVYTA0bWRBZGdNUTFZUGFmVXU2elMtNTI4ajNtWE95M2Q2T3ZJN3R6UTF4cy1wVHc2TW1PVVFvNkl4UVdkNDdtOHVOT2R2OWpWMVBmRjZIMmE?oc=5"
+        },
+        {
+            "title": "Sheboygan Falls Now Home of Additional Semiconductor Industry Expansion - Seehafer News",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVhLYTczMlV5cVIwSGUwVk5heVR3ZHBQUlFaWEc2WFZCMHF3bmJhNVhGVHB0YmFuYVByLUJDdnczcVVTRUE1b1VrSGo3WHJLWHMzdVFNX2Q0VGdwNEQyUG5hdUo4MVp0NzJYQmYxMnoxNldkT2FhV0RVNlFFdXNQNkJGSTRMMW01SzNSYVNDdWllT1JoZ203VEVLYVM1WVNfTTRMOXZBVDNRUVBrb0Qtc2tHYmk?oc=5"
+        },
+        {
+            "title": "Japan's chip industry capitalizes on growth in India semiconductor industry - Japan Wire by Kyodo News",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QYkhhejNBdHdsUDNRVjlHZE1KLTdESkJySEgwcFpuTFAzSTlwNWdiS3JDZjZvaVNUU2F0WmdrVlU0MWJIdHFiSnA3S3VOZWdGbWF2dEo3THJSQQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Interfacial Charge Transfer and Morphology Govern Magnetism in Ultrathin VOx/MoSe2 Heterostructures",
+            "link": "http://arxiv.org/abs/2610.08494v1"
+        },
+        {
+            "title": "Squeezed light from a semiconductor amplifier",
+            "link": "http://arxiv.org/abs/2610.08005v1"
+        },
+        {
+            "title": "Two-exciton bound states in the Merrifield exciton model",
+            "link": "http://arxiv.org/abs/2610.07915v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
