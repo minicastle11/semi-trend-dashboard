@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-13 03:25:09.237386",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Why Taiwan Semiconductor (TSM) Became Essential to the Chip Industry - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdk9IMllXYWhmbEFXZWJBdXdxSGRGQjNibDEzNzNFMFYyM016ckJqMVlFR2FQbS1uREl0UFdHUFZrQU9id2J6RlNaRWx0UjU2b0g5cm9oZ0FBYWRFcm5UaUFPei14ejc1ekxnTnFLR1lRaTBETVl5ZFR1cU9JX1BsNjgweVpaQlZ6UWJqQ1BxeHhoN0M0YkpncWE3QVRTanBJR2c?oc=5"
+        },
+        {
+            "title": "Why Are Nvidia, AMD and Intel Stocks Falling Today? AI Chip Selloff Deepens - Stocks Down Under",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwQjkyMXh0YndVRlJhS3FBSll4dVB4akV2TWoyclpKWEE3RXEzODUwYWxtczdwdV9PUFFLUnVfenNtSWpZWnlGRUMzbGJiVHpaOVA0WEVmQ3RzSHFOalAzWENZWFVJeW1QMWtPRDh2YnRKNkdGYzFfN2hR?oc=5"
+        },
+        {
+            "title": "Geothermal power too costly for chipmakers? Taiwan's semiconductor industry sees value beyond electricity prices - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2tBTm5HbW0xMTRSSHZKc1B0RTA5WjJMcHAtZ3JRcnlRUjJmRzA3T01kQ2RQOXgxbXJBa243NHc0Nm9fY2k0WjA2RG40OVdrTkN3cHJPNnZab2dCai1fQ1N0MWFZS2ZUWkl1azAyQUlLVXlpTzhrbFJKVmptZno2cDEzY3owejRKclFkSUZUaFJ1R2ZEaVFzS3BYQmlSWU0?oc=5"
+        },
+        {
+            "title": "Applied Materials opens new $5B chip research facility to accelerate collaborative semiconductor innovation - SiliconANGLE",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYUJIcnhGaktSc1pGRGdabFJfWkh6THYzaFlSQkczVzNLR2s4clB5M01iZVdzRzQzQXhsZzNrTFRIVVQ2N01qTF9vaE13a3BaRHlqcEVIU0xncXl4WDlsUjhRMmIxVlA5VnZWNUNoRW1DRk5WQ1V2bVF3Y0h6NlFLNUtDR0g3UmdJYjZWUlh2LUpwNi1OQ3JveXdqYm9QRDd5Y3FFcHc2MWZ0Y2FSSHRqOG1fV2VOTmNfTnNPR0g5SExwSHdzU1h4a29VRGxmb2hrMVRSQmNMY0tNYVU?oc=5"
+        },
+        {
+            "title": "Rigaku to Showcase X-Ray Metrology for Semiconductor Manufacturing at SEMICON West 2026 - EE Times Asia",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmkyblpBbTVvVWt6ZFZ4NUpacXFCUHdDeEw0WXFJWW5rUDNzQlRpNlNyejllNVE1ell2MnJKXzNDUlBFRkVQc2l3RkdWZTMtYzdLR21YTDVoQk5BVkpnSW1OY2o3MTJGZjkxRmNxeW43aWxBVEYwUmhwbzQzbWVhemFwdUJIWGtDeHZUWjJtTWlPN1FMU2dNY2FSV18zSzhJaF9MbU9fZHlFdzBZRVYxNFNR?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Bottom-Up Surface-Enhanced Raman Scattering for the Detection of Micro-Objects and Globular Analytes",
+            "link": "http://arxiv.org/abs/2610.13381v1"
+        },
+        {
+            "title": "Theory of exciton-exciton interactions in crystalline systems",
+            "link": "http://arxiv.org/abs/2610.13246v1"
+        },
+        {
+            "title": "Orbital transfer reveals material-selective structure in Rydberg excitons",
+            "link": "http://arxiv.org/abs/2610.13149v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
