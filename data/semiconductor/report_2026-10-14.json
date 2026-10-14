@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-10-14 01:43:03.040627",
+    "price_history": {
+        "2024-09-01": 30.487,
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.215,
+        "2026-06-01": 29.855,
+        "2026-07-01": 29.058,
+        "2026-08-01": 28.472
+    },
+    "news_sources": [
+        {
+            "title": "Applied Materials Bets $5B on a New Model for Chip Innovation - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFVNZ1JaX2hNSW1GcHFBMjRCZTN6ajRzQzQwS0JLaHVQZWNuNDlfVzVocTBYaU1RTU9XMGlIc29SVFVERnBPLTRtVkdfWlFZd2xHODQxblNUb1JmZ002STF0WV9ic1Nvb043WDdaeURXbzJXSE5jck9GX0czQnI0OUstYWxkdUFmLWtCRjFB?oc=5"
+        },
+        {
+            "title": "Semiconductor selloff: 10 chip stocks showing signs of oversold conditions (SMH:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1d0QS1xT0pJUndWWW5NenhGaXpTcllucGhPRUt4SVpvRVBaaTB1WE90Umx2ZnhWWjQwQms2SGxNQ2o2UmtwZGtqQ0l2dFczczVIa3dpT2pBbUN6RjlsS2l0ZUN1clg2REk1WEdLbmtCZ1Vudm5jVzJ3Zk5zak5fYmNpdnVhaE1IUmZHeXhsMDdQYXZzdTFYelI1X2RQQTFMM3hhbnJOMmgzTlNzQ2pFdzFFdmdZMFJFOEZJ?oc=5"
+        },
+        {
+            "title": "Preparing chip designers for the nanostack era - IBM Research",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNTMtdENyT3NZeTlVWWc5VENOMTNTRkhxT3lZZTdUOVYzRTR5b2JsanoySU1YcU05OVFreEhrd3dWUWVUbGgwMFRQV1lFZDZoWm1saXFzdlU3SWt1ZFVyQjZkeVJkaDlhTC1XdnVfekF6WHlSanlQSldkckdaNmpXallR?oc=5"
+        },
+        {
+            "title": "Why Taiwan Semiconductor (TSM) Became Essential to the Chip Industry - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdk9IMllXYWhmbEFXZWJBdXdxSGRGQjNibDEzNzNFMFYyM016ckJqMVlFR2FQbS1uREl0UFdHUFZrQU9id2J6RlNaRWx0UjU2b0g5cm9oZ0FBYWRFcm5UaUFPei14ejc1ekxnTnFLR1lRaTBETVl5ZFR1cU9JX1BsNjgweVpaQlZ6UWJqQ1BxeHhoN0M0YkpncWE3QVRTanBJR2c?oc=5"
+        },
+        {
+            "title": "4 No-Brainer Chip Stocks to Own for the Next Decade - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXF0dTNlczNfd2hVWDRYRXVfWXVRMGlYcHVDUnNaendCZ0VCa1F5T3V5dE9hbnJmbTlLNEpRS0tGU3ZOODZQXy1HLXgtLW15NmFBQlU2VExtUVdvcUhTRWk3dkdya3lTQWNsc1FsLTVpQUpCMGNOaWk1NHhNcjRod05idEl6c2pzYmNhQWpBenM?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
