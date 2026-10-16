@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-10-16 01:04:13.328143",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiative - GlobalFoundries",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVW9mTXJLZWtuSlVKNGw4bTZ1aTJuXzZ4UGZkcW14SFpXVjc5eDFsQUo5eldnMFo1a1NBNFpvTnhVSm5qRHAxbzE3Nl95cU9OMkhFLWMyamdST2ljcTl3NnhndjJzRnNnR3BwSWtiNTA5TWl2Vkx4YVBIVE1rZC1haFNDZjhUQUNXanlGZUFVN3NFT3Bzckp4UFRXaXRWbEZtYV9GbjBlakNXazBkSEtoSDJUbWJLTTFwOFZBMm1oWnN4T2dnSjIyY2laazlNLUxZQ3NrZWswMUY0M0Z6RWZn?oc=5"
+        },
+        {
+            "title": "Is the semiconductor industry headed for an almighty crash? - The Economist",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONG13VFVpMmRfamdQcy15WkdqVjVtOXNkZE0tbENrdHV2Vlk0QTNtXzlLR0NUcFdicXZEYlF6azZFRWZGLVRUcTgwTmwwbnBjVzhlaHh1X3RGSFB4dGtmVHNSY09ENVA2Vm9uOXhaajNodUtKOG1ibll1dXlORU10RWJ3YVViRG1qQTBhZTVqanc0VFItRThoY0IwdWpKX29RalFLTVY4aw?oc=5"
+        },
+        {
+            "title": "Samsung and SK Hynix Lead Chip Selloff as China Competition Fears Grow - Morningstar",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcC1iZXdTaFRtMnBJRFdzWmRibE9EV2ZObkNUcXBqN1BXUEsxT1JHWnN3OGJ5M1hBMEtQQ1VXWmN3UmhTcDdVTTV0ZXRXX0gyRFZlUGVfelExdVR0ZndxZ3NfOEZQc2t0UkstMnl4Skc1TnIwVjdXNkZhMDJBU1N0M0F2eDJaRjFsamp4Q1BtR2YtNWd0YktyaDdReUE3cUFlZDRBblF5Vy1zZw?oc=5"
+        },
+        {
+            "title": "Japan to invest up to $21 billion in two GlobalFoundries chip factories in New York - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZjM3SC1iaHFNLTdkS2N5U3JVS3lMR0p4Q1ZTclVOa2RDbFpzR2E3R2I5UlFlYWlsWHJfeGlKSEpockRseEpCTGpsNFAzanBPUkVVa3FiUFNVeVZ3S0daZ2JRWGc3Zy04RmFSbFRHeU5kRy1HaGJ2ZmViUHlfYk5CN0xYMEhXb250eE41clpvVHF1RDhIRWF4Z1p0NS1rQmVtbjFNc2FjMzVTaTlvM24weWtzS1V4M1RVdHpXWVNCU2REdDVkd2FwZWQ1V1kxZUZU?oc=5"
+        },
+        {
+            "title": "Memory breakthrough by China's CXMT puts chip rivals on back foot - Nikkei Asia",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHJCVXEwelRSZUpZZG91VG5BbHo3VUJKOUQyNDV3bkp6R2J4ZTZPS3ZkUVV0b3lKMTQ3OU4xWjBRSmFTMXM3WW9ZNk8wdzVPaDdld0l0OGZGTG9fdFB5TW1KWVRSLWs1elBEU3J2Ri1mQjRuWEMtellMUXNnQXJ2WDNGeDhRTFExbXVJTjZnd3NuQktWTHQ0bXpXd0FKcm4tQ1VTYklLM1RqenJnMk9XY3c3WURWU0dieWc?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
