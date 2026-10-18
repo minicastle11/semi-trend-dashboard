@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-18 00:44:02.363897",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXhtaE1RUk5kMDU2aUdhQThmY1M1bzNaRmNYbDhMZGZsZ005eHVZWU1zM19WVHR5djJKcVIzVTFIZWpMMkZ0THljQXdmZTA4dU9nZms3OFhpd2IwdlVndGZzM3RkVlk5MXJLdmtNVDNZOHRKejNIbzVfaWJoUThhSTZyQm1WRng2blVuR9IBkgFBVV95cUxNazg5ZWV5amlrcnpLZkZnaDd5SjZsSmdXbVBEQVFfYUdZdUIzX20wbHJMNk9JRWtjZkhqRk8xZlpvenVvNGtoRWVHU3ZhMk1PZE1lOXBjZDFoNjY5cDFaOFpOd2Q3SkdxWXFLVHhUSUNqdDhJeGxWRkhwRXpoTnNiZVU3eGZiSzRFb1BZWEJiSVU5Zw?oc=5"
+        },
+        {
+            "title": "Is the semiconductor industry headed for an almighty crash? - The Economist",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONG13VFVpMmRfamdQcy15WkdqVjVtOXNkZE0tbENrdHV2Vlk0QTNtXzlLR0NUcFdicXZEYlF6azZFRWZGLVRUcTgwTmwwbnBjVzhlaHh1X3RGSFB4dGtmVHNSY09ENVA2Vm9uOXhaajNodUtKOG1ibll1dXlORU10RWJ3YVViRG1qQTBhZTVqanc0VFItRThoY0IwdWpKX29RalFLTVY4aw?oc=5"
+        },
+        {
+            "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRXRRT2dMczFhLUJuaUpjR2JmMWZHVlA4eWwyT3FkSzNkZGExSGZnb1FZSThBZmNJR2dvWmFWNjFtbXpNVllWdXd0d3RjQWkxN1RGa3hWZDNpSTd0ZnhqUHlQNUlzOVZWV0pDdTVOWEw5VTlJTWw3SFBvYmNacm1iR1oySHNtcG9ZUWVOQm9ySVRxMVVOaFE?oc=5"
+        },
+        {
+            "title": "GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiative - GlobalFoundries",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVW9mTXJLZWtuSlVKNGw4bTZ1aTJuXzZ4UGZkcW14SFpXVjc5eDFsQUo5eldnMFo1a1NBNFpvTnhVSm5qRHAxbzE3Nl95cU9OMkhFLWMyamdST2ljcTl3NnhndjJzRnNnR3BwSWtiNTA5TWl2Vkx4YVBIVE1rZC1haFNDZjhUQUNXanlGZUFVN3NFT3Bzckp4UFRXaXRWbEZtYV9GbjBlakNXazBkSEtoSDJUbWJLTTFwOFZBMm1oWnN4T2dnSjIyY2laazlNLUxZQ3NrZWswMUY0M0Z6RWZn?oc=5"
+        },
+        {
+            "title": "EU negotiates sanction swap with China to rescue critical ASML supplier — German coatings firm faces shutdown without Chinese rare earths - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMlppQ2IxaVpXWjQ3WUhzUjFQdVZkOXh6WjJ5SXA1aThzSzNnODhPM3hOQ3BhYW1fQldiSUcxSmZDYzRnT1hjb212czZfOGliaEVYQWl4NS00NjJhMWdlNTlVUm9GeXEzQ2RkeEU5anZNRzZwdUtWWmJ3WTZHQXdXM0NCRnAzY1RCYk0xMVdkQWFIMWxmbFBzM0pkT3JWQi1OYXpwd3lYX1dYTV9yai1LNVNzbldLaC1sYmJKQk1XVTlJR25JSE1zUExLVl9icFlTUmZiYVNQQnd6OU5wNlc5eDF3aXMxODdNTnBwcW1JaTR6V1E2Nno1QzJSbEl3VHh4d3BJd21lYUszeDh5ay13TEhMSnhnaFpkQlE1N3F3?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Extended strange metal and superconductivity in partially filled moiré Hubbard bands",
+            "link": "http://arxiv.org/abs/2610.22307v1"
+        },
+        {
+            "title": "Energetics of Fault-Tolerant Spin-Qubit Quantum Computation",
+            "link": "http://arxiv.org/abs/2610.22199v1"
+        },
+        {
+            "title": "Low magnon damping of a EuSe film down to millikelvin temperatures",
+            "link": "http://arxiv.org/abs/2610.21733v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
