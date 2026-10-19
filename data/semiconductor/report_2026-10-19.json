@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-19 00:57:17.447664",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXhtaE1RUk5kMDU2aUdhQThmY1M1bzNaRmNYbDhMZGZsZ005eHVZWU1zM19WVHR5djJKcVIzVTFIZWpMMkZ0THljQXdmZTA4dU9nZms3OFhpd2IwdlVndGZzM3RkVlk5MXJLdmtNVDNZOHRKejNIbzVfaWJoUThhSTZyQm1WRng2blVuRw?oc=5"
+        },
+        {
+            "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRXRRT2dMczFhLUJuaUpjR2JmMWZHVlA4eWwyT3FkSzNkZGExSGZnb1FZSThBZmNJR2dvWmFWNjFtbXpNVllWdXd0d3RjQWkxN1RGa3hWZDNpSTd0ZnhqUHlQNUlzOVZWV0pDdTVOWEw5VTlJTWw3SFBvYmNacm1iR1oySHNtcG9ZUWVOQm9ySVRxMVVOaFE?oc=5"
+        },
+        {
+            "title": "More drug, semiconductor firms to set up or expand in Hong Kong, OASES head says - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOFM2YWktT3BpSFdVbGxsNlJhTzN3c19KMHQ0ZE44U0s1UnFmSlFhTHNKQUFlWmszb2pWYUhXcDk5dTBFZkVLcThpWjJCb2lpSS1DSEkwRDAzU2pXc1lCc0JOVU52UW5XejhWVnVaLWxJaTJ0dlpMWHlFZ2JacXE2RFJPMGp6a2JOSmxwYk00UGoybzRfY3YwbXVsQWdVajhXRHplbVRtRHFrb1hKVFhDWWQyZnM0eXFKVDJyTUQtTmlXcmtIcENqT2ZNaTR0dGtBNjF4emM1Z1JUZ9IB2gFBVV95cUxNTGg1d213bm5uU01oUWpmclZ6cjlFUkhuNUlPSTJqQlhhckdORDdKY18yLWV3TDBKMjhYaVVEYlVQSlpJNHpnNTZkMEgyUFBJUVdWZ1NlLUY1TVc2OWpaZEUtdVVfd2NMdjFmbU81U0dzUnpqYW1zQ3JiZDliU2FUVW1sbW9HdGptQmdwZjZ4T0NDdThRb2QxbTF2ZTJQa3E0RzNrSGRiWVprV3N1dGRlaHNCWkZKWnlpNS1kZlV1elM5YVFCdVA2UC1RZTdhXzAwZkdfa0xnUVJNUQ?oc=5"
+        },
+        {
+            "title": "Semiconductor sector poised for continued expansion - The Star",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGs1ZVRUallWVV84c2p0NGRSU3lVaGh6Y2k3RWtpTDh6VngybnNBTzR6RHdSNUk0ZXFvdEFPWlpqTGNpQkVsWTkzYTFkNmtuY3FydmRsTG9JRlV2UlJBOXMtT2x0V3pfUUJEYTBwQ2ttSm5GckFSSHJTbXZSSnlhbmFFNlp4Q3VmUGNnaUZibWcyLWt0b0cxTVJWTVR2TEUzcEtOa1Vzdmtmb1k4Z3FvVFp3?oc=5"
+        },
+        {
+            "title": "Intel chief says White House will not meddle in its semiconductor business - Nikkei Asia",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTRLN00xUm9ReEdDNDlXOWxiRUg5U0V5eXhCSTNBQlhBaHZiQWFtbjl6VHh6aTd3ZEhvaWFXYWdoTWtZbGdsUm1TTUN1UWFpYS1qdGhBSzhaMnhvb3Q5bFVrdmdzd01EVWVDMzlVOFBsU0lHVjJZSV9Sd21qOUVTRGxyVzFnS2Y0dkNKQ3k2c2l6ZDJmbEctVEx0eTdOWVhYeS1fUVNLNkZfdkZBMGdkTE96RVJSUG9pcUdpVEhuN3Jrb0t5eXc?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Extended strange metal and superconductivity in partially filled moiré Hubbard bands",
+            "link": "http://arxiv.org/abs/2610.22307v1"
+        },
+        {
+            "title": "Energetics of Fault-Tolerant Spin-Qubit Quantum Computation",
+            "link": "http://arxiv.org/abs/2610.22199v1"
+        },
+        {
+            "title": "Low magnon damping of a EuSe film down to millikelvin temperatures",
+            "link": "http://arxiv.org/abs/2610.21733v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
