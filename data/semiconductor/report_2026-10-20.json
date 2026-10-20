@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-20 01:39:13.159828",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "Helium, key for semiconductor manufacturing and medical equipment, faces shortage | 60 Minutes - CBS News",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHEzRjVCX3MxYUNXdUFib05mWU90OE93WGlScVQ5X1hNelliM2dwOTluVWNYZ0o0enk5VThPNXo0Ujg5T1ZrX3N4M2NjSTBLdmJfSUw1TDNnUEZnM2wyamhZbkZqeEdaTHhRQVc0MkFqcHphSjVOQkV6d1JuMEpCM0t3d3dpYUYz?oc=5"
+        },
+        {
+            "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRXRRT2dMczFhLUJuaUpjR2JmMWZHVlA4eWwyT3FkSzNkZGExSGZnb1FZSThBZmNJR2dvWmFWNjFtbXpNVllWdXd0d3RjQWkxN1RGa3hWZDNpSTd0ZnhqUHlQNUlzOVZWV0pDdTVOWEw5VTlJTWw3SFBvYmNacm1iR1oySHNtcG9ZUWVOQm9ySVRxMVVOaFE?oc=5"
+        },
+        {
+            "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXhtaE1RUk5kMDU2aUdhQThmY1M1bzNaRmNYbDhMZGZsZ005eHVZWU1zM19WVHR5djJKcVIzVTFIZWpMMkZ0THljQXdmZTA4dU9nZms3OFhpd2IwdlVndGZzM3RkVlk5MXJLdmtNVDNZOHRKejNIbzVfaWJoUThhSTZyQm1WRng2blVuR9IBkgFBVV95cUxNazg5ZWV5amlrcnpLZkZnaDd5SjZsSmdXbVBEQVFfYUdZdUIzX20wbHJMNk9JRWtjZkhqRk8xZlpvenVvNGtoRWVHU3ZhMk1PZE1lOXBjZDFoNjY5cDFaOFpOd2Q3SkdxWXFLVHhUSUNqdDhJeGxWRkhwRXpoTnNiZVU3eGZiSzRFb1BZWEJiSVU5Zw?oc=5"
+        },
+        {
+            "title": "Q2 Rundown: Lam Research (NASDAQ:LRCX) Vs Other Semiconductor Manufacturing Stocks - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWptdVgzUHlsZWV2S2gwZTdhOGJLWlVUbDd2ZHl6OTVidUtMeHFUVUJwaExLaHV2V2xaeEU1TGI4Y2xpaUNPZlpqVlViMGoyVS1OMzZXZnE5WE4xUTQwNndoYnIwXzQwdmNac3R6YmEzb292RlJ4LTNmNnhVYmdJWWQtSEhCQ1laXzRSMjJJSlBrVU84ZDFLSVVLTQ?oc=5"
+        },
+        {
+            "title": "Saxony and Arizona Expand Collaboration in the Semiconductor Industry - Morningstar",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUE4ZjNqNmtKTnZCQXk2b0czSlVwY0c4TlBxd01vMjVkYXd5T3Y4OTRDOHQ0MXdRZnp5Qzc3MEQ0OGZ6bDBzVUE3LTNNLWU3UFR5NnhaT3ptbFBJUzhBOXlDWENmWXg1ZVpxWmplWXF1UDFXRjY4SmJzV2VmdERlalVxUFZtc1ZCX1E0amx1UmFQNVdfMnJMVXduQXQ2ODNnTnVtMEdVam9vUkh3cFN5Y21RQ3ZlNG1TcFk4RW5la1Ywdi05dlU4Vl9n?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Molecular Doping of MoS$_2$ with N-Heterocyclic Carbenes: A Raman Study of Interfacial Charge Transfer",
+            "link": "http://arxiv.org/abs/2610.24769v1"
+        },
+        {
+            "title": "Epitaxial Displacement-etched GaAsSb Quantum Dots Emitting at Telecom Wavelengths",
+            "link": "http://arxiv.org/abs/2610.24768v1"
+        },
+        {
+            "title": "Concatenated continuous-drive protection of exchange-based spin-qubit gates",
+            "link": "http://arxiv.org/abs/2610.24582v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
