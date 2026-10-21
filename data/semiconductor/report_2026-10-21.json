@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-21 01:24:53.934978",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "As Japan pursues a chip-industry reboot, it's being pressed to build America's - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2l4SE9UYmpaWGdDWERaQTFBMEYwWDNidzZ6X1AxWnJiVXpUdWVQOUVZMzBXWTBpeWdiMGo0eXlCYkFJejV2VDBDQ0NkX0p1TTNNSU5reVNKWDB1U3duU3lzU1FaUmJDNTZrTjk0UDNiQ0dzUlpoYlFENTFBOXNVSkhZVVppeDduLVVueW9VTG9PRXNPcG91b0VxSjU2aEhuYzY4OVNaWmU1WnpWNmdZbzJVN3MyRUF3UTJUWGd0bw?oc=5"
+        },
+        {
+            "title": "Micron invests in expansion of Central NY firm Indium for ‘critical materials’ - Syracuse.com",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT1NkdUJNY0twVEoyRlEwTkpiTGFwS2xUbERLaWxBOFJmbDNVbVU0bmg1THZHTXhUZXpLYXB3UDVaYmtDMmxpSDZhVE56SDJmWGU4TktpRFJUa0RoNmVzQ0UxTUZyaEYtNXIzOTdrNGpqQ3BpNTlXcmVRZjZVbjdGNkZtdmNVbVF0aU9Kb2hUdm9Rd2JDbmFneFo2aFJtUmk0akVtcHEyaHA2MXFiUjBfUDJNWXZwNkNndFY2Zl9n?oc=5"
+        },
+        {
+            "title": "Micron Invests in Indium Corporation for Critical Minerals Processing - WKTV",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeDBCMXlzOHFFdWhaSGNpd0JXVFZEOHMtYV9YQW5ET002NHZvQlpjOW00V2xWQ0IyblBNd2d1dlY5Sms2RHAyUjJhZGd6ZENsS2ZVY2pNM1c1UHF6SzdlNDVmSjZvZE1kMTEwTzgwVHdRMHc5aW5FZmw2YnpvNzhVbFJjVEVEMnZmVTVka2VtQzdQbEtTbU1DTkszSmVKQXVHY1VFVnBiNlBYNkVrZWFYZXNOVTNoUUJKcGhSS2tTOEd4amVPdlVRemw5YlZENFdnamdHTmJiRnNrYlNZdVlvQ0Z4WElwNkh5S25IeTc5d1U2QQ?oc=5"
+        },
+        {
+            "title": "Starlux expands routes amid AI, chip industry demand - Focus Taiwan",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41ck5DQjFpME9teGZCNkRQY1hObk95QnNzLWFILU9Gbnp0MllDZTJPUTJxM0ZENk1nSnFiUlZBUTB4Zm56LVJQNmdqR0xvQWZmeS1wa0pNdw?oc=5"
+        },
+        {
+            "title": "Swiss semiconductor firm Comet sales boosted by chip demand - SWI swissinfo.ch",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFNIWVNZaWpwTEhfeF9idF9QYzcyelp5dFJPSDRGeHhTTndpQ1VYdl9iYWlUQUxsTHNaZWt3dDNUck9nRUIzSG1WYjZ4YkczQkV4eURCS012aGZHZXkzanlZWjBZU3lIdDRiY25jZFZzU0lnUl9zVUNxYkFwM0phZl95T3dWdXJIS0RnU3dDSWdUMW8?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Accelerating real-time hybrid-functional calculations with learned ACE and symmetry-based FFT reuse",
+            "link": "http://arxiv.org/abs/2610.27798v1"
+        },
+        {
+            "title": "Nanophotonic Extreme Ultraviolet Polarimeter",
+            "link": "http://arxiv.org/abs/2610.27705v1"
+        },
+        {
+            "title": "Charge-conserving creation and annihilation of topological phase singularities in atomically thin semiconductors",
+            "link": "http://arxiv.org/abs/2610.27486v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
