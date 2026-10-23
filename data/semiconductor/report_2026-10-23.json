@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-23 01:20:31.635339",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "Intel touts construction milestone for New Albany semiconductor complex - The Business Journals",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUhHdmJubWtfUkl4OTh3czdyWXhuVzVzUGhNQ0lnVUJtYmFQTFducTNFTUMxRUMyNFR2RjM1c29kTEMwajNkREZuNDBDRTRuTTZvdm1iTXBFQ1RzdFVWR3EwNFcyMkp1eDVWeDNBbmhVejlRVVd1YzhTWUZURlVEU0FHUkxKLWpWdF9IWXlzci14enlMTzd2Qk1WVjcwcEJ3ZXZxSUlR?oc=5"
+        },
+        {
+            "title": "Taiwan's first-ever chip workers strike begins at Micron plant - Nikkei Asia",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjZvU0R1WTF1N1BjeURyWEVHcXpkcFR4MGdDU2JBY1JsZi1sbjR1ZlA5cDAwaUdlODZab3ExVURqcS1TcEZWU1FUVmxsREVHWVAzY0hRcTdtcTMxNHJiN3hxenNIcVkzOHRzeXZjbFNya0RYTFNZOGZ0M2hFWFVDOXR5UVRRTDFCcEsxaFhuR3Q1OXpyZnV6UWpUWmJLMUpnWnZFa0FkcUgtZl95UXFESFVfZUtOQQ?oc=5"
+        },
+        {
+            "title": "As Japan pursues a chip-industry reboot, it's being pressed to build America's - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2l4SE9UYmpaWGdDWERaQTFBMEYwWDNidzZ6X1AxWnJiVXpUdWVQOUVZMzBXWTBpeWdiMGo0eXlCYkFJejV2VDBDQ0NkX0p1TTNNSU5reVNKWDB1U3duU3lzU1FaUmJDNTZrTjk0UDNiQ0dzUlpoYlFENTFBOXNVSkhZVVppeDduLVVueW9VTG9PRXNPcG91b0VxSjU2aEhuYzY4OVNaWmU1WnpWNmdZbzJVN3MyRUF3UTJUWGd0bw?oc=5"
+        },
+        {
+            "title": "The Endless Chip War - War on the Rocks",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZekxLaTJkaVN4cHlZWWJWOWtJSlgyNmxLcTI2UDNmWXRvQmNIb284WTBycFdGVk5GWDczbkdIaDBnSVEwUFhYekJKb0ZrTTJpb01kYTRlYXdCTVcxdkdpdDFfdXNNc3pGcGw4?oc=5"
+        },
+        {
+            "title": "Elon Musk says ASML and other critical semiconductor equipment suppliers will expedite shipments to Terafab — facility targets volume chip production by Q3-Q4, 2028, in 'highly aspirational' timeline - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQSlFLVWhGRW11RmdVSGhzR2Y1dXNmMk1oLUo0U0lmQ2puR0laaUQ1ZEV3bHh5WUtDaFFJS19Gbm1vTnc1Y251aENPOWhZNkhTX2tiS1BWLTVRSGJRckdISzRoWkdXNHRCRjgwOTJKdzNFcGtvVnduOGJVeGhJM2ZzT3EySW53c2lqWEFhckdtYS1EUzluaDZTMVE1VlNuVHNDTjZCWW43OXd1UFhfWFFMZkZMR2pMMFZXT2ppaFNHSWtTT0kzeHZkdklRcVZLV1NsWWt5WUZrekVVLVhRbUduNW00WlJjZUhWUV9mVjY4NER0dG5qbEttUjZ2N2loTmFuOWR6YklIWGdmbGZ2WWRtMjBpcjVPSWJRT0ZJZ3RYZ2V4dUZYOVlpOEFyRWVnVHE5MUlLVUZfaVRmZXlRVVVQeVhnR0VHdXhtMlJ6NUN5Z3F3Wl8xNV9ROHVnVTJaVnU0bTRpb29SU0NhaFk?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "The Reaction of Financial Markets to the Releases of DeepSeek R1 and Kimi K3: A Critical Analysis",
+            "link": "http://arxiv.org/abs/2610.30886v1"
+        },
+        {
+            "title": "Localization Contrast As a Fundamental Limit of Radiative Quantum Efficiency",
+            "link": "http://arxiv.org/abs/2610.30741v1"
+        },
+        {
+            "title": "Strain-induced structural transformations in hexagonal monolayer boron nitride. A density functional study",
+            "link": "http://arxiv.org/abs/2610.30598v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
