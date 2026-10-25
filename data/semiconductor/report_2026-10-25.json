@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-25 00:55:08.246694",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "The Great Semiconductor Pullback Looks Like A Generational Buying Opportunity (SOXX) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUJtVkJ0dW1nNnlmUzI0elJRTkVEeTV1REhNcWoxS09MRFVRLTNrQjc5UjV6bi1VMTU5amNUeFJDZF94V0t1YUd4dEw5RGV3TUxlSllUdEp5SHVCb2RwZlhiQW9mSUJaT1RIWlpIeEg4SEFEb0s2NlZoVmg2UXdNV0IzZjBUMk8zdlduRWVsUWN4WlRVU1dlZVRseVk2b0cyYXFsMVctYjFyQk5tX055RmZR?oc=5"
+        },
+        {
+            "title": "I visited the island that could make or break your AI stocks - AFR",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2N5ZkVuU2N1ZDhmdGExTDExZmNJUjB2ZGFfam9QTXk3aUlRLURhLXZjbVNqMlczRnU2OWU4RHpRWmJpbmNTWVlBT1ZQOWlsQXhmb0E4WmNFWHdzRm9NU3RLSnFKYXU2b0hYaVgwaVg5cGNsVmZtR295bmttUDl3RmZISENPTTNKNEVsSnFMSXlJUnpaR0dBRDVnU083ZGU1M0xmQUdJSXpTM0k?oc=5"
+        },
+        {
+            "title": "Prominent semiconductor supplier lands incentives for $20M Round Rock expansion - The Business Journals",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2tyakh4X1FQdVZkSHFwMHR0N2g4amR6ZVJxcDdVSkcxUHdfNHhkdHNDcndXYk9nVzNZNmlUal9iRlFPc3NIQjdIY0xsVGZ6ajQ3ZF9ielBjUzlOVFhqc1FOd2VoS2g0LWxLaEVySzFVX3V3bkE3ZWxoT2FjSzhZRWI0RHJudFRnc0FyUWR2OFZ1dkpzcDZmY29fVFhSLWljR1Q0eTRGU0cwQQ?oc=5"
+        },
+        {
+            "title": "Priti Adani Calls For Closer Industry-Academia Ties To Build India's Semiconductor Talent - NDTV",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTg1MWpia25EWlBNRUpKSWRpN2w4SzYtMXhUZHA5Tlc1cGxLc0tVYWprX2YycDdGWl9CM1dxSkN6eFZsQkdCUTBpbzlKOVJZdVFWeDZSRjV3cWZOd0J1RGZ1NnpFd19Fcms5QkRHMHppRmltX3lGSXBQRGZuZHNpSHZXTHlYRWNSeG9KMkVGSHd1LWw3eVAtNVI1UnVGa19IdE5SVDZPYTB1bmRRTTZEa3FNMWpsSFZXeDNkLXJwelE2T19zbTgzV9IB0AFBVV95cUxPbVJ2R1JqRHJ0M2ladjlXZTdZWUJsY0dDVmw1WmJ6azByZE5CenpWb2FaSktyX1UzY0JkZ2sxd3AtbllSY2c4TUc3ZlJwcU1qc1E5N3hsaXFocUczcktuYlJXNnViamUwbVNUS09zRWpPOFR0cUhBR0FXMzJRQ2lNakpEcEhid3BYWUJ6WnJtOGtrakRZRlVXYWZfalgyb3YxNW53RldrYzFnYUV2YmNiY29uaEdselVZUDRWZWpTaURPXzBpZTBaaXczSE1qaHUy?oc=5"
+        },
+        {
+            "title": "Chip Scaling Moves Beyond The Transistor - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMldicWgxSjNGSzZWZTFVMk1oUjBsQ2tLX3BxbkxEbXQ0XzljQzJJNXhxWGZuOF91Tk1JVEZjdFNQZjJlNmxZaFlaOHI0M1B3ZUNDRlZJR2gxM1JyOS1ZRlRpZjEzTDVBczNNN3l4ejhSRlNWWGdvVQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "The Reaction of Financial Markets to the Releases of DeepSeek R1 and Kimi K3: A Critical Analysis",
+            "link": "http://arxiv.org/abs/2610.30886v1"
+        },
+        {
+            "title": "Localization Contrast As a Fundamental Limit of Radiative Quantum Efficiency",
+            "link": "http://arxiv.org/abs/2610.30741v1"
+        },
+        {
+            "title": "Strain-induced structural transformations in hexagonal monolayer boron nitride. A density functional study",
+            "link": "http://arxiv.org/abs/2610.30598v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
