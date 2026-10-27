@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-27 01:53:48.554006",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "The Great Semiconductor Pullback Looks Like A Generational Buying Opportunity (SOXX) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUJtVkJ0dW1nNnlmUzI0elJRTkVEeTV1REhNcWoxS09MRFVRLTNrQjc5UjV6bi1VMTU5amNUeFJDZF94V0t1YUd4dEw5RGV3TUxlSllUdEp5SHVCb2RwZlhiQW9mSUJaT1RIWlpIeEg4SEFEb0s2NlZoVmg2UXdNV0IzZjBUMk8zdlduRWVsUWN4WlRVU1dlZVRseVk2b0cyYXFsMVctYjFyQk5tX055RmZR?oc=5"
+        },
+        {
+            "title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD — CEO's overall strategy targets custom chips, advanced packaging, and stronger foundry business - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPeTdtRUo2M3AzMDVQeUd2RFBxaHQ0eVNhUkRhNW1sUWtsRVprMG1oN29KbVRZRnBFV19naDRORGRBMXUtMlQyN1h5U0V4MFA0dUxOMldCX2FfWlhJa2hkMk91MGRPekxiaWtsSW4zck1LUzZ4alpiUGVCb2puZzlXMVVPc2FsMHVXWEZVSW04U0JTdXgzaDdvekU5NW9QNWdFMWRpMHVsbzdFM0UzWHNKdzVjLUFYQ2pGYV92N0VpakxDeFVub0NXeXN6NkxOLWVrR2M5NEw0RFZNS0pGeTNQVG9abHlKLURDSm9vSE56aXRQTnBNVkpnZlozQk8xWWc5ai0wWUt0WlZjbE1DLVQ2cXJ0aVNZUjJfYXdkWUZBYnRsTXJoQ0x4UFktMEoyRzlib0tBUVhGa2RRQmRPUEdmRGxDRUl4OE10OXVoOA?oc=5"
+        },
+        {
+            "title": "ADB is Bringing Resources to Semiconductor Industry Development—Part 1 - All About Circuits",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmROLTYwS29fOUY0QUkwR3RZUFN3UlM2UjM1YzJZa0NfeXNiN1RDUzhWTXlBMzZIajAyVVV5RXB0My1GSFJoN1FWVGkxYlpwU1ZZYmtpc25KSml2dVhycFl5dzBQcldlQVVvSkxxT2VfNVhUTjBSWGxyTFMtSEs4Rlk5TWNlRzBiTXJseWVXVGhjLVVhQXZrM3VkaGt5Vm5DYnhfRUdPUjNrUDVq?oc=5"
+        },
+        {
+            "title": "Micron backs 3D DRAM as Samsung, SK run two-track race amid China push - CHOSUNBIZ - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZUUtabHJ5bURkWGFfdVNWOHFwUENMTjNzeTdBdW9yWmEtQ0RiX2p4aWhTWmJqT0tDRWFUamp1eHZSeTNIQzdfNlNGZVVuYkN2WS1TSVNmbW00U0s3TTBmRWxZVFV2V01ORHo4cWhpZUpvR25RMWpWTTRB0gGOAUFVX3lxTE9oc2dMbldmYW5JSkE4OXdhRm1Wc2toSUdiZG9NR0pDLWMzdm00dGZWOU9rNmE0d1N6VG1TNHAwODM0VjFZOXBMaHVRZFprQWRVQ2R1WW8tSjlLcVRGUXlsbDRqcm5RTmVjY2s4ZmZBSG9PMEI4V0FRX3pFS1JNWXd6dVJWMVV3T011UlpkN3c?oc=5"
+        },
+        {
+            "title": "I visited the island that could make or break your AI stocks - AFR",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2N5ZkVuU2N1ZDhmdGExTDExZmNJUjB2ZGFfam9QTXk3aUlRLURhLXZjbVNqMlczRnU2OWU4RHpRWmJpbmNTWVlBT1ZQOWlsQXhmb0E4WmNFWHdzRm9NU3RLSnFKYXU2b0hYaVgwaVg5cGNsVmZtR295bmttUDl3RmZISENPTTNKNEVsSnFMSXlJUnpaR0dBRDVnU083ZGU1M0xmQUdJSXpTM0k?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Nonreciprocal magneto-optic beam steering of thermal emission",
+            "link": "http://arxiv.org/abs/2610.33935v1"
+        },
+        {
+            "title": "Surface Functionalization with Lasers: from Nanostructures to Applications",
+            "link": "http://arxiv.org/abs/2610.33888v1"
+        },
+        {
+            "title": "Emergent parafermions with tunable localization in a quantum circuit network",
+            "link": "http://arxiv.org/abs/2610.33815v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
