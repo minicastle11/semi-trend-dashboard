@@ -1,0 +1,59 @@
+{
+    "last_updated": "2026-10-28 02:04:23.730357",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "Applied Materials to Increase its Strategic Investment in BE Semiconductor Industries - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEJIVklPTk5GWnBoRW1VVTZFdy1Xby1QdENPNDFfVkt3c1h1QWNqc3UzclZOQnZBMGZVUUREdUhnZktGamtBb0d3SWRKbElScUdfaUh5RTlNTVIxdlVtZ2FPdVpwZUE2VEpqOEtrSXNOU3ZlZ196N1dHVEZ5OW1uQmdyRUxjM3NDdEZ6QlRCU3YwZFc1V0RWTjNnTm4takVfaHRiT2cxM2hBS1ZZ?oc=5"
+        },
+        {
+            "title": "Semiconductors, data centers fueling development in Phoenix - azcentral.com and The Arizona Republic",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjc0c2dxSzEzTWhqZ0dnUXBsR1dzeFlIYjVERFVldTBCOXlaWi05NG9WUjU1MGRqX01oX1NWQURLQXlFLVpLT3BEcGhQRTBvaWg3R1pqeVhXLV8yZlJwUVI1Wlp4TUQxay1RazlTWk0xMlRwV2ttWWNwajgzRnYzblZHZlRBWV9xcUcyNlpFSHJaaXZnNGxzR3FxazFhdDVlTWtpQS1Nd0RjUkZNTDhtdmxHa3dTcTM1c2xuTnJfYmpaMzFBdDZQVUl0VmU?oc=5"
+        },
+        {
+            "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQSGZheUpEUC1EN2c5VFB0NEp1TldOUmhTVnZCMnRNdmZGVmIxa01nMndWUUFKM3hXblczTklSWE9WVDJSZ0dNMnN3Tm1XaW1LZVAzODdMV2FsTjh1d011ZUJ6S3BKWFdiS0lad1VLOHJPTFZDRV8zYjl1blNhTVV0X1VnZ2IzVXgtLV9feXFkX0pBV2xscmhjb0c2b2daWTIyRUtaMW5jQkZpbjdkeGNJNXBNZVJOR2N5d2k4NnZfNUI2OHI4alFHc1g4dXk2OHJ6bC1xbDZpLVVXVFNfYmxUeW9mRHBQV3RJZ2JpVUVpN201N2dtcHpha2NIOF8wbTl4cGRuZDF0YjdtRXpTWVp5RG5tOGFGV092SDRKSkl5QmU5WV9oamdxdWJXWFNSay1haVRiakxpQ3Ewc1RhS0ZJblRRNDhRRWNHZVkxdG95U1FUZjZXZnNybUhGVDN0a2JUTTByU1ZudWNXX2R3WmhHSUttYXVpbVRqdzBpVUt0VHBTbExWVUlhazhnUEYyQ0RyY1F2Yg?oc=5"
+        },
+        {
+            "title": "Four years on, Lee Jae-yong steers Samsung from chip slump to AI boom - The Korea Herald",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GdGUwTjQ3NC1YVlU2WXZaV3J3aWh2b2EyR1FralY3Mnh4YUpoV1JxU0EweXRpbndOdUxGQWpvTGpDUnd0Q015YWxlWURCZTR4U25pSmRYdw?oc=5"
+        },
+        {
+            "title": "Samsung Electronics exec: the investments that endure build more than factories - Fortune",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjRPWnVsa2RXNnlHSGxRUzJsbFpoaGFVWWMtbFVWaVdlcjVoTlJTcTJfcHZCeWdTWER1UWJGcXdZeXdJU1BlU1gycFVrZlZxdG5raldWRkc0Q2VDN3M1cEJJMmlHY2lZZXNiMTU2VnFwa2Z2dE5WV09nQmlqUzYxWHhNZVowNlk4dFJIUlk0cXYzZEhPYzhiTWN0RFh4ZUVjWUdOMDVZTTJueDIxWkk4?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "논문 수집 일시 오류",
+            "link": "#"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
