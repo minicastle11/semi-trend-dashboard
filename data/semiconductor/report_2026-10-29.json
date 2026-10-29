@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-29 02:14:05.525495",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "UC San Diego Partners with TSMC to Create Pipeline From the Classroom to Semiconductor Cleanroom - UC San Diego Today",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNekZ3YnczdThkNHotTVlSN0FNV191NFJoMFNJdk9qLXhjSkpVVGlCRktfQk9hckJQS1Y0VHd2R0NianRjcDNnSHduRkUwbGJRZkcyYTRfZzM1ZVNfdWNxX2hXblg0aXhiMkxWNzR0QkZyNDlsN0lueWkyUTBLc2RDbFhaa0txclhIcHMtdzctTVBKUWs2aUM1aFJkRzVVbUNEMkpSTUY2alp2cXRnZ0dBWWpVU1VvUy1faXo1eXJvYno2STA?oc=5"
+        },
+        {
+            "title": "Semiconductor Market Size To Reach $1036.9 Billion By 2030 At A CAGR Of 9.3% - The National Law Review",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFR3eVRhaEpLbHc5SEdzNkpLU3RNb0RRUHNnMV9aX2Z0RXQwTFVwSnZVaGJaXzNMZzNQMEg1dFp6MlVPWDhZOTJUcFJST0pfeG0zOGpGY1pUbFNIWW1QTi1tbHlZdXpJbDBmbWRMYi1uTThuaDBiWWxqLWVJeTlBWlJsMjhvRUZudng2bWd0OTh6Z0F3ZTFjR0RJMlk3QVk?oc=5"
+        },
+        {
+            "title": "From Hydropower to Quantum Chips: How Québec Is Building Its Next AI, Semiconductor, and Quantum Technology Ecosystem - semivision",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnMnJPLWZWYVIwLXdwX2hzQko1cVl2V25wX2hNdzc1dWFvcENodGFZSW5DSktZa1hZWDRXNHRheEx2QzVCZnA5aThCWEUwR0N0QVhqLUM0ODhNRGZPMk0tcDBQdmI2cE9ibS1qTG1wTEQ1SmIyekg4d0c0LWoxZw?oc=5"
+        },
+        {
+            "title": "VanEck launches first ETF on China’s semiconductor industry - finews.com",
+            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMDJpV2oyYUNSZjFLeVk2TlN4NGJHNm1vb2RqWU1VX2tlTzc3eFNfajVhaXd1U2MzbEMzNjdreFh0M29FV2hpblFoalRvWHZRdjI4RTI5N25KMmdKdnRGc2Y0ellMbHZEYURCTTZJR195RUV0R1FFellIN1ZtbmRlMTJLTUZXX25KemdNRGFtbGUtbXozV2Z0R0h6LTZVVkJ2QWduT3RkbnNpWENmWnpIaTlVQTdxOTluS3FvLVZ4b3FWVl8wdnpqcm9mUE9wYmVWMnlGZ2IzQnFJUUs5dEQ5NzYxQ0lNMHpMVGpYbTdleUIwZ1F4U0duZUhQZHo1UVlCQUVCVENXc1JYbC1F?oc=5"
+        },
+        {
+            "title": "Komori Strengthens Business Foundation in Semiconductor Manufacturing Sector - The Cannata Report -",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zT1kxWHNuNnVkejZJZlAxNDZycEpsTmZYekVINTc0dklZcVQycGZNOS1vT0FSYnR6dndpTWt0ZlYzODQ5cHV6Q3JqYVBtaW1POU9iRFJfTk5XelR0NDM0ZVNWdVNQVkV1LTJDSmRIUlBzallBTkoydmVxTQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Prospector: learning a compact graph traversal policy for scientific reasoning",
+            "link": "http://arxiv.org/abs/2610.37121v1"
+        },
+        {
+            "title": "First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene",
+            "link": "http://arxiv.org/abs/2610.37095v1"
+        },
+        {
+            "title": "ZnO/Ni interface-activated enhancement of spintronic terahertz emission from Ni/Pt bilayers",
+            "link": "http://arxiv.org/abs/2610.36889v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
