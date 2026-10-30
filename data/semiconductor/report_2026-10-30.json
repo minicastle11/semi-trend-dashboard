@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-30 02:27:44.835572",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "First-of-its-kind manufacturing facility now open in Western New York - 13WHAM-TV",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNVJuZ0hLeXJCRlRNUTQtY2lpeGJvNkY5aXVZcFBMamk0dmpKR1VqZXJoQ05sWklaVDVQMy1rWTRYQkhtMXlpRTBJcUw4d214Wmh4UmctZjU2b3ZpdjJhc0pzYnBLS3lMMFdRWEFYYlIzWmZzTGZiMFpXZUdTYkFEMGRIeFZ4R1pQY1FWdDhIQUJQcWpUeXJUMmU1c096V09TZjlPYWY4cGJLeTgwUEJXODJYMWJwYVFQZkZkOWlodUdxbzFISXczYmJSSWNucTVlajY3cG9MMWJkX3gzZm10d0lFTk40Q0gtSnphbE1XZEppZkFCRnFqVFd1TUtBOGFoUW5LZjMzNGQ?oc=5"
+        },
+        {
+            "title": "Korea’s semiconductor jackpot could become a costly trap - Korea JoongAng Daily",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0JEZEtQT1cxUkNoNTZlMUlNeW8zcm9ySW14TVREQ1FJc09xQUNSREs2clVsdnVwLWZUVl9XTE5SNzlMX0FkQU5najg4NVNLMk9TcThNOHNuUUlKSEZIOEVUUDZTeHYyaThPWVJlbVRONGtNUzZFWTlPMl8tbUxJMEZiRW8yUFlSZHZBRTNZSkdKdXhwbzJ2bWZYWUZkNm9LTlZfdXp3?oc=5"
+        },
+        {
+            "title": "Here’s What Scares Me About Semiconductor Stocks - RealMoney Pro",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbncwTElxQkZTd2VTWTZsVlpvZlMwRGp2Njl6OTZsaHU4OHBlbmNubFhFaTVyV01OMlZrR28yRllGTC1uVGc5eFd5TXBkQkV1d2ZrUV9qcG1CRE9Fb3p3NVBwUVBIaDdURjNtUWNLQ0xXUEFmYTJzVkpBWHpxakh2WU0xR1g5WVFlREt2RlpYRTBaZFVlYmc?oc=5"
+        },
+        {
+            "title": "Can Southeast Asia pitch itself as an ‘all-in-one’ chip hub? - Fortune",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04Nmg3RUctamVQWWc4SVkzMVBrZTdPYU9rSWs0NENlVjd6TElOd3JDVUlRbWw1aXBYeHJSMUlQbGdQT1F4S1IzLVVrNG5wYWRzQUNHNE54YkJyMDBhMXJFWGFabER0NHRnZTFjdXBVMEotdlB1MjdMQmN6RFQxQQ?oc=5"
+        },
+        {
+            "title": "SEMICON Europa 2026 puts advanced packaging and AI in focus ... - eeNews Europe",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGQyNlNvR2JzeHQzVFg1WUc2emZSaF8tM1F6aWp3aW1pMDl6cHF5eDRVSnViM2p6MS1hSFZxY0VyMm9EeE4zdFI4YmFQbmxvY3ZyNXZJYWFkX3pkQXdvenNnWWNBbVVZX3lJaUJ3R3dPblpOSFNWZTF6Z1RWaHVSR3k1cXZPaTRlTkJZY0tXUXVXUnBQbEgw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Coherent control and high purity single-photon emission from telecom quantum dots on metamorphic InGaAs",
+            "link": "http://arxiv.org/abs/2610.38060v1"
+        },
+        {
+            "title": "Parity-Resolved Many-Body Kinetics of a Topological Qubit under Nonequilibrium Phonon Pulses",
+            "link": "http://arxiv.org/abs/2610.37793v1"
+        },
+        {
+            "title": "Prospector: learning a compact graph traversal policy for scientific reasoning",
+            "link": "http://arxiv.org/abs/2610.37121v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
