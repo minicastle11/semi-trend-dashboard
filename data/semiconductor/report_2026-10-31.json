@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-10-31 02:07:47.161743",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "UC San Diego Partners with TSMC to Create Pipeline From the Classroom to Semiconductor Cleanroom - UC San Diego Today",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNekZ3YnczdThkNHotTVlSN0FNV191NFJoMFNJdk9qLXhjSkpVVGlCRktfQk9hckJQS1Y0VHd2R0NianRjcDNnSHduRkUwbGJRZkcyYTRfZzM1ZVNfdWNxX2hXblg0aXhiMkxWNzR0QkZyNDlsN0lueWkyUTBLc2RDbFhaa0txclhIcHMtdzctTVBKUWs2aUM1aFJkRzVVbUNEMkpSTUY2alp2cXRnZ0dBWWpVU1VvUy1faXo1eXJvYno2STA?oc=5"
+        },
+        {
+            "title": "EU approves €319 million state aid to Austrian semiconductor factory - Euronews",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0xFQ1h3ekNRS3BnSlJwNDYxVmlpT2xiN3c1ek1xbHVRc0pPblBCcWtNTUFWSVlfbkpVcmFKNEtWNUxnMkU1WkI0aFpFZG9jWTBuTlctazE2dllDa3pqaEJveVMxUEhKRERrRFBpbmVKZzlxeVBzNGhNM09rWGZhQW5DbGRNVU0tMndEY25NSlllblExVUx4dXZSSDRqbFV3NHZ1Q2h2NmtRcUZyWEJJTkctSnU2S2xXYkNoU3p3a2Rha3Bf?oc=5"
+        },
+        {
+            "title": "First-of-its-kind manufacturing facility now open in Western New York - 13WHAM-TV",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNVJuZ0hLeXJCRlRNUTQtY2lpeGJvNkY5aXVZcFBMamk0dmpKR1VqZXJoQ05sWklaVDVQMy1rWTRYQkhtMXlpRTBJcUw4d214Wmh4UmctZjU2b3ZpdjJhc0pzYnBLS3lMMFdRWEFYYlIzWmZzTGZiMFpXZUdTYkFEMGRIeFZ4R1pQY1FWdDhIQUJQcWpUeXJUMmU1c096V09TZjlPYWY4cGJLeTgwUEJXODJYMWJwYVFQZkZkOWlodUdxbzFISXczYmJSSWNucTVlajY3cG9MMWJkX3gzZm10d0lFTk40Q0gtSnphbE1XZEppZkFCRnFqVFd1TUtBOGFoUW5LZjMzNGQ?oc=5"
+        },
+        {
+            "title": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day — PC market bloodbath leaves few chip stocks unscathed - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTTJCWEdCVWM1Tkt4VFFzeGtnWExPSGhFWUR0ckh3dmR2ZHgySE5vM1JNdUMzaS1URV9fVGtQZC1CaWVqMjY2T0V0OFhYSW9lVXc5Wng3ZnpFcGJUZjkxWUxtY0g2SmhGZDVQc0xKRlV2T2d4cWF6ODJRS1NxZkcxRVlwXzg0S3NrQjNNZVBwckVPbDg1NlVUNVI2SWc5T21SS2d5V2UwRjU5czZ5S0J4MC1yM2dDR3Vaamp4OUVHVG92eWMyWktRSXp4bW9IcXZuSHpmV2g5NXN1MUQybzVGTWRyQk5aUDA1ZzRONUROcmN3NlFON2Q5a2JmNVpYWEFTN3hlcg?oc=5"
+        },
+        {
+            "title": "AMD Shares Fall 6.5% as Intel’s Weak PC Market Forecast Raises Semiconductor Demand Concerns - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUoycS1rbkxSeHhVdV9DR3ZpQkhGem5HUGJNQ3pqM0ctRkE4a0tHdjl4Zi1mZG51dGpQTEdvN0RSTmFVUDJwZ0hYbkpGS2pRVnJIYzBRWWx2S29VajhNeEhZRmJuZmhWeVhzWXdjRFliQ0lybnpVbkd4UFBsUm1NWEFTV1ExbUxBZ0ZNNw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Electric field control of anisotropic spin traffic between spin-filtering and magnon-scattering in a layered antiferromagnet",
+            "link": "http://arxiv.org/abs/2610.40423v1"
+        },
+        {
+            "title": "Uncertainty-aware Feedback Loop Diagnosis: integrating reinforcement learning and conformal prediction for reliable wafer defect classification",
+            "link": "http://arxiv.org/abs/2610.40421v1"
+        },
+        {
+            "title": "Cubic-Zn(1-x)Mn(x)Te optical modes across the phonon and phonon-polariton regimes",
+            "link": "http://arxiv.org/abs/2610.40157v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
