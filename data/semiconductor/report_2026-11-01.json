@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-01 01:59:47.643808",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "First-of-its-kind manufacturing facility now open in Western New York - 13WHAM-TV",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNVJuZ0hLeXJCRlRNUTQtY2lpeGJvNkY5aXVZcFBMamk0dmpKR1VqZXJoQ05sWklaVDVQMy1rWTRYQkhtMXlpRTBJcUw4d214Wmh4UmctZjU2b3ZpdjJhc0pzYnBLS3lMMFdRWEFYYlIzWmZzTGZiMFpXZUdTYkFEMGRIeFZ4R1pQY1FWdDhIQUJQcWpUeXJUMmU1c096V09TZjlPYWY4cGJLeTgwUEJXODJYMWJwYVFQZkZkOWlodUdxbzFISXczYmJSSWNucTVlajY3cG9MMWJkX3gzZm10d0lFTk40Q0gtSnphbE1XZEppZkFCRnFqVFd1TUtBOGFoUW5LZjMzNGQ?oc=5"
+        },
+        {
+            "title": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day — PC market bloodbath leaves few chip stocks unscathed - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTTJCWEdCVWM1Tkt4VFFzeGtnWExPSGhFWUR0ckh3dmR2ZHgySE5vM1JNdUMzaS1URV9fVGtQZC1CaWVqMjY2T0V0OFhYSW9lVXc5Wng3ZnpFcGJUZjkxWUxtY0g2SmhGZDVQc0xKRlV2T2d4cWF6ODJRS1NxZkcxRVlwXzg0S3NrQjNNZVBwckVPbDg1NlVUNVI2SWc5T21SS2d5V2UwRjU5czZ5S0J4MC1yM2dDR3Vaamp4OUVHVG92eWMyWktRSXp4bW9IcXZuSHpmV2g5NXN1MUQybzVGTWRyQk5aUDA1ZzRONUROcmN3NlFON2Q5a2JmNVpYWEFTN3hlcg?oc=5"
+        },
+        {
+            "title": "Greece Unveils 2026–2030 Plan to Build a Semiconductor Industry - GreekReporter.com",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRFVQdmtRaTlKN1g3MFVWMTlnNlI4cXd4QjFfZ0RMRWFpdFR1NmYwdTZSZHlXYlRkcXpVWGtnT0ZHRlp2ekVHOW4xMGxyQkpjejItNlZYdDEzX21jaDhybnB5RnBXRHpSTDBWdU5UczJUSTlKT3c?oc=5"
+        },
+        {
+            "title": "AI semiconductor industry trends: from chips to systems - SiliconANGLE",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUE9pREpseUxFdU9fWTVhYnAwRFVQVGNWa3owNzVuRi0xSlptRVh1c2NSQUpNYlY2djQ0RGNHXzFleWxFRDFLMV9LdUhQVllQb3FFdVNLdHpxNzhTdGhJWW1PV0tMUS14LXgxZlNRM1F6c0VmeWQ2UmlwdVRJSlV1a1lsNE1vTXdaTkgyWG9iTUxlNkVrNXptenpwUjRTem1KX0pIbFNuU3pHWGp3eTRBV1pmMVhhekM4Y2c?oc=5"
+        },
+        {
+            "title": "AI, fuelled by advanced chips, set to power their manufacture: industry veteran - South China Morning Post",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeWxIVW5zMHZDUWpNZ01lSXZyUmp4NW9IS3hWRzdjODdpZHBHVDA1YnI5SzM5VE5jYjJFZ2tTV3BTUk1JQmhzY09BekV0X1BzMW1mRjZmMFktNld5RFBBdWRCT2JfSllLckdwQWpRb2RWVklFaFpqcXhJNWtMNnp0RE5sN19sUVdXQ3RfVVhmamc5WW1zd3dDV2o0dmV3Y2JocTZxX21JWXFVZlMzN25fNm1sR0lsdWpQWk5hM0JLclBzYkRObVdGc2ZjUdIBywFBVV95cUxOUzdGb3VFYnlxQ3lnQVVPQ2VkdEhyWS12ZWFKdzUtR1I4TEZiam1Fczl3LWVoMXhlZ0tzcVFoRTdaUkowMzB1RW44d3BmaTJiNWVYeWl1R1RJb0RoMUhXVDhReTlTT3pReUlPUV9aRTJKSTlpSUxSZU5EYVl0THFwOFZZclEyeEVXWGtQeThLdHVBSjlibEcxYkgzQUVnbDJ0YkwxLW9UYVYxdnRBQXI4TlFiZDBpTHQ5Nm9IMnVTUlBkWkpuRjhLMjh4dw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Electric field control of anisotropic spin traffic between spin-filtering and magnon-scattering in a layered antiferromagnet",
+            "link": "http://arxiv.org/abs/2610.40423v1"
+        },
+        {
+            "title": "Uncertainty-aware Feedback Loop Diagnosis: integrating reinforcement learning and conformal prediction for reliable wafer defect classification",
+            "link": "http://arxiv.org/abs/2610.40421v1"
+        },
+        {
+            "title": "Cubic-Zn(1-x)Mn(x)Te optical modes across the phonon and phonon-polariton regimes",
+            "link": "http://arxiv.org/abs/2610.40157v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
