@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-02 02:11:01.362986",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day — PC market bloodbath leaves few chip stocks unscathed - Tom's Hardware",
+            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTTJCWEdCVWM1Tkt4VFFzeGtnWExPSGhFWUR0ckh3dmR2ZHgySE5vM1JNdUMzaS1URV9fVGtQZC1CaWVqMjY2T0V0OFhYSW9lVXc5Wng3ZnpFcGJUZjkxWUxtY0g2SmhGZDVQc0xKRlV2T2d4cWF6ODJRS1NxZkcxRVlwXzg0S3NrQjNNZVBwckVPbDg1NlVUNVI2SWc5T21SS2d5V2UwRjU5czZ5S0J4MC1yM2dDR3Vaamp4OUVHVG92eWMyWktRSXp4bW9IcXZuSHpmV2g5NXN1MUQybzVGTWRyQk5aUDA1ZzRONUROcmN3NlFON2Q5a2JmNVpYWEFTN3hlcg?oc=5"
+        },
+        {
+            "title": "Intel shock sinks Korea chip stocks as Samsung, SK hynix slide premarket - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVd5blAwV2FyOExpZzZ2WlE5OWFGVXVlYVpyd1plQ0lwYzdQUTEzUndFelVnRExYVDF4T2RXWGxOaGN0MHBzNkVTblI4LURIOWNTZTBVSjhzUVU4TExZbDFUYzNPOHRNbnRMcUJMMVZuUkwtTEhQc2FhTDgzcTZ6StIBlAFBVV95cUxQeGFjUUEtMXNIekhUNHdGMFhQUWtkOHdtbnE0TXVQeGFmVV81U3VLejM1NklJTkYybEltNTMyNV9ZVTljTVV2YVM2R2FPb2tURlpYSDJUM08tZVA1U2NCT19Td0tNa01ta21ETFg2TlhSc1Z0dEl4TF9MRzZwMzFzcnRNXzBNN2V4bXdVNDkzSHJJYzRU?oc=5"
+        },
+        {
+            "title": "Semiconductor Stocks Decline Amid Intel's Weak Outlook and Amazo - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcllLTHNfWmxsVERpblFzUm5JcDZ1X1BwNlVmUDl5UWxqVEpSQWxwQTJWTEVhU29hTzRnZFJVajM2dnhtZEpWQ1oxY0dVNC15OF9kcnJ6bVZoQWtCcDZPS081T1hsZnRsLWx0TXh2MndXdk5oRk5yalZxZWdjMWpGWjczRmtLaGZELXZXVy1GeHY5azF1TjlLVjRTakJlNmZkTUNaQnV3RmtUcFRibmp6ckxDQTdyX2VEMmRRTHZ3?oc=5"
+        },
+        {
+            "title": "Why Are Semiconductor Stocks Falling Today? Intel Crashes 28%, AMD and Nvidia Slide - Stocks Down Under",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84Q1dKMEZ2MC1XSDBVSDZYdWx2RktzZElqdDdzOEFFTlBDbjNnVUdKLU5zczkxQjRLRTFQSDlDM0VTdFhCYW1tZ3pJZ0oteWJEcVBhX0lBdkhzRGpjcTZUS29xVVk3a2VMMVVQb0RBamJ6TnRfVk5TMGdpVUc4bHM?oc=5"
+        },
+        {
+            "title": "First-of-its-kind manufacturing facility now open in Western New York - 13WHAM-TV",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNVJuZ0hLeXJCRlRNUTQtY2lpeGJvNkY5aXVZcFBMamk0dmpKR1VqZXJoQ05sWklaVDVQMy1rWTRYQkhtMXlpRTBJcUw4d214Wmh4UmctZjU2b3ZpdjJhc0pzYnBLS3lMMFdRWEFYYlIzWmZzTGZiMFpXZUdTYkFEMGRIeFZ4R1pQY1FWdDhIQUJQcWpUeXJUMmU1c096V09TZjlPYWY4cGJLeTgwUEJXODJYMWJwYVFQZkZkOWlodUdxbzFISXczYmJSSWNucTVlajY3cG9MMWJkX3gzZm10d0lFTk40Q0gtSnphbE1XZEppZkFCRnFqVFd1TUtBOGFoUW5LZjMzNGQ?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "FrontierMat: Benchmarking Language Models at the Frontier of Materials R&D",
+            "link": "http://arxiv.org/abs/2610.41162v1"
+        },
+        {
+            "title": "Unifying dynamical electron-electron and electron-phonon interactions from first principles",
+            "link": "http://arxiv.org/abs/2610.41091v1"
+        },
+        {
+            "title": "Evaluating Structural and SAT Attack Resilience in Cryptographic Dynamic Logic Locking via Keystream Capping",
+            "link": "http://arxiv.org/abs/2610.41083v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
