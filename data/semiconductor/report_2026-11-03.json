@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-03 03:52:17.528752",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "Intel foundry push faces critical test after stock's 45% plunge in October - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlNTdDFxNVE4aG5RNlM0ZHN0eEx2QXRQRDUxNlI4bmJhNDh4R1kwYzE4TUFrOUJ4NWNKdS1qMENjTDBuSUhIc1E5al9OSGM3bW01SXZrSjZLaElqYWtrSTg2YkZEYzNnRVJua201a2VZcjhqZmxpRDREc29QSEx5dndzM2JSaDI5d2JQVWpPbE9XeWVoNlV1QlJzbEZ5ZGY2RDEyTUYtM3l2V1lGRVZKNdIBtgFBVV95cUxQbTBBOEFUSTR2MkZaNFBDbnppS0lraTVFRGFfdE1LTV91WDBUUkRKWURyZ0VCNUVoV2JweDN1dVBPZy1SVGU4M21pd2haZDFWVlRrckUxMXNtRWtpOUM5aHktYjhYMml0SzR2UXNlVnY4dlpPSE9ZUHllQzA5ZkFybHY4WDVtRFlyc25zRUZ4WTVQeGNwb3V6OFNMS1kyVENJYmhYX2pSakgyLURQQ29DcEhJY3lhdw?oc=5"
+        },
+        {
+            "title": "Sherman Is Likely Contender For TSMC Semiconductor Expansion - Bisnow",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnMtd3plNlNYdEVhSXNnMFFyS2xCZlZTOFhxSFRCNF9wSkZ1TEJIVXpiLWdzRkROVWtXXzQwRjRZQzdyVjdiTWJ3bVF4eWs5V1Nmakhvd0g1UHJTM3d0MTJwc3R1eWpGX1k2dXdGTm02UHUyV2dybHNzb2c2elRCUkdpRTViNVpaUERFcWxvMTViS0tfQlZMYV9GRVRLQjYzNU9xUnZLUU5HMGpnSWhfSUtZaWZMdmlxWVlreQ?oc=5"
+        },
+        {
+            "title": "Samsung, SK Hynix and Micron expand AI memory production - upi",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejYtbllZVjZ0cXd5ZHkxS1VSSWtDc0UwUlZ2OGpHeUpzbUxvLUh1aHhaMHpCRFl0aS1mMFJyOTBZYXVKWDA4R1V2QW15MXZsbFp6TjZwWW4xR2tOTFR1bGFGVGlFbEkxR0FDZWdod1B5X0t3RkZkWTlLbkZWdTlJOF9XZGQzTnppWDYtZXFtb2Y1ZG1rcWdnU3dqcE9GVHPSAaQBQVVfeXFMT0g2dGY0TnlhWThBOUhKTnZkcTFhenIwM1VKcWh0N1VlMFRUX0pDaWdsZVJYaHVGUV9vZUwyMDRwUmQ3NG9yRmxLN1lGaWtDOVliWEZwdE54SlA1U0lXMTNmYkdTQlhYTF9iOWZpcm1ObVlJa203bGNQMFFmY1ZWWXZRY1JRcFFKZk9sT2xKekFSckZjQk9hN0d6VEJfM3p0ejNONWo?oc=5"
+        },
+        {
+            "title": "China adds latency to Marvell's optical mega-deal - Breakingviews",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHZGelR4Um1ERHF1ZUFRck45ZEEydF8wSUEzZUxaVDJmSUdUM21FWkJZY05iMF9CdFBvM0Q4dE1hQmZFMERIQWVpT2VrYTJYSF9teXpPUC1BRnBFSEJCTDZwLVRnSlJQRl9WZ2RlMkxJcTdGNmFIWTh4SUZqeUQ1M2RCajBwb3g5eEVSdEtycWFyOG92ZVdtQ2dkd0dPRWhyLS1MUXJJbVRtZnNkTmc?oc=5"
+        },
+        {
+            "title": "Is the semiconductor industry headed for an almighty crash? - The Economist",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONG13VFVpMmRfamdQcy15WkdqVjVtOXNkZE0tbENrdHV2Vlk0QTNtXzlLR0NUcFdicXZEYlF6azZFRWZGLVRUcTgwTmwwbnBjVzhlaHh1X3RGSFB4dGtmVHNSY09ENVA2Vm9uOXhaajNodUtKOG1ibll1dXlORU10RWJ3YVViRG1qQTBhZTVqanc0VFItRThoY0IwdWpKX29RalFLTVY4aw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Visualizing Anisotropic Charge Transport in CrSBr using Bias-Dependent Kelvin Probe Force Microscopy",
+            "link": "http://arxiv.org/abs/2611.01217v1"
+        },
+        {
+            "title": "Streaming Virtual Metrology via Lightweight Adaptation under Temporal Distribution Shifts",
+            "link": "http://arxiv.org/abs/2611.00806v1"
+        },
+        {
+            "title": "Effect of Rapid Thermal Annealing on the Superconductivity of ALD-Grown TiN thin films",
+            "link": "http://arxiv.org/abs/2611.00424v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
