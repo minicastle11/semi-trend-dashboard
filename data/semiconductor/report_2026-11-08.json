@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-08 02:08:07.934452",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "AI boom turns chip packaging into the next battleground for semiconductors - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclhXN1JrU2JGZGZPMDBuQVVlZVdkSmRjMWxNSVJxdFVNWFY5NnUtclBjNVRrZ3NHSTU2enJwX3FMSGtwWndERUI3Z25jTHFjX3V0MnNFY3lJQ1lFUXJjQ0EwcWpYUExiUVF4VHRvbXNCZDRhaGhiME5KQlhtNW45bWRRdExDc3hiTzNUWHFTRm91OHpQTmdn?oc=5"
+        },
+        {
+            "title": "Community colleges rush to expand semiconductor training as labor shortage looms US chip industry - WWLP",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeDRiOFNLV0VRcmRKc2RROHJNZlh2YVJYdWswWGR2cGd5eC03ZVlUS1NSRDY1d0p1ZzBxRlNWTFgzSDhBSElXV3FWMW11S25Fc29GcTVtY3FEbXVfbFphQjBjaWdRck1XSnZnZEtzYlpEQ0pJb0pwaFQtcXlLUmJKWFJVNEJfZ25wNjdTd19aMlEzVVFSMGxkcTdIdXFoZTBacnE5QW9wc20ya2trMlh6cjVpcjM0Z2NPTmNiaGczT2I3ek9NSk8zc2xIakxPOVl3WkhmcWFlZVliSm_SAeABQVVfeXFMTVEzN1dzODJXT2hMR3Z2LV95VE9QV28zd1BlWkhxZ3A2ZnRSUXhtekNxUVhyVDhRaXhFUU82eHZlcW53dzVaUzQ4aUdMc0tBWW5qb0NISElvdU0zU29oNzFlS3JKMkw3a1h3Z1E2dk45RVVGdVl1NjNBRDdaOGM3QlpSNzV1RUFFMFlXU1B1U2hyb0k5Skl4YkZibkw5bFdYcUlWR011cGEwV295OVgzRGNucWoyQmpBaG9ic2lDWHRGcTVkWUo2bHJCTGxycEIzMFlJeGNfZUhXRGx0QjB1c1Y?oc=5"
+        },
+        {
+            "title": "The Semiconductor Sector May Be Nearing A Meltdown - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVNqa3QxN0x5bzgzSWxDWlB6cURsV3dwMHcxTE9ZeXNPZ0J5SkNiMGxMdElYVGk1UldFTWRGUi14V1ZqVklhcVY4Z2lNdk5ld0ZLNzhPdkRNdDRvTm1SRExBcEJ0RUc3QURuZ0ZvZHJLRHdzdHJjQzNsazZNUVlhalFqSWthLWQxMDJXR3I5VFFFNU5xMkE?oc=5"
+        },
+        {
+            "title": "India's chip ambitions offer Bangladesh a semiconductor industry blueprint - The Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdmpydG5XOW5MYnpXaTFrbXlPVDMtandSb04zVmJ1NzFvZjJzN2hVRkhsSVpjRnVzbUN2eXAtQ0xYZ0dPSlB5M0VEbUl5bHVEUjNlNjVXTXZUMUk3NGxjSzg5dGpVSEw1RXJFR0JXNTRmTC1wUUtIaUxTSkFmRTZUY0JWUHNYRW93eVRMNE5KWUcySkM4dXNibnpuUjJoMWlyQWVSLUhtT05Fcmh0Nnd2RkVJeDgtZGNWSW44d0ZB?oc=5"
+        },
+        {
+            "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing? - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzFsRVlmaFZSc1g4cmJEUFp0Z24wZWpkd3NoYXR2UVp1am9pNDFEVjJZSmUzSWVyTzctdGM2VlVBR1pvTC1EOEs3RFJJUUtIelZValpLWEN4WjI3MXpzREpIdUtadlFUMGhRRUxVa3ZUUnNHeWFiYXBHc1o3QkRpOVZGYw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Hybrid integration of a SESAM with a silicon nitride photonic integrated circuit",
+            "link": "http://arxiv.org/abs/2611.08057v1"
+        },
+        {
+            "title": "Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate magnetic fields",
+            "link": "http://arxiv.org/abs/2611.07564v1"
+        },
+        {
+            "title": "Asymptotic-Preserving Tensor Neural Networks for 3D High-Field Kinetic Equations with Applications to Uncertainty Quantification",
+            "link": "http://arxiv.org/abs/2611.07364v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
