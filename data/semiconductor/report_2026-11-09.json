@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-09 02:29:32.835514",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "A $57 Billion Storm May Hit Semiconductor Stocks This Week - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjlkTEx1d1VidzlkT1NYMklpaE56R2tGMm5NMmozcTcwM2dlNWl3V3k0SFlSb3BTRWRaTHNVN1NvdHRzVmhmbENNYmN3SDFYRjRUYXJ1dlNvemE0bDlDcDhrZGMwSDVyTnczdEtEdy0tMlczdjRjWDdSUlZVdFl2SW9CNW5MWlFaQ3NjcGtwd1RlLWlwVEt5SXRYLWE?oc=5"
+        },
+        {
+            "title": "U.S. Sanctions, AI Boom Cut Semiconductor Sales to China - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZV9WQU1SQVNZNUJzRHVWNWZmT3pTY0Jfdy1PM0xKLTRWVkYtaVQ0SEkzN2FfaFJRZUpzM1lFd0RTZFp5TUl2U0pDRTR3TFpyNnMtOUpaZEFDczNoanRPSDU5dlEwdVROSFhzYjBZLXU2SmVvb0Y5cFFtRm9TaVRHMTBNcFNJSjRu?oc=5"
+        },
+        {
+            "title": "IU, imec Partner to Strengthen Semiconductor Technologies Industry - Building Indiana Business",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnZmVXNMdDZuVFZ5R2x6di1jTENqN1dxUXF2cUtqQW1odi1jZUl2emdVTDV6b2tWRTNKeXY3RXZkeXVDVmNiNzBraDlqWkZkTmswVndONVFDdjR1R3JTUGpBbmVlMENwcEZ1YVdPXzNqbUVSQ0lRSm4wc1VGc3RsR3k5LW5rRDlERTVVRHVtb0lFT1ltZjhVMWFhSHJKcWFtODVhZFFBc0R3dEE1?oc=5"
+        },
+        {
+            "title": "Is the semiconductor industry headed for an almighty crash? - The Economist",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONG13VFVpMmRfamdQcy15WkdqVjVtOXNkZE0tbENrdHV2Vlk0QTNtXzlLR0NUcFdicXZEYlF6azZFRWZGLVRUcTgwTmwwbnBjVzhlaHh1X3RGSFB4dGtmVHNSY09ENVA2Vm9uOXhaajNodUtKOG1ibll1dXlORU10RWJ3YVViRG1qQTBhZTVqanc0VFItRThoY0IwdWpKX29RalFLTVY4aw?oc=5"
+        },
+        {
+            "title": "Global Semiconductor Sales Increase 24.1% from Q2 2026 to Q3 2026 - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnY1X0xxUjBSTmswemR0eHByLVBsUlczdkJILXVVQk1UOWx2R3hpbzNjR2lRU0VObmdZOUJTdmttVC1uZ2Y3ZHlEY3VZR0RDeWhYdGNGYnNadC1qalNPajFTU3ZUdlhHU3JubWJvTDdEem04MmJBdUNUOXRKN1RQdWZodDAyekpuYXBKd0N3aGNDYkZaRXJwQkhUeTE?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Hybrid integration of a SESAM with a silicon nitride photonic integrated circuit",
+            "link": "http://arxiv.org/abs/2611.08057v1"
+        },
+        {
+            "title": "Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate magnetic fields",
+            "link": "http://arxiv.org/abs/2611.07564v1"
+        },
+        {
+            "title": "Asymptotic-Preserving Tensor Neural Networks for 3D High-Field Kinetic Equations with Applications to Uncertainty Quantification",
+            "link": "http://arxiv.org/abs/2611.07364v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
