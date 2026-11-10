@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-10 04:31:31.364881",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "A labor shortage looms in the U.S. chip industry. AZ community colleges are helping fill the gap - KJZZ",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDY3V3hoMnlyekFqQ2N6NE5WTmt5SjJkY0VRbkZfVWZSbzQ1VU0xNGtfUW1Ka3FBdThsVURqLTg1RFJMNkZNbXBZdzVVN2N5ZFBSc0JyVlAyekpncjVpRExCWlBsT21XNlBRWEI1V3FYY0E1YWMzWXo3WkRKVF8yWmVJcTdSR0JVOFUzNjZLQmJibFBoTTdwQlpFV25RQmF4Ri1RaTlEQ1ZnWkg5eG9qb1hWeWF2cm92OXlURm5pOEZKU0VNMEJqZm9MZ2M0d3hoV1E?oc=5"
+        },
+        {
+            "title": "Mitsui Chemicals to Acquire JSR in $11.6 Billion Deal as Japan Bolsters Chip Industry - PYMNTS.com",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3BJM3JjNEctUUZSTG5pemVZQUoxZTNEYlU5eDhFSEJQdUNJSC1ZeVFGRmdmc05BVG1TUHNwUzNqX3E1SnE1dG44RDM5cFJUNTIxX2lBM192RVpvVWhVN0dRT19kVVpFaC1vSlVpSE5ZTXFCU3Z6SkFOOXM0d2l3a1J6ZUNJRXFLZVM4OE9pdG9tYml2TkozZHJOY0NyX2UydldfSkRiTGJ3X2JfOGNBMGZhOFFhU19vQmc?oc=5"
+        },
+        {
+            "title": "Semiconductor Companies Get Tough on AI Investment, but Measuring Returns Remains a Challenge - Morningstar",
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY0Z3Wk5ta0hCY1hGMjRPcVRtclB0bUFxWVhyNThtdmVoY0lGaGxTdnJUTndrRHBQaG5HQlllUEljelIzd0NfNVJpQ2ZYX2xUbjlrcWswLWU1QVhfUUMteEtCQ3J5Z0pReXg1MlVBdmVPUEtFaG1iSWVyMnpoQkc4b1FTNGE4OVRteENLTkJhaWJNOTZYN1FmTnJCeGNJczZ0aXFSN3c5NzlIYXE2VVN0WlFNRl9jbWlWc3pNVnQ4UW5wMTREOFpWcU5LaHB4bXFqMzlXZlRkNk5FSko0SXk3b05JOFZfLU5KcHc?oc=5"
+        },
+        {
+            "title": "Could the scandal at Nvidia rattle Korea’s semiconductor industry? - 한겨레",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JQnVEbjRxR2ViRG1NdTBHZWduT0ZnYl9vaE5TY1hOaWVnYWhVZDNOWWdwd0xzdzd0eTdRdXBFN0x1WUFyVjB4Q2UxTDN6WEE2c3BYUGdtVzdUMHJZTU11N1dpTm5nbG1OSGk0MGRlYk1MOWs?oc=5"
+        },
+        {
+            "title": "Semiconductor rally takes KLAC higher by 9% (KLAC:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcW1jd0ZVUW1BU0QtcGhwLWhmaXJnWXZ0UndfUWdQRUZQUEplY2tKdGl6UGVnMlhnSXdxZkdOVVRFZklIWFAzRHNUZjVzM0xSdDVuM0JRdWFMWlFRamlBTnlBQmV1TDVUMS1YYXRsTFY0MnQ3aGJqZWVOVzRLSTc2YWdtM29ma2M?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Orbital texture of valence band and interband transitions of the type-II multiferroic van der Waals NiI$_2$",
+            "link": "http://arxiv.org/abs/2611.11425v1"
+        },
+        {
+            "title": "Deterministically fabricated C-band single-photon sources based on quantum dot circular Bragg grating cavities",
+            "link": "http://arxiv.org/abs/2611.10988v1"
+        },
+        {
+            "title": "Dopant Cluster Engineering for Tunable Room-Temperature Ferromagnetism in 2D Transition Metal Dichalcogenides",
+            "link": "http://arxiv.org/abs/2611.10480v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
