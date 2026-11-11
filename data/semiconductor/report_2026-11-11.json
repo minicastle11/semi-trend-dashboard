@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-11 02:37:52.361707",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "Semiconductors Are Still Cyclical, But With A Bullish Long-Term Trend - Yardeni QuickTakes",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHVka2pPekJHTmtnSDNoWm9manFRSVBDSFk0NFd3RTlyV0l1c1VScERQZlN6YVlsbkpqOW8yc3pBMGxwcnlxRU14Ym5oNHRZYTRCY0RtQjBnckxnTm12eW4yTEpIcWFWQzU2THRWbnBocFR2UXFoN2JiZHF6YWFCSjZRYzJrc3JaYlYyWFpRVFZjZHNVTGZpMnE0UXQ0WnZzVkNwYTh3?oc=5"
+        },
+        {
+            "title": "AI’s Efficiency Challenge For The Semiconductor Industry - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1NSYVgyVDJTRmxNZWJzX2wyNFJTamp2eHcyUWhtYjFDSHdLN3lfREJIZUd1VjdmeWNjTnoxZ25rZ1RfNmZGZTZsSVZjS3dueXBScGdpMUl3OTc4MGI4YXl4SGpvLWlBM3ZPYWRDWmFxQ0dqbmJTTWxMMldkcjFBNUZkbVdxT1pIa0JzdA?oc=5"
+        },
+        {
+            "title": "As Nvidia begins Huang probe, Korean chipmakers brace for impact - Korea JoongAng Daily",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVklWdDNFQjVMcFZVanlvR2gxakR3TFlTbTRnUXNVWTJkN1Q5dTNBY0VCQllpbDBEUGV0ZVdob1VFXzBJU19ta2FzVTdnUFV5RTQ5RVllZmZpUWFOcjhqYXZwMEpreG9KT2Z5bnZuNUY5azRYZkNlNlZsWHNkOGhVVUdObmlibDhMWllrTUxsclJuQmRncW9Fb2JyTVBHNDBubVNhQmFSbzViLU5UMnNlSklfaklHNTQ?oc=5"
+        },
+        {
+            "title": "Nvidia's AI chips: The technology China wants and America won't share - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQekdqZFUtcFUyLVhGR0VYajBVQUs1T3RrYVhBdHRSMXJLRmdiLUpLMHFuLUN3Y3dRYUdPYWdicVRqQVh5UVppSDR5b2VVbjlBbDNyV05kbThvWHBjdTRFMTM4c1JUVmp3WG9oaE5OSWpoOGt2ckQyRFkzRjdTaVh3ZFNDSzhTQno4M1FfTng3YURZQW93MFVrdERtSGhYNEZ2WF9Ib2RldlBWb0VWYU0tR0dKNDU0WVlmTzZhVGJybjluRjhNWFQxMlF3dU5GMGN6c1VpaWxB?oc=5"
+        },
+        {
+            "title": "A labor shortage looms in the U.S. chip industry. AZ community colleges are helping fill the gap - KJZZ",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDY3V3hoMnlyekFqQ2N6NE5WTmt5SjJkY0VRbkZfVWZSbzQ1VU0xNGtfUW1Ka3FBdThsVURqLTg1RFJMNkZNbXBZdzVVN2N5ZFBSc0JyVlAyekpncjVpRExCWlBsT21XNlBRWEI1V3FYY0E1YWMzWXo3WkRKVF8yWmVJcTdSR0JVOFUzNjZLQmJibFBoTTdwQlpFV25RQmF4Ri1RaTlEQ1ZnWkg5eG9qb1hWeWF2cm92OXlURm5pOEZKU0VNMEJqZm9MZ2M0d3hoV1E?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "5G CATS: 5G-Based Cryptographic Authorization Against Trafficking of Semiconductor Devices",
+            "link": "http://arxiv.org/abs/2611.13437v1"
+        },
+        {
+            "title": "Ultrafast Hole Transport and Electron Localization in Superatomic Re$_{6}$Se$_{8}$Cl$_{2}$",
+            "link": "http://arxiv.org/abs/2611.13363v1"
+        },
+        {
+            "title": "Ground-state phase diagram of the spin-1/2 Heisenberg zigzag ladder with anisotropic $Γ$ term revisited",
+            "link": "http://arxiv.org/abs/2611.12669v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
