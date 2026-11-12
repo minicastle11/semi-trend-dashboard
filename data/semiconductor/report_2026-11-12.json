@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-12 03:40:46.027406",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "NVIDIA Order Reduction Could Benefit Competitors - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXFpMnNDWTRIRzB4RHo1S3hRd2Z4V2NyVFhral9mdzhMVWhwUWIzTUFFb3hZX0lQc3lsbXNpM01MbTJUVGJnUElRSDZtaVVxbmdhQ3JKNGltbEV4UmFtQ0xFazlwZm1PYVpnWmpyVU1kQmdnZnpKb3RsMkFfYmpEbnEyd1pzUjZH?oc=5"
+        },
+        {
+            "title": "Dell Technologies vs. Taiwan Semiconductor: Which Technology Stock Is a Better Buy for 2027? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWU5LUdUeDRqb0ZLckQtcnJSRGUwUDItOFFkMFpqcVA1VGZraVoxWE9xSXE1OEwzTjJCMENJNVhDOWhTQ0kzc0xuTXoteEdSTnJhU1MwY1I2MVpqNzV4S0doZktCcDJNYjNGNWFoRzhSdHhydHNmcVlpMURDYXFBSEN6d2gzXzQ4b1dNZTJ1d2dzaXVzZU94dVQ2YjF2SFN0Rl9FNTl4WGh5dWVydHZSVlhkUkg2MTF5cFh0NGo0UnFGcFZOOFM5TlJka0ZObW04YnNVSnU5REpUUQ?oc=5"
+        },
+        {
+            "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry - Dark Reading",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUc0czJLSlF5SHowNTI1MjFycXl4YUp6SS1EdDY0cVE2RnEwVkFQQ2V2MHNfcm5sS1gweHFQTzIwVmpLckRTV1NLVTVkVkl6dDg4S0lWd0d0bjUyc0pxVzF3Rm1aLWJzMjBRb19PVjFJNnBhQWNLa01LLXVkN3dHaHNEaVV4XzBwaF9IM3lObG9KZkNhUDlub1NXRkhwSTdNZlE?oc=5"
+        },
+        {
+            "title": "Blog Review: Nov. 11 - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wcmlwemdNRmZ1dm1FMHFfMktwa0ZCbm5BVkUtcjlYMHVZZXpXRW4yQWJza2JkdjZwS3RraDBRRHV0ZzNrc3VaWlUtckkxUmMyWU44VUhmNHdMb09Mdnc?oc=5"
+        },
+        {
+            "title": "Memory Chips Are Completely Distorting South Korea’s Economy - Foreign Policy",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1lWRktqbDYwbGEtbGpkMHJ4WWR3WnBWdDNKLUFYT29kVWpUSWxWZ1ZYUnd5QWhPQ1A0YlRXSU1lUXRGNDh2ZW43UmFtOGJlTm9Bd3JNZjI0OVdvYm9ZRlBYWVFBOGpEcjBIVjM2Mk8zYmloLWNyQlhIVVhBQmtHdzJYd1FQOHNBOC1sUVd2SFQwZXZjYVFSV3ZLYlZ4ZjhBSFl6NWtmcVpuX3RibjduZy1UYVNLVHZEUnhKTG5OSlhFdw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Analysis and Demonstration of a Current-Stiff, Isolated Capacitive Bridge Transformer",
+            "link": "http://arxiv.org/abs/2611.14416v1"
+        },
+        {
+            "title": "Electrical Stark Tuning and In Situ Field Sensing of $V_{2}$ Silicon Vacancies in a 4H-SiC a-Plane Lateral pin-Diode",
+            "link": "http://arxiv.org/abs/2611.14308v1"
+        },
+        {
+            "title": "Nanostructuring Semiconductor Surfaces Using Self-Assembled Metal Nanoparticles for Optoelectronic Applications",
+            "link": "http://arxiv.org/abs/2611.14292v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
