@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-13 03:17:26.662088",
+    "price_history": {
+        "2024-10-01": 30.724,
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.541,
+        "2026-09-01": 28.801
+    },
+    "news_sources": [
+        {
+            "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry - Dark Reading",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUc0czJLSlF5SHowNTI1MjFycXl4YUp6SS1EdDY0cVE2RnEwVkFQQ2V2MHNfcm5sS1gweHFQTzIwVmpLckRTV1NLVTVkVkl6dDg4S0lWd0d0bjUyc0pxVzF3Rm1aLWJzMjBRb19PVjFJNnBhQWNLa01LLXVkN3dHaHNEaVV4XzBwaF9IM3lObG9KZkNhUDlub1NXRkhwSTdNZlE?oc=5"
+        },
+        {
+            "title": "Former Secretary of State Condoleezza Rice to Keynote SIA Awards Dinner - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXRuT254SGhTZ09oQ2hzWWI0QVpCVWEwTVpqSTZJNkp2OFVhT1ZfcXN5RGNuWUJrSE1OY3dLcDVyUHRjNFR2TzREZnZKUVNwTDNCb3dzQmRaTE9YYUNCUGxfRDhzM3RLT044OUVrUm5PTFJmamlHT01rcTk1MGtzMTdoeXJvdVdST2J5Q2FGVWFicWNjb2doSnVRNlduWkJySGRRbHVB?oc=5"
+        },
+        {
+            "title": "South Korea accelerates $599M domestic AI chip project - upi",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTU41WlVrNkFJNVZxVi1iT2hJSEV3SlY0OF8tMXhncGVHOGFRdW9FSjYtbjFBRmpicWl6TnZjQ3gzQTVyODRTVHpqbTBZTlZHVDgyY0VjUk5oVTRQQ21rMUpueTREX3E3VXA2aVllREFBWTk3NFBCQ2hlZEFIVlYtNkw2aWVvelRGdHhJd0VoSnNhM3RvdUtuWW1FUzZ6LUF4aEZwT9IBqgFBVV95cUxPeDJ6dGhkOGhXUER2aDNRcVp2OXhQZHRmX3R5VFBGVkNoYnB4bWFMYUV3VUd2LW1WY3o0MDBoeFpyVDhEanpQMWlxQThpLVNHMFAyaDNlaDZSNGliTGotdkwzcXk3OFBNWUJQNXByWWFOZE9XZGNLeldKMTZrcmUzN3BXTktWTFVBb0l0cEZvRzZFdE4weExGNVRzZ3g1Y204N3F6eVpUMG9qQQ?oc=5"
+        },
+        {
+            "title": "Jensen Huang’s exit clouds future Nvidia demand for Korean chipmakers - Korea JoongAng Daily",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMjVZaXZ3TUVEb2NydmpBa3pVTUg5OWhpbnNMQnhNUElDbDlVLXUyNmh0NEJWbURVTHp4eEpEUldDamtfUWFoLUNLU2ZOZkxhVVJWVWM0eEMwdGY5Q3QtU2NndnJMckNaOENseXNPTmZTck1vRTZ0dHI5MTBKWWxTU21GVmR1M182WkNMMzQ0ZHBYVjZQZDZSX1lqVjZWM3NYN2hKSXpxSTNncS1WWXZYbzFBNk1hdURBenBWd0Z3?oc=5"
+        },
+        {
+            "title": "GT Voice: AI jitters in US raise stakes in China for S.Korea chip firms - Global Times",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wOVlQN05XbjFrQXVlQ3dLa3d1NlRyY1pWQlRMSktEM1Y4M1ROYlBYYU1hUUFyMm9ZT19BLTI4Zk0zZURkUkFlYUxJT1l2Q3d6cFlhdWhqWHZQUy0tYkxCUVV3?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Probing Unknown Luttinger-Like Parameters and Band Structure in BAs: A 24-Band k.p and DFT Approach",
+            "link": "http://arxiv.org/abs/2611.15186v1"
+        },
+        {
+            "title": "High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurtzite Semiconductors",
+            "link": "http://arxiv.org/abs/2611.15138v1"
+        },
+        {
+            "title": "Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of semiconductor interfaces",
+            "link": "http://arxiv.org/abs/2611.14948v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
