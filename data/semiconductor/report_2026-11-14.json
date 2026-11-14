@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-14 02:57:28.957471",
+    "price_history": {
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.569,
+        "2026-09-01": 28.81,
+        "2026-10-01": 28.852
+    },
+    "news_sources": [
+        {
+            "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2YyRTZFMWhVUzZfU0hiQTlZR3U4M3MxbG5Hbk83cHJUYThyWnNYcWY5RlBtcW1jOHpVN1ltbzRsSFlndjhYMXE1TEp1N2RoMU1OYkRESlNpclVST3haa25hQ183bDQ5Y01jTXpFTTFaUDVTSGlkUG9QOXlrX2N0Y1YxUHJ3dVltS2fSAY8BQVVfeXFMTWRwQjNxWEtubmFzbms0UTJNTUZVMi1NNDY3NXJMQWpwNnlDMDluRXZUemNkZE1fS2w0M3hJQS1DVHFTUzA2YVRmM3ZqcHVraTJaVHdZd3hVT1JDd2J6dWNyRnNPR3FmbTRvSnRGRlQ4TEQtSGRnc3QwT0l5NjIyR1BreVQwQzNScC1ZQ2ROWVU?oc=5"
+        },
+        {
+            "title": "Can Jensen Huang's departure help Nvidia's competitors catch up? - NPR",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEVSSE05ZlpFQWlsTGsyems4Mmo4WnRsR0hRb3BjelhCM0ZWck11eXFaQnh5bV9NVV90SGZBNGd6YXJvQ25hRDdjWnpXU2tWRHB4UXZHWEdEX2l0ZHhfMFpFd3V3NDVaTjJWSlloNUFrUFFXZHQzVEkyZ1FsZHlnUjkzWGNkbGpaSWhaSFcxb2FvTHFyY2JGZTJXdlNscVNKZVVhY3NZdmd6QQ?oc=5"
+        },
+        {
+            "title": "GlobalFoundries Breaks Ground on First New Semiconductor Fab Under Landmark U.S.-Japan Initiative - TechPowerUp",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPci1YU1NuZlFCWFVraDA0ZElFOXFNRllhX2thUkhzTG9Xc0hkQkZZWW9RS0VUQmRpYUJ6X0w4TmtUSWhuYWtkbV9UbVVPbzlRaUZBcnhZaS1fSVdYWklDQV8yLVBXZ3lrcDdFSHRUMHhzc3pIWUswX1hlZVdHRUxoXzRoWDZZTXVHT0tMcFd0YzhfRUhRd0R4a1lrX2IyZ1cxWTFnUlVQYmw2SWFnYWVBMmhVV2JLWEhMU1BienVabk5aTUc1OFAtYWc0a9IB0AFBVV95cUxNc2twTGV2WDMzdXIzMHRIdGpBVk5sM2UxWTdIaHc0RjdHZlFoYklST1U5dGxESVFKYVkwU1c5UGsxVDRWeTRwRGh4dkZQVUxxTmxVc2ZuWEJrdEZjNlRfY3ZsWmRpVVBqbGFSUGhMZmhMYjhnQ2NjLTBrM1JJMTZKWmJBcWU2aldPLV9ocVVNaWRRdmx1OFByVmF1eUxVdmw2VEFpWlVaa1NJYm9yQWtvWjRKYlBJSXNfS0tTUzVmUjZWV2VvWlo2aHdEVlVQYkJJ?oc=5"
+        },
+        {
+            "title": "Analysis: Beyond silicon, North East England's semiconductor revival confronts an old industrial dilemma - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEU4YUItYlVkWHluenVJYTRqMjRRbEtIX2VnZl8tcVVSSlFUVTR3Nm9BaV9hQjhzQWtiTWFtQVI3MHI2UlFkS1pLOU5wZW9kQjU5YnZJNnhPOGNMbU1oVXZPQi1wUG1vOVZLSnMwTmJLM0pOUmh0dS1aN05ETVdJZHA0RnRrVzZ5ZzZiNGNoajBlMzZFR1BpanF4SWM3cWZn?oc=5"
+        },
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQVdBWnBSRVB5ZWxJTDZBRTV4bmhOQnNtLURjUEF3b2ZNLW54MDVxdjVYMHZTNm43X3pEUlFBbEZNQW85X3VQRWhncnBhU29EMkpUNnNOMmc2WC1nbEx4aHQ2N1I3WjhWWlMtaDBn?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Interfacial Effects of Thermal Reorganization on Charge and Spin Transport in Organic Spin Valves",
+            "link": "http://arxiv.org/abs/2611.16852v1"
+        },
+        {
+            "title": "Gatemon qubits based on in-situ ternary InAsSb/Al nanowire Josephson junctions",
+            "link": "http://arxiv.org/abs/2611.16595v1"
+        },
+        {
+            "title": "High-Quality InSb Nanowires Grown by Molecular-Beam Epitaxy via Precise Catalyst Modulation",
+            "link": "http://arxiv.org/abs/2611.16234v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
