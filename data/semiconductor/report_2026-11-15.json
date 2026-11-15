@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-15 02:27:53.357030",
+    "price_history": {
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.569,
+        "2026-09-01": 28.81,
+        "2026-10-01": 28.852
+    },
+    "news_sources": [
+        {
+            "title": "AI’s Efficiency Challenge For The Semiconductor Industry - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1NSYVgyVDJTRmxNZWJzX2wyNFJTamp2eHcyUWhtYjFDSHdLN3lfREJIZUd1VjdmeWNjTnoxZ25rZ1RfNmZGZTZsSVZjS3dueXBScGdpMUl3OTc4MGI4YXl4SGpvLWlBM3ZPYWRDWmFxQ0dqbmJTTWxMMldkcjFBNUZkbVdxT1pIa0JzdA?oc=5"
+        },
+        {
+            "title": "Hochul seeks to expand tax breaks for chip companies - Times Union",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjF5WENlZTJFOVM1NGJLMkljcHZxUkRuRE5qd1F0dWxMNE9MR0ktdl9MNkZzWW9WUnNjb1p6WEt2UG91S2RoYWNLUnFONHNHbEh3ZkhTanBzM2czMWhuRzdFM3FLeVRVX3Nvc1gwLVpEX3BUVzhsNnZSc0lZU18yT29uNWEteWhhcDdkdGxlNk95NlM1d3BOcmNZemhYX1dwUWg4Zg?oc=5"
+        },
+        {
+            "title": "Nvidia CEO Departure Prompts Lynx Equity Analyst to Reassess AI Semiconductor Growth Risks - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTlLWTVtNVdidHlpN0xkY1lVdFBMc3RHMGd6cWM3djI4QWsxMWpJRWkwcWlBcU4zX3VDR0ZIdzhIWG5yaFViV1pMWTF4ZUVqYVlrQXpIWHk1X0t1NkloN1pXOWZhdnlZRHNWemhaR1pLR2d5QXVaQTM4c0pMQ3Blbkt0RFcxLV9VNmc?oc=5"
+        },
+        {
+            "title": "LLNL partners with Diamond Quanta to break barriers in semiconductor manufacturing - Lawrence Livermore National Laboratory (.gov)",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONWZKQlFDZkliZkpIeURFdTRNSkpYQmZsTTBLb1JETWFvX2VlM2lxSDdSVWYtQ2FweW1yNTRSUlc1dTNMNlYxVF9rU0w4b0dCLVBHdm85dFlNNnBxd3hNdzg3azM4aG93MjNGVHJFNU1sRjYtTEFvZV80UTF5M1M5TWVKUk9hRS05Y0xWZS1QRzRWZFFnbGNyS0hEVGNTczhCNVVsY0RRUFlJUQ?oc=5"
+        },
+        {
+            "title": "GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative - GlobalFoundries",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0l1QUFlMDRjTFFwek1KLWw0WFB3VDFCVGNnQTdwZVFDendWY2Y3UE5lZWxhekpBOXI2S2E1MGJqVHV4T1FicnVBWDQ3ZUc3d0pLSHBZdVJBNjhyQXRiZ0x6RGluWVhtQWhvT0RVN0pUbTM3ck9KM3hDSXBITU1laVZTOVRfU1luVzVhODYxQ1BILVczMEUxdndTd1dZMk44SE1WT3BhUXI2Skx0blduZDZycWJOTUJkR0dRSHFrQmF2bmhsNkl6RXJhcG0?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Interfacial Effects of Thermal Reorganization on Charge and Spin Transport in Organic Spin Valves",
+            "link": "http://arxiv.org/abs/2611.16852v1"
+        },
+        {
+            "title": "Gatemon qubits based on in-situ ternary InAsSb/Al nanowire Josephson junctions",
+            "link": "http://arxiv.org/abs/2611.16595v1"
+        },
+        {
+            "title": "High-Quality InSb Nanowires Grown by Molecular-Beam Epitaxy via Precise Catalyst Modulation",
+            "link": "http://arxiv.org/abs/2611.16234v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
