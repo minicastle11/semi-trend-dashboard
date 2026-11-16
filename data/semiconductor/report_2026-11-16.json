@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-16 02:38:14.646441",
+    "price_history": {
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.569,
+        "2026-09-01": 28.81,
+        "2026-10-01": 28.852
+    },
+    "news_sources": [
+        {
+            "title": "Samsung conquered AI chips. Now it wants to build data centres - Financial Times",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGlFcXVUUzVSNTBhc2s3R1RFQWpYZGxGc2JCTll4WE1hQ0dRWlBlbzhiRW80ZHVmdktJMlBmZF82dmRyZkpIUW93RDRPbnVPLVloRTlDcmlJOUxGWFJrNnhYWENUZFVZNXBwN19kRjljVkVnaE5lYTUwODdvai1CU0xyTC0?oc=5"
+        },
+        {
+            "title": "Ashkelon to get $470 million industrial complex focused on semiconductors and deep tech - CTech",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0taU1LVUxqQ01sNnlOQ0MzUmFjYXkwM0tveUFHUUdXQV9mcm1hRGJkdW9qcG9kaHBNWFl3OTdaTWFITktDMThwWmJYcHBLM3c1UDVRckc1TS1NSjRwV05CV05pUWxHTTg?oc=5"
+        },
+        {
+            "title": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONDBQQ0NwbnRiSzhQSDZRSWZYSmtQUkxySEVRclZCS0NNNDJXSnYxeXFZeEZUVG94VzhoSUs2ZlBGTkFvc3BJUHFOTEgyNG1wVnBuWjBpNVRveklyaEFGMnlZUkNEclZOc3FSbnFSSEpQSVNjVUtnQVFxZGlwX0VTMEt5NGYwMEhjN0xrcU5YOXZ2M2pXTG1nYmpDaExEOUdIc0pRR3JR?oc=5"
+        },
+        {
+            "title": "India’s semiconductor industry boom may add over 1 lakh jobs in India in 3 years, with 67,500 openings in - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQOFFZY0t2SVRjeG4wWWh2d3ZfekVVSzA4RnZEUjhkNDdsTDVwNkFFNmtBaGJWdXFoX3ZTdUhQTFhIMWNnNVc4RTh5SXM4MU90dVJGYXZON1I1SDNucndHQktHbG1NR3djMVJmMjd4eUJHNk9qam5OSGdaS09uRFMxMGVmLUdKODR4SmM4dzIxXzBNbHBRQUllN3dRRkRCc0RQd1ZMVmJGckVnOFdWUVBsWEFkTE1WYnVWTzNnX2tHRU9MNlFkb3E4U1Ywd0Zyc0hHeWVQR1BTSUI3a3dkVy1LcEdRVUZ0djdlQnpoUDY3c203NWc5NGhGTmh6YW9qZXc1UGc5VmxCYnJPd1MtalRCOE5MTDVReWxDY1dwUGc4emxuYzhDRmwyR1NJcm4yZlpvWk5oN2R3SnNJc0YxUGpjVjZLVkdPc1hhb05FNjJJQld6enJJY3ZnTzlpS0tKdTZWN2xQS040dDdKWDBlV0JCRER4d1TSAfoCQVVfeXFMTVBveVRCejd3dTd2QXNhSWNybzVuRHdOb1VLZHN4LXpHSzF6NXNqR2d0ODg4NERNYjU2THBqT3dpRUV0VDdTQ0dVU0o1Qm9MaFRTcE51RS1KWW55R2NJa0pabTZfVUtneGRvQUlRT1V6YW1TVVlrTjhQWFB2dklUbm1ScUdvTl9yd1pJRXNLdjhtVl9KcUNmWHhORkhqV3pSOGFUUHVDM0d5YVFYYzN5UWc4QjRXem5mN0Z4cGFtcy1NOGVZbzhzbHpSekoyTXp1dEJyc3k5X2R2aGZCemtXWnotLUpIZ0I3d09LREk4MUttSHNvaVpyQ3drMVh4NXAzblN4T2R4ME10dTRUNG00Y1ktMHRIQk1OclpoUEpETi1GR0ZEUG5uQ3pQQ2NRMkxXWUhGVTE1dTNyb19xMl9FTmh5ckpDR1RYTVFCY0wtbXF3RU9wbllHQUxtUjd5bDN0V1JwdFFrSzNLVGVqNU1MeTdZLU9IVTZWa3ZB?oc=5"
+        },
+        {
+            "title": "GT Voice: US chip curb debate cannot stymie China's AI progress - Global Times",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YUTlwZ0dYRVNiUXotOEJxNHpQREtnZ2pnTFE4VnhQT1Q3TVBnU0Fud0RxWm9BVkxvWXN6Y2VNLW5Fdm1qRk90QkdpUVVpdWZFeTZUWHpFLWdnYUlxUlM4RlJR?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Ultrafast Imaging Reveals Energy Transport Anisotropy Grows from Bulk to Monolayer Black Phosphorus",
+            "link": "http://arxiv.org/abs/2611.17731v1"
+        },
+        {
+            "title": "Composition Driven Band Alignment Evolution in Grafted Si/GeSn Heterostructures",
+            "link": "http://arxiv.org/abs/2611.17453v1"
+        },
+        {
+            "title": "Interfacial Effects of Thermal Reorganization on Charge and Spin Transport in Organic Spin Valves",
+            "link": "http://arxiv.org/abs/2611.16852v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
