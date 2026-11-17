@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-17 04:59:55.556653",
+    "price_history": {
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.569,
+        "2026-09-01": 28.81,
+        "2026-10-01": 28.852
+    },
+    "news_sources": [
+        {
+            "title": "SIA Statement on New Export Control Rule to Address Remote Access to Advanced Semiconductors - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0o2bjRXc1pGTFYxZS1KcHl0ZWhPcDA1am9mM0dtWGRfM05WckhvRDFKQ1hjZTRRZEhpM0x0QXJHSk1rOF9WY25LS0gtVDBhU1pfdElJX18xZ1RkZmVYNThEWk1MUnRqVWlEbVpRZlpTcXIxd1NWT0lvbmI2SC1NbVBrTUZzV1FIVm5nMWFrNXhMVElnakFUemhRbW5FdVFnNTQtRENTNFhxRVhCa2k5THNIckZBUkU2V0UtNThBWEZWQQ?oc=5"
+        },
+        {
+            "title": "Semiconductor Sell-Off Slams TSMC Stock: What Investors Should Know - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcko4NUJiUEt6Z2E0MXZQOVAzQmUtU0U4SlNEdlF3bTF4VW5EWGMtcVh0QUk2eGNuSThxcFVYQjhocGtici0zdDVGUG5WdHR1M3pzM3laNUNZY2lwZktGUE43Z2FpM3BXSWczVlo5T2dDOEJhOVV3d0ZjcTJnekZ5REw3QTR2OHh5ME9HLVREV2dzanF1c3JWbU9XNTRGemhrRHYzZFdNc0JEbTdJZVB0RkVZZWw5QUxMMFpkdEtHeU9UM1VoMVE?oc=5"
+        },
+        {
+            "title": "The institutions behind South Wales' semiconductor strength face a changing industrial reality - digitimes",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ3JkRi1jZWI4endMU256UGpZemdnNzJjMGpMcWZzTWtTdGU5ZlN3ZjZUYl9UWFp4ZTNuSWpWelItaXpwUGwyVjFlUi1hLWI3LU9PMno3MnB0ejlHWFUzNDdJVWppNG14UnlnZ0RYUjhMZXRrZl90dHlwaXdfcHUtSzlMU3ljZ0F2Q0p2dFZXdXU3T2paV29KdzcyTHhIX3RwRC1nZXVyMWQ?oc=5"
+        },
+        {
+            "title": "India made chips at a Mohali plant in 1980s. A fire destroyed its production lines | HT Explainers - Hindustan Times",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc2NzTFljRllXcDhJM0tnMlhfcXVEWlhWZXYwZjE2akU0eFBWaHdsR2I1X19VNVh4X1oycGNNS1ZMM0FyZGF0WTdabkFEVkFxMFNMd2dnX0k1bHZtRDkwVEE4VV9nOHVBazJYWU9BNExydm5pZFN2Y1VuMU0tOVJiYk0wc1NELUNITHdMRjVNWGxnYzZLSUVkTVhjYml1dkFQcElFU2pGZFhjYUVGdE14NFozNkpEdk5SR2NjVkthYVFWbFJIQ2RYN2RkUV83a3drdnFLZlFya9IB3AFBVV95cUxNb1RlYW13emI2SDdibndfZ01WRk15eW5EOTZBWHRpb3U5R3J4MTUtM3BUUFVpb1Z4WWVuNmp5V19WaXhXMnNkcW1ZN1hhX19DTW5tUjJEYzk5eXhKQnhtNWdNcGRCTU40MXBRR19ZbWJOcDlwVWlzbXFocjlLdVZVS0RJOWlneHFyZEN1Z2x3enZmSHJLbmdjdzBFY3hmdjE4aG1rYXlkRTNxcTF5SFp4d2VrUjd4bjB2REM0SDdPaFBucF95aE1nYTJHYXFUNTZjVEluYzhhRFpsdEJz?oc=5"
+        },
+        {
+            "title": "Vietnam and South Korea Sign Eight Agreements on AI and Semiconductor Cooperation - EE Times Asia",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTI5QTl6bUR5eG5vWG4xbG9fQ0N5azR6RkR4QVJsUDdaemRqemF4dERPRm9vMDRNemRzb2Eza042c2tPOXVqVDRHcERmX054Y2szX0ZJV1h2Z1FNdUh6UjVhcDNvMVRnTEpablZLMXM0SGlialpPWE56ZUluMElVOVlLNVotY3NFb21saWwwaHdVZG81LWF3UTdkQ1VNVXFEMkFXZ2R2dDdXdw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Quantum teleportation with photons from remote quantum dots emitting at telecom C-band",
+            "link": "http://arxiv.org/abs/2611.19954v1"
+        },
+        {
+            "title": "Exciton-polarons in monolayer semiconductors with drifting electrons",
+            "link": "http://arxiv.org/abs/2611.19879v1"
+        },
+        {
+            "title": "Porosification of the dielectric layer in alternating-current electroluminescence devices enables high-resolution tactile imaging",
+            "link": "http://arxiv.org/abs/2611.19384v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
