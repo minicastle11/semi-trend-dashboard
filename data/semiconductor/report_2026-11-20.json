@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-20 03:54:35.035545",
+    "price_history": {
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.569,
+        "2026-09-01": 28.81,
+        "2026-10-01": 28.852
+    },
+    "news_sources": [
+        {
+            "title": "How China continues to evade America’s tech-export rules - The Economist",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0kwSGFRelVSdzVjaDJMMUxZOVQ5LVlneDZTSHo1eWpyWTFGUEJRTUFqTlgyVXNiQ0pzZUNmR2o3c3lmWXRNb3d5bEFhQV9kcnlZdk5xdlRwc3R5dVRYcEV6a1pNamVKNjFIU2JSSER1d2gySDYtUG4tUkNjVFNlQ2RreUh5WXA4YmVUdjNrVWJyN25sbTBORTFEaElBSDlSQ0Rz?oc=5"
+        },
+        {
+            "title": "Semiconductor Sell-Off: These Artificial Intelligence (AI) Chip Stocks Are Screaming Buys Before They Go Parabolic - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenhaMDNSSUFSRzFtMzg2NEREb2JPQlhYd2swRGdRMXRIcllxcXJnQzQ5cHNuRGlRdWdvT2F2SFlSTHhXdlJoSjR2ZnFya0dvbGliWTR5Y3BiZGpxbWd5cUl1SnUzbUloVGpuRzR0TjQyZzlhYmVjSmJPUGdZbGJqd1dHbkx1R194NG5hdjVtVmpEYUd5Qm40U0tXcDN3RHZZRkRCVmxWRzZEeGdTZUNj?oc=5"
+        },
+        {
+            "title": "John Forsyth, Cirrus Logic President and CEO, Elected Chair of Semiconductor Industry Association - Morningstar",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVk9IV2wwZDh3TExwVzdnZzNLYktRYUZqZEJ4TzVWLUVzNTVQMUp5MDFnUVFtMTZYamE5dVI4dDZqM3VjZ3BTbFo0UG1JVFVKOE94Z0VsYmtuWllqV2lyYnBCNlZXLXBhMjYxQTZfeTZobzB1TEh6cUswY1o3b1BiZ0FySXBpaDd4REZjOExtQjZOZkRtZldTbElwRmxKb043TkhMX3k0d1dvclpBZHQzY0hyb2k1Y2NCaEg1ZUJjTEhTR2dLWnZoU1ZFWWJVR05FZzhFQlF4ckFZcl9LVTVUbVpXMHdmOHhnVzV6Ug?oc=5"
+        },
+        {
+            "title": "TSMC and Samsung suspend some chip shipments to Chinese customers - Financial Times",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5"
+        },
+        {
+            "title": "Introducing CCHP: Actively Managed Exposure To China's Semiconductor Supply Chain - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnNrYXFNLUdmVlhPVnVoWi04cklFVjJDQW1Dd2F2QmJobDRRNm1INHNUaXNJSmVVVHdBRzJNdVBDd2FIb2Y1UzNINnNBa0paVTI0UkVoWUs4aUw3M0VEZ0xJbElqY1Q3NU4tamFTZGFlcmFWWUpac0ZGS0pDQUdKUWFyWWpzM3dCWWxRcjN3V3h0d0FFamlZZkJSQkladHJlWFluX2g4LXZnMjZFZmlrY2Y3OGFuQ0s0eU1PRw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Topology-Enabled Self-Verification of Quantum Hall Resistance Standards",
+            "link": "http://arxiv.org/abs/2611.26016v1"
+        },
+        {
+            "title": "Thermal investigation of buffer and transition layers in AlGaN HEMT stacks",
+            "link": "http://arxiv.org/abs/2611.25928v1"
+        },
+        {
+            "title": "Origin and hole-density dependence of the intrinsic spin Hall conductivity in inorganic halide perovskites",
+            "link": "http://arxiv.org/abs/2611.25488v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
