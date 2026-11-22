@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-22 02:54:30.939694",
+    "price_history": {
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.569,
+        "2026-09-01": 28.81,
+        "2026-10-01": 28.852
+    },
+    "news_sources": [
+        {
+            "title": "Semiconductor Sell-Off: These Artificial Intelligence (AI) Chip Stocks Are Screaming Buys Before They Go Parabolic - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenhaMDNSSUFSRzFtMzg2NEREb2JPQlhYd2swRGdRMXRIcllxcXJnQzQ5cHNuRGlRdWdvT2F2SFlSTHhXdlJoSjR2ZnFya0dvbGliWTR5Y3BiZGpxbWd5cUl1SnUzbUloVGpuRzR0TjQyZzlhYmVjSmJPUGdZbGJqd1dHbkx1R194NG5hdjVtVmpEYUd5Qm40U0tXcDN3RHZZRkRCVmxWRzZEeGdTZUNj?oc=5"
+        },
+        {
+            "title": "SIA Applauds Introduction of Bipartisan Legislation to Extend Semiconductor Investment Credit - Semiconductor Industry Association | SIA",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZVpmNWE3ZHMzMEJ4NTVjOFlwbFp0U1JzbEJGckN0cmVmOTBIZjNlTnQ0b1Vyck9Oek05NVlVeW9NOS0wd2JvNnhPa0VOUjctSjdhb3NWa3Zad25rc1BVS1M5MmpDV3NQRGlyQUMzalFrZWNJMC1DeVRtUS1fRjNpRHI0eWs0UG4xZjBhbUlla1BrM0VTWUx6MlRKZzZTWmRSazRtVk4wcUw0a0VoV3BEMWxqTXlXTE55U1pnbFEtV0kzdnc?oc=5"
+        },
+        {
+            "title": "After Plummeting 62% This Year, Could Buying Intel Stock Today Set You Up for Life? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0pjVlFUa2hIemRBbzllZE9YZDdpeDVicm14Y1lPaWU0RUtWZGlwSTRjMUkwMTBqbmdtY1JZSVZrWmc2T0FVeUtKNGdDVk1hcHB4NUdUYk5rWjZHMmlIdjQ5by1ibEk1RGhPWFVMZlFZZjJqcXUyd2pEWXhEQ1hSYXJjcVQ0TkpLYUstemZpZ2hpcDVOdHpZdHdROWRuNWczMmxSR2JKcDVJTjBNWUlpUWNWN2VpNGlkSW1ZQlZIRGI?oc=5"
+        },
+        {
+            "title": "SOXS: Time To Use A Scalpel For 3X Gains On Semiconductor Sector Declines (NYSEARCA:SOXS) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2djWktSdzVWOFdHLXJOaDVycFRqNU5HLVdaVUxaWkJ4Q2RLLVozZEN6a3BiVG05WUpkR2N4SHNLZXpNamIwMlR0MXdEX0htd3RCYmVfd2licFROdTFnR2k0SnFrUmxYY2tsNUNDWkxLRVUzSzZEcUVxc0tyemJ6Z0JuR2liUHFyZk5LOElYcUhmV055WUg5ek5pWm1kTjJ3NENZLUlvRnJ1SlprakkwQzVGTQ?oc=5"
+        },
+        {
+            "title": "This Beaten-Down Semiconductor Stock Could Soar in 2027 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN0NzUjVYU2FjcGJBUDYya3dyRlZrLU1TUWZjQ2VwUlp5S3AxdlFHZXpWMHg3OGlNWjY4QU9KNEFhY3NHcXRwbzR0WGNhekc3blQ1ZzVpTTlQa3k0c184dW5XUGlFbTdZNVd4QUZCSndyRVdZVEs4aTJEZXo3NXBfMFVyTXFlM2lkRElHRWRmaHJ2dkFRMDlRLVJ6bzlEalEwSWow?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Magnon high-harmonic generation by nonlinearities of spin torque driven by phonon-mediated crossing of many-body energy levels of bright and dark excitons",
+            "link": "http://arxiv.org/abs/2611.26589v1"
+        },
+        {
+            "title": "From power to spectrum: an off-the-shelf photodiode turned into a spectrometer by its bias alone",
+            "link": "http://arxiv.org/abs/2611.26532v1"
+        },
+        {
+            "title": "Sliding-ferroelectric control of dipolar and quadrupolar excitons in R-stacked WSe$_2$",
+            "link": "http://arxiv.org/abs/2611.26158v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
