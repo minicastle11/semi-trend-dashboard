@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-23 03:35:46.778754",
+    "price_history": {
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.569,
+        "2026-09-01": 28.81,
+        "2026-10-01": 28.852
+    },
+    "news_sources": [
+        {
+            "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5"
+        },
+        {
+            "title": "After Plummeting 62% This Year, Could Buying Intel Stock Today Set You Up for Life? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0pjVlFUa2hIemRBbzllZE9YZDdpeDVicm14Y1lPaWU0RUtWZGlwSTRjMUkwMTBqbmdtY1JZSVZrWmc2T0FVeUtKNGdDVk1hcHB4NUdUYk5rWjZHMmlIdjQ5by1ibEk1RGhPWFVMZlFZZjJqcXUyd2pEWXhEQ1hSYXJjcVQ0TkpLYUstemZpZ2hpcDVOdHpZdHdROWRuNWczMmxSR2JKcDVJTjBNWUlpUWNWN2VpNGlkSW1ZQlZIRGI?oc=5"
+        },
+        {
+            "title": "Chip Industry Week In Review - Semiconductor Engineering",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kc3IxRENSWnBOWjVuOVJRc2Z4aG4zTklKekcwX3BENmJIYklnZDZlVE02bXctcFltTGFna0VkZmFobnV4Zm1JQmpfT05qaUIzT0QyN042VGRfWkh1dTRRSW9CX2pOZDZaT2JEYzB3?oc=5"
+        },
+        {
+            "title": "GT Voice: Hyping supremacy of US chips is too narcissistic - Global Times",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LenFma3h1dkpyY3VyenE5Z2VoakxfUXRBUW9STXcybzdWRzJMOUQySjNnTmRrQ0l3X3ZqVFRiQ2VEMm12RUxUMVlfSUJlOXpIUGktX3h5dm9Ia1NNNWdMa2dB?oc=5"
+        },
+        {
+            "title": "Strengthening Singapore's Semiconductor Ecosystem: Why Advanced Precious Metal Materials Matter - EE Times Asia",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVBIY1lmMXNNSHBSemZ6d0dTeTFnSVFrZ2s4eXFDc0FGRmVham1YQXZ0OXl1WmVldDJFU2V4Ym9LS05OVTdKMkdFTGZrUHdWcmZRS3JaR0tZc1ItdF8xTXJTTnI4MkxHbERJRVJvZVFFT2p5TkVjSlc4R08yQUlMNEVwSWI1X1Ezal9VR3hfVmYwZHIzekRZb3BGRjBLemtwZFVldU5yaDE2cldSWTRYQ21xM0t3c3BIOXc?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Physical Learning for Autonomous Tuning of Spin Qubits in Electrostatically Defined Quantum Dots",
+            "link": "http://arxiv.org/abs/2611.27140v1"
+        },
+        {
+            "title": "Magnon high-harmonic generation by nonlinearities of spin torque driven by phonon-mediated crossing of many-body energy levels of bright and dark excitons",
+            "link": "http://arxiv.org/abs/2611.26589v1"
+        },
+        {
+            "title": "From power to spectrum: an off-the-shelf photodiode turned into a spectrometer by its bias alone",
+            "link": "http://arxiv.org/abs/2611.26532v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
