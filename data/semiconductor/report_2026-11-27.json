@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-27 04:52:35.759460",
+    "price_history": {
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.569,
+        "2026-09-01": 28.81,
+        "2026-10-01": 28.852
+    },
+    "news_sources": [
+        {
+            "title": "The World’s Most Valuable Semiconductor Companies in 2026 - Visual Capitalist",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2lmSmFCbE43Vnc5eHd2SEhRMFNUbjdiYmNpcWdEcG9JQTJUT1lwMXhYWFdvRXZCNGMteVJ1TmVMZnQyWjFvZ1FaaXF2S3U3djU0SWhpWThrNGlySUo0cUFhVzFLU0dDckVISFM0SnRQMmlrQmM2QjRhTmFLZVhieGMxNEVqbmZmdjdDaC1EV19lVTNH?oc=5"
+        },
+        {
+            "title": "Trump heads to Arizona next week to speak at a semiconductor manufacturing plant - NBC News",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWWMzOF91M2RYalJIWUZod3F0dWRLQWNIa1JocXBkS2ZpdzhoOXRvX3pkdTB4SkdLN2l4NjB2MDAyWWNoWm56Sl91VW1aenRUbm9rMlEwM1lrNlVkcVdmTi1xYkplM05QS1VscWpncUw1UmZUUUJJYXVWcU83RkU4eXMwdEtLNVNFQWpPRHpScnVaTTh0NTBzZnllWEhOcTctVThKZS00Zw?oc=5"
+        },
+        {
+            "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaTBJZmFiVkpRU3Y1MVlZZXVvamVQMWZsaXlOaEdmaWtLX29ndlEyc25HNG8ybFloV3Bhd0gzSGM0S1pWbnRoUmV5RVBpSWlFVkdzMW9GbnlFM1d3clVXX2dhckd6SC02RG9pMldmbXZpUjBKNlFEYkJmSWhhVjY0bVdJdnlsaE9tWnQ3S1pfTExKZHAwUmMzenJlakF6YlB2bFNYd2tueXVOUWU0MXcyU0NhdGk2VDlfdjJudW5lbDdDaDloYkZob21VTUtmNHlXMVFxMC1ZXzZObFF2UFNYbXhuYm1hOUIxV3A5MXU2X2V0WXYxYWFwR3I0MXZkRXBxQVE?oc=5"
+        },
+        {
+            "title": "World’s leading semiconductor manufacturer eyes Brazos County for 3,200+ acre facility - KBTX News 3",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjU4d25EaC1DdU9ZUHZvZlA0N0I4ZHNWU1h6UVRoQzNzVlh4UGtDLVNPV2RWVU1renE5Ukc0ZVhScm1ZSnRTVVlSeThKVEl2a09mQmhXNHAtbDRkendfSGZEM0pjekt6M1hsWmdwMndCU0cwUEs1U2JPNjdYV3F0UnFfbURoUElMcDcybjBnaUthTUM5dWdKb05teldqWDB1VlVKTzkwblRrZndyNkxuN1FB?oc=5"
+        },
+        {
+            "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdVZVaXJoTVpYbEJIYThBdk12aTVkdXppNThMNzgxM0w0M0lua0FRcGRSSUdpWl9kSWFSZTlvZkpJRXItQ3JCMHZ5UDlCa09RNWh0UU4xY1BfVWFhaFlGaDR1dzAyM09rWFVpYVBqQlNkdjNka3V1MEljNHJWendOZ1NSMUlDR2tVN3JDS0I2TVR4WDJZTkYyV1B5VFI0a3pZczFB?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Brightening spin- and parity-forbidden interlayer excitons through rhombohedral stacking",
+            "link": "http://arxiv.org/abs/2611.34900v1"
+        },
+        {
+            "title": "Localization of an Individual Charge Fluctuator in a Si/SiGe Spin Qubit Device",
+            "link": "http://arxiv.org/abs/2611.34812v1"
+        },
+        {
+            "title": "Direct generation of N00N states with layered semiconductors",
+            "link": "http://arxiv.org/abs/2611.34701v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
