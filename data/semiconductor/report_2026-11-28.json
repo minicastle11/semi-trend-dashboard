@@ -1,0 +1,67 @@
+{
+    "last_updated": "2026-11-28 04:37:13.263494",
+    "price_history": {
+        "2024-11-01": 30.729,
+        "2024-12-01": 30.561,
+        "2025-01-01": 30.118,
+        "2025-02-01": 30.132,
+        "2025-03-01": 30.322,
+        "2025-04-01": 30.235,
+        "2025-05-01": 29.982,
+        "2025-06-01": 29.882,
+        "2025-07-01": 29.798,
+        "2025-08-01": 29.392,
+        "2025-09-01": 29.45,
+        "2025-10-01": 29.64,
+        "2025-11-01": 29.646,
+        "2025-12-01": 29.668,
+        "2026-01-01": 29.62,
+        "2026-02-01": 30.138,
+        "2026-03-01": 30.132,
+        "2026-04-01": 30.602,
+        "2026-05-01": 30.217,
+        "2026-06-01": 29.859,
+        "2026-07-01": 29.067,
+        "2026-08-01": 28.569,
+        "2026-09-01": 28.81,
+        "2026-10-01": 28.852
+    },
+    "news_sources": [
+        {
+            "title": "Trump to visit site for new semiconductor factory in Arizona - The Washington Post",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFB3eXlkekEteWlzbkNUVm9nUi1lVC1TcGM5OVk2bUF0dzhCcThMNWFRLWdXYTl1ak4ydmRVcnpGc2k5Y0dXbWtTS3JscHp4bTQzNHlyZjVRUHhyOUh5X1lqVks0QlBfaVhZREJfeVltZUFKZkozeENlMjctdDBLUVFTXzdXZUt4dmdBWGJNbldacTlxUkVpSjZaRl9yRHdBS1Q5eA?oc=5"
+        },
+        {
+            "title": "The World’s Most Valuable Semiconductor Companies in 2026 - Visual Capitalist",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2lmSmFCbE43Vnc5eHd2SEhRMFNUbjdiYmNpcWdEcG9JQTJUT1lwMXhYWFdvRXZCNGMteVJ1TmVMZnQyWjFvZ1FaaXF2S3U3djU0SWhpWThrNGlySUo0cUFhVzFLU0dDckVISFM0SnRQMmlrQmM2QjRhTmFLZVhieGMxNEVqbmZmdjdDaC1EV19lVTNH?oc=5"
+        },
+        {
+            "title": "U.S. MATCH Act Puts Semiconductor Inspection in Focus - EE Times",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXJ2c24tckhFZmhURmZlNFhvRUROMEdXdVctTEl1MTViOUxOYllYNXFPbHVrUVNDcnp0YjN5NzR4cm1aMDR3UHNJRkpIQ3ZHMzhSMFh4LWJnaDRiaE1fd05MOVF5VDdCZEYzdC1HVTMyTEtWeE5vTF9DeGNDMk05VUpLUEJ6ZnRMLWUwVkM0Wi1vMVFVaWVJ?oc=5"
+        },
+        {
+            "title": "Semiconductor Sales Will Soar to $2.6 Trillion in 2027. Buy This Top Stock Before It Skyrockets Next Year - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaDhtVUt6cUdlcGc2VlZ6M3RCTXZMUjNqWjdxMWdacUxXaDV4TVpCdWI5UDU5dmRqYTRXR3JZUzIxQmJmZTJETFowRURWUVNJVlFwaUJEQ09Ucmt2cHpCREtBT0YxZTlud2czSmhrMENPUk93SUV1cjNDZ0lYaXhSZWJzUWZ3VVpSZFZoM3JxU3ZlTGZHS2FNQ2VubFM5M2NQdFRUSTJ1UlFOQ1JpUTRBRFlCbXNMTU9EOXBLMHV5dHQybUJCekFlVGxFOVZqS2YybFNVUm9VUzJ6cFFwOXQ3SlIybw?oc=5"
+        },
+        {
+            "title": "TSMC A14 1.4nm Node Hits Design Milestone Ahead Of Intel 14A Showdown - HotHardware",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnTW04dk1MNXJiZExDTDAzN3RxZHNBVGVVcTFhSHhUdHJLZVd3MmR4OThud3dXSGFXVmpreEYtXzFUdk90X0tBTWpjcFp6RXZPQ1dtQkw0ZWtVb0ltb0hfSnRkdlpXMWFMZVFHS1Q0NWdtZw?oc=5"
+        }
+    ],
+    "paper_sources": [
+        {
+            "title": "Brightening spin- and parity-forbidden interlayer excitons through rhombohedral stacking",
+            "link": "http://arxiv.org/abs/2611.34900v1"
+        },
+        {
+            "title": "Localization of an Individual Charge Fluctuator in a Si/SiGe Spin Qubit Device",
+            "link": "http://arxiv.org/abs/2611.34812v1"
+        },
+        {
+            "title": "Direct generation of N00N states with layered semiconductors",
+            "link": "http://arxiv.org/abs/2611.34701v1"
+        }
+    ],
+    "ai_report_ko": "분석 오류",
+    "ai_report_en": "Analysis Error"
+}
